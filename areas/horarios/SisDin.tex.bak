@@ -1,0 +1,280 @@
+{\footnotesize
+\begin{center}
+%\begin{tabular}{|p{50pt}|p{50pt}|p{65pt}|p{65pt}|p{65pt}|p{65pt}|p{65pt}|}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline[1pt]
+\multicolumn{6}{|c|}{\Large\bfseries Sistemas Dinámicos  pág. \pageref{reg-544}}\\
+\hline
+\hline
+{\hfill\bfseries Hora\hfill} & {\hfill\bfseries Lunes\hfill}&  {\hfill\bfseries Martes\hfill} & {\hfill\bfseries Miércoles\hfill} & {\hfill\bfseries Jueves\hfill} & {\hfill\bfseries Viernes\hfill} \\
+\hline
+{\hfill 9:00-9:50 \hfill} &
+      &
+  {\bfseries \ref{reg-544}}   &
+  {\bfseries \ref{reg-544}}&
+ {\bfseries \ref{reg-1418}}   &
+  {\bfseries \ref{reg-1418} }    \\
+\cline{1-1}\cline{3-6}
+{\hfill 9:50-10:10 \hfill} &
+      &
+  \ref{reg-969}     &
+   \ref{reg-1082}    &
+   \ref{reg-1011}    &
+    \ref{reg-1810}  \\
+\cline{1-1}\cline{3-6}
+{\hfill 10:10-10:30 \hfill} &
+     Inauguración &
+     &
+     &
+    &
+   \ref{reg-193}  \\
+\cline{1-1}\cline{6-6}
+{\hfill 10:30-10:40 \hfill} &
+      &
+   {\bfseries  \ref{reg-338} } &
+   \ref{reg-1549}   &
+    \ref{reg-1208} &
+     \\
+\cline{1-2}
+{\hfill 10:40-11:00 \hfill} &
+      &
+    &
+     &
+    &
+   \ref{reg-921}   \\
+\cline{1-1}\cline{3-6}
+{\hfill 11:00-11:30 \hfill} &
+     {\bfseries PLENARIA 1 }&
+     \multicolumn{4}{|c|} {\bfseries Café} \\
+\cline{1-6}
+{\hfill 11:40-12:00 \hfill} &
+     Traslado &
+ \ref{reg-1620}     &
+\ref{reg-409}  &
+\ref{reg-1191}  &
+ \ref{reg-336}  \\
+\cline{1-6}
+{\hfill 12:00-12:50 \hfill} &
+    \ref{reg-544}   &
+   {\bfseries  \ref{reg-762}}&
+      \ref{reg-672}&
+    {\bfseries \ref{reg-996}}&
+   \ref{reg-976}\\
+\cline{1-6}
+{\hfill 12:50-13:00 \hfill} &
+     \multicolumn{5}{|c|} {\bfseries Traslado} \\
+\cline{1-6}
+{\hfill 13:00-13:30 \hfill} &
+      &
+    {\bfseries PLENARIA  } &
+    {\bfseries PLENARIA  } &
+   {\bfseries PLENARIA  } &
+   {\bfseries PLENARIA  } \\
+\cline{1-1}
+{\hfill 13:30-13:50 \hfill} &
+   {\bfseries \ref{reg-1543}} &
+    {\bfseries 2  } &
+    {\bfseries 3  } &
+   {\bfseries 4  } &
+   {\bfseries 5  } \\
+\cline{1-6}
+{\hfill 14:00-16:30 \hfill} &
+    \multicolumn{2}{|c|} {\bfseries COMIDA} &
+   &
+   \multicolumn{2}{|c|} {\bfseries COMIDA} \\
+\cline{1-3}\cline{5-6}
+{\hfill 16:40-17:00 \hfill} &
+       &
+     &
+     &
+     &
+   \ref{reg-709}    \\
+\cline{1-1}\cline{6-6}
+{\hfill 17:00-17:20 \hfill} &
+  {\bfseries \ref{reg-391} }   &
+  {\bfseries \ref{reg-1036}}    &
+   &
+   {\bfseries \ref{reg-1404}}   &
+    \ref{reg-339}  \\
+\cline{1-1}\cline{6-6}
+{\hfill 17:20-17:40 \hfill} &
+       &
+     &
+     &
+     &
+     \\
+\cline{1-3}\cline{5-6}
+{\hfill 17:40-18:10 \hfill} &
+     \multicolumn{2}{|c|} {\bfseries Café}&
+    {\bfseries Tarde Libre} &
+     \multicolumn{2}{|c|} {\bfseries Café} \\
+\cline{1-3}\cline{5-6}
+{\hfill 18:10-18:30 \hfill} &
+     &
+    &
+    &
+   {\bfseries PLENARIA  } &
+   {\bfseries PLENARIA  } \\
+\cline{1-1}
+{\hfill 18:30-18:50 \hfill} &
+  { \bfseries \ref{reg-1143}}      &
+  {\bfseries \ref{reg-306}}   &
+    &
+   {\bfseries 8  } &
+   {\bfseries 9  } \\
+\cline{1-3}\cline{5-6}
+{\hfill 18:50-19:00 \hfill} &
+    \multicolumn{2}{|c|} {\bfseries Traslado} &
+     &
+  {\bfseries Traslado} &
+    \\
+\cline{1-3}\cline{5-5}
+{\hfill 19:00-19:50 \hfill} &
+ {\bfseries PLENARIA 6 } &
+   {\bfseries PLENARIA  7} &
+       &
+   {\bfseries Asamblea General } &
+   {\bfseries Clausura } \\
+   \cline{1-3}\cline{5-6}
+{\hfill  \hfill} &
+ {\bfseries HOMENAJE} &
+   {\bfseries HOMENAJE} &
+       &
+    &
+    \\
+{\hfill 19:50-21:50 \hfill} &
+ {\bfseries  ERNESTO } &
+   {\bfseries FRANCISCO} &
+       &
+    &
+    \\
+{\hfill  \hfill} &
+ {\bfseries  LACOMBA } &
+   {\bfseries RAGGI} &
+       &
+    &
+    \\
+\cline{1-6}
+\hline[1pt]
+\multicolumn{6}{|c|}{\large\bfseries Salón E1}\\
+\hline
+\end{tabular}
+\end{center}
+
+}
+
+\begin{multicols}{2}
+\raggedcolumns
+
+%%%%%%%%%%544%%%%%%%%%%%
+\noindent  \ref{reg-544}  {\bfseries Introducción a los Sistemas Dinámicos Hiperbólicos}\\
+{\slshape  Xavier  Gómez Mont (Invitado)} {\footnotesize (FALTA, 2Lic)}\\
+
+%%%%%%%%%%1543%%%%%%%%%%%
+\noindent  \ref{reg-1543}  {\bfseries Ecuaciones diferenciales complejas y teselaciones}\\
+{\slshape  Adolfo  Guillot Santiago (Invitado)} {\footnotesize (CDV, 2Lic)}\\
+
+%%%%%%%%%%391%%%%%%%%%%%
+\noindent  \ref{reg-391}  {\bfseries Foliaciones holomorfas en el plano proyectivo}\\
+{\slshape  Claudia  Reynoso Alcántara (Invitada)} {\footnotesize (CPI, Pos)}\\
+
+%%%%%%%%%%1143%%%%%%%%%%%
+\noindent  \ref{reg-1143}  {\bfseries Conjuntos de Julia y conexiones de sillas}\\
+{\slshape  Jesús R. Muciño Raymundo (Invitado)} {\footnotesize (CPI, 2Lic)}\\
+
+%%%%%%%%%%969%%%%%%%%%%%
+\noindent  \ref{reg-969}  {\bfseries Algunas propiedades de las Transformaciones de Möbius}\\
+{\slshape  Gustavo Pedro Meza Pérez} {\footnotesize (RT, 2Lic)}\\
+
+%%%%%%%%%%338%%%%%%%%%%%
+\noindent  \ref{reg-338}  {\bfseries Dinámica de algunas clases de funciones meromorfas}\\
+{\slshape  Patricia  Domínguez Soto (Invitada)} {\footnotesize (CDV, 2Lic)}\\
+
+%%%%%%%%%%1620%%%%%%%%%%%
+\noindent  \ref{reg-1620}  {\bfseries Tres diferentes pruebas del teorema de Bötcher}\\
+{\slshape  Iván  Hernández Orzuna} {\footnotesize (CDV, Pos)}\\
+
+%%%%%%%%%%762%%%%%%%%%%%
+\noindent  \ref{reg-762}  {\bfseries Invariantes polinomiales de 3 variedades hiperbólicas}\\
+{\slshape  José Ferrán Valdez Lorenzo (Invitado)} {\footnotesize (CI, Pos)}\\
+
+%%%%%%%%%%1036%%%%%%%%%%%
+\noindent  \ref{reg-1036}  {\bfseries La ubicuidad del conjunto de Mandelbrot}\\
+{\slshape  Mónica  Moreno Rocha (Invitada)} {\footnotesize (CPI, 2Lic)}\\
+
+%%%%%%%%%%306%%%%%%%%%%%
+\noindent  \ref{reg-306}  {\bfseries Grupos Kleinianos 2-dimensionales}\\
+{\slshape  Ángel  Cano Cordero (Invitado)} {\footnotesize (CI, Pos)}\\
+
+%%%%%%%%%%1082%%%%%%%%%%%
+\noindent  \ref{reg-1082}  {\bfseries Introducción a la teoría de Nevanlinna}\\
+{\slshape  José Ezequiel Valente Contreras Hernández} {\footnotesize (RT, Pos)}\\
+
+%%%%%%%%%%1549%%%%%%%%%%%
+\noindent  \ref{reg-1549}  {\bfseries Conjuntos Fractales Autosimilares y el operador de Hutchinson}\\
+{\slshape  María Cristina Cid Zepeda} {\footnotesize (RT, 2Lic)}\\
+
+%%%%%%%%%%409%%%%%%%%%%%
+\noindent  \ref{reg-409}  {\bfseries Teorema de dicotom\'ia para la funci\'on el\'iptica $g_{\Omega}=\frac{1}{\wp_{\Omega}}$ sobre latices cuadradas reales}\\
+{\slshape  Pablo Pérez Lucas} {\footnotesize (RT, Pos)}\\
+
+%%%%%%%%%%672%%%%%%%%%%%
+\noindent  \ref{reg-672}  {\bfseries Conexidad local del conjunto de Mandelbrot}\\
+{\slshape  Gamaliel  Blé González} {\footnotesize (CDV, 2Lic)}\\
+
+%%%%%%%%%%1418%%%%%%%%%%%
+\noindent  \ref{reg-1418}  {\bfseries Teoría de Dimensiones en Sistemas Dinámicos}\\
+{\slshape  Edgardo  Ugalde (Invitado)} {\footnotesize (FALTA, 2Lic)}\\
+
+%%%%%%%%%%1011%%%%%%%%%%%
+\noindent  \ref{reg-1011}  {\bfseries Espectro de las dimensiones para el tiempo de salida}\\
+{\slshape  Rosendo  Vázquez Bañuelos} {\footnotesize (RT, 2Lic)}\\
+
+%%%%%%%%%%1208%%%%%%%%%%%
+\noindent  \ref{reg-1208}  {\bfseries Combinatoria de campos polinomiales isócronos}\\
+{\slshape  Martín Eduardo Frías Armenta} {\footnotesize (RI, 2Lic)}\\
+
+%%%%%%%%%%1191%%%%%%%%%%%
+\noindent  \ref{reg-1191}  {\bfseries La estructura simpléctica de los mapeos de billar}\\
+{\slshape  Antonio  García} {\footnotesize (FALTA,FALTA)}\\
+
+%%%%%%%%%%996%%%%%%%%%%%
+\noindent  \ref{reg-996}  {\bfseries Soluciones de Möbius  en el problema curvado de los $n$--cuerpos. El caso de curvatura positiva}\\
+{\slshape  Ernesto  Pérez-Chávela (Invitado)} {\footnotesize (CI, Pos)}\\
+
+%%%%%%%%%%1404%%%%%%%%%%%
+\noindent  \ref{reg-1404}  {\bfseries Vórtices de Helmholtz, integrabilidad y configuraciones de equilibrio}\\
+{\slshape  Martín  Celli (Invitado)} {\footnotesize (CPI, 1Lic)}\\
+
+%%%%%%%%%%1810%%%%%%%%%%%
+\noindent  \ref{reg-1810}  {\bfseries Descomposición de Morse en Espacios Métricos Compactos}\\
+{\slshape  Willy Alejandro Apaza Pérez} {\footnotesize (RT, Pos)}\\
+
+%%%%%%%%%%193%%%%%%%%%%%
+\noindent  \ref{reg-193}  {\bfseries Regular ó estocástico en la familia logística alternada}\\
+{\slshape  Laura Angélica Cano Cordero} {\footnotesize (RT, 2Lic)}\\
+
+%%%%%%%%%%921%%%%%%%%%%%
+\noindent  \ref{reg-921}  {\bfseries Error de seguimiento de Trayectorias Usando una Ley de Control PID Vía Redes Neuronales Adaptables para Sincronización de Caos}\\
+{\slshape  Joel  Pérez P.} {\footnotesize (CI, Inv)}\\
+
+%%%%%%%%%%336%%%%%%%%%%%
+\noindent  \ref{reg-336}  {\bfseries Algebras de Heinsenberg en un sistema dinámico modelando un invernadero}\\
+{\slshape  José Ramón Guzmán} {\footnotesize (RI, Inv)}\\
+
+%%%%%%%%%%976%%%%%%%%%%%
+\noindent  \ref{reg-976}  {\bfseries Atractores singulares transitivos persistentes surgiendo desde el desdoblamiento de ciclos singulares}\\
+{\slshape  Mario Errol Chávez Gordillo} {\footnotesize (CI, Inv)}\\
+
+%%%%%%%%%%709%%%%%%%%%%%
+\noindent  \ref{reg-709}  {\bfseries Operadores funcionales con desplazamientos como una herramienta para investigar sistemas con recursos renovables y regularidad periódica}\\
+{\slshape  Anna  Tarasenko} {\footnotesize (RI, Inv)}\\
+
+%%%%%%%%%%339%%%%%%%%%%%
+\noindent  \ref{reg-339}  {\bfseries Sistemas con dos recursos renovables}\\
+{\slshape  Oleksandr  Karelin} {\footnotesize (RI, Inv)}\\
+
+
+
+
+\end{multicols}

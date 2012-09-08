@@ -1,0 +1,255 @@
+\documentclass[10pt,openright,twoside,letterpaper,titlepage]{book}
+\usepackage{amsmath, amscd, amssymb, amsthm,latexsym,amsfonts}
+\usepackage{fancyhdr} % cabeceras de cada pagina
+\usepackage{multicol} % tablas de horarios
+\usepackage{multirow}
+\usepackage[dvipdfm]{graphicx}
+\usepackage{eulervm}
+\usepackage{mathrsfs}
+\usepackage{esint}
+\usepackage{dsfont,vmargin}
+\usepackage{makeidx} % indice
+\usepackage{tabls} %% que las lineas en las tablas no toquen el texto
+\usepackage[T1]{fontenc}
+\usepackage[spanish]{babel}
+\makeatletter
+
+\newcommand{\R}{{\mathbb R}}
+\newtheorem{teo}[section]{Teorema}
+\newtheorem{lema}{Lema}
+\renewcommand{\thesection}{\arabic{section}}
+\renewcommand{\chaptername}{Cap\'\i tulo}
+\renewcommand{\contentsname}{Contenido}
+\renewcommand{\indexname}{\'\I çndice de Expositores}
+\renewcommand{\figurename}{}
+\renewcommand{\thefigure}{}
+
+\hoffset 0cm % Margen izquierdo = 1 pulgada + \hoffset
+\voffset 0cm % Margen superior = 1 pulgada + \voffset
+\topmargin -1cm % Distancia al margen Superior
+\headheight 0cm % Altura del encabezado
+\headsep 0.5cm % SeparaciÛn Encabezado-Texto
+\oddsidemargin -1cm % Distancia al margen izquierdo p·ginas impar
+\evensidemargin -1cm % Distancia al margen izquierdo p·gina par
+\textwidth 18cm % Ancho del texto
+\textheight 23.5cm % Alto del texto
+\marginparwidth 0cm % Ancho del margen de notas
+\marginparsep 0cm
+\marginparpush 0cm
+\parindent 0.5cm % Sangria
+%\parskip .2cm % SeparaciÛn entre lÌneas
+\footskip 1cm % Distancia Pie de notas-Texto
+
+\usepackage{titlesec}
+
+\titleformat{\chapter}[display]
+{\normalfont\large\filcenter\sffamily}
+{\titlerule[4pt]%
+\vspace{0.2pc}%
+{\chaptertitlename} \thechapter }
+{0.1pc}
+{\Huge\bfseries {\titlerule[1pt]}
+}% this alters "before" spacing (the second length argument) to 0
+\titlespacing*{\chapter}{0pt}{0pt}{20pt}
+\makeindex
+
+\begin{document}
+
+
+\frontmatter
+
+%%%%%%%%%%%%%%%%%%
+%%% FUENTES NUEVAS
+%%%%%%%%%%%%%%%%%%
+\newcommand{\cmssfamily}{\fontfamily{cmss}\selectfont}
+\newcommand{\unifamily}{\fontfamily{uni}\selectfont}
+\newcommand{\rustfamily}{\fontfamily{rust}\selectfont}
+\newcommand{\unclfamily}{\fontfamily{uncl}\selectfont}
+\newcommand{\zdufamily}{\fontfamily{zdu}\selectfont}
+\newcommand{\pbkfamily}{\fontfamily{pbk}\selectfont}
+\newcommand{\phvfamily}{\fontfamily{phv}\selectfont}
+\newcommand{\pzcfamily}{\fontfamily{pzc}\selectfont}
+\newcommand{\pagfamily}{\fontfamily{pag}\selectfont}
+\newcommand{\ud}{\mathop{\mathrm{{}d}}\mathopen{}}
+
+%%% fuentes para la cabecera y pie de cada p√°gina
+\newcommand{\headfont}{\bfseries\slshape\pagfamily}
+\newcommand{\footfont}{\bfseries\slshape\pagfamily}
+
+\begin{titlepage}
+
+\begin{center}
+$ \;\;\;\;$\\
+\vskip 5cm
+{\Huge{\sffamily XLV Congreso Nacional\\Sociedad Matem\'atica Mexicana}}\\
+\vskip 7cm
+{\LARGE\sffamily QuÈretaro, QuÈretaro}\\
+\vskip 0.3cm
+{\LARGE\sffamily 28 de octubre al 2 de noviembre de 2012}\\
+\vskip 0.3cm
+{\LARGE\sffamily Sede: Universidad AutÛnoma de QuerÈtaro}\\
+\vskip 0.3cm
+\end{center}
+
+\vskip 2cm
+
+\begin{figure}[h]
+\centering
+\scalebox{0.9}[0.9]{\includegraphics{smm_relleno_claro.eps}}
+\end{figure}
+\end{titlepage}
+
+\pagestyle{empty}
+
+\renewcommand{\chaptermark}[1]{}
+\renewcommand{\sectionmark}[1]{\markright{\thesection\ #1}}
+\renewcommand{\headrulewidth}{0.5pt}
+\renewcommand{\footrulewidth}{0.3pt}
+
+\fancyhf{}
+\fancyhead[LO,RE]{\headfont\nouppercase\leftmark}
+\fancyfoot[LO,RE]{\footfont\nouppercase\rightmark}
+\fancyfoot[LE,RO]{\footfont\thepage}
+\fancypagestyle{plain}{}
+
+%%%%%%%%%%%%
+%%%% Es esta parte va la informacion de la portada, segunda de forros y fotos.
+%%%%%%%%%%%%
+\newpage $\;\;$
+
+%% Primeras paginas del programa, incluidas por el impresor...
+\setcounter{page}{2}
+
+\pagestyle{fancy}
+
+\setcounter{tocdepth}{1}
+\tableofcontents
+
+\mainmatter
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%                 COMITE             %%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+{\sffamily
+\input{otros/presentacion}
+\newpage
+\input{otros/comites}
+\newpage
+\input{otros/abrev}
+
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%                 HORARIOS             %%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter{Tabla de horarios}
+
+{\sffamily
+%\input{areas/horarios/Plenarias}
+%\input{areas/horarios/Alge}
+%\input{areas/horarios/Ana}
+%\input{areas/horarios/AnaNum}
+%\input{areas/horarios/Bio}
+%\input{areas/horarios/CieComp}
+%\input{areas/horarios/Curs}
+%\input{areas/horarios/EcDifAp}
+%\input{areas/horarios/Estad}
+%\input{areas/horarios/Expe}
+%\input{areas/horarios/GeoAlg}
+%\input{areas/horarios/HisFil}
+%\input{areas/horarios/LogFun}
+\input{areas/horarios/MatDisc}
+%\input{areas/horarios/MatEdu}
+%\input{areas/horarios/Prob}
+%\input{areas/horarios/SisDin}
+%\input{areas/horarios/Talle}
+%\input{areas/horarios/TeoNum}
+%\input{areas/horarios/TopAlg}
+%\input{areas/horarios/TopGen}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%                 RESUMENES                %%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Res\'umenes}
+
+{\sffamily
+%\input{areas/resumenes/Plenarios}
+%\addcontentsline{toc}{section}{Plenarias}
+%\input{areas/resumenes/Alge}
+%\addtocounter{section}{1}
+%\input{areas/resumenes/Ana}
+%\addtocounter{section}{2}
+%\input{areas/resumenes/AnaNum}
+%\addtocounter{section}{3}
+%\input{areas/resumenes/Bio}
+%\addtocounter{section}{4}
+%\input{areas/resumenes/cieComp}
+%\addtocounter{section}{5}
+%\input{areas/resumenes/Curs}
+%\addtocounter{section}{6}
+%\input{areas/resumenes/EcDifAp}
+%\addtocounter{section}{7}
+%\input{areas/resumenes/Estad}
+%\addtocounter{section}{2}
+%\input{areas/resumenes/Expe}
+%\addtocounter{section}{10}
+%\input{areas/resumenes/GeoAlg}
+%\addtocounter{section}{11}
+%\input{areas/resumenes/HistFil}
+%\addtocounter{section}{12}
+%\input{areas/resumenes/LogFun}
+\addtocounter{section}{13}
+\input{areas/resumenes/MatDisc}
+%\addtocounter{section}{14}
+%\input{areas/resumenes/MatEdu}
+%\addtocounter{section}{17}
+%\input{areas/resumenes/Prob}
+%\addtocounter{section}{18}
+%\input{areas/resumenes/SisDin}
+%\addtocounter{section}{10}
+%\input{areas/resumenes/Talle}
+%\addtocounter{section}{20}
+%\input{areas/resumenes/TeoNum}
+%\addtocounter{section}{21}
+%\input{areas/resumenes/TopAlg}
+%\addtocounter{section}{22}
+%\input{areas/resumenes/TopGen}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%                 INDICE DE AUTORES        %%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\printindex
+
+$\;\;\;\;$ \\
+\vspace{16cm}
+ $\;\;\;\;$
+
+\begin{center}
+Estos programas se terminaron de imprimir\\
+
+\vspace{1cm}
+ El tiro fue de  ejemplares
+\end{center}
+
+\newpage
+
+$\;\;\;\;$
+
+\newpage
+
+$\;\;\;\;$
+
+\end{document}

@@ -1,0 +1,347 @@
+{\footnotesize
+\begin{center}
+%\begin{tabular}{|p{50pt}|p{50pt}|p{65pt}|p{65pt}|p{65pt}|p{65pt}|p{65pt}|}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline[1pt]
+\multicolumn{6}{|c|}{\Large\bfseries Análisis Numérico y Optimización pág. \pageref{reg-559}}\\
+\hline
+\hline
+{\hfill\bfseries Hora\hfill} & {\hfill\bfseries Lunes\hfill}&  {\hfill\bfseries Martes\hfill} & {\hfill\bfseries Miércoles\hfill} & {\hfill\bfseries Jueves\hfill} & {\hfill\bfseries Viernes\hfill} \\
+\hline
+{\hfill 9:00-9:20 \hfill} &
+      &
+     &
+  &
+     &
+     \\
+\cline{1-1}\cline{3-6}
+{\hfill 9:20-9:40 \hfill} &
+      &
+     &
+     &
+     &
+    \\
+\cline{1-1}\cline{3-6}
+{\hfill 9:40-10:00 \hfill} &
+     Inauguración &
+     &
+     &
+    &
+    \\
+\cline{1-1}\cline{3-6}
+{\hfill 10:00-10:20 \hfill} &
+      &
+    &
+     &
+     &
+     \\
+\cline{1-1}\cline{3-6}
+{\hfill 10:20-10:40 \hfill} &
+      &
+    &
+     &
+    &
+     \\
+\cline{1-6}
+{\hfill 10:40-11:00 \hfill} &
+      &
+     &
+     &
+     &
+    \\
+\cline{1-1}\cline{3-6}
+{\hfill 11:00-11:30 \hfill} &
+     {\bfseries PLENARIA 1 }&
+     \multicolumn{4}{|c|} {\bfseries Café} \\
+\cline{1-6}
+{\hfill 11:40-12:00 \hfill} &
+     Traslado &
+     &
+ &
+ &
+  \\
+\cline{1-6}
+{\hfill 12:00-12:50 \hfill} &
+      &
+    &
+     &
+    &
+  \\
+\cline{1-6}
+{\hfill 12:50-13:00 \hfill} &
+     \multicolumn{5}{|c|} {\bfseries Traslado} \\
+\cline{1-6}
+{\hfill 13:00-13:30 \hfill} &
+      &
+    {\bfseries PLENARIA  } &
+    {\bfseries PLENARIA  } &
+   {\bfseries PLENARIA  } &
+   {\bfseries PLENARIA  } \\
+\cline{1-2}
+{\hfill 13:30-13:50 \hfill} &
+     &
+    {\bfseries 2  } &
+    {\bfseries 3  } &
+   {\bfseries 4  } &
+   {\bfseries 5  } \\
+\cline{1-6}
+{\hfill 14:00-16:30 \hfill} &
+    \multicolumn{2}{|c|} {\bfseries COMIDA} &
+   &
+   \multicolumn{2}{|c|} {\bfseries COMIDA} \\
+\cline{1-3}\cline{5-6}
+{\hfill 16:40-17:00 \hfill} &
+       &
+     &
+     &
+     &
+     \\
+\cline{1-3}\cline{5-6}
+{\hfill 17:00-17:20 \hfill} &
+     &
+     &
+     &
+    &
+    \\
+\cline{1-3}\cline{5-6}
+{\hfill 17:20-17:40 \hfill} &
+       &
+     &
+     &
+     &
+     \\
+\cline{1-3}\cline{5-6}
+{\hfill 17:40-18:10 \hfill} &
+     \multicolumn{2}{|c|} {\bfseries Café}&
+    {\bfseries Tarde Libre} &
+     \multicolumn{2}{|c|} {\bfseries Café} \\
+\cline{1-3}\cline{5-6}
+{\hfill 18:10-18:30 \hfill} &
+     &
+    &
+    &
+   {\bfseries PLENARIA  } &
+   {\bfseries PLENARIA  } \\
+\cline{1-3}
+{\hfill 18:30-18:50 \hfill} &
+       &
+    &
+    &
+   {\bfseries 8  } &
+   {\bfseries 9  } \\
+\cline{1-3}\cline{5-6}
+{\hfill 18:50-19:00 \hfill} &
+    \multicolumn{2}{|c|} {\bfseries Traslado} &
+     &
+  {\bfseries Traslado} &
+    \\
+\cline{1-3}\cline{5-5}
+{\hfill 19:00-19:50 \hfill} &
+ {\bfseries PLENARIA 6 } &
+   {\bfseries PLENARIA  7} &
+       &
+   {\bfseries Asamblea General } &
+   {\bfseries Clausura } \\
+   \cline{1-3}\cline{5-6}
+{\hfill  \hfill} &
+ {\bfseries HOMENAJE} &
+   {\bfseries HOMENAJE} &
+       &
+    &
+    \\
+{\hfill 19:50-21:50 \hfill} &
+ {\bfseries  ERNESTO } &
+   {\bfseries FRANCISCO} &
+       &
+    &
+    \\
+{\hfill  \hfill} &
+ {\bfseries  LACOMBA } &
+   {\bfseries RAGGI} &
+       &
+    &
+    \\
+\cline{1-6}
+\hline[1pt]
+\multicolumn{6}{|c|}{\large\bfseries Salón  }\\
+\hline
+\end{tabular}
+\end{center}
+
+}
+
+\begin{multicols}{2}
+\raggedcolumns
+
+"%%%%%%%%%%559%%%%%%%%%%%
+\noindent  \ref{reg-559}  {\bfseries Métodos Numéricos para Fluidos}\\
+{\slshape  Lorenzo Héctor Juárez Valencia} {\footnotesize (CPI, 2Lic)}\\
+"
+"%%%%%%%%%%1153%%%%%%%%%%%
+\noindent  \ref{reg-1153}  {\bfseries Modelación computacional de flujo bifásico en un micro canal, mediante las ecuaciones de Cahn-Hilliard y de Navier-Stokes.}\\
+{\slshape  Ciro Filemón Flores Rivera} {\footnotesize (RI, Pos)}\\
+"
+"%%%%%%%%%%1490%%%%%%%%%%%
+\noindent  \ref{reg-1490}  {\bfseries Solución Numérica del Problema Generalizado de Stokes}\\
+{\slshape  Miguel  González Vázquez} {\footnotesize (RT, Pos)}\\
+"
+"%%%%%%%%%%1493%%%%%%%%%%%
+\noindent  \ref{reg-1493}  {\bfseries Modelación de la etapa de inyección en pruebas de trazadores con un solo pozo}\\
+{\slshape  María Luisa Sandoval Solís} {\footnotesize (RT, Pos)}\\
+"
+"%%%%%%%%%%231%%%%%%%%%%%
+\noindent  \ref{reg-231}  {\bfseries Simulación Numérica de la Inundación de la Ciudad de Villahermosa Tabasco}\\
+{\slshape  Justino  Alavez Ramírez} {\footnotesize (RI, 2Lic)}\\
+"
+"%%%%%%%%%%1448%%%%%%%%%%%
+\noindent  \ref{reg-1448}  {\bfseries Modelos Hidrodinámicos de Locomoción y su Implementación en Sistemas Biomiméticos}\\
+{\slshape  Rubén  González Salazar} {\footnotesize (RI, 2Lic)}\\
+"
+"%%%%%%%%%%324%%%%%%%%%%%
+\noindent  \ref{reg-324}  {\bfseries Estudio Numérico en 3D del flujo de aire en una turbina eólica}\\
+{\slshape  Tania Gudelia Núñez Magaña} {\footnotesize (CI, Pos)}\\
+"
+"%%%%%%%%%%675%%%%%%%%%%%
+\noindent  \ref{reg-675}  {\bfseries Métodos sin malla para problemas elípticos}\\
+{\slshape  Patricia  Saavedra Barrera} {\footnotesize (CDV, 2Lic)}\\
+"
+"%%%%%%%%%%232%%%%%%%%%%%
+\noindent  \ref{reg-232}  {\bfseries Regla de Simpson}\\
+{\slshape  Justino  Alavez Ramírez} {\footnotesize (CDV, 1Lic)}\\
+"
+"%%%%%%%%%%1585%%%%%%%%%%%
+\noindent  \ref{reg-1585}  {\bfseries Modelo de campo social para el tráfico peatonal sobre un pasillo}\\
+{\slshape  María Luisa Sandoval Solís} {\footnotesize (CI, 2Lic)}\\
+"
+"%%%%%%%%%%1028%%%%%%%%%%%
+\noindent  \ref{reg-1028}  {\bfseries Problemas de coloración de gráficas, aplicaciones y extensiones}\\
+{\slshape  Antonin  PONSICH} {\footnotesize (CDV, Inv)}\\
+"
+"%%%%%%%%%%1601%%%%%%%%%%%
+\noindent  \ref{reg-1601}  {\bfseries Convergencia a estructuras moleculares óptimas para catalizadores de una Celda de Combustible de Etanol Directo mediante algoritmos genéticos y DFT.}\\
+{\slshape  Luis Daniel Blanco Cocom} {\footnotesize (RI, Inv)}\\
+"
+"%%%%%%%%%%674%%%%%%%%%%%
+\noindent  \ref{reg-674}  {\bfseries Nuevos resultados en la solución de problemas espectrales para ecuaciones diferenciales}\\
+{\slshape  Vladislav  Kravchenko} {\footnotesize (CPI, 2Lic)}\\
+"
+"%%%%%%%%%%498%%%%%%%%%%%
+\noindent  \ref{reg-498}  {\bfseries Ecuación de dispersión y eigenvalores para el problema con valores en la frontera del operador de Sturm-Liouville utilizando el método SPPS}\\
+{\slshape  Elohim  Ortiz Caballero} {\footnotesize (RI, 2Lic)}\\
+"
+"%%%%%%%%%%1116%%%%%%%%%%%
+\noindent  \ref{reg-1116}  {\bfseries Mejor aproximacion racional algebraica mediante bandas de amplitudes variantes}\\
+{\slshape  José Nobel Méndez Alcocer} {\footnotesize (RI, Pos)}\\
+"
+"%%%%%%%%%%541%%%%%%%%%%%
+\noindent  \ref{reg-541}  {\bfseries Enfoques y algoritmos para la recuperación de la función de fase en patrones de interferencia óptica}\\
+{\slshape  Rigoberto  Juárez Salazar} {\footnotesize (CI, Pos)}\\
+"
+"%%%%%%%%%%246%%%%%%%%%%%
+\noindent  \ref{reg-246}  {\bfseries On a simple numerical method to study traveling-wave solutions of a diffusive problem with nonlinear advection and reaction}\\
+{\slshape  Jorge Eduardo Macías Díaz} {\footnotesize (CI, 2Lic)}\\
+"
+"%%%%%%%%%%775%%%%%%%%%%%
+\noindent  \ref{reg-775}  {\bfseries Desarrollo y comparación de un algoritmo de construcción y un algoritmo evolutivo para la solución del problema de estimación de múltiples puntos de cambio en series de tiempo normales.}\\
+{\slshape  Jorge Arturo Garza Venegas} {\footnotesize (RI, 2Lic)}\\
+"
+"%%%%%%%%%%1652%%%%%%%%%%%
+\noindent  \ref{reg-1652}  {\bfseries Diferencias finitas y generación de mallas. Una visión panorámica.}\\
+{\slshape  José Gerardo Tinoco Ruiz} {\footnotesize (CPI, 1Lic)}\\
+"
+"%%%%%%%%%%1634%%%%%%%%%%%
+\noindent  \ref{reg-1634}  {\bfseries El fenómeno de Runge en la interpolación mediante funciones de base radial.}\\
+{\slshape  Pedro  González Casannova} {\footnotesize (CI, Pos)}\\
+"
+"%%%%%%%%%%1280%%%%%%%%%%%
+\noindent  \ref{reg-1280}  {\bfseries Implementación de un esquema de Lax-Wendroff para regiones irregulares en el plano}\\
+{\slshape  Gerardo  Tinoco Guerrero} {\footnotesize (RI, 2Lic)}\\
+"
+"%%%%%%%%%%297%%%%%%%%%%%
+\noindent  \ref{reg-297}  {\bfseries Solución numérica de la ecuación de onda en dominios irregulares usando el método de elementos finitos.}\\
+{\slshape  Pablo  Venegas García} {\footnotesize (RT, 2Lic)}\\
+"
+"%%%%%%%%%%909%%%%%%%%%%%
+\noindent  \ref{reg-909}  {\bfseries Un acuífero por salmuera del campo geotérmico de Cerro Prieto}\\
+{\slshape  Ana Belem Vázquez Heredia} {\footnotesize (RT, 2Lic)}\\
+"
+"%%%%%%%%%%1283%%%%%%%%%%%
+\noindent  \ref{reg-1283}  {\bfseries Algunos aspectos de los esquemas en diferencias empleando mallas estructuradas convexas para regiones irregulares del plano}\\
+{\slshape  Francisco  Domínguez-Mota} {\footnotesize (, )}\\
+"
+"%%%%%%%%%%701%%%%%%%%%%%
+\noindent  \ref{reg-701}  {\bfseries La importancia de las factorizaciones matriciales no negativas en la minería de datos y el procesamiento de imágenes}\\
+{\slshape  Humberto  Madrid de la Vega} {\footnotesize (CDV, 2Lic)}\\
+"
+"%%%%%%%%%%1217%%%%%%%%%%%
+\noindent  \ref{reg-1217}  {\bfseries Numerical methods for computing eigenvalues and eigenvectors of real symmetric Toeplitz matrices}\\
+{\slshape  Luis Eduardo Quintos Vázquez} {\footnotesize (RT, Pos)}\\
+"
+"%%%%%%%%%%619%%%%%%%%%%%
+\noindent  \ref{reg-619}  {\bfseries Factorización no negativa de matrices: Algoritmos y Aplicaciones.}\\
+{\slshape  Federico  Garza De Luna} {\footnotesize (RT, 2Lic)}\\
+"
+"%%%%%%%%%%389%%%%%%%%%%%
+\noindent  \ref{reg-389}  {\bfseries Optimizando en las Cadenas de Suministro: Casos de Aplicación en la Industria}\\
+{\slshape  José Luis  Martínez Flores} {\footnotesize (CDV, Pos)}\\
+"
+"%%%%%%%%%%742%%%%%%%%%%%
+\noindent  \ref{reg-742}  {\bfseries Estrategias de localización con precios en origen y demanda constante}\\
+{\slshape  Saúl  Cano Hernández} {\footnotesize (CDV, 2Lic)}\\
+"
+"%%%%%%%%%%998%%%%%%%%%%%
+\noindent  \ref{reg-998}  {\bfseries Construcción de Modelos Autorregresivos para Funciones de Transferencia Discretas utilizando Algoritmos Genéticos}\\
+{\slshape  Pedro  Flores Pérez} {\footnotesize (CI, 2Lic)}\\
+"
+"%%%%%%%%%%322%%%%%%%%%%%
+\noindent  \ref{reg-322}  {\bfseries Modelación de un problema de localización e inventario de para una cadena de suministro}\\
+{\slshape  Nelly Monserrat Hernández González} {\footnotesize (CI, Pos)}\\
+"
+"%%%%%%%%%%384%%%%%%%%%%%
+\noindent  \ref{reg-384}  {\bfseries Problema de ubicación de instalaciones en dos etapas: cotas y heurísticas lagrangianas}\\
+{\slshape  Edith Lucero Ozuna Espinosa} {\footnotesize (RI, Pos)}\\
+"
+"%%%%%%%%%%1440%%%%%%%%%%%
+\noindent  \ref{reg-1440}  {\bfseries Estudio de un problema de distribución de productos alimenticios permitiendo particionar las entregas.}\\
+{\slshape  Diana Guadalupe Salas Requenes} {\footnotesize (RT, 2Lic)}\\
+"
+"%%%%%%%%%%758%%%%%%%%%%%
+\noindent  \ref{reg-758}  {\bfseries Familias de Círculos : Apolonio y Voronoi}\\
+{\slshape  PABLO  BARRERA} {\footnotesize (CDV, 1Lic)}\\
+"
+"%%%%%%%%%%805%%%%%%%%%%%
+\noindent  \ref{reg-805}  {\bfseries Diferentes estrategias en la toma de decisiones: análisis y aplicación a problemas de optimización medioambientales}\\
+{\slshape  Néstor  García Chan} {\footnotesize (CI, Inv)}\\
+"
+"%%%%%%%%%%506%%%%%%%%%%%
+\noindent  \ref{reg-506}  {\bfseries Resolución del problema de cuotas óptimas utilizando un algoritmo Stackelberg-evolutivo}\\
+{\slshape  Pamela Jocelyn Palomo Martínez} {\footnotesize (RT, Inv)}\\
+"
+"%%%%%%%%%%1061%%%%%%%%%%%
+\noindent  \ref{reg-1061}  {\bfseries Algoritmo Stackelberg-Scatter Search aplicado al problema de localización de plantas con preferencias sin capacidades}\\
+{\slshape  Martha Selene Casas Ramírez} {\footnotesize (RT, Inv)}\\
+"
+"%%%%%%%%%%1465%%%%%%%%%%%
+\noindent  \ref{reg-1465}  {\bfseries Pronostico de series financieras utilizando aprendizaje supervisado y herramientas de la teoría del caos}\\
+{\slshape  Carlos Mauro Ramos Orozco} {\footnotesize (CI, 2Lic)}\\
+"
+"%%%%%%%%%%1688%%%%%%%%%%%
+\noindent  \ref{reg-1688}  {\bfseries Tres estudios en Medicina}\\
+{\slshape  Jesús  López-Estrada} {\footnotesize (CDV, 2Lic)}\\
+"
+"%%%%%%%%%%523%%%%%%%%%%%
+\noindent  \ref{reg-523}  {\bfseries Modelo inteligente de selección de cartera vencida para la gestión óptima de la cobranza “soft” de los préstamos personales.}\\
+{\slshape  María del Consuelo Hernández de huerta} {\footnotesize (RT, Inv)}\\
+"
+"%%%%%%%%%%1250%%%%%%%%%%%
+\noindent  \ref{reg-1250}  {\bfseries Un método Iterativo para resolver un Modelo de Control Lineal-Cuadrático}\\
+{\slshape  Gabriel  Zacarías Espinoza} {\footnotesize (RT, Pos)}\\
+"
+"%%%%%%%%%%1767%%%%%%%%%%%
+\noindent  \ref{reg-1767}  {\bfseries Aplicación de la optimización estocástica a un problema de energía eléctrica}\\
+{\slshape  Guillermo  Jiménez Lozano} {\footnotesize (RT, 2Lic)}\\
+"
+
+
+
+\end{multicols}

@@ -1,0 +1,250 @@
+{\footnotesize
+\begin{center}
+%\begin{tabular}{|p{50pt}|p{50pt}|p{65pt}|p{65pt}|p{65pt}|p{65pt}|p{65pt}|}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline[1pt]
+\multicolumn{6}{|c|}{\Large\bfseries Probabilidad pág. \pageref{reg-1237}}\\
+\hline
+\hline
+{\hfill\bfseries Hora\hfill} & {\hfill\bfseries Lunes\hfill}&  {\hfill\bfseries Martes\hfill} & {\hfill\bfseries Miércoles\hfill} & {\hfill\bfseries Jueves\hfill} & {\hfill\bfseries Viernes\hfill} \\
+\hline
+{\hfill 9:00-9:50 \hfill} &
+      &
+ &
+   \ref{reg-750}&
+    {\bfseries \ref{reg-846}} &
+   \ref{reg-1148}  \\
+\cline{1-1}\cline{3-6}
+{\hfill 10:00-10:20 \hfill} &
+    Inauguración  &
+   &
+      \ref{reg-1485} &
+      \ref{reg-629} &
+   \ref{reg-1352}  \\
+\cline{1-1}\cline{3-6}
+{\hfill 10:20-10:40 \hfill} &
+      &
+     &
+     \ref{reg-667}&
+    \ref{reg-200} &
+   \ref{reg-1817}  \\
+\cline{1-6}
+{\hfill 10:40-11:00 \hfill} &
+      &
+    &
+   \ref{reg-1003}   &
+     &
+     \\
+\cline{1-1}\cline{3-6}
+{\hfill 11:00-11:30 \hfill} &
+     {\bfseries PLENARIA 1 }&
+     \multicolumn{4}{|c|} {\bfseries Café} \\
+\cline{1-6}
+{\hfill 11:40-12:00 \hfill} &
+     Traslado &
+     &
+   \ref{reg-907}  &
+  \ref{reg-1044}   &
+   \ref{reg-1117}  \\
+\cline{1-6}
+{\hfill 12:00-12:50 \hfill} &
+       &
+    &
+ {\bfseries  \ref{reg-797} }   &
+ {\bfseries  \ref{reg-902}}   &
+  {\bfseries \ref{reg-822}}  \\
+\cline{1-6}
+{\hfill 12:50-13:00 \hfill} &
+     \multicolumn{5}{|c|} {\bfseries Traslado} \\
+\cline{1-6}
+{\hfill 13:00-13:30 \hfill} &
+       &
+    {\bfseries PLENARIA  } &
+    {\bfseries PLENARIA  } &
+   {\bfseries PLENARIA  } &
+   {\bfseries PLENARIA  } \\
+\cline{1-2}
+{\hfill 13:30-13:50 \hfill} &
+      &
+    {\bfseries 2  } &
+    {\bfseries 3  } &
+   {\bfseries 4  } &
+   {\bfseries 5  } \\
+\cline{1-6}
+{\hfill 14:00-16:30 \hfill} &
+    \multicolumn{2}{|c|} {\bfseries COMIDA} &
+   &
+   \multicolumn{2}{|c|} {\bfseries COMIDA} \\
+\cline{1-3}\cline{5-6}
+{\hfill 16:40-17:00 \hfill} &
+       &
+     &
+     &
+   \ref{reg-1413}  &
+  \ref{reg-795}    \\
+\cline{1-2}\cline{5-6}
+{\hfill 17:00-17:20 \hfill} &
+       &
+ &
+     &
+   \ref{reg-449}   &
+    \ref{reg-1219}  \\
+\cline{1-2}\cline{5-6}
+{\hfill 17:20-17:40 \hfill} &
+       &
+     &
+     &
+   \ref{reg-1665}  &
+   \ref{reg-430}   \\
+\cline{1-3}\cline{5-6}
+{\hfill 17:40-18:10 \hfill} &
+     \multicolumn{2}{|c|} {\bfseries Café}&
+    {\bfseries Tarde Libre} &
+     \multicolumn{2}{|c|} {\bfseries Café} \\
+\cline{1-3}\cline{5-6}
+{\hfill 18:10-18:30 \hfill} &
+       &
+     &
+    &
+   {\bfseries PLENARIA  } &
+   {\bfseries PLENARIA  } \\
+\cline{1-3}
+{\hfill 18:30-18:50 \hfill} &
+      &
+     &
+    &
+   {\bfseries 8  } &
+   {\bfseries 9  } \\
+\cline{1-3}\cline{5-6}
+{\hfill 18:50-19:00 \hfill} &
+    \multicolumn{2}{|c|} {\bfseries Traslado} &
+     &
+  {\bfseries Traslado} &
+    \\
+\cline{1-3}\cline{5-5}
+{\hfill 19:00-19:50 \hfill} &
+ {\bfseries PLENARIA 6 } &
+   {\bfseries PLENARIA  7} &
+       &
+   {\bfseries Asamblea General } &
+   {\bfseries Clausura } \\
+\cline{1-3}\cline{5-6}
+{\hfill  \hfill} &
+ {\bfseries HOMENAJE} &
+   {\bfseries HOMENAJE} &
+       &
+    &
+    \\
+{\hfill 19:50-21:50 \hfill} &
+ {\bfseries  ERNESTO } &
+   {\bfseries FRANCISCO} &
+       &
+    &
+    \\
+    {\hfill  \hfill} &
+ {\bfseries  LACOMBA } &
+   {\bfseries RAGGI} &
+       &
+    &
+    \\
+\cline{1-6}
+\hline[1pt]
+\multicolumn{6}{|c|}{\large\bfseries Salón}\\
+\hline
+\end{tabular}
+\end{center}
+
+}
+
+\begin{multicols}{2}
+\raggedcolumns
+
+%%%%%%%%%%1237%%%%%%%%%%%
+\noindent  \ref{reg-1237}  {\bfseries Problemas de ruina}\\
+{\slshape María Emilia Caballero Acosta} {\footnotesize (CDV, 1Lic)}\\
+
+%%%%%%%%%%1485%%%%%%%%%%%
+\noindent  \ref{reg-1485}  {\bfseries Redes de Colas Cíclicas: Estabilidad y Aproximación por medio de Simulación}\\
+{\slshape  Carlos Ernesto  Martínez Rodríguez} {\footnotesize (RI, 2Lic)}\\
+
+%%%%%%%%%%667%%%%%%%%%%%
+\noindent  \ref{reg-667}  {\bfseries Estimación Cuantitativa de la Estabilidad del Modelo Clásico de Riesgo (con distribución de reclamos exponenciales)}\\
+{\slshape  Patricia  Vázquez Ortega} {\footnotesize (RT, 2Lic)}\\
+
+%%%%%%%%%%1003%%%%%%%%%%%
+\noindent  \ref{reg-1003}  {\bfseries El semigrupo del movimiento browniano frente al operador laplaciano}\\
+{\slshape  Biviana Marcela Suárez Sierra} {\footnotesize (CPI, Pos)}\\
+
+%%%%%%%%%%907%%%%%%%%%%%
+\noindent  \ref{reg-907}  {\bfseries Proceso de Decisión de Markov con Horizonte Aleatorio como un Problema Descontado}\\
+{\slshape  María del Rocio Ilhuicatzi-Roldán} {\footnotesize (CI, Pos)}\\
+
+%%%%%%%%%%797%%%%%%%%%%%
+\noindent  \ref{reg-797}  {\bfseries Problemas de control \'optimo en sistemas aleatorios}\\
+{\slshape  Héctor  Jasso Fuentes (Invitado)} {\footnotesize (CPI, 2Lic)}\\
+
+%%%%%%%%%%846%%%%%%%%%%%
+\noindent  \ref{reg-846}  {\bfseries Tiempos Locales de Semimartingalas y algunas de sus aplicaciones}\\
+{\slshape  Juan  Ruíz de Chávez Somoza (Invitado)} {\footnotesize (CDV, 2Lic)}\\
+
+%%%%%%%%%%629%%%%%%%%%%%
+\noindent  \ref{reg-629}  {\bfseries El Problema de Dirichlet}\\
+{\slshape  José  Villa Morales} {\footnotesize (RI, Pos)}\\
+
+%%%%%%%%%%200%%%%%%%%%%%
+\noindent  \ref{reg-200}  {\bfseries El Comportamiento Cíclico de los Operadores de Markov Constrictivos}\\
+{\slshape  César Emilio Villarreal Rodríguez} {\footnotesize (CI, Inv)}\\
+
+%%%%%%%%%%1044%%%%%%%%%%%
+\noindent  \ref{reg-1044}  {\bfseries Martingalas, Procesos A.R. de orden uno y un Problema del Clima}\\
+{\slshape  Lourdes  Pérez Amaro} {\footnotesize (RT, 2Lic)}\\
+
+%%%%%%%%%%902%%%%%%%%%%%
+\noindent  \ref{reg-902}  {\bfseries Tiempos de Ocupación para Procesos de Lévy Refractados}\\
+{\slshape  José Luis Ángel Pérez Garmendia (Invitado)} {\footnotesize (CI, Inv)}\\
+
+%%%%%%%%%%1413%%%%%%%%%%%
+\noindent  \ref{reg-1413}  {\bfseries Una Función Bivariada para medir Dependencia Local}\\
+{\slshape  Leonardo Daniel Araujo Pacheco} {\footnotesize (RT, 2Lic)}\\
+
+%%%%%%%%%%449%%%%%%%%%%%
+\noindent  \ref{reg-449}  {\bfseries Estrategias Adaptadas para Juegos Markovianos de Suma Cero}\\
+{\slshape  Carmen Geraldi Higuera Chan} {\footnotesize (RT, Pos)}\\
+
+%%%%%%%%%%1665%%%%%%%%%%%
+\noindent  \ref{reg-1665}  {\bfseries Sistemas de espera modelados mediante juegos simétricos: Análisis de dos colas en paralelo con brincos parciales}\\
+{\slshape  Tania Sarahi Rivera Pérez} {\footnotesize (RT, Pos)}\\
+
+%%%%%%%%%%1148%%%%%%%%%%%
+\noindent  \ref{reg-1148}  {\bfseries Algunos aspectos de la teor\'{\i}a de la información}\\
+{\slshape  Luis  Rincón} {\footnotesize (CDV, Pos)}\\
+
+%%%%%%%%%%1352%%%%%%%%%%%
+\noindent  \ref{reg-1352}  {\bfseries Un método de aleatorización aplicada a un problema de reemplazamiento}\\
+{\slshape  María Selene Georgina Chávez Rodríguez} {\footnotesize (RT, Pos)}\\
+
+%%%%%%%%%%1817%%%%%%%%%%%
+\noindent  \ref{reg-1817}  {\bfseries La Conjetura de Correlación Gaussiana}\\
+{\slshape  Saúl  Toscano Palmerín} {\footnotesize (RT, 1Lic)}\\
+
+%%%%%%%%%%1117%%%%%%%%%%%
+\noindent  \ref{reg-1117}  {\bfseries Modelos de Wright-Fisher para Poblaciones de Genes}\\
+{\slshape  Mariana  Gleason Freidberg} {\footnotesize (RT, 2Lic)}\\
+
+%%%%%%%%%%822%%%%%%%%%%%
+\noindent  \ref{reg-822}  {\bfseries n-Cópulas Auto-Similares}\\
+{\slshape  José María González-Barrios (Invitado)} {\footnotesize (CI, 2Lic)}\\
+
+%%%%%%%%%%795%%%%%%%%%%%
+\noindent  \ref{reg-795}  {\bfseries La caminata aleatoria asociada y la martingala de Wald}\\
+{\slshape  Adrian Hinojosa Calleja} {\footnotesize (RT, 2Lic)}\\
+
+%%%%%%%%%%1219%%%%%%%%%%%
+\noindent  \ref{reg-1219}  {\bfseries Modelación Matemática de Bonos con Incumplimiento}\\
+{\slshape  José Benito Díaz Hernández} {\footnotesize (RT, Pos)}\\
+
+%%%%%%%%%%430%%%%%%%%%%%
+\noindent  \ref{reg-430}  {\bfseries Condiciones Suficientes para la Existencia de Estados Invariantes en el Proceso Cuántico de Exclusión Asimétrica}\\
+{\slshape  Fernando  Guerrero Poblete} {\footnotesize (FALTA, FALTA)}\\
+
+\end{multicols}
