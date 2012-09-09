@@ -126,34 +126,36 @@
 {\hfill 18:50-19:00 \hfill} &
     \multicolumn{2}{|c|} {\bfseries Traslado} &
      &
-  {\bfseries Traslado} &
-    \\
-\cline{1-3}\cline{5-5}
+  {\bfseries HOMENAJE} &
+  {\bfseries Traslado}  \\
+\cline{1-3}\cline{6-6}
 {\hfill 19:00-19:50 \hfill} &
- {\bfseries PLENARIA 6 } &
-   {\bfseries PLENARIA  7} &
+ {\bfseries  PLENARIA 6 } &
+   {\bfseries  PLENARIA  7} &
        &
-   {\bfseries Asamblea General } &
-   {\bfseries Clausura } \\
-   \cline{1-3}\cline{5-6}
-{\hfill  \hfill} &
- {\bfseries HOMENAJE} &
-   {\bfseries HOMENAJE} &
+   {\bfseries  JORGE} &
+   {\bfseries Asamblea } \\
+\cline{1-3}
+{\hfill 19:50-20:50  \hfill} &
+  {\bfseries  HOMENAJE }&
+  {\bfseries  HOMENAJE } &
        &
-    &
-    \\
-{\hfill 19:50-21:50 \hfill} &
- {\bfseries  ERNESTO } &
+  {\bfseries  IZE}  &
+  {\bfseries  General }  \\
+  \cline{1-1}\cline{5-6}
+{\hfill 20:50-21:00 \hfill} &
+ {\bfseries  ERNESTO }  &
    {\bfseries FRANCISCO} &
        &
-    &
-    \\
-{\hfill  \hfill} &
+  &
+   {\bfseries Traslado } \\
+\cline{1-1}\cline{5-6}
+    {\hfill 21:00-21:50  \hfill} &
  {\bfseries  LACOMBA } &
    {\bfseries RAGGI} &
        &
     &
-    \\
+   {\bfseries Clausura}   \\
 \cline{1-6}
 \hline[1pt]
 \multicolumn{6}{|c|}{\large\bfseries Salón E1}\\
@@ -168,7 +170,7 @@
 
 %%%%%%%%%%544%%%%%%%%%%%
 \noindent  \ref{reg-544}  {\bfseries Introducción a los Sistemas Dinámicos Hiperbólicos}\\
-{\slshape  Xavier  Gómez Mont (Invitado)} {\footnotesize (FALTA, 2Lic)}\\
+{\slshape  Xavier  Gómez Mont (Invitado)} {\footnotesize (CC, 2Lic)}\\
 
 %%%%%%%%%%1543%%%%%%%%%%%
 \noindent  \ref{reg-1543}  {\bfseries Ecuaciones diferenciales complejas y teselaciones}\\
@@ -224,7 +226,7 @@
 
 %%%%%%%%%%1418%%%%%%%%%%%
 \noindent  \ref{reg-1418}  {\bfseries Teoría de Dimensiones en Sistemas Dinámicos}\\
-{\slshape  Edgardo  Ugalde (Invitado)} {\footnotesize (FALTA, 2Lic)}\\
+{\slshape  Edgardo  Ugalde (Invitado)} {\footnotesize (CC, 2Lic)}\\
 
 %%%%%%%%%%1011%%%%%%%%%%%
 \noindent  \ref{reg-1011}  {\bfseries Espectro de las dimensiones para el tiempo de salida}\\
@@ -262,9 +264,14 @@
 \noindent  \ref{reg-336}  {\bfseries Algebras de Heinsenberg en un sistema dinámico modelando un invernadero}\\
 {\slshape  José Ramón Guzmán} {\footnotesize (RI, Inv)}\\
 
-%%%%%%%%%%976%%%%%%%%%%%
-\noindent  \ref{reg-976}  {\bfseries Atractores singulares transitivos persistentes surgiendo desde el desdoblamiento de ciclos singulares}\\
-{\slshape  Mario Errol Chávez Gordillo} {\footnotesize (CI, Inv)}\\
+%%%%%%%%%%%976%%%%%%%%%%%
+%\noindent  \ref{reg-976}  {\bfseries Atractores singulares transitivos persistentes surgiendo desde el desdoblamiento de ciclos singulares}\\
+%{\slshape  Mario Errol Chávez Gordillo} {\footnotesize (CI, Inv)}\\
+
+%%%%%%%%%%%1320%%%%%%%%%%%
+
+\noindent  \ref{reg-1320}  {\bfseries El teorema de Poincaré-Bendixson}\\
+{\slshape Ana Luisa González Pérez} {\footnotesize (RT, 2Lic)}\\
 
 %%%%%%%%%%709%%%%%%%%%%%
 \noindent  \ref{reg-709}  {\bfseries Operadores funcionales con desplazamientos como una herramienta para investigar sistemas con recursos renovables y regularidad periódica}\\

@@ -3,52 +3,38 @@
 %\begin{tabular}{|p{50pt}|p{50pt}|p{65pt}|p{65pt}|p{65pt}|p{65pt}|p{65pt}|}
 \begin{tabular}{|c|c|c|c|c|c|}
 \hline[1pt]
-\multicolumn{6}{|c|}{\Large\bfseries Análisis  pág. \pageref{reg-634}}\\
+\multicolumn{6}{|c|}{\Large\bfseries Análisis en Honor a José Ángel Canavati Ayub  pág. \pageref{reg-634}}\\
 \hline
 \hline
 {\hfill\bfseries Hora\hfill} & {\hfill\bfseries Lunes\hfill}&  {\hfill\bfseries Martes\hfill} & {\hfill\bfseries Miércoles\hfill} & {\hfill\bfseries Jueves\hfill} & {\hfill\bfseries Viernes\hfill} \\
 \hline
-{\hfill 9:00-9:20 \hfill} &
+{\hfill 9:00-9:50 \hfill} &
       &
-     &
-  &
-     &
-     \\
-\cline{1-1}\cline{3-6}
-{\hfill 9:20-9:40 \hfill} &
-      &
-     &
-     &
-     &
-    \\
-\cline{1-1}\cline{3-6}
-{\hfill 9:40-10:00 \hfill} &
-     Inauguración &
-     &
-     &
-    &
-    \\
+   \ref{reg-337}  &
+     \ref{reg-755}    &
+     \ref{reg-1474}    &
+     \ref{reg-1858}   \\
 \cline{1-1}\cline{3-6}
 {\hfill 10:00-10:20 \hfill} &
-      &
-    &
-     &
-     &
-     \\
+   Inauguración   &
+   \ref{reg-1489}  &
+  \ref{reg-596}   &
+   \ref{reg-1491}   &
+  \ref{reg-871}    \\
 \cline{1-1}\cline{3-6}
 {\hfill 10:20-10:40 \hfill} &
       &
-    &
-     &
-    &
-     \\
+  \ref{reg-737}   &
+  \ref{reg-438}    &
+  \ref{reg-1240}   &
+  \ref{reg-1121}    \\
 \cline{1-6}
 {\hfill 10:40-11:00 \hfill} &
       &
-     &
-     &
-     &
-    \\
+  \ref{reg-693}    &
+  \ref{reg-1374}    &
+ \ref{reg-1257}     &
+ \ref{reg-1408}    \\
 \cline{1-1}\cline{3-6}
 {\hfill 11:00-11:30 \hfill} &
      {\bfseries PLENARIA 1 }&
@@ -56,30 +42,37 @@
 \cline{1-6}
 {\hfill 11:40-12:00 \hfill} &
      Traslado &
-     &
- &
- &
+ \ref{reg-550}     &
+\ref{reg-783}  &
+\ref{reg-622}  &
   \\
 \cline{1-6}
 {\hfill 12:00-12:50 \hfill} &
-      &
-    &
-     &
-    &
+   {\bfseries \ref{reg-634}}   &
+   {\bfseries  \ref{reg-233}} &
+    {\bfseries \ref{reg-796}}  &
+   {\bfseries \ref{reg-1193} } &
   \\
 \cline{1-6}
 {\hfill 12:50-13:00 \hfill} &
      \multicolumn{5}{|c|} {\bfseries Traslado} \\
 \cline{1-6}
-{\hfill 13:00-13:30 \hfill} &
-      &
-    {\bfseries PLENARIA  } &
+{\hfill 13:00-13:20 \hfill} &
+    \ref{reg-277}  &
+    &
+     &
+    &
+  \\
+\cline{1-2}
+{\hfill 13:20-13:40 \hfill} &
+     \ref{reg-1778} &
+    {\bfseries PLENARIA  }  &
     {\bfseries PLENARIA  } &
    {\bfseries PLENARIA  } &
-   {\bfseries PLENARIA  } \\
+    {\bfseries PLENARIA  } \\
 \cline{1-2}
-{\hfill 13:30-13:50 \hfill} &
-     &
+{\hfill 13:20-14:00 \hfill} &
+   \ref{reg-445}  &
     {\bfseries 2  } &
     {\bfseries 3  } &
    {\bfseries 4  } &
@@ -94,21 +87,21 @@
        &
      &
      &
-     &
+   \ref{reg-557}    &
      \\
-\cline{1-3}\cline{5-6}
+\cline{1-1}\cline{5-6}
 {\hfill 17:00-17:20 \hfill} &
+     \ref{reg-1245}  &
+      \ref{reg-1559} &
      &
-     &
-     &
-    &
+    \ref{reg-697}  &
     \\
-\cline{1-3}\cline{5-6}
+\cline{1-1}\cline{5-6}
 {\hfill 17:20-17:40 \hfill} &
        &
      &
      &
-     &
+     \ref{reg-1307}  &
      \\
 \cline{1-3}\cline{5-6}
 {\hfill 17:40-18:10 \hfill} &
@@ -117,15 +110,15 @@
      \multicolumn{2}{|c|} {\bfseries Café} \\
 \cline{1-3}\cline{5-6}
 {\hfill 18:10-18:30 \hfill} &
-     &
-    &
+     \ref{reg-949}  &
+     \ref{reg-600} &
     &
    {\bfseries PLENARIA  } &
    {\bfseries PLENARIA  } \\
 \cline{1-3}
 {\hfill 18:30-18:50 \hfill} &
-       &
-    &
+     \ref{reg-1381}    &
+   \ref{reg-1814}   &
     &
    {\bfseries 8  } &
    {\bfseries 9  } \\
@@ -163,7 +156,7 @@
     \\
 \cline{1-6}
 \hline[1pt]
-\multicolumn{6}{|c|}{\large\bfseries Salón  }\\
+\multicolumn{6}{|c|}{\large\bfseries Salón I2  }\\
 \hline
 \end{tabular}
 \end{center}
@@ -175,14 +168,14 @@
 
 %%%%%%%%%%634%%%%%%%%%%%
 \noindent  \ref{reg-634}  {\bfseries Operadores de Toeplitz y normas mixtas}\\
-{\slshape  Salvador  Pérez Esteva} {\footnotesize (CPI, Pos)}\\
+{\slshape  Salvador  Pérez Esteva (Invitado)} {\footnotesize (CPI, Pos)}\\
 
 %%%%%%%%%%277%%%%%%%%%%%
 \noindent  \ref{reg-277}  {\bfseries Isolated eigenvalues of linear operators and perturbations}\\
 {\slshape  Slavisa  Djordjevic} {\footnotesize (RI, Pos)}\\
 
 %%%%%%%%%%1778%%%%%%%%%%%
-\noindent  \ref{reg-1778}  {\bfseries Sobre la continuidad del espectro del automor?smo de Pascal}\\
+\noindent  \ref{reg-1778}  {\bfseries Sobre la continuidad del espectro del automorfismo de Pascal}\\
 {\slshape  Josué Daniel Vázquez Becerra} {\footnotesize (RT, 2Lic)}\\
 
 %%%%%%%%%%445%%%%%%%%%%%
@@ -223,7 +216,7 @@
 
 %%%%%%%%%%233%%%%%%%%%%%
 \noindent  \ref{reg-233}  {\bfseries Algo de Análisis de Fourier para el problema $L^p$ Dirichlet}\\
-{\slshape  Jorge  Rivera Noriega} {\footnotesize (CPI, 2Lic)}\\
+{\slshape  Jorge  Rivera Noriega (Invitado)} {\footnotesize (CPI, 2Lic)}\\
 
 %%%%%%%%%%1559%%%%%%%%%%%
 \noindent  \ref{reg-1559}  {\bfseries El lema de Ahlfors-Schwarz}\\
@@ -259,7 +252,7 @@
 
 %%%%%%%%%%796%%%%%%%%%%%
 \noindent  \ref{reg-796}  {\bfseries Zeros of Sobolev orthogonal polynomials on the unit circle}\\
-{\slshape  Luis Enrique Garza Gaona} {\footnotesize (CI, Inv)}\\
+{\slshape  Luis Enrique Garza Gaona (Invitado)} {\footnotesize (CI, Inv)}\\
 
 %%%%%%%%%%1474%%%%%%%%%%%
 \noindent  \ref{reg-1474}  {\bfseries Una integral más general que la de Lebesgue}\\
@@ -283,7 +276,7 @@
 
 %%%%%%%%%%1193%%%%%%%%%%%
 \noindent  \ref{reg-1193}  {\bfseries Todo cabe en un espacio de Hilbert sabiéndolo acomodar}\\
-{\slshape  Rubén Alejandro Martínez Avendaño} {\footnotesize (CDV, 2Lic)}\\
+{\slshape  Rubén Alejandro Martínez Avendaño (Invitado)} {\footnotesize (CDV, 2Lic)}\\
 
 %%%%%%%%%%557%%%%%%%%%%%
 \noindent  \ref{reg-557}  {\bfseries Extensión óptima de ciertos operadores lineales usando medidas vectoriales}\\

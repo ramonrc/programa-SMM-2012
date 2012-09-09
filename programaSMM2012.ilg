@@ -1,6 +1,13 @@
 This is makeindex.exe, version 2.15 [MiKTeX 2.9] (kpathsea + Thai support).
-Scanning input file programaSMM2012.idx....done (218 entries accepted, 0 rejected).
-Sorting entries.....done (1912 comparisons).
-Generating output file programaSMM2012.ind....done (287 lines written, 0 warnings).
+Scanning style file H:/2012/PROGRAMA-SMM-2012/indice.sty......done (6 attributes redefined, 0 ignored).
+Scanning input file programaSMM2012.idx....
+!! Input index error (file = programaSMM2012.idx, line = 193):
+   -- Extra `@' at position 42 of first argument.
+
+!! Input index error (file = programaSMM2012.idx, line = 200):
+   -- Extra `@' at position 46 of first argument.
+done (809 entries accepted, 2 rejected).
+Sorting entries.........done (8995 comparisons).
+Generating output file programaSMM2012.ind....done (1663 lines written, 0 warnings).
 Output written in programaSMM2012.ind.
 Transcript written in programaSMM2012.ilg.

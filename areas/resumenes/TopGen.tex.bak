@@ -66,6 +66,7 @@
 %%%%%%%%%%%%1663%%%%%%%%%%%
 \subsection{\sffamily Usando funciones casi perfectas para demostrar la compacidad numerable de un Producto Topológico {\footnotesize (CDV, 2Lic)}} \label{reg-1663} \index{García Becerra Rafael Esteban}
 \noindent {\bfseries Rafael Esteban García Becerra}, {\tt ureshidayo@gmail.com}  {\slshape (Benemérita Universidad Autónoma de Puebla (BUAP))}\\
+\noindent {\it  Coautor: Manuel Ibarra Contreras}\\
           \noindent Una función $f:X\rightarrow Y$ es una función casi perfecta si f es cerrada, X es un espacio T2 y para cada $y\in Y$ su fibra es un conjunto numerablemente compacto en X. Usando funciones casi perfectas demostraremos que el producto cartesiano de un espacio numerablemente compacto y de un espacio secuencial numerablemente compacto es numerablemente compacto.
 %%%%%%%%%%%%741%%%%%%%%%%%
 \subsection{\sffamily Dinámica en el hiperespacio de los subconjuntos cerrados de un espacio topológico {\footnotesize (CPI, 2Lic)}} \label{reg-741} \index{Acosta García Gerardo}
@@ -139,7 +140,7 @@
 \noindent {\it  Coautores: David  Herrera Carrasco, Fernando  Macías Romero      }\\
 \noindent El material que se presenta en este trabajo pertenece a la rama de la Topolog\'ia conocida como Teoría de los Continuos y sus Hiperespacios.\\ Un continuo es un espacio métrico, no vac\'io, compacto y conexo. Los \emph{hiperespacios}  son ciertas familias de subconjuntos de un continuo $X$ con alguna carácter\'istica particular, los más estudiados son: Sea $X$ un continuo y $n \in \mathbb{N}$\begin{enumerate}      \item []$2^X=\{A\subset X:A$ es un conjunto cerrado en $X$ y no vac\'io$\}$,      \item []$C(X)=\{A\in 2^X:A$ es un conjunto conexo$\},$     \item []$C_n(X)=\{A \subset X \colon A$ tiene a lo m\'as $n$ componentes$\}.$      \item []$F_n(X)=\{A \in 2^X:A$ tiene a lo m\'as $n$ puntos$\}.$\end{enumerate}A estos hiperespacios se les dota de una métrica llamada métrica de Hausdorff. En esta exposición explicaré de manera general las demostraciones de los teoremas que menciono a continuación.\\ Teorema:  [1] El hiperespacio $C_2([0,1])$ es homeomorfo a $[0,1]^4$. \\ Teorema: [3] Si $X$ es un continuo, $n \in \mathbb{N}$ y $\mathcal{A}$ es un subconjunto cerrado y conexo de $C_n(X)$, entonces $\cup \mathcal{A}$ tiene a lo m\'as $n$ componentes.\\ Teorema:  [2] Si $X$ es un continuo y $n \in \mathbb{N},$ entonces $C_{n}(X)$ es arco conexo.\\ Teorema:  [2] Si $X$ es un continuo y $n \in \mathbb{N},$ entonces $C_{n}(X)$  contiene una $n$-celda.\\  Dichos teoremas son resultados conocidos, el objetivo de este trabajo es exponerlos con detalle.
 Referencias:
-[1] Alejandro Illanes, \emph{The hyperspace }$C_{2}(X)$ \emph{for a finite graph }$X$\emph{ is unique}, Glasnik Matemati$\check{c}$ki. 37 (57)(2002), 347--363.     
+[1] Alejandro Illanes, \emph{The hyperspace }$C_{2}(X)$ \emph{for a finite graph }$X$\emph{ is unique}, Glasnik Matemati$\check{c}$ki. 37 (57)(2002), 347--363.
  [2] Sergio Mac\'{\i}as, \emph{On the hyperspace }$C_{n}(X)$\emph{of a continuum }$X$, Topology and Its Applications. 109 (2001), 237--256.
 [3]  Sergio Mac\'ias, \emph{Topics on Continua}, Pure and Applied Mathematics Series, vol. 275, Chapman an Hall/CRC, Taylor and Francis Group, Boca Raton, London, New York, Singapore, 2005.
 %%%%%%%%%%%%1275%%%%%%%%%%%

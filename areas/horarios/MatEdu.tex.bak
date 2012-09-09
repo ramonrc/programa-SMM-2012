@@ -39,7 +39,7 @@
 {\hfill 10:20-10:40 \hfill} &
       &\ref{reg-1308}
     &\ref{reg-530}
-     &\ref{reg-1115}
+     &\ref{reg-1151}
     &\ref{reg-857}
      \\
 \cline{1-6}
@@ -58,11 +58,11 @@
      Traslado &\ref{reg-1629}
      &\ref{reg-1677}
  &\ref{reg-1805}
- &\ref{reg-950}
+ &
   \\
 \cline{1-6}
 {\hfill 12:00-12:25 \hfill} &
-      \ref{reg-309}&{\bfseries \ref{reg-1920}}
+      \ref{reg-309}&{\bfseries \ref{reg-1919}}
     &{\bfseries Mesa }
      &\ref{reg-1091}
     &\ref{reg-1450}
@@ -147,34 +147,36 @@
 {\hfill 18:50-19:00 \hfill} &
     \multicolumn{2}{|c|} {\bfseries Traslado} &
      &
-  {\bfseries Traslado} &
-    \\
-\cline{1-3}\cline{5-5}
+  {\bfseries HOMENAJE} &
+  {\bfseries Traslado}  \\
+\cline{1-3}\cline{6-6}
 {\hfill 19:00-19:50 \hfill} &
- {\bfseries PLENARIA 6 } &
-   {\bfseries PLENARIA  7} &
+ {\bfseries  PLENARIA 6 } &
+   {\bfseries  PLENARIA  7} &
        &
-   {\bfseries Asamblea General } &
-   {\bfseries Clausura } \\
-   \cline{1-3}\cline{5-6}
-{\hfill  \hfill} &
- {\bfseries HOMENAJE} &
-   {\bfseries HOMENAJE} &
+   {\bfseries  JORGE} &
+   {\bfseries Asamblea } \\
+\cline{1-3}
+{\hfill 19:50-20:50  \hfill} &
+  {\bfseries  HOMENAJE }&
+  {\bfseries  HOMENAJE } &
        &
-    &
-    \\
-{\hfill 19:50-21:50 \hfill} &
- {\bfseries  ERNESTO } &
+  {\bfseries  IZE}  &
+  {\bfseries  General }  \\
+  \cline{1-1}\cline{5-6}
+{\hfill 20:50-21:00 \hfill} &
+ {\bfseries  ERNESTO }  &
    {\bfseries FRANCISCO} &
        &
-    &
-    \\
-{\hfill  \hfill} &
+  &
+   {\bfseries Traslado } \\
+\cline{1-1}\cline{5-6}
+    {\hfill 21:00-21:50  \hfill} &
  {\bfseries  LACOMBA } &
    {\bfseries RAGGI} &
        &
     &
-    \\
+   {\bfseries Clausura}   \\
 \cline{1-6}
 \hline[1pt]
 \multicolumn{6}{|c|}{\large\bfseries Salón C4 }\\
@@ -221,7 +223,7 @@
 
 %%%%%%%%%%1347%%%%%%%%%%%
 \noindent  \ref{reg-1347}  {\bfseries Desarrollo de Aplicaciones Móviles Didácticas para Matemáticas de Niveles Básicos de Educación Primaria}\\
-{\slshape  Lirio Yoana Muñoz Márquez} {\footnotesize (RI, Prim)}\\
+{\slshape  Lirio Yoana Muñoz Márquez} {\footnotesize (RI, Pri)}\\
 
 %%%%%%%%%%1635%%%%%%%%%%%
 \noindent  \ref{reg-1635}  {\bfseries Análisis para la construcción de un software educativo}\\
@@ -241,47 +243,47 @@
 
 %%%%%%%%%%1301%%%%%%%%%%%
 \noindent  \ref{reg-1301}  {\bfseries La importancia de la articulación de las nociones matemáticas en la didáctica}\\
-{\slshape  Juan Alberto Acosta Hernández} {\footnotesize (, )}\\
+{\slshape  Juan Alberto Acosta Hernández} {\footnotesize (CDV, 1Lic)}\\
 
 %%%%%%%%%%1308%%%%%%%%%%%
 \noindent  \ref{reg-1308}  {\bfseries Construcción Social de las Estructuras Algebraicas}\\
-{\slshape  Lorena  Jiménez Sandoval} {\footnotesize (, 1Lic)}\\
+{\slshape  Lorena  Jiménez Sandoval} {\footnotesize (RI, 1Lic)}\\
 
 %%%%%%%%%%1364%%%%%%%%%%%
 \noindent  \ref{reg-1364}  {\bfseries La historia de la matemática en el enseñanza de la matemática del nivel medio superior en Chilpancingo, Gro.}\\
-{\slshape  Gustavo  Antero Tepec} {\footnotesize (, Bach)}\\
+{\slshape  Gustavo  Antero Tepec} {\footnotesize (CDV, Bach)}\\
 
 %%%%%%%%%%1629%%%%%%%%%%%
 \noindent  \ref{reg-1629}  {\bfseries Una epistemología de los usos de las gráficas de las funciones en el bachillerato}\\
-{\slshape  Claudia Leticia Cen Che} {\footnotesize (, Bach)}\\
+{\slshape  Claudia Leticia Cen Che} {\footnotesize (RI, Bach)}\\
 
 %%%%%%%%%%1919%%%%%%%%%%%
 \noindent  \ref{reg-1919}  {\bfseries La modelación-graficación en la resignificación de las funciones paramétricas en estudiantes de nivel superior}\\
-{\slshape  José Iván López Flores (Invitado)} {\footnotesize (, 1Lic)}\\
+{\slshape  José Iván López Flores (Invitado)} {\footnotesize (CPI, 1Lic)}\\
 
 %%%%%%%%%%1714%%%%%%%%%%%
 \noindent  \ref{reg-1714}  {\bfseries Una aproximación a la formación de conceptos en Matemáticas Básicas y Trigonometría desde la psicología histórico cultural}\\
-{\slshape  Emiliano Salvador Sánchez Rodríguez} {\footnotesize (, 1Lic)}\\
+{\slshape  Emiliano Salvador Sánchez Rodríguez} {\footnotesize (RI, 1Lic)}\\
 
 %%%%%%%%%%1337%%%%%%%%%%%
 \noindent  \ref{reg-1337}  {\bfseries Identificación de la dificultad en componentes del sentido numérico en tercer grado de primaria}\\
-{\slshape  Sara Catalina Hernández Gallardo} {\footnotesize (, Pri)}\\
+{\slshape  Sara Catalina Hernández Gallardo} {\footnotesize (RI, Pri)}\\
 
 %%%%%%%%%%1580%%%%%%%%%%%
 \noindent  \ref{reg-1580}  {\bfseries Significados asociados al concepto de fracción en los libros de texto de educación básica}\\
-{\slshape  Karen Rosario Calderón Ignacio} {\footnotesize (, 1Lic)}\\
+{\slshape  Karen Rosario Calderón Ignacio} {\footnotesize (RI, 1Lic)}\\
 
 %%%%%%%%%%1583%%%%%%%%%%%
 \noindent  \ref{reg-1583}  {\bfseries Los vehículos para ir de excursión: ``Escenario didáctico'' para abordar el reparto con fracciones}\\
-{\slshape  Eliza Minnelli Olguín Trejo} {\footnotesize (RI, )}\\
+{\slshape  Eliza Minnelli Olguín Trejo} {\footnotesize (RI, Pri)}\\
 
 %%%%%%%%%%1791%%%%%%%%%%%
 \noindent  \ref{reg-1791}  {\bfseries Quebrados sin dolor para ciegos}\\
-{\slshape  Hugo  Rodríguez Carmona} {\footnotesize (, Pri)}\\
+{\slshape  Hugo  Rodríguez Carmona} {\footnotesize (CDV, Pri)}\\
 
 %%%%%%%%%%1537%%%%%%%%%%%
 \noindent  \ref{reg-1537}  {\bfseries El uso del lenguaje en la construcción del número natural. Diseño de una secuencia didáctica de cálculo mental}\\
-{\slshape  Marta Elena Valdemoros Álvarez} {\footnotesize (RI, Prim)}\\
+{\slshape  Marta Elena Valdemoros Álvarez} {\footnotesize (RI, Pri)}\\
 
 %%%%%%%%%%1239%%%%%%%%%%%
 \noindent  \ref{reg-1239}  {\bfseries Dificultades en la traducción del lenguaje verbal al lenguaje algebraico en alumnos de bachillerato}\\
@@ -297,15 +299,15 @@
 
 %%%%%%%%%%530%%%%%%%%%%%
 \noindent  \ref{reg-530}  {\bfseries Análisis sobre la ecuación de segundo grado a nivel medio superior}\\
-{\slshape  Sandy  Gómez Pérez} {\footnotesize (, 1Lic)}\\
+{\slshape  Sandy  Gómez Pérez} {\footnotesize (RI, 1Lic)}\\
 
 %%%%%%%%%%1005%%%%%%%%%%%
 \noindent  \ref{reg-1005}  {\bfseries La transición de la suma aritmética a la suma algebraica en estudiantes de 1$^{\mbox{o}}$ de secundaria}\\
-{\slshape  Andrea Aurora Pérez Esguerra} {\footnotesize (, Sec)}\\
+{\slshape  Andrea Aurora Pérez Esguerra} {\footnotesize (RI, Sec)}\\
 
 %%%%%%%%%%1677%%%%%%%%%%%
 \noindent  \ref{reg-1677}  {\bfseries Ideas fundamentales de estocásticos en estudiantes del bachillerato tecnológico}\\
-{\slshape  Jesús  Salcedo Prado} {\footnotesize (, Bach)}\\
+{\slshape  Jesús  Salcedo Prado} {\footnotesize (RI, Bach)}\\
 
 %%%%%%%%%%1920%%%%%%%%%%%
 \noindent  \ref{reg-1920}  {\bfseries Metodología para el diseño de actividades basadas en modelización matemática: De la ingeniería biomédica a la clase de matemáticas}\\
@@ -313,7 +315,7 @@
 
 %%%%%%%%%%1619%%%%%%%%%%%
 \noindent  \ref{reg-1619}  {\bfseries Transferencia  del aprendizaje situado de la sintaxis algebraica: Ecuaciones lineales y  balanza virtual}\\
-{\slshape  Maricela  Bonilla González} {\footnotesize (, Pos)}\\
+{\slshape  Maricela  Bonilla González} {\footnotesize (RI, Pos)}\\
 
 %%%%%%%%%%1151%%%%%%%%%%%
 \noindent  \ref{reg-1151}  {\bfseries Reflexiones sobre algunas prácticas educativas que han contribuido a mejorar el proceso de enseñanza-aprendizaje de la matemática}\\
@@ -321,39 +323,39 @@
 
 %%%%%%%%%%1297%%%%%%%%%%%
 \noindent  \ref{reg-1297}  {\bfseries La Formación en Matemáticas de los maestros de educación básica en México}\\
-{\slshape  Luis Ángel Jactthar Cruz} {\footnotesize (CI, Prim)}\\
+{\slshape  Luis Ángel Jactthar Cruz} {\footnotesize (CI, Pri)}\\
 
 %%%%%%%%%%1805%%%%%%%%%%%
-\noindent  \ref{reg-1805}  {\bfseries Profesor: >Qué tanto conoces acerca del aprendizaje de tus alumnos?}\\
+\noindent  \ref{reg-1805}  {\bfseries Profesor: ?`Qué tanto conoces acerca del aprendizaje de tus alumnos?}\\
 {\slshape  Leticia Sosa Guerrero} {\footnotesize (RI, Bach)}\\
 
 %%%%%%%%%%1091%%%%%%%%%%%
 \noindent  \ref{reg-1091}  {\bfseries El conocimiento matemático para la enseñanza que poseen los profesores de educación primaria en el tema de la fracción como cociente, razón, multiplicación y división}\\
-{\slshape  Matilde  Tavira Fuentes} {\footnotesize (, Pri)}\\
+{\slshape  Matilde  Tavira Fuentes} {\footnotesize (RI, Pri)}\\
 
 %%%%%%%%%%1138%%%%%%%%%%%
 \noindent  \ref{reg-1138}  {\bfseries Un estudio de casos, sobre las prácticas de laboratorio didáctico de futuros profesores de matemáticas, desde un enfoque Socioepistemológico}\\
-{\slshape  Edith Miriam Soto Pérez} {\footnotesize (, 1Lic)}\\
+{\slshape  Edith Miriam Soto Pérez} {\footnotesize (RI, 1Lic)}\\
 
 %%%%%%%%%%1147%%%%%%%%%%%
 \noindent  \ref{reg-1147}  {\bfseries El contexto del profesor y su modelo epistemológico de la matemática}\\
-{\slshape  Martha Imelda Jarero Kumul} {\footnotesize (, Bach)}\\
+{\slshape  Martha Imelda Jarero Kumul} {\footnotesize (RI, Bach)}\\
 
 %%%%%%%%%%1464%%%%%%%%%%%
-\noindent  \ref{reg-1464}  {\bfseries >Evaluación de procesos o evaluación de maestros?}\\
-{\slshape  Jesús Emanuel Moo Vergara} {\footnotesize (, Pri)}\\
+\noindent  \ref{reg-1464}  {\bfseries ?`Evaluación de procesos o evaluación de maestros?}\\
+{\slshape  Jesús Emanuel Moo Vergara} {\footnotesize (CDV, Pri)}\\
 
 %%%%%%%%%%1522%%%%%%%%%%%
 \noindent  \ref{reg-1522}  {\bfseries El significado de objetos matemáticos en profesores de matemáticas  de bachillerato}\\
-{\slshape  Carol Yaneth Corral López} {\footnotesize (, Bach)}\\
+{\slshape  Carol Yaneth Corral López} {\footnotesize (RI, Bach)}\\
 
 %%%%%%%%%%1664%%%%%%%%%%%
 \noindent  \ref{reg-1664}  {\bfseries Instrumento de Evaluación de Competencias Matemáticas para Sexto grado de Primaria}\\
-{\slshape  Fabiola Guadalupe Hernández Ortiz} {\footnotesize (, Pri)}\\
+{\slshape  Fabiola Guadalupe Hernández Ortiz} {\footnotesize (RI, Pri)}\\
 
 %%%%%%%%%%1809%%%%%%%%%%%
 \noindent  \ref{reg-1809}  {\bfseries Acercamiento al método para estudiar el conocimiento del profesor de matemáticas que enseña estadística}\\
-{\slshape  Elika Sugey Maldonado Mejía} {\footnotesize (, )}\\
+{\slshape  Elika Sugey Maldonado Mejía} {\footnotesize (RI, Sec)}\\
 
 %%%%%%%%%%318%%%%%%%%%%%
 \noindent  \ref{reg-318}  {\bfseries Una situación de aprendizaje para contribuir a la mejora de la comprensión de la derivada}\\
@@ -361,19 +363,15 @@
 
 %%%%%%%%%%826%%%%%%%%%%%
 \noindent  \ref{reg-826}  {\bfseries Propuesta de enseñanza conceptual de la división y raíz cuadrada}\\
-{\slshape  Alberto  de León de León} {\footnotesize (CDV, Prim)}\\
+{\slshape  Alberto  de León de León} {\footnotesize (CDV, Pri)}\\
 
 %%%%%%%%%%857%%%%%%%%%%%
 \noindent  \ref{reg-857}  {\bfseries Metodología situación problema en estudiantes de básica primaria}\\
-{\slshape  Gloria Constanza Holguín Torres} {\footnotesize (CDV, Prim)}\\
+{\slshape  Gloria Constanza Holguín Torres} {\footnotesize (CDV, Pri)}\\
 
 %%%%%%%%%%929%%%%%%%%%%%
-\noindent  \ref{reg-929}  {\bfseries >Cómo proceden los niños mixtecos al solucionar problemas aritméticos?}\\
-{\slshape  Javier  García García} {\footnotesize (RT, Prim)}\\
-
-%%%%%%%%%%950%%%%%%%%%%%
-\noindent  \ref{reg-950}  {\bfseries La aplicación de la matemática en el aula mito o realidad Actividad didáctica.- Integral definida: Calcular el flujo de sangre en una arteria}\\
-{\slshape  Raymundo  García Zamudio} {\footnotesize (CDV, Bach)}\\
+\noindent  \ref{reg-929}  {\bfseries ?`Cómo proceden los niños mixtecos al solucionar problemas aritméticos?}\\
+{\slshape  Javier  García García} {\footnotesize (RT, Pri)}\\
 
 %%%%%%%%%%1450%%%%%%%%%%%
 \noindent  \ref{reg-1450}  {\bfseries Construcción de lecciones didácticas de probabilidad para nivel medio superior. Una innovación para un entorno virtual de aprendizaje}\\
@@ -381,7 +379,7 @@
 
 %%%%%%%%%%1353%%%%%%%%%%%
 \noindent  \ref{reg-1353}  {\bfseries La relevancia de los problemas no rutinarios en educación secundaria}\\
-{\slshape  René  Santos Lozano} {\footnotesize (, Sec)}\\
+{\slshape  René  Santos Lozano} {\footnotesize (RI, Sec)}\\
 
 %%%%%%%%%%874%%%%%%%%%%%
 \noindent  \ref{reg-874}  {\bfseries El problema del caracol trepador: las soluciones de los alumnos}\\
@@ -389,7 +387,7 @@
 
 %%%%%%%%%%1324%%%%%%%%%%%
 \noindent  \ref{reg-1324}  {\bfseries Una secuencia didáctica para la interpretación geométrica de los productos notables: La suma de binomios al cuadrado y el producto de binomios conjugados}\\
-{\slshape  Adriana  Vargas Gatica} {\footnotesize (, Bach)}\\
+{\slshape  Adriana  Vargas Gatica} {\footnotesize (RT, Bach)}\\
 
 \end{multicols}
 
@@ -409,14 +407,14 @@
   &
      &\ref{reg-483}
      \\
-\cline{1-1}\cline{3-6}
+\cline{1-1}\cline{3-4}\cline{6-6}
 {\hfill 9:20-9:40 \hfill} &
       &\ref{reg-509}
      &\ref{reg-1356}
      &\ref{reg-1920}
      &\ref{reg-1558}
     \\
-\cline{1-1}\cline{3-6}
+\cline{1-1}\cline{3-4}\cline{6-6}
 {\hfill 9:40-10:00 \hfill} &
      Inauguración &\ref{reg-576}
      &\ref{reg-1579}
@@ -543,34 +541,36 @@
 {\hfill 18:50-19:00 \hfill} &
     \multicolumn{2}{|c|} {\bfseries Traslado} &
      &
-  {\bfseries Traslado} &
-    \\
-\cline{1-3}\cline{5-5}
+  {\bfseries HOMENAJE} &
+  {\bfseries Traslado}  \\
+\cline{1-3}\cline{6-6}
 {\hfill 19:00-19:50 \hfill} &
- {\bfseries PLENARIA 6 } &
-   {\bfseries PLENARIA  7} &
+ {\bfseries  PLENARIA 6 } &
+   {\bfseries  PLENARIA  7} &
        &
-   {\bfseries Asamblea General } &
-   {\bfseries Clausura } \\
-   \cline{1-3}\cline{5-6}
-{\hfill  \hfill} &
- {\bfseries HOMENAJE} &
-   {\bfseries HOMENAJE} &
+   {\bfseries  JORGE} &
+   {\bfseries Asamblea } \\
+\cline{1-3}
+{\hfill 19:50-20:50  \hfill} &
+  {\bfseries  HOMENAJE }&
+  {\bfseries  HOMENAJE } &
        &
-    &
-    \\
-{\hfill 19:50-21:50 \hfill} &
- {\bfseries  ERNESTO } &
+  {\bfseries  IZE}  &
+  {\bfseries  General }  \\
+  \cline{1-1}\cline{5-6}
+{\hfill 20:50-21:00 \hfill} &
+ {\bfseries  ERNESTO }  &
    {\bfseries FRANCISCO} &
        &
-    &
-    \\
-{\hfill  \hfill} &
+  &
+   {\bfseries Traslado } \\
+\cline{1-1}\cline{5-6}
+    {\hfill 21:00-21:50  \hfill} &
  {\bfseries  LACOMBA } &
    {\bfseries RAGGI} &
        &
     &
-    \\
+   {\bfseries Clausura}   \\
 \cline{1-6}
 \hline[1pt]
 \multicolumn{6}{|c|}{\large\bfseries Salón C5 }\\
@@ -586,35 +586,35 @@
 
 %%%%%%%%%%1107%%%%%%%%%%%
 \noindent  \ref{reg-1107}  {\bfseries Diseño y situaciones didácticas por competencias aterrizadas al nivel superior}\\
-{\slshape Carlos Alberto Juárez Varela} {\footnotesize (, 1Lic)}\\
+{\slshape Carlos Alberto Juárez Varela} {\footnotesize (RI, 1Lic)}\\
 
 %%%%%%%%%%1050%%%%%%%%%%%
 \noindent  \ref{reg-1050}  {\bfseries Geogebra un apoyo didáctico en el aula}\\
-{\slshape  Aarón  Aparicio Hernández} {\footnotesize (, Sec)}\\
+{\slshape  Aarón  Aparicio Hernández} {\footnotesize (CDV, Sec)}\\
 
 %%%%%%%%%%1132%%%%%%%%%%%
 \noindent  \ref{reg-1132}  {\bfseries El uso de herramientas tecnológicas en conjunción con el enfoque de enseñanza por competencias}\\
-{\slshape  Ángel Gabriel López Arens} {\footnotesize (, Sec)}\\
+{\slshape  Ángel Gabriel López Arens} {\footnotesize (RI, Sec)}\\
 
 %%%%%%%%%%1279%%%%%%%%%%%
 \noindent  \ref{reg-1279}  {\bfseries La construcción de la geometr\'{\i}a de Brocard, utilizando el paquete Mathematica como herramienta útil para su mejor comprensión}\\
-{\slshape  Juan Luis Rosales Ponce} {\footnotesize (, 1Lic)}\\
+{\slshape  Juan Luis Rosales Ponce} {\footnotesize (RI, 1Lic)}\\
 
 %%%%%%%%%%1288%%%%%%%%%%%
 \noindent  \ref{reg-1288}  {\bfseries Software de geometría dinámica aplicado a la enseñanza de la parábola}\\
-{\slshape  María Eugenia Vega Flores} {\footnotesize (, Bach)}\\
+{\slshape  María Eugenia Vega Flores} {\footnotesize (RI, Bach)}\\
 
 %%%%%%%%%%1473%%%%%%%%%%%
 \noindent  \ref{reg-1473}  {\bfseries El impacto de las TIC's en el nivel superior}\\
-{\slshape  Martha Eugenia Compeán Jasso} {\footnotesize (, 1Lic)}\\
+{\slshape  Martha Eugenia Compeán Jasso} {\footnotesize (RI, 1Lic)}\\
 
 %%%%%%%%%%1766%%%%%%%%%%%
 \noindent  \ref{reg-1766}  {\bfseries Estudio preliminar sobre el software de geometría dinámico aplicado en la enseñanza de la parábola}\\
-{\slshape  Blanca  Flores Valente} {\footnotesize (, Bach)}\\
+{\slshape  Blanca  Flores Valente} {\footnotesize (RI, Bach)}\\
 
 %%%%%%%%%%1792%%%%%%%%%%%
 \noindent  \ref{reg-1792}  {\bfseries Uso de la regla de cuatro y el software geogebra para el aprendizaje de polinomios de segundo grado}\\
-{\slshape  Ana Luisa Estrada Esquivel} {\footnotesize (, Bach)}\\
+{\slshape  Ana Luisa Estrada Esquivel} {\footnotesize (RI, Bach)}\\
 
 %%%%%%%%%%1682%%%%%%%%%%%
 \noindent  \ref{reg-1682}  {\bfseries La formación del concepto de parábola}\\
@@ -626,7 +626,7 @@
 
 %%%%%%%%%%1414%%%%%%%%%%%
 \noindent  \ref{reg-1414}  {\bfseries Prueba y argumentación en la solución de problemas de congruencia de triángulos: Un estudio con estudiantes de bachillerato}\\
-{\slshape  José Luis López Hernández} {\footnotesize (, Bach)}\\
+{\slshape  José Luis López Hernández} {\footnotesize (RI, Bach)}\\
 
 %%%%%%%%%%509%%%%%%%%%%%
 \noindent  \ref{reg-509}  {\bfseries Una perspectiva de la teoría APOE sobre la comprensión de los fenómenos mecánicos en física}\\
@@ -642,31 +642,31 @@
 
 %%%%%%%%%%508%%%%%%%%%%%
 \noindent  \ref{reg-508}  {\bfseries De las representaciones pictóricas empleadas en la enseñanza de la mecánica newtoniana en física, una perspectiva desde la ontosemiótica}\\
-{\slshape  Nehemías  Moreno Martínez} {\footnotesize (, )}\\
+{\slshape  Nehemías  Moreno Martínez} {\footnotesize (RI, 1Lic)}\\
 
 %%%%%%%%%%933%%%%%%%%%%%
 \noindent  \ref{reg-933}  {\bfseries El desarrollo de una red de usos del conocimiento matemático}\\
-{\slshape  María Esther Magali Méndez Guevara} {\footnotesize (, Pos)}\\
+{\slshape  María Esther Magali Méndez Guevara} {\footnotesize (RI, Pos)}\\
 
 %%%%%%%%%%1322%%%%%%%%%%%
 \noindent  \ref{reg-1322}  {\bfseries El recorrido Neuronal del aprendizaje del número. Con aportes de Matemática Educativa}\\
-{\slshape  María Herlinda Consuelo Martínez de la Mora} {\footnotesize (, Pri)}\\
+{\slshape  María Herlinda Consuelo Martínez de la Mora} {\footnotesize (RI, Pri)}\\
 
 %%%%%%%%%%1409%%%%%%%%%%%
 \noindent  \ref{reg-1409}  {\bfseries Enseñanza de desigualdades: Un análisis desde el punto de vista de la teoría APOE}\\
-{\slshape  Miriam  Camacho Lara} {\footnotesize (, Bach)}\\
+{\slshape  Miriam  Camacho Lara} {\footnotesize (RI, Bach)}\\
 
 %%%%%%%%%%1606%%%%%%%%%%%
 \noindent  \ref{reg-1606}  {\bfseries Propuesta Metodológica para la enseñanza-aprendizaje de los conceptos de autosimilitud y dimensión de la Geometría Fractal}\\
-{\slshape  Javier  González Mendieta} {\footnotesize (, 1Lic)}\\
+{\slshape  Javier  González Mendieta} {\footnotesize (RI, 1Lic)}\\
 
 %%%%%%%%%%1648%%%%%%%%%%%
 \noindent  \ref{reg-1648}  {\bfseries Deficiencias matemáticas en jóvenes que culminaron sus estudios de nivel medio superior}\\
-{\slshape  Evangelina  Galván García} {\footnotesize (, Bach)}\\
+{\slshape  Evangelina  Galván García} {\footnotesize (RI, Bach)}\\
 
 %%%%%%%%%%1822%%%%%%%%%%%
 \noindent  \ref{reg-1822}  {\bfseries Los procesos de socialización del conocimiento matemático como nueva práctica para una matemática escolar incluyente}\\
-{\slshape  Francisco  Cordero} {\footnotesize (, Pos)}\\
+{\slshape  Francisco  Cordero} {\footnotesize (RI, Pos)}\\
 
 %%%%%%%%%%1823%%%%%%%%%%%
 \noindent  \ref{reg-1823}  {\bfseries Empoderamiento docente desde una visión Socioepistemológica: estudio de los factores de cambio en las prácticas del profesor de matemáticas}\\
@@ -674,7 +674,7 @@
 
 %%%%%%%%%%1145%%%%%%%%%%%
 \noindent  \ref{reg-1145}  {\bfseries Las matemáticas de enlace}\\
-{\slshape  Jos\'e Fernando Gonz\'alez Hern\'andez} {\footnotesize (, Sec)}\\
+{\slshape  Jos\'e Fernando Gonz\'alez Hern\'andez} {\footnotesize (CDV, Sec)}\\
 
 %%%%%%%%%%1356%%%%%%%%%%%
 \noindent  \ref{reg-1356}  {\bfseries La matemática, su relación con otras ciencias y el entorno}\\
@@ -690,19 +690,19 @@
 
 %%%%%%%%%%872%%%%%%%%%%%
 \noindent  \ref{reg-872}  {\bfseries Mujeres matemáticas en México: un estudio comparativo}\\
-{\slshape  Maribel  Moreno Ochoa} {\footnotesize (, Pos)}\\
+{\slshape  Maribel  Moreno Ochoa} {\footnotesize (RI, Pos)}\\
 
 %%%%%%%%%%1832%%%%%%%%%%%
 \noindent  \ref{reg-1832}  {\bfseries Identificación de niños matemáticamente talentosos}\\
-{\slshape  Zeidy Margarita Barraza García} {\footnotesize (, Pri)}\\
+{\slshape  Zeidy Margarita Barraza García} {\footnotesize (RI, Pri)}\\
 
 %%%%%%%%%%967%%%%%%%%%%%
 \noindent  \ref{reg-967}  {\bfseries Metodología propuesta para la educación matemática en el Sistema Nacional de Educación Superior y Tecnológica de México (SNEST)}\\
-{\slshape  Eduardo  Gutiérrez Almaraz} {\footnotesize (, 1Lic)}\\
+{\slshape  Eduardo  Gutiérrez Almaraz} {\footnotesize (RI, 1Lic)}\\
 
 %%%%%%%%%%1444%%%%%%%%%%%
 \noindent  \ref{reg-1444}  {\bfseries Una propuesta de cursos de actualización en matemáticas por nivel, para maestros de educación básica}\\
-{\slshape  Egbert  Méndez} {\footnotesize (, Pri)}\\
+{\slshape  Egbert  Méndez} {\footnotesize (CDV, Pri)}\\
 
 %%%%%%%%%%875%%%%%%%%%%%
 \noindent  \ref{reg-875}  {\bfseries Cómo Aprender el Cálculo a Través del Álgebra Lineal}\\
@@ -733,7 +733,7 @@
 {\slshape  María del Pilar Rosado Ocaña} {\footnotesize (CDV, 1Lic)}\\
 
 %%%%%%%%%%275%%%%%%%%%%%
-\noindent  \ref{reg-275}  {\bfseries >Se pueden hacer demostraciones sin palabras, es decir, sólo con imágenes?}\\
+\noindent  \ref{reg-275}  {\bfseries ?`Se pueden hacer demostraciones sin palabras, es decir, sólo con imágenes?}\\
 {\slshape  miguel Pérez Gaspar} {\footnotesize (CDV, 1Lic)}\\
 
 %%%%%%%%%%483%%%%%%%%%%%
@@ -762,11 +762,11 @@
 
 %%%%%%%%%%958%%%%%%%%%%%
 \noindent  \ref{reg-958}  {\bfseries Propuesta didáctica para el estudio de las teselaciones en el plano, estudiadas a través del modelo de Van Hiele, como actividad integradora de algunos conceptos geométricos}\\
-{\slshape  Patricia Guadalupe López Valenzuela} {\footnotesize (, Sec)}\\
+{\slshape  Patricia Guadalupe López Valenzuela} {\footnotesize (RI, Sec)}\\
 
 %%%%%%%%%%1062%%%%%%%%%%%
 \noindent  \ref{reg-1062}  {\bfseries Una propuesta didáctica basada  en entorno dinámico de la Geometría Dinámica   para perfeccionar  la enseñanza-aprendizaje de las cónicas en el NMS de la UAGro}\\
-{\slshape Eufemio  Flores Gonzalez} {\footnotesize (, Bach)}\\
+{\slshape Eufemio  Flores Gonzalez} {\footnotesize (RT, Bach)}\\
 
 \end{multicols}
 
@@ -809,7 +809,7 @@
      \\
 \cline{1-1}\cline{3-6}
 {\hfill 10:20-10:40 \hfill} &
-      &\ref{reg-1449}
+      &\ref{reg-950}
     &\ref{reg-1703}
      &
     &
@@ -883,7 +883,7 @@
      \\
 \cline{1-3}\cline{5-6}
 {\hfill 17:00-17:20 \hfill} &
-     \ref{reg-}1469&\ref{reg-1671}
+     \ref{reg-1469}&\ref{reg-1671}
      &
      &
     &
@@ -918,34 +918,36 @@
 {\hfill 18:50-19:00 \hfill} &
     \multicolumn{2}{|c|} {\bfseries Traslado} &
      &
-  {\bfseries Traslado} &
-    \\
-\cline{1-3}\cline{5-5}
+  {\bfseries HOMENAJE} &
+  {\bfseries Traslado}  \\
+\cline{1-3}\cline{6-6}
 {\hfill 19:00-19:50 \hfill} &
- {\bfseries PLENARIA 6 } &
-   {\bfseries PLENARIA  7} &
+ {\bfseries  PLENARIA 6 } &
+   {\bfseries  PLENARIA  7} &
        &
-   {\bfseries Asamblea General } &
-   {\bfseries Clausura } \\
-   \cline{1-3}\cline{5-6}
-{\hfill  \hfill} &
- {\bfseries HOMENAJE} &
-   {\bfseries HOMENAJE} &
+   {\bfseries  JORGE} &
+   {\bfseries Asamblea } \\
+\cline{1-3}
+{\hfill 19:50-20:50  \hfill} &
+  {\bfseries  HOMENAJE }&
+  {\bfseries  HOMENAJE } &
        &
-    &
-    \\
-{\hfill 19:50-21:50 \hfill} &
- {\bfseries  ERNESTO } &
+  {\bfseries  IZE}  &
+  {\bfseries  General }  \\
+  \cline{1-1}\cline{5-6}
+{\hfill 20:50-21:00 \hfill} &
+ {\bfseries  ERNESTO }  &
    {\bfseries FRANCISCO} &
        &
-    &
-    \\
-{\hfill  \hfill} &
+  &
+   {\bfseries Traslado } \\
+\cline{1-1}\cline{5-6}
+    {\hfill 21:00-21:50  \hfill} &
  {\bfseries  LACOMBA } &
    {\bfseries RAGGI} &
        &
     &
-    \\
+   {\bfseries Clausura}   \\
 \cline{1-6}
 \hline[1pt]
 \multicolumn{6}{|c|}{\large\bfseries Salón  C6}\\
@@ -964,11 +966,11 @@
 
 %%%%%%%%%%1079%%%%%%%%%%%
 \noindent  \ref{reg-1079}  {\bfseries La influencia del contexto de los problemas de matemáticas}\\
-{\slshape  Lizbeth  Trujillo Santamaría} {\footnotesize (CDV, Prim)}\\
+{\slshape  Lizbeth  Trujillo Santamaría} {\footnotesize (CDV, Pri)}\\
 
 %%%%%%%%%%1081%%%%%%%%%%%
 \noindent  \ref{reg-1081}  {\bfseries Análisis de las actitudes de un grupo de 4$^{\mbox{to}}$ grado de primaria ante la resolución de problemas de matemáticas}\\
-{\slshape  Lizbeth  Trujillo Santamaría} {\footnotesize (CDV, Prim)}\\
+{\slshape  Lizbeth  Trujillo Santamaría} {\footnotesize (CDV, Pri)}\\
 
 %%%%%%%%%%1095%%%%%%%%%%%
 \noindent  \ref{reg-1095}  {\bfseries Un análisis de las creencias en la resolución de problemas de profesores de nivel básico}\\
@@ -976,15 +978,15 @@
 
 %%%%%%%%%%1346%%%%%%%%%%%
 \noindent  \ref{reg-1346}  {\bfseries Desarrollo de actitudes hacia el estudio de las matemáticas en educación secundaria. Su relevancia en el logro de  aprendizajes esperados}\\
-{\slshape  Santiago Ramiro Velázquez Bustamante} {\footnotesize (, Sec)}\\
+{\slshape  Santiago Ramiro Velázquez Bustamante} {\footnotesize (RI, Sec)}\\
 
 %%%%%%%%%%1361%%%%%%%%%%%
 \noindent  \ref{reg-1361}  {\bfseries Concepciones y creencias de los profesores de matemáticas acerca de la evaluación}\\
-{\slshape  Yanet  Tejada Mayo} {\footnotesize (, Bach)}\\
+{\slshape  Yanet  Tejada Mayo} {\footnotesize (RI, Bach)}\\
 
 %%%%%%%%%%1469%%%%%%%%%%%
 \noindent  \ref{reg-1469}  {\bfseries Las concepciones de los estudiantes de nivel básico respecto a la comparación de números decimales}\\
-{\slshape  Sergio Damián Chalé Can} {\footnotesize (, Pri)}\\
+{\slshape  Sergio Damián Chalé Can} {\footnotesize (RI, Pri)}\\
 
 %%%%%%%%%%829%%%%%%%%%%%
 \noindent  \ref{reg-829}  {\bfseries Estrategias utilizadas por estudiantes de secundaria y bachillerato para resolver problemas de la olimpiada de matemáticas}\\
@@ -996,11 +998,11 @@
 
 %%%%%%%%%%1434%%%%%%%%%%%
 \noindent  \ref{reg-1434}  {\bfseries Estrategias didácticas para la comprensión y el aprendizaje en la asignatura de cálculo integral}\\
-{\slshape  Luis Ramón Siero González} {\footnotesize (, 1Lic)}\\
+{\slshape  Luis Ramón Siero González} {\footnotesize (RI, 1Lic)}\\
 
 %%%%%%%%%%1643%%%%%%%%%%%
 \noindent  \ref{reg-1643}  {\bfseries Estrategia metodológica para el tratamiento del concepto de límite en el infinito}\\
-{\slshape  Armando  Morales Carballo} {\footnotesize (, 1Lic)}\\
+{\slshape  Armando  Morales Carballo} {\footnotesize (RI, 1Lic)}\\
 
 %%%%%%%%%%1751%%%%%%%%%%%
 \noindent  \ref{reg-1751}  {\bfseries Análisis teórico del concepto de matriz asociada a una transformación lineal}\\
@@ -1008,31 +1010,31 @@
 
 %%%%%%%%%%369%%%%%%%%%%%
 \noindent  \ref{reg-369}  {\bfseries La enseñanza de métodos numéricos en programas de posgrado en demografía del Centro de Estudios Demográficos Urbanos y Ambientales de El Colegio de México}\\
-{\slshape  Alejandro  Mina Valdés} {\footnotesize (, Pos)}\\
+{\slshape  Alejandro  Mina Valdés} {\footnotesize (RI, Pos)}\\
 
 %%%%%%%%%%1375%%%%%%%%%%%
 \noindent  \ref{reg-1375}  {\bfseries Problemática con el aprendizaje y entendimiento del concepto limite en alumnos con conocimientos del calculo básico en la licenciatura de matemáticas}\\
-{\slshape  Eduardo  Espinosa Pérez} {\footnotesize (, 1Lic)}\\
+{\slshape  Eduardo  Espinosa Pérez} {\footnotesize (RI, 1Lic)}\\
 
-%%%%%%%%%%1449%%%%%%%%%%%
-\noindent  \ref{reg-1449}  {\bfseries Dificultades que encuentran los estudiantes para resolver problemas que involucran inducción matemática}\\
-{\slshape  Danae  Gómez Arroyo} {\footnotesize (, 1Lic)}\\
+%%%%%%%%%%950%%%%%%%%%%%
+\noindent  \ref{reg-950}  {\bfseries La aplicación de la matemática en el aula mito o realidad Actividad didáctica.- Integral definida: Calcular el flujo de sangre en una arteria}\\
+{\slshape  Raymundo  García Zamudio} {\footnotesize (CDV, Bach)}\\
 
 %%%%%%%%%%1461%%%%%%%%%%%
 \noindent  \ref{reg-1461}  {\bfseries Números grandes: Noción del infinito a través del cálculo de límites}\\
-{\slshape  Teresa de Jesús Valerio López} {\footnotesize (, 1Lic)}\\
+{\slshape  Teresa de Jesús Valerio López} {\footnotesize (RI, 1Lic)}\\
 
 %%%%%%%%%%1685%%%%%%%%%%%
 \noindent  \ref{reg-1685}  {\bfseries Dificultades presentadas por estudiantes universitarios con el entendimiento del concepto isomorfismo de grupos}\\
-{\slshape  Erika  Zubillaga Guerrero} {\footnotesize (, Pos)}\\
+{\slshape  Erika  Zubillaga Guerrero} {\footnotesize (RI, Pos)}\\
 
 %%%%%%%%%%1788%%%%%%%%%%%
 \noindent  \ref{reg-1788}  {\bfseries La matemática funcional en la ingeniería:  El caso del uso de las ecuaciones diferenciales lineales en escenarios escolares y del trabajo}\\
-{\slshape  Edith Johanna Mendoza Higuera} {\footnotesize (, Pos)}\\
+{\slshape  Edith Johanna Mendoza Higuera} {\footnotesize (RI, Pos)}\\
 
 %%%%%%%%%%1671%%%%%%%%%%%
 \noindent  \ref{reg-1671}  {\bfseries Abordaje basado en competencias para la resolución de problemas de estructura aditiva: un estudio en el nivel básico}\\
-{\slshape  Cristiannne María Butto Zarzar} {\footnotesize (RI, Prim)}\\
+{\slshape  Cristiannne María Butto Zarzar} {\footnotesize (RI, Pri)}\\
 
 %%%%%%%%%%1720%%%%%%%%%%%
 \noindent  \ref{reg-1720}  {\bfseries Exámenes en l\'{\i}nea e indicadores de evaluación en matemáticas en modalidad B-learning para alumnos de Ingenier\'{\i}a}\\
@@ -1044,11 +1046,11 @@
 
 %%%%%%%%%%393%%%%%%%%%%%
 \noindent  \ref{reg-393}  {\bfseries Pasaje por la interiorización de Enlace. Explicaciones de los alumnos a sus desaciertos en la prueba}\\
-{\slshape  Rosa María García Méndez} {\footnotesize (, Sec)}\\
+{\slshape  Rosa María García Méndez} {\footnotesize (CDV, Sec)}\\
 
 %%%%%%%%%%516%%%%%%%%%%%
 \noindent  \ref{reg-516}  {\bfseries Errores y competencias algebraicas entre géneros}\\
-{\slshape  Luis Ceferino Góngora Vega} {\footnotesize (, Bach)}\\
+{\slshape  Luis Ceferino Góngora Vega} {\footnotesize (RI, Bach)}\\
 
 %%%%%%%%%%1416%%%%%%%%%%%
 \noindent  \ref{reg-1416}  {\bfseries La emergencia de herramientas matemáticas al modelar linealmente}\\
@@ -1072,7 +1074,7 @@
 
 %%%%%%%%%%575%%%%%%%%%%%
 \noindent  \ref{reg-575}  {\bfseries Modelado de la función objetivo en problemas de optimización de cálculo diferencial de una variable utilizando la metodología de Polya}\\
-{\slshape  Gilberto  Varela Carmona} {\footnotesize (, 1Lic)}\\
+{\slshape  Gilberto  Varela Carmona} {\footnotesize (RI, 1Lic)}\\
 
 
 

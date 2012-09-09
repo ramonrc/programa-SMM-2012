@@ -1,5 +1,5 @@
-\section*{Comités y Coordinadores}
-\addcontentsline{toc}{chapter}{Comités y Coordinadores}
+%\section*{Comités y Coordinadores}
+%\addcontentsline{toc}{chapter}{Comités y Coordinadores}
 \section{Comité Organizador Central}
 
 {\centering
@@ -12,14 +12,12 @@
 \bfseries Presidente de la SMM  & Luis Montejano Peimbert\\
 \hline
 \bfseries Coordinador de Áreas de Matemáticas  &	 Daniel Juan Pineda\\
-Colaboradores: & \\
-& Fernando Hernández Hernández\\
+Colaboradores: & Fernando Hernández Hernández\\
 & José Ferrán Valdez Alonso\\
 & Wilson Zúñiga Galindo\\
 \hline
 \bfseries Coordinador de Áreas de Docencia 	 &Rosa Ma. Farfán Marquez\\
-& Colaboradores:\\
-& Erika Canché Góngora\\
+ Colaboradores: & Erika Canché Góngora\\
 & Flor Monserrat Rodríguez Vásquez \\
 \hline
 \bfseries Coordinadores Sesiones Especiales  y Mesas Redondas  & Amanda Montejano Cantoral\\
@@ -35,6 +33,9 @@ Colaboradores: & \\
  &Gerardo Souza Aubert\\
  \hline
 \bfseries Comité de Reciprocidad con otras Sociedades Matemáticas  & Emilio Lluis Puebla\\
+\hline
+\bfseries Comité de Becas &	Efrén Morales Amaya, Mukuy-Kak Guevara Aguirre, \\
+& Rafael Herrera Guzmán, Ruben Martínez Avendaño\\
 \hline
 \bfseries Matemáticas en la calle & 	Adolfo Guillot Santiago, Aubin Arroyo Camacho, \\
 & Concepción Ruiz Ruiz-Funes, Gabriela Campero Arena,\\

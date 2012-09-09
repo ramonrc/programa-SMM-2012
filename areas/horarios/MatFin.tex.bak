@@ -7,47 +7,33 @@
 \hline
 \hline
 {\hfill\bfseries Hora\hfill} & {\hfill\bfseries Lunes\hfill}&  {\hfill\bfseries Martes\hfill} & {\hfill\bfseries Miércoles\hfill} & {\hfill\bfseries Jueves\hfill} & {\hfill\bfseries Viernes\hfill} \\
-\hline
-{\hfill 9:00-9:20 \hfill} &
-      &
-     &
-  &
-     &
-     \\
-\cline{1-1}\cline{3-6}
-{\hfill 9:20-9:40 \hfill} &
-      &
-     &
-     &
-     &
-    \\
-\cline{1-1}\cline{3-6}
+\cline{1-6}
 {\hfill 9:40-10:00 \hfill} &
-     Inauguración &
+        &\ref{reg-1422}
+     &\ref{reg-917}
      &
-     &
-    &
+    &\ref{reg-534}
     \\
 \cline{1-1}\cline{3-6}
 {\hfill 10:00-10:20 \hfill} &
-      &
-    &
-     &
-     &
+     Inauguración &\ref{reg-939}
+    &\ref{reg-827}
+     &\ref{reg-1647}
+     &\ref{reg-1059}
      \\
 \cline{1-1}\cline{3-6}
 {\hfill 10:20-10:40 \hfill} &
-      &
-    &
-     &
-    &
+      &\ref{reg-1212}
+    &\ref{reg-589}
+     &\ref{reg-1825}
+    &\ref{reg-973}
      \\
 \cline{1-6}
 {\hfill 10:40-11:00 \hfill} &
-      &
-     &
-     &
-     &
+      &\ref{reg-1598}
+     &\ref{reg-1190}
+     &\ref{reg-378}
+     &\ref{reg-1052}
     \\
 \cline{1-1}\cline{3-6}
 {\hfill 11:00-11:30 \hfill} &
@@ -55,31 +41,31 @@
      \multicolumn{4}{|c|} {\bfseries Café} \\
 \cline{1-6}
 {\hfill 11:40-12:00 \hfill} &
-     Traslado &
-     &
- &
- &
+     Traslado &\ref{reg-1616}
+     &\ref{reg-456}
+ &\ref{reg-1031}
+ &\ref{reg-1737}
   \\
 \cline{1-6}
 {\hfill 12:00-12:50 \hfill} &
-      &
-    &
-     &
-    &
+      {\bfseries\ref{reg-416}}&{\bfseries\ref{reg-434}}
+    &{\bfseries\ref{reg-412}}
+     &{\bfseries\ref{reg-1658}}
+    &{\bfseries\ref{reg-356}}
   \\
 \cline{1-6}
 {\hfill 12:50-13:00 \hfill} &
      \multicolumn{5}{|c|} {\bfseries Traslado} \\
 \cline{1-6}
 {\hfill 13:00-13:30 \hfill} &
-      &
+      {\bfseries\ref{reg-276}}&
     {\bfseries PLENARIA  } &
     {\bfseries PLENARIA  } &
    {\bfseries PLENARIA  } &
    {\bfseries PLENARIA  } \\
 \cline{1-2}
 {\hfill 13:30-13:50 \hfill} &
-     &
+     \ref{reg-432}&
     {\bfseries 2  } &
     {\bfseries 3  } &
    {\bfseries 4  } &
@@ -90,24 +76,10 @@
    &
    \multicolumn{2}{|c|} {\bfseries COMIDA} \\
 \cline{1-3}\cline{5-6}
-{\hfill 16:40-17:00 \hfill} &
-       &
+{\hfill 16:40-17:40 \hfill} &
+       {\bfseries\ref{reg-927}}&{\bfseries\ref{reg-1861}}
      &
-     &
-     &
-     \\
-\cline{1-3}\cline{5-6}
-{\hfill 17:00-17:20 \hfill} &
-     &
-     &
-     &
-    &
-    \\
-\cline{1-3}\cline{5-6}
-{\hfill 17:20-17:40 \hfill} &
-       &
-     &
-     &
+     &{\bfseries\ref{reg-1398}}
      &
      \\
 \cline{1-3}\cline{5-6}
@@ -117,7 +89,7 @@
      \multicolumn{2}{|c|} {\bfseries Café} \\
 \cline{1-3}\cline{5-6}
 {\hfill 18:10-18:30 \hfill} &
-     &
+     \ref{reg-987}&\ref{reg-702}
     &
     &
    {\bfseries PLENARIA  } &
@@ -133,34 +105,36 @@
 {\hfill 18:50-19:00 \hfill} &
     \multicolumn{2}{|c|} {\bfseries Traslado} &
      &
-  {\bfseries Traslado} &
-    \\
-\cline{1-3}\cline{5-5}
+  {\bfseries HOMENAJE} &
+  {\bfseries Traslado}  \\
+\cline{1-3}\cline{6-6}
 {\hfill 19:00-19:50 \hfill} &
- {\bfseries PLENARIA 6 } &
-   {\bfseries PLENARIA  7} &
+ {\bfseries  PLENARIA 6 } &
+   {\bfseries  PLENARIA  7} &
        &
-   {\bfseries Asamblea General } &
-   {\bfseries Clausura } \\
-   \cline{1-3}\cline{5-6}
-{\hfill  \hfill} &
- {\bfseries HOMENAJE} &
-   {\bfseries HOMENAJE} &
+   {\bfseries  JORGE} &
+   {\bfseries Asamblea } \\
+\cline{1-3}
+{\hfill 19:50-20:50  \hfill} &
+  {\bfseries  HOMENAJE }&
+  {\bfseries  HOMENAJE } &
        &
-    &
-    \\
-{\hfill 19:50-21:50 \hfill} &
- {\bfseries  ERNESTO } &
+  {\bfseries  IZE}  &
+  {\bfseries  General }  \\
+  \cline{1-1}\cline{5-6}
+{\hfill 20:50-21:00 \hfill} &
+ {\bfseries  ERNESTO }  &
    {\bfseries FRANCISCO} &
        &
-    &
-    \\
-{\hfill  \hfill} &
+  &
+   {\bfseries Traslado } \\
+\cline{1-1}\cline{5-6}
+    {\hfill 21:00-21:50  \hfill} &
  {\bfseries  LACOMBA } &
    {\bfseries RAGGI} &
        &
     &
-    \\
+   {\bfseries Clausura}   \\
 \cline{1-6}
 \hline[1pt]
 \multicolumn{6}{|c|}{\large\bfseries Salón B4 }\\
@@ -175,38 +149,38 @@
 
 %%%%%%%%%%416%%%%%%%%%%%
 \noindent  \ref{reg-416}  {\bfseries Un índice de comportamiento asintótico de sucesiones ajustadas}\\
-{\slshape  Erick  Treviño Aguilar ()} {\footnotesize (CI, Pos)}\\
+{\slshape  Erick  Treviño Aguilar (Invitado)} {\footnotesize (CI, Pos)}\\
 
 %%%%%%%%%%276%%%%%%%%%%%
 \noindent  \ref{reg-276}  {\bfseries Financial competition and the management of banking risks}\\
-{\slshape  Antonio  Ruiz Porras} {\footnotesize (CI, Inv)}\\
+{\slshape  Antonio  Ruiz Porras (Invitado)} {\footnotesize (CI, Inv)}\\
 
 %%%%%%%%%%432%%%%%%%%%%%
 \noindent  \ref{reg-432}  {\bfseries Modelo SABR de la volatilidad}\\
 {\slshape  Guillermo Sierra Juárez} {\footnotesize (CI, Pos)}\\
 
 %%%%%%%%%%927%%%%%%%%%%%
-\noindent  \ref{reg-927}  {\bfseries El reto de matematizar las nuevas teori´as econo´micas}\\
-{\slshape  Gilberto  Calvillo} {\footnotesize (CDV, 1Lic)}\\
+\noindent  \ref{reg-927}  {\bfseries El reto de matematizar las nuevas teor\'ias econ\'omicas}\\
+{\slshape  Gilberto  Calvillo (Invitado)} {\footnotesize (CDV, 1Lic)}\\
 
 %%%%%%%%%%987%%%%%%%%%%%
 \noindent  \ref{reg-987}  {\bfseries Valuación de Opciones Barrera con Monitoreo Discreto mediante Caminos de Integración Numérica}\\
 {\slshape  Fiorella  Aguilar Saavedra} {\footnotesize (RT, 2Lic)}\\
 
 %%%%%%%%%%1422%%%%%%%%%%%
-\noindent  \ref{reg-1422}  {\bfseries La función de utilidad bajo incertidumbre.}\\
+\noindent  \ref{reg-1422}  {\bfseries La función de utilidad bajo incertidumbre}\\
 {\slshape  Julio  Herrera Gatica} {\footnotesize (RT, Pos)}\\
 
 %%%%%%%%%%939%%%%%%%%%%%
-\noindent  \ref{reg-939}  {\bfseries Memoria de  largo plazo en el índice S&P 500: Un enfoque fractal aplicando el coeficiente de Hurst con el método R/S}\\
+\noindent  \ref{reg-939}  {\bfseries Memoria de  largo plazo en el índice S\&P 500: Un enfoque fractal aplicando el coeficiente de Hurst con el método R/S}\\
 {\slshape  Arturo  Morales Castro} {\footnotesize (CI, Inv)}\\
 
 %%%%%%%%%%1212%%%%%%%%%%%
-\noindent  \ref{reg-1212}  {\bfseries Peores casos de portafolio para medidas de riesgo .}\\
+\noindent  \ref{reg-1212}  {\bfseries Peores casos de portafolio para medidas de riesgo}\\
 {\slshape  Oscar Hernán Madrid Padilla} {\footnotesize (RT, 2Lic)}\\
 
 %%%%%%%%%%1598%%%%%%%%%%%
-\noindent  \ref{reg-1598}  {\bfseries Convergencia del precio de una opción con doble barrera al precio de una opción estándar si las barreras tienden al infinito y cero.}\\
+\noindent  \ref{reg-1598}  {\bfseries Convergencia del precio de una opción con doble barrera al precio de una opción estándar si las barreras tienden al infinito y cero}\\
 {\slshape  Carlos  Palomino} {\footnotesize (RI, 2Lic)}\\
 
 %%%%%%%%%%1616%%%%%%%%%%%
@@ -215,11 +189,11 @@
 
 %%%%%%%%%%434%%%%%%%%%%%
 \noindent  \ref{reg-434}  {\bfseries Medidas de Riesgo: Un sistema axiomático en pleno tránsito}\\
-{\slshape  Leonel Ramón Pérez Hernández} {\footnotesize (CPI, 2Lic)}\\
+{\slshape  Leonel Ramón Pérez Hernández (Invitado)} {\footnotesize (CPI, 2Lic)}\\
 
 %%%%%%%%%%1861%%%%%%%%%%%
-\noindent  \ref{reg-1861}  {\bfseries Seguros de vida. Un enfoque de mercado.}\\
-{\slshape  Gerardo  Rubio} {\footnotesize (CPI, 2Lic)}\\
+\noindent  \ref{reg-1861}  {\bfseries Seguros de vida. Un enfoque de mercado}\\
+{\slshape  Gerardo  Rubio (Invitado)} {\footnotesize (CPI, 2Lic)}\\
 
 %%%%%%%%%%702%%%%%%%%%%%
 \noindent  \ref{reg-702}  {\bfseries Asignación óptima y el consumidor estocástico en mercados $\alpha$--estables}\\
@@ -230,7 +204,7 @@
 {\slshape  Osvaldo U. Becerril-Torres} {\footnotesize (RI, Inv)}\\
 
 %%%%%%%%%%827%%%%%%%%%%%
-\noindent  \ref{reg-827}  {\bfseries “Venture Capital Method” una solución al problema de la evaluación financiera a proyectos de innovación}\\
+\noindent  \ref{reg-827}  {\bfseries ``Venture Capital Method'' una solución al problema de la evaluación financiera a proyectos de innovación}\\
 {\slshape  Juan Manuel López Rivera} {\footnotesize (RT, Pos)}\\
 
 %%%%%%%%%%589%%%%%%%%%%%
@@ -247,7 +221,7 @@
 
 %%%%%%%%%%412%%%%%%%%%%%
 \noindent  \ref{reg-412}  {\bfseries Interés, viabilidad financiera y empleo}\\
-{\slshape  Fernando Antonio Noriega Ureña} {\footnotesize (CPI, Inv)}\\
+{\slshape  Fernando Antonio Noriega Ureña (Invitado)} {\footnotesize (CPI, Inv)}\\
 
 %%%%%%%%%%1647%%%%%%%%%%%
 \noindent  \ref{reg-1647}  {\bfseries Sobre la fundamentación estratégica del equilibrio Walrasiano}\\
@@ -258,7 +232,7 @@
 {\slshape  Alma  Jiménez Sánchez} {\footnotesize (CDV, 2Lic)}\\
 
 %%%%%%%%%%378%%%%%%%%%%%
-\noindent  \ref{reg-378}  {\bfseries Solución de problemas de división justa por medio de programación lineal.}\\
+\noindent  \ref{reg-378}  {\bfseries Solución de problemas de división justa por medio de programación lineal}\\
 {\slshape  Francisco Sánchez Sánchez} {\footnotesize (RI, Inv)}\\
 
 %%%%%%%%%%1031%%%%%%%%%%%
@@ -267,14 +241,14 @@
 
 %%%%%%%%%%1658%%%%%%%%%%%
 \noindent  \ref{reg-1658}  {\bfseries Sobre la función de producción agregada neoclásica de la teoría macroeconómica}\\
-{\slshape  Sergio  Hernández Castañeda} {\footnotesize (CDV, FALTA)}\\
+{\slshape  Sergio  Hernández Castañeda (Invitado)} {\footnotesize (CDV, FALTA)}\\
 
 %%%%%%%%%%1398%%%%%%%%%%%
 \noindent  \ref{reg-1398}  {\bfseries Midiendo la contribución de las variables de un índice en los cambios del mismo}\\
-{\slshape  Leobardo Pedro Plata Pérez} {\footnotesize (CI, Inv)}\\
+{\slshape  Leobardo Pedro Plata Pérez (Invitado)} {\footnotesize (CI, Inv)}\\
 
 %%%%%%%%%%534%%%%%%%%%%%
-\noindent  \ref{reg-534}  {\bfseries Modelo IS-LM: Políticas Fiscales y Económicas.}\\
+\noindent  \ref{reg-534}  {\bfseries Modelo IS-LM: Políticas Fiscales y Económicas}\\
 {\slshape  Karmín  Carrasco Chávez} {\footnotesize (FALTA, FALTA)}\\
 
 %%%%%%%%%%1059%%%%%%%%%%%
@@ -286,7 +260,7 @@
 {\slshape  José Carlos González Núñez} {\footnotesize (RI, Inv)}\\
 
 %%%%%%%%%%1052%%%%%%%%%%%
-\noindent  \ref{reg-1052}  {\bfseries Comparativo de escenarios ante crisis económicas y el desarrollo de la industria mexicana y el comercio exterior. Periodo 2004-2011.}\\
+\noindent  \ref{reg-1052}  {\bfseries Comparativo de escenarios ante crisis económicas y el desarrollo de la industria mexicana y el comercio exterior. Periodo 2004-2011}\\
 {\slshape  Héctor  López-Gama} {\footnotesize (RI, Inv)}\\
 
 %%%%%%%%%%1737%%%%%%%%%%%
@@ -295,7 +269,7 @@
 
 %%%%%%%%%%356%%%%%%%%%%%
 \noindent  \ref{reg-356}  {\bfseries Una introducción a los métodos y usos de la econometría de panel}\\
-{\slshape  Antonio  Ruiz Porras} {\footnotesize (CPI, Pos)}\\
+{\slshape  Antonio  Ruiz Porras (Invitado)} {\footnotesize (CPI, Pos)}\\
 
 
 

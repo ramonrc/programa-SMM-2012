@@ -12,8 +12,8 @@
       &
      &
     \ref{reg-1708} &
-    \ref{reg-424} &
-     \ref{reg-387} \\
+    {\bfseries \ref{reg-424}} &
+   {\bfseries  \ref{reg-387}} \\
 \cline{1-1}\cline{3-6}
 {\hfill 10:00-10:20 \hfill} &
      Inauguración &
@@ -51,7 +51,7 @@
       &
     &
   \ref{reg-584}   &
- \ref{reg-287}   &
+{\bfseries \ref{reg-287} }  &
  \ref{reg-1137} \\
 \cline{1-6}
 {\hfill 12:50-13:00 \hfill} &
@@ -87,7 +87,7 @@
      &
      &
     &
-   \ref{reg-376}  &
+ {\bfseries  \ref{reg-376} } &
  \ref{reg-1331}   \\
 \cline{1-3}\cline{6-6}
 {\hfill 17:20-17:40 \hfill} &
@@ -129,9 +129,15 @@
    {\bfseries Asamblea General } &
    {\bfseries Clausura } \\
 \cline{1-3}\cline{5-6}
+{\hfill  \hfill} &
+ {\bfseries HOMENAJE} &
+   {\bfseries HOMENAJE} &
+       &
+    &
+    \\
 {\hfill 19:50-21:50 \hfill} &
- {\bfseries HOMENAJE  ERNESTO} &
-   {\bfseries HOMENAJE FRANCISCO} &
+ {\bfseries  ERNESTO } &
+   {\bfseries FRANCISCO} &
        &
     &
     \\
@@ -143,7 +149,7 @@
     \\
 \cline{1-6}
 \hline[1pt]
-\multicolumn{6}{|c|}{\large\bfseries Salón}\\
+\multicolumn{6}{|c|}{\large\bfseries Salón I1}\\
 \hline
 \end{tabular}
 \end{center}
@@ -158,7 +164,7 @@
 
 %%%%%%%%%%1577%%%%%%%%%%%
 \noindent  \ref{reg-1577}  {\bfseries La distribuci\'on y propiedades aritm\'eticas de sucesiones en campos primos}\\
-{\slshape  Victor Cuauhtemoc García Hernández} {\footnotesize (CI, Pos)}\\
+{\slshape  Víctor Cuauhtemoc García Hernández} {\footnotesize (CI, Pos)}\\
 
 %%%%%%%%%%1517%%%%%%%%%%%
 \noindent  \ref{reg-1517}  {\bfseries Group Arithmetic in $C_{3,5}$ Curves}\\
@@ -174,7 +180,7 @@
 
 %%%%%%%%%%424%%%%%%%%%%%
 \noindent  \ref{reg-424}  {\bfseries N\'umeros de Carmichael en varias sucesiones}\\
-{\slshape  Florian  Luca} {\footnotesize (CPI, 1Lic)}\\
+{\slshape  Florian  Luca (Invitado)} {\footnotesize (CPI, 1Lic)}\\
 
 %%%%%%%%%%1188%%%%%%%%%%%
 \noindent  \ref{reg-1188}  {\bfseries La Conjetura de Giuga}\\
@@ -190,15 +196,15 @@
 
 %%%%%%%%%%287%%%%%%%%%%%
 \noindent  \ref{reg-287}  {\bfseries Aplicaciones en Criptograf\'\i a de la Teor\'\i a de N\'umeros}\\
-{\slshape  Guillermo Benito Morales-Luna} {\footnotesize (CPI, 2Lic)}\\
+{\slshape  Guillermo Benito Morales-Luna (Invitado)} {\footnotesize (CPI, 2Lic)}\\
 
 %%%%%%%%%%376%%%%%%%%%%%
 \noindent  \ref{reg-376}  {\bfseries El anillo $\mathbb Z_{p^n}$ y Teor\'\i a de C\'odigos}\\
-{\slshape  Horacio  Tapia-Recillas} {\footnotesize (CDV, Seleccionar)}\\
+{\slshape  Horacio  Tapia-Recillas (Invitado)} {\footnotesize (CDV, Seleccionar)}\\
 
 %%%%%%%%%%387%%%%%%%%%%%
 \noindent  \ref{reg-387}  {\bfseries Aritmética y Física de Sistemas Complejos}\\
-{\slshape  Wilson Alvaro Zuñiga Galindo} {\footnotesize (CPI, Pos)}\\
+{\slshape  Wilson Alvaro Zuñiga Galindo (Invitado)} {\footnotesize (CPI, Pos)}\\
 
 %%%%%%%%%%765%%%%%%%%%%%
 \noindent  \ref{reg-765}  {\bfseries El anillo de adeles como un espacio métrico}\\
@@ -209,12 +215,12 @@
 {\slshape  Edwin  León Cardenal} {\footnotesize (CPI, Pos)}\\
 
 %%%%%%%%%%370%%%%%%%%%%%
-\noindent  \ref{reg-370}  {\bfseries Un análogo del método de Frobenius para ecuaciones pseudo-diferenciales sobre cuerpos p-ádicos.}\\
+\noindent  \ref{reg-370}  {\bfseries Un análogo del método de Frobenius para ecuaciones pseudo-diferenciales sobre cuerpos p-ádicos}\\
 {\slshape  Leonardo Fabio Chacon Cortes} {\footnotesize (RT, Pos)}\\
 
 %%%%%%%%%%1137%%%%%%%%%%%
 \noindent  \ref{reg-1137}  {\bfseries Indice de maximalidad y la funci\'on zeta de Goss}\\
-{\slshape  Victor Manuel Bautista Ancona} {\footnotesize (CI, 2Lic)}\\
+{\slshape  Víctor Manuel Bautista Ancona} {\footnotesize (CI, 2Lic)}\\
 
 %%%%%%%%%%1171%%%%%%%%%%%
 \noindent  \ref{reg-1171}  {\bfseries Inversión de Möbius: Generalización y aplicaciones}\\

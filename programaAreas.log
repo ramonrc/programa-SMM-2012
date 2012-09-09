@@ -1,20 +1,21 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (PuffTeX-2009) (format=pdflatex 2012.9.1)  2 SEP 2012 11:37
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=latex 2012.8.30)  7 SEP 2012 11:32
 entering extended mode
- %&-line parsing enabled.
-**programaAreas
-(./programaAreas.tex
+**programaAreas.tex
+(H:\2012\PROGRAMA-SMM-2012\programaAreas.tex
 LaTeX2e <2009/09/24>
-Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
-yphenation, german-x-2009-06-19, ngerman-x-2009-06-19, ancientgreek, ibycus, ar
-abic, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danish, dutc
-h, esperanto, estonian, farsi, finnish, french, galician, german, ngerman, mono
-greek, greek, hungarian, icelandic, indonesian, interlingua, irish, italian, ku
-rmanji, latin, latvian, lithuanian, mongolian, mongolian2a, bokmal, nynorsk, po
-lish, portuguese, romanian, russian, sanskrit, serbian, slovak, slovenian, span
-ish, swedish, turkish, ukenglish, ukrainian, uppersorbian, welsh, loaded.
-(/usr/local/share/texmf-dist/tex/latex/base/book.cls
+Babel <v3.8l> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\book.cls"
 Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/local/share/texmf-dist/tex/latex/base/bk10.clo
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\bk10.clo"
 File: bk10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -30,24 +31,24 @@ File: bk10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/local/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
 Package: amsmath 2000/07/18 v2.13 AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-(/usr/local/share/texmf-dist/tex/latex/amsmath/amstext.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
 Package: amstext 2000/06/29 v2.01
 
-(/usr/local/share/texmf-dist/tex/latex/amsmath/amsgen.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks14
 \ex@=\dimen103
 ))
-(/usr/local/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen104
 )
-(/usr/local/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count88
@@ -88,24 +89,24 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 LaTeX Info: Redefining \[ on input line 2666.
 LaTeX Info: Redefining \] on input line 2667.
 )
-(/usr/local/share/texmf-dist/tex/latex/amsmath/amscd.sty
-Package: amscd 1999/11/29 v1.2d
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amscd.sty"
+Package: amscd 1999/11/29 v2.0
 \athelp@=\toks19
 \minaw@=\dimen112
 \bigaw@=\dimen113
 \minCDarrowwidth=\dimen114
 )
-(/usr/local/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
 Package: amssymb 2009/06/22 v3.00
 
-(/usr/local/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
 Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
 ))
-(/usr/local/share/texmf-dist/tex/latex/amscls/amsthm.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\classes\amsthm.sty"
 Package: amsthm 2004/08/06 v2.20
 \thm@style=\toks20
 \thm@bodyfont=\toks21
@@ -117,13 +118,13 @@ Package: amsthm 2004/08/06 v2.20
 \thm@headsep=\skip48
 \dth@everypar=\toks25
 )
-(/usr/local/share/texmf-dist/tex/latex/base/latexsym.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\latexsym.sty"
 Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
 \symlasy=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
 (Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
 )
-(/usr/local/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
 \fancy@headwidth=\skip49
 \f@ncyO@elh=\skip50
 \f@ncyO@erh=\skip51
@@ -134,7 +135,7 @@ LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
 \f@ncyO@olf=\skip56
 \f@ncyO@orf=\skip57
 )
-(/usr/local/share/texmf-dist/tex/latex/tools/multicol.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\multicol.sty"
 Package: multicol 2008/12/05 v1.6h multicolumn formatting (FMi)
 \c@tracingmulticols=\count100
 \mult@box=\box28
@@ -181,57 +182,57 @@ Package: multicol 2008/12/05 v1.6h multicolumn formatting (FMi)
 \mult@nat@firstbox=\box52
 \colbreak@box=\box53
 )
-(/usr/local/share/texmf-dist/tex/latex/multirow/multirow.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
 \bigstrutjot=\dimen123
 )
-(/usr/local/share/texmf-dist/tex/latex/graphics/graphicx.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/share/texmf-dist/tex/latex/graphics/keyval.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks26
 )
-(/usr/local/share/texmf-dist/tex/latex/graphics/graphics.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/share/texmf-dist/tex/latex/graphics/trig.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/local/share/texmf-dist/tex/latex/latexconfig/graphics.cfg
-File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: dvipdfm.def on input line 91.
 
-(/usr/local/share/texmf/tex/latex/dvipdfm/dvipdfm.def
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\dvipdfm.def"
 File: dvipdfm.def 1999/9/6 vx.x Driver-dependant file
 ))
 \Gin@req@height=\dimen124
 \Gin@req@width=\dimen125
 )
-(/usr/local/share/texmf-dist/tex/latex/eulervm/eulervm.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\eulervm\eulervm.sty"
 Package: eulervm 2005/01/11 v4.0 (WaS)
 )
-(/usr/local/share/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\jknappen\mathrsfs.sty"
 Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
 \symrsfs=\mathgroup7
 )
-(/usr/local/share/texmf-dist/tex/latex/esint/esint.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\esint\esint.sty"
 Package: esint 
 \symlargesymbolsA=\mathgroup8
 )
-(/usr/local/share/texmf-dist/tex/latex/doublestroke/dsfont.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\dstroke\dsfont.sty"
 Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
 )
-(/usr/local/share/texmf-dist/tex/latex/vmargin/vmargin.sty
-Package: vmargin 2004/07/15 V2.5 set document margins (VK)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ieeepes\vmargin.sty"
+Package: vmargin 1999/06/01
 
-Package: vmargin 2004/07/15 V2.5 set document margins (VK)
+Package `vmargin', V2.2, <1999/06/01>
 \PaperWidth=\dimen126
 \PaperHeight=\dimen127
-) (/usr/local/share/texmf-dist/tex/latex/base/makeidx.sty
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\makeidx.sty"
 Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
 )
-(/usr/local/share/texmf-dist/tex/latex/tabls/tabls.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tabls\tabls.sty"
 \tablinesep=\dimen128
 \arraylinesep=\dimen129
 \extrarulesep=\dimen130
@@ -239,20 +240,26 @@ Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
 \@arstheight=\dimen132
 \@skip@bove=\dimen133
 )
-(/usr/local/share/texmf-dist/tex/latex/base/fontenc.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-(/usr/local/share/texmf-dist/tex/latex/base/t1enc.def
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.def"
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
-(/usr/local/share/texmf-dist/tex/generic/babel/babel.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
 Package: babel 2008/07/06 v3.8l The Babel package
 
-(/usr/local/share/texmf-dist/tex/generic/babel/spanish.ldf
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\spanish.ldf"
 Language: spanish.ldf 2009/01/02 v5.0h Spanish support from the babel system
 
-(/usr/local/share/texmf-dist/tex/generic/babel/babel.def
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
 File: babel.def 2008/07/06 v3.8l Babel common definitions
 \babel@savecnt=\count108
 \U@D=\dimen134
@@ -267,8 +274,8 @@ Package babel Info: Making > an active character on input line 630.
 ))
 \c@lema=\count111
 
-(/usr/local/share/texmf-dist/tex/latex/titlesec/titlesec.sty
-Package: titlesec 2007/08/12 v2.8 Sectioning titles
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
+Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \ttl@box=\box54
 \beforetitleunit=\skip60
 \aftertitleunit=\skip61
@@ -280,13 +287,9 @@ Package: titlesec 2007/08/12 v2.8 Sectioning titles
 \titlewidthfirst=\dimen139
 )
 \@indexfile=\write3
-\openout3 = `programaAreas.idx'.
-
 
 Writing index file programaAreas.idx
-(./programaAreas.aux)
-\openout1 = `programaAreas.aux'.
-
+(H:\2012\PROGRAMA-SMM-2012\programaAreas.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
 LaTeX Font Info:    ... okay on input line 56.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
@@ -299,107 +302,74 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
 LaTeX Font Info:    ... okay on input line 56.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
 LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Try loading font information for U+zeur on input line 82.
- (/usr/local/share/texmf-dist/tex/latex/eulervm/uzeur.fd
-File: uzeur.fd 2005/01/11 v4.0 (WaS)
-)
-LaTeX Font Info:    Try loading font information for U+zeus on input line 82.
 
-(/usr/local/share/texmf-dist/tex/latex/eulervm/uzeus.fd
-File: uzeus.fd 2005/01/11 v4.0 (WaS)
-)
-LaTeX Font Info:    Try loading font information for U+zeuex on input line 82.
+Cap\'{\i }tulo 1.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 103.
 
-(/usr/local/share/texmf-dist/tex/latex/eulervm/uzeuex.fd
-File: uzeuex.fd 2005/01/11 v4.0 (WaS)
-)
-LaTeX Font Info:    Try loading font information for U+lasy on input line 82.
-
-(/usr/local/share/texmf-dist/tex/latex/base/ulasy.fd
-File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
-)
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 82.
-
-(/usr/local/share/texmf-dist/tex/latex/jknapltx/ursfs.fd
-File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-)
-LaTeX Font Info:    Try loading font information for U+esint on input line 82.
-
-(/usr/local/share/texmf-dist/tex/latex/esint/uesint.fd
-File: uesint.fd 
-)
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 84.
-
-(/usr/local/share/texmf-dist/tex/latex/base/t1cmss.fd
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1cmss.fd"
 File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-File: smm_relleno_claro.eps Graphic file (type eps)
- <smm_relleno_claro.eps>
-[1
+(H:\2012\PROGRAMA-SMM-2012\areas/horarios/Carteles.tex
+LaTeX Font Info:    Try loading font information for U+zeur on input line 4.
 
-
-
-{/usr/local/share/texmf/fonts/map/pdftex/updmap/pdftex.map}
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!]
-LaTeX Font Info:    Try loading font information for T1+pag on input line 126.
-
-(/usr/local/share/texmf-dist/tex/latex/psnfss/t1pag.fd
-File: t1pag.fd 2001/06/04 font definitions for T1/pag.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\eulervm\uzeur.fd"
+File: uzeur.fd 2005/01/11 v4.0 (WaS)
 )
-LaTeX Font Info:    Font shape `T1/pag/bx/sl' in size <10> not available
-(Font)              Font shape `T1/pag/b/sl' tried instead on input line 126.
-LaTeX Font Info:    Font shape `T1/pag/b/sl' in size <10> not available
-(Font)              Font shape `T1/pag/db/sl' tried instead on input line 126.
+LaTeX Font Info:    Try loading font information for U+zeus on input line 4.
 
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\eulervm\uzeus.fd"
+File: uzeus.fd 2005/01/11 v4.0 (WaS)
+)
+LaTeX Font Info:    Try loading font information for U+zeuex on input line 4.
 
-Package Fancyhdr Warning: \headheight is too small (0.0pt): 
- Make it at least 12.0pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\eulervm\uzeuex.fd"
+File: uzeuex.fd 2005/01/11 v4.0 (WaS)
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 4.
 
-LaTeX Font Info:    Font shape `T1/pag/bx/sc' in size <10> not available
-(Font)              Font shape `T1/pag/b/sc' tried instead on input line 126.
-LaTeX Font Info:    Font shape `T1/pag/b/sc' in size <10> not available
-(Font)              Font shape `T1/pag/db/sc' tried instead on input line 126.
-[2] (./programaAreas.toc)
-\tf@toc=\write4
-\openout4 = `programaAreas.toc'.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ulasy.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 4.
 
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\jknappen\ursfs.fd"
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+LaTeX Font Info:    Try loading font information for U+esint on input line 4.
 
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.94pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[3
-
-] [4
-
-] (./otros/presentacion.tex) [1] (./otros/comites.tex
-Overfull \hbox (13.68341pt too wide) in paragraph at lines 6--62
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--62
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\esint\uesint.fd"
+File: uesint.fd 
+)
+Underfull \hbox (badness 10000) in paragraph at lines 125--127
 
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 129--131
 
- [2]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ []
 
- [3])
-[4] (./otros/abrev.tex) [5] [6
 
-]
-Cap\'{\i }tulo 1.
-(./areas/horarios/MatFin.tex
+Underfull \hbox (badness 10000) in paragraph at lines 133--135
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--143
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--147
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 149--151
 
  []
@@ -419,7 +389,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 161--163
 
  []
 
+LaTeX Font Info:    Try loading font information for T1+pag on input line 163.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1pag.fd"
+File: t1pag.fd 2001/06/04 font definitions for T1/pag.
+)
+LaTeX Font Info:    Font shape `T1/pag/bx/sl' in size <10> not available
+(Font)              Font shape `T1/pag/b/sl' tried instead on input line 163.
+LaTeX Font Info:    Font shape `T1/pag/b/sl' in size <10> not available
+(Font)              Font shape `T1/pag/db/sl' tried instead on input line 163.
 
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 12.25pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[1
+
+
+
+
+]
 Underfull \hbox (badness 10000) in paragraph at lines 165--167
 
  []
@@ -449,7 +439,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 185--187
 
  []
 
-[7]
+
 Underfull \hbox (badness 10000) in paragraph at lines 189--191
 
  []
@@ -554,60 +544,392 @@ Underfull \hbox (badness 10000) in paragraph at lines 269--271
 
  []
 
-) [8]
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--275
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--279
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 281--283
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--287
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--291
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--295
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--299
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--303
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--307
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--311
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--315
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--319
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--323
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 325--327
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--331
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--335
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 337--339
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--343
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 345--347
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--351
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--355
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--359
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 361--363
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 365--367
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 369--371
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 373--375
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--379
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--383
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 385--387
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--391
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 393--395
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--399
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 401--403
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 405--407
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--411
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--415
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 417--419
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 421--423
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 425--427
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 429--431
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 433--435
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 437--439
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--443
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--447
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 449--451
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 453--455
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--459
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 461--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--467
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 469--471
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 473--475
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 477--479
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--483
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--487
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 489--491
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--495
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 497--499
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 501--503
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 505--507
+
+ []
+
+[4])
 Cap\'{\i }tulo 2.
-(./areas/resumenes/MatFin.tex
+(H:\2012\PROGRAMA-SMM-2012\areas/resumenes/Carteles.tex
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 5.
 
-(/usr/local/share/texmf-dist/tex/latex/base/t1cmtt.fd
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
 File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+) [5
+
+] [6] [7]
+[8] [9] [10]
+LaTeX Font Info:    Try loading font information for U+dsrom on input line 130.
+
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\dstroke\udsrom.fd"
+File: Udsrom.fd 1995/08/01 v0.1 Double stroke roman font definitions
 )
-Underfull \vbox (badness 1194) has occurred while \output is active []
+[11]
+Underfull \vbox (badness 2547) has occurred while \output is active []
 
- [9
+ [12]
+[13]
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 159
+.
+LaTeX Font Info:    No file OMScmss.fd. on input line 159.
 
-]
-[10] [11] [12] [13] [14] [15]) [16] (./programaAreas.ind [17] [18
+
+LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbullet' on input line 159.
+
+[14] [15]
+Overfull \hbox (1.85933pt too wide) in paragraph at lines 194--198
+[]\T1/cmss/bx/n/10 María Ele-na Var-gas Mar-tí-nez\T1/cmss/m/n/10 , \T1/cmtt/m/
+n/10 m.elena_vargas.m@hotmail.com \T1/cmss/m/it/10 (Be-ne-mé-ri-ta Uni-ver-si-d
+ad Au-tó-no-ma de Pue-bla (BUAP)) 
+ []
+
+[16] [17] [18] [19]
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
+
+ []
 
 
-]) [19
+Underfull \hbox (badness 10000) in paragraph at lines 277--277
 
-]
-[20] [21] (./programaAreas.aux) ) 
+ []
+
+[20] [21] [22]
+Overfull \hbox (5.65562pt too wide) in paragraph at lines 351--354
+[]\T1/cmss/bx/n/10 Cutberto Ro-me-ro Me-lén-dez\T1/cmss/m/n/10 , \T1/cmtt/m/n/1
+0 cutberto@correo.azc.uam.mx \T1/cmss/m/it/10 (Uni-ver-si-dad Au-tó-no-ma Metro
+politana-Azcapotzalco (UAM-
+ []
+
+[23] [24]
+Overfull \hbox (7.41908pt too wide) in paragraph at lines 378--381
+[]\T1/cmss/bx/n/10 Aurelia Gon-zá-lez Mi-guel\T1/cmss/m/n/10 , \T1/cmtt/m/n/10 
+aureliagonzalezmiguel@hotmail.com \T1/cmss/m/it/10 (Be-ne-mé-ri-ta Uni-ver-si-d
+ad Au-tó-no-ma de Pue-bla (BUAP)) 
+ []
+
+[25] [26]
+Overfull \hbox (8.19112pt too wide) in paragraph at lines 431--435
+[]\T1/cmss/bx/n/10 Lucero Gua-da-lu-pe Con-tre-ras Her-nán-dez\T1/cmss/m/n/10 ,
+ \T1/cmtt/m/n/10 lucero1602@gmail.com \T1/cmss/m/it/10 (Be-ne-mé-ri-ta Uni-ver-
+si-dad Au-tó-no-ma de Pue-bla (BUAP).
+ []
+
+[27]) (H:\2012\PROGRAMA-SMM-2012\programaAreas.ind [28]
+
+Package Fancyhdr Warning: \headheight is too small (12.25pt): 
+ Make it at least 13.94pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[29
+
+] [30] [31
+
+]) (H:\2012\PROGRAMA-SMM-2012\programaAreas.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
 Here is how much of TeX's memory you used:
- 3361 strings out of 493848
- 40697 string characters out of 3151834
- 116956 words of memory out of 3000000
- 6496 multiletter control sequences out of 15000+200000
- 44075 words of font info for 102 fonts, out of 3000000 for 9000
+ 3449 strings out of 494020
+ 42839 string characters out of 3143902
+ 120136 words of memory out of 3000000
+ 6613 multiletter control sequences out of 15000+200000
+ 35065 words of font info for 96 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 37i,11n,43p,3912b,506s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/local/share/texmf-dist/fonts/enc/dvips/c
-m-super/cm-super-t1.enc}{/usr/local/share/texmf-dist/fonts/enc/dvips/base/8r.en
-c}</usr/local/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/l
-ocal/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/share
-/texmf-dist/fonts/type1/public/amsfonts/euler/eufm10.pfb></usr/local/share/texm
-f-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb></usr/local/share/texmf-dis
-t/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/share/texmf-dist/fonts/t
-ype1/public/cm-super/sfbx1200.pfb></usr/local/share/texmf-dist/fonts/type1/publ
-ic/cm-super/sfbx1440.pfb></usr/local/share/texmf-dist/fonts/type1/public/cm-sup
-er/sfrm1000.pfb></usr/local/share/texmf-dist/fonts/type1/public/cm-super/sfsi10
-00.pfb></usr/local/share/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb></
-usr/local/share/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local
-/share/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/share/te
-xmf-dist/fonts/type1/public/cm-super/sfss1728.pfb></usr/local/share/texmf-dist/
-fonts/type1/public/cm-super/sfss2488.pfb></usr/local/share/texmf-dist/fonts/typ
-e1/public/cm-super/sfsx0800.pfb></usr/local/share/texmf-dist/fonts/type1/public
-/cm-super/sfsx1000.pfb></usr/local/share/texmf-dist/fonts/type1/public/cm-super
-/sfsx1200.pfb></usr/local/share/texmf-dist/fonts/type1/public/cm-super/sfsx1440
-.pfb></usr/local/share/texmf-dist/fonts/type1/public/cm-super/sfsx2488.pfb></us
-r/local/share/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/s
-hare/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/local/share/texm
-f-dist/fonts/type1/urw/avantgar/uagd8a.pfb></usr/local/share/texmf-dist/fonts/t
-ype1/urw/avantgar/uagdo8a.pfb>
-Output written on programaAreas.pdf (25 pages, 446578 bytes).
-PDF statistics:
- 177 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 34i,15n,43p,10360b,626s stack positions out of 5000i,500n,10000p,200000b,50000s
 
+Output written on programaAreas.dvi (31 pages, 241404 bytes).

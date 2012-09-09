@@ -79,11 +79,11 @@
 \begin{titlepage}
 
 \begin{center}
-{Huge   }
-\vskip 7cm
+$ \;\;\;\;$\\
+\vskip 5cm
 {\Huge{\sffamily XLV Congreso Nacional\\Sociedad Matem\'atica Mexicana}}\\
 \vskip 7cm
-{\LARGE\sffamily Quéretaro, Quéretaro}\\
+{\LARGE\sffamily Querétaro, Querétaro}\\
 \vskip 0.3cm
 {\LARGE\sffamily 28 de octubre al 2 de noviembre de 2012}\\
 \vskip 0.3cm
@@ -105,7 +105,7 @@
 \renewcommand{\sectionmark}[1]{\markright{\thesection\ #1}}
 \renewcommand{\headrulewidth}{0.5pt}
 \renewcommand{\footrulewidth}{0.3pt}
-
+\def\indexname{\'Indice de expositores}
 \fancyhf{}
 \fancyhead[LO,RE]{\headfont\nouppercase\leftmark}
 \fancyfoot[LO,RE]{\footfont\nouppercase\rightmark}
@@ -129,42 +129,82 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%                 COMITE             %%%%%%%%%%%%
+%%%%%%%%%%%%                 PRESENTACION             %%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+\chapter{Presentaci\'on}
 {\sffamily
 \input{otros/presentacion}
 \newpage
 \input{otros/comites}
 \newpage
 \input{otros/abrev}
-
 }
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%                 HORARIOS             %%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\chapter{Tabla de horarios}
-
+\chapter{Plenarias}
 {\sffamily
 \input{areas/horarios/Plenarias}
-%\input{areas/horarios/Alge}
-%\input{areas/horarios/Ana}
+\input{areas/resumenes/Plenarios}
+}
+
+\chapter{Semblanzas}
+{\sffamily
+\input{otros/semblanzas}
+}
+
+\chapter{Homenajes}
+
+\chapter{The 16th workshop on Eliptic Curve Criptography}
+
+\chapter{1er Congreso Nacional de AMITE}
+
+\chapter{Mesas Redondas}
+
+\chapter{Sesiones Especiales}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%           AREAS      HORARIOS             %%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter{Áreas: Horarios}
+
+{\sffamily
+\input{areas/horarios/Alge}
+\input{areas/horarios/Ana}
+\input{areas/horarios/AnaNum}
 \input{areas/horarios/Bio}
 \input{areas/horarios/CieComp}
+\input{areas/horarios/Docen3-1}
 \input{areas/horarios/EcDifAp}
+\input{areas/horarios/Estad}
+%\input{areas/horarios/Expe}
+\input{areas/horarios/FMat}
+\input{areas/horarios/GeoAlg}
 \input{areas/horarios/HisFil}
 \input{areas/horarios/LogFun}
+\input{areas/horarios/MatDisc}
+\input{areas/horarios/MatEdu}
+\input{areas/horarios/MatIng}
+\input{areas/horarios/MatFin}
 \input{areas/horarios/Prob}
 \input{areas/horarios/SisDin}
+%\input{areas/horarios/Talle}
 \input{areas/horarios/TeoNum}
 \input{areas/horarios/TopAlg}
 \input{areas/horarios/TopGen}
+\input{areas/horarios/Carteles}
 }
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%        HOJAS           %%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Conferencias Panorámicas}
+
+\chapter{Conferencias de Divulgación}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%                 RESUMENES                %%%%%%%%%%%%
@@ -173,33 +213,36 @@
 
 \chapter{Res\'umenes}
 
-{\sffamily
-\input{areas/resumenes/Plenarios}
-\addcontentsline{toc}{section}{Plenarias}
-%\input{areas/resumenes/Alge}
-%\input{areas/resumenes/Ana}
-%\input{areas/resumenes/AnaNum}
+{\sffamily	
+\input{areas/resumenes/Alge}
+\input{areas/resumenes/Ana}
+\input{areas/resumenes/AnaNum}
 \input{areas/resumenes/Bio}
-\addtocounter{section}{3}
 \input{areas/resumenes/cieComp}
-\addtocounter{section}{1}
-
+\input{areas/resumenes/Curs}
 \input{areas/resumenes/EcDifAp}
-\addtocounter{section}{4}
+\input{areas/resumenes/Estad}
+\input{areas/resumenes/Expe}
+\input{areas/resumenes/FMat}
+\input{areas/resumenes/GeoAlg}
 \input{areas/resumenes/HistFil}
 \input{areas/resumenes/LogFun}
-\addtocounter{section}{4}
+\input{areas/resumenes/MatDisc}
+\input{areas/resumenes/MatEdu}
+\input{areas/resumenes/MatIng}
+\input{areas/resumenes/MatFin}
 \input{areas/resumenes/Prob}
 \input{areas/resumenes/SisDin}
-\addtocounter{section}{1}
+\input{areas/resumenes/Talle}
 \input{areas/resumenes/TeoNum}
 \input{areas/resumenes/TopAlg}
 \input{areas/resumenes/TopGen}
+\input{areas/resumenes/Carteles}
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%                 INDICE DE AUTORES        %%%%%%%%%%%%
+%%%%%%%%%%%%                 INDICE DE PONENTES        %%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 

@@ -148,6 +148,52 @@
     &
     \\
 \cline{1-6}
+{\hfill 18:50-19:00 \hfill} &
+    \multicolumn{2}{|c|} {\bfseries Traslado} &
+     &
+  {\bfseries HOMENAJE} &
+  {\bfseries Traslado}  \\
+\cline{1-3}\cline{6-6}
+{\hfill 19:00-19:50 \hfill} &
+ {\bfseries  6 } &
+   {\bfseries  7} &
+       &
+   {\bfseries  JORGE} &
+   {\bfseries Asamblea } \\
+\cline{1-3}
+{\hfill 19:50-20:50  \hfill} &
+  &
+   &
+       &
+  {\bfseries  IZE}  &
+  {\bfseries  General }  \\
+  \cline{1-3}\cline{5-6}
+{\hfill 20:50-21:00 \hfill} &
+  &
+   &
+       &
+  &
+   {\bfseries Traslado } \\
+\cline{1-3}\cline{5-6}
+{\hfill  \hfill} &
+ {\bfseries  HOMENAJE } &
+   {\bfseries HOMENAJE} &
+       &
+    &
+    \\
+     {\hfill 21:00-21:50  \hfill} &
+ {\bfseries  ERNESTO } &
+   {\bfseries FRANCISCO} &
+       &
+    &
+   {\bfseries Clausura} \\
+    {\hfill  \hfill} &
+ {\bfseries  LACOMBA } &
+   {\bfseries RAGGI} &
+       &
+    &
+     \\
+\cline{1-6}
 \hline[1pt]
 \multicolumn{6}{|c|}{\large\bfseries Salón  C1}\\
 \hline
@@ -465,7 +511,7 @@
 {\slshape  José  Martínez-Bernal} {\footnotesize (CPI, Pos)}\\
 
 %%%%%%%%%%1704%%%%%%%%%%%
-\noindent  \ref{reg-1704}  {\bfseries Algebra lineal computacional sobre campos finitos.}\\
+\noindent  \ref{reg-1704}  {\bfseries Algebra lineal computacional sobre campos finitos}\\
 {\slshape  Pedro Ricardo López Bautista} {\footnotesize (CDV, 2Lic)}\\
 
 %%%%%%%%%%843%%%%%%%%%%%

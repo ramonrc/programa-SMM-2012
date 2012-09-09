@@ -50,8 +50,8 @@
 {\hfill 12:00-12:50 \hfill} &
       &
     &
+   \ref{reg-731}  &
  {\bfseries \ref{reg-583}}    &
-  \ref{reg-731}   &
  {\bfseries \ref{reg-703}}  \\
 \cline{1-6}
 {\hfill 12:50-13:00 \hfill} &
@@ -182,9 +182,6 @@
 %%%%%%%%%%1222%%%%%%%%%%%
 \noindent  \ref{reg-1222}  {\bfseries El sueño óptico-geométrico de Bacon: de la pintura medieval al realismo pictórico de fines del siglo XV}\\
 {\slshape  José Rafael Martínez Enríquez} {\footnotesize (CI, Inv)}\\
-
-
-
 
 %%%%%%%%%%690%%%%%%%%%%%
 \noindent  \ref{reg-690}  {\bfseries Una observación a un resultado de Arquímedes}\\

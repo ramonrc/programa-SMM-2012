@@ -13,44 +13,44 @@
 {\hfill 9:00-9:20 \hfill} &
       &
     \ref{reg-1355} &
-    \ref{reg-1098} &
-    \ref{reg-1076} &
-   \ref{reg-1746}  \\
+    \ref{reg-1233} &
+    \ref{reg-1403} &
+   \ref{reg-1281}  \\
 \cline{1-1}\cline{3-6}
 {\hfill 9:20-9:40 \hfill} &
       &
     \ref{reg-485} &
-    \ref{reg-1201} &
-    \ref{reg-528} &
-   \ref{reg-362}  \\
+    \ref{reg-659} &
+    \ref{reg-740} &
+   \ref{reg-1007}  \\
 \cline{1-1}\cline{3-6}
 {\hfill 9:40-10:00 \hfill} &
      Inauguración &
     \ref{reg-836} &
-    \ref{reg-1233} &
-    \ref{reg-726} &
-   \ref{reg-754}  \\
+    \ref{reg-664} &
+    \ref{reg-1795} &
+   \ref{reg-1536}  \\
 \cline{1-1}\cline{3-6}
 {\hfill 10:00-10:20 \hfill} &
       &
-    \ref{reg-354} &
+     &
      &
      &
      \\
 \cline{1-1}\cline{3-6}
 {\hfill 10:20-10:40 \hfill} &
       &
-    \ref{reg-1590} &
-    \ref{reg-659} &
-    \ref{reg-774} &
-   \ref{reg-1078}  \\
+    \ref{reg-354} &
+    \ref{reg-528} &
+    \ref{reg-1746} &
+   \ref{reg-1679}  \\
 \cline{1-6}
 {\hfill 10:40-11:00 \hfill} &
       &
-    \ref{reg-1386} &
-    \ref{reg-527} &
-    \ref{reg-519} &
-   \ref{reg-1281}  \\
+    \ref{reg-1590} &
+    \ref{reg-726} &
+    \ref{reg-362} &
+   \ref{reg-1588}  \\
 \cline{1-1}\cline{3-6}
 {\hfill 11:00-11:30 \hfill} &
      {\bfseries PLENARIA 1 }&
@@ -58,10 +58,10 @@
 \cline{1-6}
 {\hfill 11:40-12:00 \hfill} &
      Traslado &
-    \ref{reg-1296} &
-    \ref{reg-664} &
-    \ref{reg-1403} &
-   \ref{reg-1007}  \\
+    \ref{reg-1386} &
+    \ref{reg-774} &
+    \ref{reg-754} &
+     \\
 \cline{1-6}
 {\hfill 12:00-12:50 \hfill} &
   {\bfseries   \ref{reg-855} } &
@@ -96,22 +96,22 @@
        &
     \ref{reg-1034} &
      &
-   \ref{reg-740}  &
-   \ref{reg-1536}  \\
+     &
+     \\
 \cline{1-1}\cline{3-3}\cline{5-6}
 {\hfill 17:00-17:20 \hfill} &
    {\bfseries \ref{reg-684}}   &
     \ref{reg-1756} &
      &
-   \ref{reg-1795}  &
-   \ref{reg-1679}  \\
+    &
+     \\
 \cline{1-1}\cline{3-3}\cline{5-6}
 {\hfill 17:20-17:40 \hfill} &
        &
-    \ref{reg-1790} &
+    \ref{reg-1554} &
      &
-   \ref{reg-1437}  &
-   \ref{reg-1588}  \\
+     &
+     \\
 \cline{1-3}\cline{5-6}
 {\hfill 17:40-18:10 \hfill} &
      \multicolumn{2}{|c|} {\bfseries Café}&
@@ -120,14 +120,14 @@
 \cline{1-3}\cline{5-6}
 {\hfill 18:10-18:30 \hfill} &
     \ref{reg-348}   &
-   \ref{reg-1554}  &
+   \ref{reg-1557}  &
     &
    {\bfseries PLENARIA  } &
    {\bfseries PLENARIA  } \\
 \cline{1-3}
 {\hfill 18:30-18:50 \hfill} &
     \ref{reg-515}   &
-   \ref{reg-1557}  &
+   \ref{reg-1201}  &
     &
    {\bfseries 8  } &
    {\bfseries 9  } \\
@@ -243,7 +243,7 @@
 
 %%%%%%%%%%%%%1557%%%%%%%%%%%%%%%%%%
 \noindent  \ref{reg-1557}  {\bfseries Ecuación de Schrödinger no lineal no local en intervalo }  \\
-{\slshape Isahi  Sánchez-Suarez} {\footnotesize (CI, Inv)}\\
+{\slshape Isahi  Sánchez-Suárez} {\footnotesize (CI, Inv)}\\
 
 %%%%%%%%%%%%%1201%%%%%%%%%%%%%%%%%%
 \noindent  \ref{reg-1201}  {\bfseries Nuevo esquema de solución al problema inverso de la TCE, con información a priori }  \\
@@ -262,8 +262,7 @@
 {\slshape Felix Augusto Aquino Camacho} {\footnotesize (RT, Pos)}\\
 
 %%%%%%%%%%%%%528%%%%%%%%%%%%%%%%%%
-\noindent  \ref{reg-528}  {\bfseries El método de los valores propios para resolver sistemas de ecuaciones diferenciales lineales con coeficientes constantes y la forma canónica de Jordan}\\ 
-{\slshape Lorena  Álvarez López} {\footnotesize (RT, 2Lic)}\\
+\noindent  \ref{reg-528}  {\bfseries El método de los valores propios para resolver sistemas de ecuaciones diferenciales lineales con coeficientes constantes y la forma canónica de Jordan}\\ {\slshape Lorena  Álvarez López} {\footnotesize (RT, 2Lic)}\\
 
 %%%%%%%%%%%%%726%%%%%%%%%%%%%%%%%%
 \noindent  \ref{reg-726}  {\bfseries Cómputo de eigenvalores reales y complejos para problemas } \\
@@ -287,11 +286,11 @@
 
 %%%%%%%%%%%%%1795%%%%%%%%%%%%%%%%%%
 \noindent  \ref{reg-1795}  {\bfseries Factores integrantes vía simetrías de Lie } \\
-{\slshape María Berenice Contreras Ortega} {\footnotesize (Seleccionar, Seleccionar)}\\
+{\slshape María Berenice Contreras Ortega} {\footnotesize (FALTA, FALTA)}\\
 
 %%%%%%%%%%%%%1746%%%%%%%%%%%%%%%%%%
 \noindent  \ref{reg-1746}  {\bfseries Sobre la matemática del Problema de Kepler } \\
-{\slshape Martha  Alvarez Ramírez} {\footnotesize (CDV, 2Lic)}\\
+{\slshape Martha  Álvarez Ramírez} {\footnotesize (CDV, 2Lic)}\\
 
 %%%%%%%%%%%%%362%%%%%%%%%%%%%%%%%%
 \noindent  \ref{reg-362}  {\bfseries On the restricted three body problem with oblate primaries } \\
@@ -319,7 +318,7 @@
 
 %%%%%%%%%%%%%1679%%%%%%%%%%%%%%%%%%
 \noindent  \ref{reg-1679}  {\bfseries La Latiz de FPU como perturbación de la latiz de Toda } \\
-{\slshape Jesus Adrian Espinola Rocha} {\footnotesize (RI, Inv)}\\
+{\slshape Jesús Adrian Espinola Rocha} {\footnotesize (RI, Inv)}\\
 
 %%%%%%%%%%%%%1588%%%%%%%%%%%%%%%%%%
 \noindent  \ref{reg-1588}  {\bfseries Método SPPS para la solución del problema de una cuerda vibrante } \\
@@ -531,7 +530,7 @@
 {\slshape Faustino Ricardo García Sosa} {\footnotesize (RI, 2Lic)}\\
 
 %%%%%%%%%%%%%1064%%%%%%%%%%%%%%%%%%
-\noindent  \ref{reg-1064}  {\bfseries Ecuaciones Lotka-Volterra-Kolmogorov y sistemas dinamicos } \\
+\noindent  \ref{reg-1064}  {\bfseries Ecuaciones Lotka-Volterra-Kolmogorov y sistemas dinámicos } \\
 {\slshape Genaro  De la Vega Rivera} {\footnotesize (RT, Inv)}\\
 
 %%%%%%%%%%%%%549%%%%%%%%%%%%%%%%%%

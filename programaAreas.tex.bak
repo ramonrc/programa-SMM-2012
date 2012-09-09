@@ -75,29 +75,7 @@
 %%% fuentes para la cabecera y pie de cada pÃ¡gina
 \newcommand{\headfont}{\bfseries\slshape\pagfamily}
 \newcommand{\footfont}{\bfseries\slshape\pagfamily}
-
-\begin{titlepage}
-
-\begin{center}
-$ \;\;\;\;$\\
-\vskip 5cm
-{\Huge{\sffamily XLV Congreso Nacional\\Sociedad Matem\'atica Mexicana}}\\
-\vskip 7cm
-{\LARGE\sffamily Quéretaro, Quéretaro}\\
-\vskip 0.3cm
-{\LARGE\sffamily 28 de octubre al 2 de noviembre de 2012}\\
-\vskip 0.3cm
-{\LARGE\sffamily Sede: Universidad Autónoma de Querétaro}\\
-\vskip 0.3cm
-\end{center}
-
-\vskip 2cm
-
-\begin{figure}[h]
-\centering
-\scalebox{0.9}[0.9]{\includegraphics{smm_relleno_claro.eps}}
-\end{figure}
-\end{titlepage}
+\def\indexname{\'Indice de expositores}
 
 \pagestyle{empty}
 
@@ -112,35 +90,10 @@ $ \;\;\;\;$\\
 \fancyfoot[LE,RO]{\footfont\thepage}
 \fancypagestyle{plain}{}
 
-%%%%%%%%%%%%
-%%%% Es esta parte va la informacion de la portada, segunda de forros y fotos.
-%%%%%%%%%%%%
-\newpage $\;\;$
-
-%% Primeras paginas del programa, incluidas por el impresor...
-\setcounter{page}{2}
-
 \pagestyle{fancy}
-
-\setcounter{tocdepth}{1}
-\tableofcontents
 
 \mainmatter
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%                 COMITE             %%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-{\sffamily
-\input{otros/presentacion}
-\newpage
-\input{otros/comites}
-\newpage
-\input{otros/abrev}
-
-}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -150,24 +103,33 @@ $ \;\;\;\;$\\
 \chapter{Tabla de horarios}
 
 {\sffamily
+%\input{areas/horarios/General}
 %\input{areas/horarios/Plenarias}
 %\input{areas/horarios/Alge}
 %\input{areas/horarios/Ana}
 %\input{areas/horarios/AnaNum}
 %\input{areas/horarios/Bio}
 %\input{areas/horarios/CieComp}
-\input{areas/horarios/Curs}
+%\input{areas/horarios/Docen3-1}
+%\input{areas/horarios/Curs}
 %\input{areas/horarios/EcDifAp}
 %\input{areas/horarios/Estad}
+%\input{areas/horarios/Expe}
+%\input{areas/horarios/FMat}
 %\input{areas/horarios/GeoAlg}
 %\input{areas/horarios/HisFil}
 %\input{areas/horarios/LogFun}
-%\input{areas/horarios/MatEdu}
+%\input{areas/horarios/MatDisc}
+\input{areas/horarios/MatEdu}
+%\input{areas/horarios/MatIng}
+%\input{areas/horarios/MatFin}
 %\input{areas/horarios/Prob}
 %\input{areas/horarios/SisDin}
+%\input{areas/horarios/Talle}
 %\input{areas/horarios/TeoNum}
 %\input{areas/horarios/TopAlg}
 %\input{areas/horarios/TopGen}
+%\input{areas/horarios/Carteles}
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -190,22 +152,30 @@ $ \;\;\;\;$\\
 %\input{areas/resumenes/Bio}
 %\addtocounter{section}{4}
 %\input{areas/resumenes/cieComp}
-\addtocounter{section}{5}
-\input{areas/resumenes/Curs}
+%\addtocounter{section}{5}
+%\input{areas/resumenes/Curs}
 %\addtocounter{section}{6}
 %\input{areas/resumenes/EcDifAp}
 %\addtocounter{section}{7}
 %\input{areas/resumenes/Estad}
 %\addtocounter{section}{2}
 %\input{areas/resumenes/Expe}
+%\addtocounter{section}{9}
+%\input{areas/resumenes/FMat}
 %\addtocounter{section}{10}
 %\input{areas/resumenes/GeoAlg}
 %\addtocounter{section}{11}
 %\input{areas/resumenes/HistFil}
 %\addtocounter{section}{12}
 %\input{areas/resumenes/LogFun}
-%\addtocounter{section}{14}
-%\input{areas/resumenes/MatEdu}
+%\addtocounter{section}{13}
+%\input{areas/resumenes/MatDisc}
+\addtocounter{section}{14}
+\input{areas/resumenes/MatEdu}
+%\addtocounter{section}{15}
+%\input{areas/resumenes/MatIng}
+%\addtocounter{section}{16}
+%\input{areas/resumenes/MatFin}
 %\addtocounter{section}{17}
 %\input{areas/resumenes/Prob}
 %\addtocounter{section}{18}
@@ -218,6 +188,8 @@ $ \;\;\;\;$\\
 %\input{areas/resumenes/TopAlg}
 %\addtocounter{section}{22}
 %\input{areas/resumenes/TopGen}
+%\addtocounter{section}{23}
+%\input{areas/resumenes/Carteles}
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -228,23 +200,5 @@ $ \;\;\;\;$\\
 
 \printindex
 
-$\;\;\;\;$ \\
-\vspace{16cm}
- $\;\;\;\;$
-
-\begin{center}
-Estos programas se terminaron de imprimir\\
-
-\vspace{1cm}
- El tiro fue de  ejemplares
-\end{center}
-
-\newpage
-
-$\;\;\;\;$
-
-\newpage
-
-$\;\;\;\;$
 
 \end{document}

@@ -46,14 +46,14 @@
      \\
 \cline{1-6}
 {\hfill 10:40-11:00 \hfill} &
-      &
+   {\bfseries 1 }   &
      &
      &
      &
     \\
 \cline{1-1}\cline{3-6}
 {\hfill 11:00-11:30 \hfill} &
-     {\bfseries \ref{reg-1862} }&
+     {\bfseries  Auditorio Contabilidad}&
      \multicolumn{4}{|c|} {\bfseries Café} \\
 \cline{1-6}
 {\hfill 11:40-12:00 \hfill} &
@@ -82,10 +82,10 @@
 \cline{1-2}
 {\hfill 13:30-13:50 \hfill} &
      &
-    {\bfseries \ref{reg-1863} } &
-    {\bfseries \ref{reg-1864}  } &
-   {\bfseries \ref{reg-1865}  } &
-   {\bfseries  \ref{reg-1866}  } \\
+    {\bfseries 2 } &
+    {\bfseries 3  } &
+   {\bfseries 4  } &
+   {\bfseries  5 } \\
 \cline{1-6}
 {\hfill 14:00-16:30 \hfill} &
     \multicolumn{2}{|c|} {\bfseries COMIDA} &
@@ -129,8 +129,8 @@
        &
     &
     &
-   {\bfseries  \ref{reg-1869}   } &
-   {\bfseries  \ref{reg-1870}   } \\
+   {\bfseries  8  } &
+   {\bfseries  9  } \\
 \cline{1-3}\cline{5-6}
 {\hfill 18:50-19:00 \hfill} &
     \multicolumn{2}{|c|} {\bfseries Traslado} &
@@ -139,19 +139,26 @@
     \\
 \cline{1-3}\cline{5-5}
 {\hfill 19:00-19:50 \hfill} &
- {\bfseries  \ref{reg-1867} } &
-   {\bfseries  \ref{reg-1868}} &
+ {\bfseries  6 } &
+   {\bfseries  7} &
        &
    {\bfseries Asamblea General } &
    {\bfseries Clausura } \\
 \cline{1-3}\cline{5-6}
-{\hfill  \hfill} &
+{\hfill 19:50-20:50  \hfill} &
  {\bfseries HOMENAJE} &
    {\bfseries HOMENAJE} &
        &
     &
     \\
-{\hfill 19:50-21:50 \hfill} &
+{\hfill 20:50-21:00 \hfill} &
+ {\bfseries  6 } &
+   {\bfseries  7} &
+       &
+   {\bfseries Asamblea General } &
+   {\bfseries Clausura } \\
+\cline{1-3}\cline{5-6}
+{\hfill 21:00-21:50 \hfill} &
  {\bfseries  ERNESTO } &
    {\bfseries FRANCISCO} &
        &
@@ -165,7 +172,7 @@
     \\
 \cline{1-6}
 \hline[1pt]
-\multicolumn{6}{|c|}{\large\bfseries Salón  }\\
+\multicolumn{6}{|c|}{\large\bfseries Aula Forense}\\
 \hline
 \end{tabular}
 \end{center}
@@ -202,7 +209,7 @@
 {\slshape  Daniel  Hernández} \\
 
 %%%%%%%%%%1868%%%%%%%%%%%
-\noindent  7  {\bfseries De Reacciones química oscilantes, a procesos estocásticos, a varias variables complejas}\\
+\noindent  7  {\bfseries De reacciones química oscilantes, a procesos estocásticos, a varias variables complejas}\\
 {\slshape  Eduardo  Santillan Zeron} \\
 
 %%%%%%%%%%1869%%%%%%%%%%%
@@ -212,7 +219,5 @@
 %%%%%%%%%%1870%%%%%%%%%%%
 \noindent  9  {\bfseries Principios variacionales y formación de patrones}\\
 {\slshape  Antonio  Capella Kort} \\
-
-
 
 \end{multicols}

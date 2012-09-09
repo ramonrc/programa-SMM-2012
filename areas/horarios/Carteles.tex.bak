@@ -1,0 +1,512 @@
+{\footnotesize
+\begin{center}
+%\begin{tabular}{|p{50pt}|p{50pt}|p{65pt}|p{65pt}|p{65pt}|p{65pt}|p{65pt}|}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline[1pt]
+\multicolumn{6}{|c|}{\Large\bfseries Carteles pág. \pageref{reg-230}}\\
+\hline
+\hline
+{\hfill\bfseries Hora\hfill} & {\hfill\bfseries Lunes\hfill}&  {\hfill\bfseries Martes\hfill} & {\hfill\bfseries Miércoles\hfill} & {\hfill\bfseries Jueves\hfill} & {\hfill\bfseries Viernes\hfill} \\
+\hline
+{\hfill 9:00-10:00 \hfill} & Inauguraci\'on
+      &\begin{tabular}[l]{@{}c@{}}\ref{reg-230} \ref{reg-298} \ref{reg-313}\\ \ref{reg-314} \ref{reg-316} \ref{reg-358}\\ \ref{reg-377} \ref{reg-519} \ref{reg-1449}\\\ref{reg-293} \ref{reg-365} \ref{reg-414}\end{tabular}
+     &\begin{tabular}[l]{@{}c@{}}\ref{reg-981} \ref{reg-1001} \ref{reg-1023}\\ \ref{reg-1076} \ref{reg-1078} \ref{reg-1094}\\ \ref{reg-1098} \ref{reg-1130} \ref{reg-713}\\\ref{reg-764} \ref{reg-828} \ref{reg-924}\end{tabular}
+  &\begin{tabular}[l]{@{}c@{}}\ref{reg-1494} \ref{reg-1495} \ref{reg-1513}\\ \ref{reg-1533} \ref{reg-1540} \ref{reg-1547}\\ \ref{reg-1576} \ref{reg-1613} \ref{reg-1246}\\\ref{reg-1265} \ref{reg-1278} \ref{reg-1305}\end{tabular}
+     &\begin{tabular}[l]{@{}c@{}}\ref{reg-1784} \ref{reg-1790} \ref{reg-1815}\\ \ref{reg-1827} \ref{reg-310} \ref{reg-433}\\ \ref{reg-469} \ref{reg-545} \ref{reg-1467}\\\ref{reg-1563} \ref{reg-1693} \ref{reg-1731}\end{tabular}
+     \\
+\cline{1-1}\cline{3-6}
+{\hfill 10:00-11:00 \hfill} &
+      &\begin{tabular}[l]{@{}c@{}}\ref{reg-526} \ref{reg-527} \ref{reg-607}\\ \ref{reg-744} \ref{reg-768} \ref{reg-932}\\ \ref{reg-946} \ref{reg-957} \ref{reg-429}\end{tabular}
+    &\begin{tabular}[l]{@{}c@{}}\ref{reg-1238} \ref{reg-1264} \ref{reg-1270}\\ \ref{reg-1290} \ref{reg-1296} \ref{reg-1354}\\ \ref{reg-1388} \ref{reg-1437} \ref{reg-1033}\end{tabular}
+     &\begin{tabular}[l]{@{}c@{}}\ref{reg-1636} \ref{reg-1686} \ref{reg-1698}\\ \ref{reg-1705} \ref{reg-1713} \ref{reg-1749}\\ \ref{reg-1774} \ref{reg-1776} \ref{reg-1377}\end{tabular}
+     &\begin{tabular}[l]{@{}c@{}}\ref{reg-555} \ref{reg-1202} \ref{reg-1312}\\ \ref{reg-1405} \ref{reg-1544} \ref{reg-1715}\\ \ref{reg-1801} \ref{reg-1841} \ref{reg-1750}\end{tabular}
+    \\
+\cline{1-2}
+{\hfill 10:40-11:00 \hfill} & {\bfseries PLENARIA } & \ref{reg-504} \ref{reg-582} \ref{reg-696}& \ref{reg-1199} \ref{reg-1225} \ref{reg-1242}& \ref{reg-1396} \ref{reg-1457} \ref{reg-1463} & \ref{reg-1768} \ref{reg-1837} \ref{reg-1879}\\
+\cline{1-1}\cline{3-6}
+{\hfill 11:00-11:30 \hfill} &
+     {\bfseries 1 }&
+     \multicolumn{4}{|c|} {\bfseries Café} \\
+\cline{1-6}
+{\hfill 11:40-12:00 \hfill} &
+     Traslado &
+     &
+ &
+ &
+  \\
+\cline{1-6}
+{\hfill 12:00-12:50 \hfill} &
+      &
+    &
+     &
+    &
+  \\
+\cline{1-6}
+{\hfill 12:50-13:00 \hfill} &
+     \multicolumn{5}{|c|} {\bfseries Traslado} \\
+\cline{1-6}
+{\hfill 13:00-13:50 \hfill} &
+      &
+    {\bfseries PLENARIA 2 } &
+    {\bfseries PLENARIA 3 } &
+   {\bfseries PLENARIA 4 } &
+   {\bfseries PLENARIA 5 } \\
+\cline{1-6}
+{\hfill 14:00-16:30 \hfill} &
+    \multicolumn{2}{|c|} {\bfseries COMIDA} &
+   &
+   \multicolumn{2}{|c|} {\bfseries COMIDA} \\
+\cline{1-3}\cline{5-6}
+{\hfill 16:40-17:40 \hfill} &
+       &
+     &
+     &
+     &
+     \\
+\cline{1-3}\cline{5-6}
+{\hfill 17:40-18:10 \hfill} &
+     \multicolumn{2}{|c|} {\bfseries Café}&
+    {\bfseries Tarde Libre} &
+     \multicolumn{2}{|c|} {\bfseries Café} \\
+\cline{1-3}\cline{5-6}
+{\hfill 18:10-18:50 \hfill} &
+     &
+    &
+    &
+   {\bfseries PLENARIA 8 } &
+   {\bfseries PLENARIA 9 } \\
+\cline{1-3}\cline{5-6}
+{\hfill 18:50-19:00 \hfill} &
+    \multicolumn{2}{|c|} {\bfseries Traslado} &
+     &
+  {\bfseries HOMENAJE} &
+  {\bfseries Traslado}  \\
+\cline{1-3}\cline{6-6}
+{\hfill 19:00-19:50 \hfill} &
+ {\bfseries PLENARIA 6 } &
+   {\bfseries PLENARIA 7} &
+       &
+   {\bfseries  JORGE} &
+   {\bfseries Asamblea } \\
+\cline{1-3}
+{\hfill 19:50-20:50  \hfill} &
+  {\bfseries  HOMENAJE }&
+  {\bfseries  HOMENAJE } &
+       &
+  {\bfseries  IZE}  &
+  {\bfseries  General }  \\
+  \cline{1-1}\cline{5-6}
+{\hfill 20:50-21:00 \hfill} &
+ {\bfseries  ERNESTO }  &
+   {\bfseries FRANCISCO} &
+       &
+  &
+   {\bfseries Traslado } \\
+\cline{1-1}\cline{5-6}
+    {\hfill 21:00-21:50  \hfill} &
+ {\bfseries  LACOMBA } &
+   {\bfseries RAGGI} &
+       &
+    &
+   {\bfseries Clausura}   \\
+\cline{1-6}
+\hline[1pt]
+\multicolumn{6}{|c|}{\large\bfseries Salón B4 }\\
+\hline
+\end{tabular}
+\end{center}
+
+}
+
+\begin{multicols}{2}
+\raggedcolumns
+
+%%%%%%%%%%230%%%%%%%%%%%
+\noindent  \ref{reg-230}  {\bfseries Clasificación de superficies cerradas}\\
+{\slshape  Efraín  Domínguez Córdova} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%298%%%%%%%%%%%
+\noindent  \ref{reg-298}  {\bfseries A Gregorian to Maya and Aztec calendar converter in Matlab software}\\
+{\slshape  Arturo  Prieto Fuenlabrada} {\footnotesize (CAR, Inv)}\\
+
+%%%%%%%%%%313%%%%%%%%%%%
+\noindent  \ref{reg-313}  {\bfseries Desigualdades de Hilbert e Integrales Orbitales de Flujo de Corrientes de Eddy para un Disco en Levitación}\\
+{\slshape  Antonio  Álvarez Galicia} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%314%%%%%%%%%%%
+\noindent  \ref{reg-314}  {\bfseries Programación en Scilab de la Energía Solar incidente en la Tierra a diferentes latitudes}\\
+{\slshape  Areli  Arcos-Pichardo} {\footnotesize (CAR, 1Lic)}\\
+
+%%%%%%%%%%316%%%%%%%%%%%
+\noindent  \ref{reg-316}  {\bfseries La geometría de las superficies cerradas}\\
+{\slshape  José Luis García Arias} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%358%%%%%%%%%%%
+\noindent  \ref{reg-358}  {\bfseries Procesos estocásticos diferenciables en media cuadrática: ejemplos y contraejemplos}\\
+{\slshape  Adriana Concepción Torres Sánchez} {\footnotesize (CAR, 1Lic)}\\
+
+%%%%%%%%%%377%%%%%%%%%%%
+\noindent  \ref{reg-377}  {\bfseries Valuación de opciones asiáticas mediante el algoritmo de Longstaff-Schwartz utilizando sucesiones de baja discrepancia}\\
+{\slshape  Jennifer  Rangel Madariaga} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%519%%%%%%%%%%%
+\noindent  \ref{reg-519}  {\bfseries Modelación de la actividad eléctrica en el corazón}\\
+{\slshape  Ozkar  Hernández Montero} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%1449%%%%%%%%%%%
+\noindent  \ref{reg-1449}  {\bfseries Dificultades que encuentran los estudiantes para resolver problemas que involucran inducción matemática}\\
+{\slshape  Danae  Gómez Arroyo} {\footnotesize (CAR, Lic)}\\
+
+%%%%%%%%%%293%%%%%%%%%%%
+\noindent  \ref{reg-293}  {\bfseries Dibujos \'Optimos de Gr\'aficas Bipartitas Completas}\\
+{\slshape  Carolina  Medina Graciano} {\footnotesize (CAR, Pos)}\\
+
+%%%%%%%%%%365%%%%%%%%%%%
+\noindent  \ref{reg-365}  {\bfseries Propiedades y aplicaciones del hipercubo aumentado}\\
+{\slshape  Esther Anahi Domínguez Jiménez} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%414%%%%%%%%%%%
+\noindent  \ref{reg-414}  {\bfseries Dominación de resultados de juego a trav\'es de una estrategia}\\
+{\slshape  Lucero  Amezcua Gerardo} {\footnotesize (CAR, 1Lic)}\\
+
+%%%%%%%%%%526%%%%%%%%%%%
+\noindent  \ref{reg-526}  {\bfseries Geometría fractal, una perspectiva de aproximación a la realidad ininteligible}\\
+{\slshape  Dorenis Josefina Mota Villegas} {\footnotesize (CAR, Pos)}\\
+
+%%%%%%%%%%527%%%%%%%%%%%
+\noindent  \ref{reg-527}  {\bfseries Problema Inverso de Tomografía de Capacitancias cuando la permitividad toma dos valores posibles}\\
+{\slshape  René  Posadas Hernández} {\footnotesize (CAR, Pos)}\\
+
+%%%%%%%%%%607%%%%%%%%%%%
+\noindent  \ref{reg-607}  {\bfseries Una clase productiva de los espacios de Lindelöf: ``Los espacios Lindelöf-$\Sigma$''}\\
+{\slshape  Juan Alberto Martínez Cadena} {\footnotesize (CAR, Pos)}\\
+
+%%%%%%%%%%744%%%%%%%%%%%
+\noindent  \ref{reg-744}  {\bfseries Planificación dinámica de rutas de transporte público a partir de los requerimientos del usuario}\\
+{\slshape  Fernando  Elizalde Ramírez} {\footnotesize (CAR, Pos)}\\
+
+%%%%%%%%%%768%%%%%%%%%%%
+\noindent  \ref{reg-768}  {\bfseries Enfoques Algorítmicos del Problema de Programación Entera}\\
+{\slshape  Juan Esaú Trejo Espino} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%932%%%%%%%%%%%
+\noindent  \ref{reg-932}  {\bfseries Diferenciabilidad en espacios de Banach}\\
+{\slshape  Alfredo  Reyes Vázquez} {\footnotesize (CAR, Pos)}\\
+
+%%%%%%%%%%946%%%%%%%%%%%
+\noindent  \ref{reg-946}  {\bfseries Funciones continuas entre espacios métricos}\\
+{\slshape  María de Jesús López Toriz} {\footnotesize (CAR, 1Lic)}\\
+
+%%%%%%%%%%957%%%%%%%%%%%
+\noindent  \ref{reg-957}  {\bfseries Un modelo matemático de evolución de precios}\\
+{\slshape  Ana Belén Netzahuatl  Barreto} {\footnotesize (CAR, 1Lic)}\\
+
+%%%%%%%%%%429%%%%%%%%%%%
+\noindent  \ref{reg-429}  {\bfseries Reyes en digráficas}\\
+{\slshape  Manuel Alejandro Juárez Camacho} {\footnotesize (CAR, 1Lic)}\\
+
+%%%%%%%%%%504%%%%%%%%%%%
+\noindent  \ref{reg-504}  {\bfseries Álgebras topológicas: la convergencia de dos estructuras}\\
+{\slshape  Yuliana de Jesús Zárate Rodríguez} {\footnotesize (CAR, Pos)}\\
+
+%%%%%%%%%%582%%%%%%%%%%%
+\noindent  \ref{reg-582}  {\bfseries La Magia del Álgebra Lineal en el Funcionamiento del Poderoso Google}\\
+{\slshape  León  Escobar Mendoza} {\footnotesize (CAR, 1Lic)}\\
+
+%%%%%%%%%%696%%%%%%%%%%%
+\noindent  \ref{reg-696}  {\bfseries Simulación del transporte de radiación usando métodos de Monte Carlo con aplicación en radioterapia para modelos experimentales animales}\\
+{\slshape  Atenea  Acosta Vidales} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%981%%%%%%%%%%%
+\noindent  \ref{reg-981}  {\bfseries La derivada de Peano de funciones de valor  real de variable real}\\
+{\slshape  Anel  Vázquez Martínez} {\footnotesize (CAR, 1Lic)}\\
+
+%%%%%%%%%%1001%%%%%%%%%%%
+\noindent  \ref{reg-1001}  {\bfseries Paradojas del infinito}\\
+{\slshape  José Guillermo Herrera Ramírez} {\footnotesize (CAR, 1Lic)}\\
+
+%%%%%%%%%%1023%%%%%%%%%%%
+\noindent  \ref{reg-1023}  {\bfseries Métodos de Widom y Trench para calcular los determinantes y valores propios de matrices de Toeplitz reales simétricas generadas por polinomios de Laurent}\\
+{\slshape  María de los Ángeles Isidro Pérez} {\footnotesize (CAR, 1Lic)}\\
+
+%%%%%%%%%%1076%%%%%%%%%%%
+\noindent  \ref{reg-1076}  {\bfseries Mythematics. Las doce tareas de Hércules}\\
+{\slshape  Christian  Blanco Amaro} {\footnotesize (CAR, 1Lic)}\\
+
+%%%%%%%%%%1078%%%%%%%%%%%
+\noindent  \ref{reg-1078}  {\bfseries Configuraciones Centrales en el Problema Cargado de los Tres Cuerpos}\\
+{\slshape  Juan Manuel Sánchez Cerritos} {\footnotesize (CAR, Pos)}\\
+
+%%%%%%%%%%1094%%%%%%%%%%%
+\noindent  \ref{reg-1094}  {\bfseries El enfoque estructural de predicción de impago y valoración}\\
+{\slshape  Yazmin  Jiménez Jiménez} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%1098%%%%%%%%%%%
+\noindent  \ref{reg-1098}  {\bfseries Método Local de recuperación de coeficientes para el sistema de ecuaciones diferenciales Hodking Huxley usando splines cúbicos}\\
+{\slshape  María Alicia Lizbeth Ángeles Vázquez} {\footnotesize (CAR, Pos)}\\
+
+%%%%%%%%%%1130%%%%%%%%%%%
+\noindent  \ref{reg-1130}  {\bfseries Conjuntos fractales graficados con SFI}\\
+{\slshape  Sergio Mabel Juárez Vázquez} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%713%%%%%%%%%%%
+\noindent  \ref{reg-713}  {\bfseries Una equivalencia del axioma de elección}\\
+{\slshape  José Luis León Medina} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%764%%%%%%%%%%%
+\noindent  \ref{reg-764}  {\bfseries Análisis matemático y filosófico de la teoría matemática de la información}\\
+{\slshape  Marco Antonio Muñoz Quiroz} {\footnotesize (CAR, 1Lic)}\\
+
+%%%%%%%%%%828%%%%%%%%%%%
+\noindent  \ref{reg-828}  {\bfseries Análisis cualitativo y control biológico en un modelo de dengue clásico con transmisión vertical y clases de riesgo en los individuos susceptibles}\\
+{\slshape  Emilene Carmelita Pliego Pliego} {\footnotesize (CAR, Pos)}\\
+
+%%%%%%%%%%924%%%%%%%%%%%
+\noindent  \ref{reg-924}  {\bfseries El n\'umero dicrom\'atico en digr\'aficas}\\
+{\slshape  Alejandra  Ramos Rivera} {\footnotesize (CAR, 1Lic)}\\
+
+%%%%%%%%%%1238%%%%%%%%%%%
+\noindent  \ref{reg-1238}  {\bfseries Comparación de algoritmos tradicionales en el problema de la mochila}\\
+{\slshape  Germán Antonio Vázquez Romero} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%1264%%%%%%%%%%%
+\noindent  \ref{reg-1264}  {\bfseries Juegos Algebraicos en la enseñanza}\\
+{\slshape  Pennelope Elizabeth Huerta Rangel} {\footnotesize (CAR, Sec)}\\
+
+%%%%%%%%%%1270%%%%%%%%%%%
+\noindent  \ref{reg-1270}  {\bfseries Funciones continuas sobre el intervalo cerrado y la circunferencia}\\
+{\slshape  María  Castro Sánchez} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%1290%%%%%%%%%%%
+\noindent  \ref{reg-1290}  {\bfseries El teorema fundamental del cálculo para la integral de Riemann-Stieltjes}\\
+{\slshape  Jorge Luis Pérez Cordero} {\footnotesize (CAR, 1Lic)}\\
+
+%%%%%%%%%%1296%%%%%%%%%%%
+\noindent  \ref{reg-1296}  {\bfseries Desarrollo de La p - versión del Método de Rayos Generales para la solución de problemas con valores en la frontera que se desplazan con el tiempo para Ecuaciones Parabólicas}\\
+{\slshape  Armando  Espíndola Pozos} {\footnotesize (CAR, Pos)}\\
+
+%%%%%%%%%%1354%%%%%%%%%%%
+\noindent  \ref{reg-1354}  {\bfseries Reconstrucción combinatoria de curvas}\\
+{\slshape  Jesús Humberto Martínez Escobar} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%1388%%%%%%%%%%%
+\noindent  \ref{reg-1388}  {\bfseries La demostración de la Regla de L'Hôpital usando el lema de Cousin}\\
+{\slshape  María Elena Vargas Martínez} {\footnotesize (CAR, 1Lic)}\\
+
+%%%%%%%%%%1437%%%%%%%%%%%
+\noindent  \ref{reg-1437}  {\bfseries Solución de una ecuación diferencial de segundo orden}\\
+{\slshape  José Alberto Serrano Mestiza} {\footnotesize (CAR, 1Lic)}\\
+
+%%%%%%%%%%1033%%%%%%%%%%%
+\noindent  \ref{reg-1033}  {\bfseries Un modelo de dinámica de población para el venado cola blanca (Odocoileus Virginianus)}\\
+{\slshape  Gilberto  Pérez González} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%1199%%%%%%%%%%%
+\noindent  \ref{reg-1199}  {\bfseries Aplicación de Métodos de Perturbaciones en Modelos Matemáticos}\\
+{\slshape  Rodrigo  José Burgos} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%1225%%%%%%%%%%%
+\noindent  \ref{reg-1225}  {\bfseries Modelos Mixtos en el estudio del Carbono Orgánico de la Hojarasca en una Zona de Teziutlán, Puebla}\\
+{\slshape  Ana Aleyda Oroza Hernández} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%1242%%%%%%%%%%%
+\noindent  \ref{reg-1242}  {\bfseries Aplicación de Gráficas en la Estructura y Función del ARN}\\
+{\slshape  Vanessa  Ángeles Sánchez} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%1494%%%%%%%%%%%
+\noindent  \ref{reg-1494}  {\bfseries ?`La matemática se descubre o se inventa?}\\
+{\slshape  Raúl  Linares Gracia} {\footnotesize (CAR, 1Lic)}\\
+
+%%%%%%%%%%1495%%%%%%%%%%%
+\noindent  \ref{reg-1495}  {\bfseries Intuición y formalismo en el aprendizaje del espacio dual en álgebra lineal}\\
+{\slshape  Philippe  Eenens} {\footnotesize (CAR, Inv)}\\
+
+%%%%%%%%%%1513%%%%%%%%%%%
+\noindent  \ref{reg-1513}  {\bfseries Funciones de base radial}\\
+{\slshape  Rodrigo  Rivera Estrada} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%1533%%%%%%%%%%%
+\noindent  \ref{reg-1533}  {\bfseries ?`Qué es el método simplex?}\\
+{\slshape  Elizabeth  Almazán Torres} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%1540%%%%%%%%%%%
+\noindent  \ref{reg-1540}  {\bfseries Supermodularidad en el comercio internacional}\\
+{\slshape  Ana Luz Guzmán Figueroa} {\footnotesize (CAR, 1Lic)}\\
+
+%%%%%%%%%%1547%%%%%%%%%%%
+\noindent  \ref{reg-1547}  {\bfseries Propagación de Ondas Electromagnéticas gene\-radas por una fuente en movimiento en medios dispersivos}\\
+{\slshape  Jorge Enrique Velasco Cruz} {\footnotesize (CAR, Pos)}\\
+
+%%%%%%%%%%1576%%%%%%%%%%%
+\noindent  \ref{reg-1576}  {\bfseries Marco de trabajo para la homogeneización de los algoritmos genéticos}\\
+{\slshape  Juan Jesús Moncada Bolón} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%1613%%%%%%%%%%%
+\noindent  \ref{reg-1613}  {\bfseries Estimación de parámetros de un modelo de clasificación de imágenes mediante el Algoritmo de Luciérnagas}\\
+{\slshape  Luis Daniel Blanco Cocom} {\footnotesize (CAR, Inv)}\\
+
+%%%%%%%%%%1246%%%%%%%%%%%
+\noindent  \ref{reg-1246}  {\bfseries La generación de una cultura matemática en México: el reto en la selección de actividades para el ``Festival Matemático''}\\
+{\slshape  Paloma  Zubieta López} {\footnotesize (CAR, Inv)}\\
+
+%%%%%%%%%%1265%%%%%%%%%%%
+\noindent  \ref{reg-1265}  {\bfseries Sobre el efecto de cuarentena en el control de epidemias}\\
+{\slshape  Ana Patricia Araujo Colín} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%1278%%%%%%%%%%%
+\noindent  \ref{reg-1278}  {\bfseries Teoremas del valor medio para la integral de funciones reales de variable real}\\
+{\slshape  María Belén Flores López} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%1305%%%%%%%%%%%
+\noindent  \ref{reg-1305}  {\bfseries Tomografía computarizada y transformada inversa de Radón}\\
+{\slshape  Cinthya Vanessa Sánchez Hernández} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%1636%%%%%%%%%%%
+\noindent  \ref{reg-1636}  {\bfseries Representación de las cónicas en un escenario de divulgación}\\
+{\slshape  Claudia Lorena Carreón Rodríguez} {\footnotesize (CAR, Pos)}\\
+
+%%%%%%%%%%1686%%%%%%%%%%%
+\noindent  \ref{reg-1686}  {\bfseries Algunos espacios normados con la propiedad de extensión de Hahn-Banach}\\
+{\slshape  Iván  Sánchez Silva} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%1698%%%%%%%%%%%
+\noindent  \ref{reg-1698}  {\bfseries Conjunto de Cantor y generalizaciones}\\
+{\slshape  Carlos Erick Culebro Martínez} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%1705%%%%%%%%%%%
+\noindent  \ref{reg-1705}  {\bfseries Credit default swap}\\
+{\slshape  Ricardo Isai González Herrera} {\footnotesize (CAR, 1Lic)}\\
+
+%%%%%%%%%%1713%%%%%%%%%%%
+\noindent  \ref{reg-1713}  {\bfseries Polinomios de interpolación y la integral aplicados a la albañilería}\\
+{\slshape  Antonio  Pérez González} {\footnotesize (CAR, Lic)}\\
+
+%%%%%%%%%%1749%%%%%%%%%%%
+\noindent  \ref{reg-1749}  {\bfseries ?`Existirá el terreno? Estudiantes de matemáticas contra estudiantes de topografía}\\
+{\slshape  Alma Lourdes Castro Montealegre} {\footnotesize (CAR, Lic)}\\
+
+%%%%%%%%%%1774%%%%%%%%%%%
+\noindent  \ref{reg-1774}  {\bfseries El impacto cognitivo de la interacción comunicativa en el marco de modelos estratégicos de enseñanza de contenidos matemáticos en educación básica}\\
+{\slshape  David Fernando Eguiarte Gómez} {\footnotesize (CAR, Lic)}\\
+
+%%%%%%%%%%1776%%%%%%%%%%%
+\noindent  \ref{reg-1776}  {\bfseries Mujeres matemáticas de la antigüedad y de la actualidad}\\
+{\slshape  Carlos  Camilo Garay} {\footnotesize (CAR, 1Lic)}\\
+
+%%%%%%%%%%1377%%%%%%%%%%%
+\noindent  \ref{reg-1377}  {\bfseries Del supermercado a las librerías, los códigos están en nuestra vida}\\
+{\slshape  Axel  Flores Chávez} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%1396%%%%%%%%%%%
+\noindent  \ref{reg-1396}  {\bfseries La cicloide, un recorrido histórico por sus propiedades y la matemática tras ellas}\\
+{\slshape  Jorge Antonio Gil Mota} {\footnotesize (CAR, 1Lic)}\\
+
+%%%%%%%%%%1457%%%%%%%%%%%
+\noindent  \ref{reg-1457}  {\bfseries Generando todos los subespacios de dimensión $k$ de un $\mathbb{F}_q-$espacio vectorial de dimensión finita}\\
+{\slshape  Rodolfo  Aguilar Aguilar} {\footnotesize (CAR, 1Lic)}\\
+
+%%%%%%%%%%1463%%%%%%%%%%%
+\noindent  \ref{reg-1463}  {\bfseries Poliedros Regulares en el 3-toro}\\
+{\slshape  José Antonio Montero Aguilar} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%1784%%%%%%%%%%%
+\noindent  \ref{reg-1784}  {\bfseries La tienda de galletas de los tres osos}\\
+{\slshape  Matha Patricia Velasco Romero} {\footnotesize (CAR, Bach)}\\
+
+%%%%%%%%%%1790%%%%%%%%%%%
+\noindent  \ref{reg-1790}  {\bfseries Ecuaciones Diferenciales Parciales}\\
+{\slshape  Adina  Jordán Arámburo} {\footnotesize (CAR, 1Lic)}\\
+
+%%%%%%%%%%1815%%%%%%%%%%%
+\noindent  \ref{reg-1815}  {\bfseries Interfaz Infrarroja de Wii para el Estudio Matemático de Experimentos de Cinemática}\\
+{\slshape  Domitilo  Nájera} {\footnotesize (CAR, Bach)}\\
+
+%%%%%%%%%%1827%%%%%%%%%%%
+\noindent  \ref{reg-1827}  {\bfseries El problema de Dido}\\
+{\slshape  Cutberto  Romero Meléndez} {\footnotesize (CAR, 1Lic)}\\
+
+%%%%%%%%%%310%%%%%%%%%%%
+\noindent  \ref{reg-310}  {\bfseries Stochastic resonance in the detection of signals}\\
+{\slshape  Carlos Raúl Sandoval Alvarado} {\footnotesize (CAR, Inv)}\\
+
+%%%%%%%%%%433%%%%%%%%%%%
+\noindent  \ref{reg-433}  {\bfseries Convergencia proyectiva de medidas}\\
+{\slshape  Liliana Paulina Trejo Valencia} {\footnotesize (CAR, Pos)}\\
+
+%%%%%%%%%%469%%%%%%%%%%%
+\noindent  \ref{reg-469}  {\bfseries Estabilidad del punto de equilibrio}\\
+{\slshape  Robin Mario Escobar Escobar} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%545%%%%%%%%%%%
+\noindent  \ref{reg-545}  {\bfseries Modelo dinámico del proceso de generación de defectos en el desarrollo de software de misión crítica}\\
+{\slshape  Elena Cristina Villanueva Guerra} {\footnotesize (CAR, Inv)}\\
+
+%%%%%%%%%%1467%%%%%%%%%%%
+\noindent  \ref{reg-1467}  {\bfseries Estudio Epidemiológico del Muérdago}\\
+{\slshape  Laura  Cruzado} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%1563%%%%%%%%%%%
+\noindent  \ref{reg-1563}  {\bfseries Análisis estadístico de los índices de contaminación en el río Atoyac y presa Valsequillo}\\
+{\slshape  Aurelia  González Miguel} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%1693%%%%%%%%%%%
+\noindent  \ref{reg-1693}  {\bfseries Métodos de sumabilidad empleados en el estudio de la inversión de la transformada de Fourier en $L^1(R)$}\\
+{\slshape  José Antonio Cariño Ortega} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%1731%%%%%%%%%%%
+\noindent  \ref{reg-1731}  {\bfseries La superficie de Klein de género 3}\\
+{\slshape  María del Rocío Macías Prado} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%555%%%%%%%%%%%
+\noindent  \ref{reg-555}  {\bfseries Implementación del Método de Newton para encontrar todas las raíces de polinomios complejos}\\
+{\slshape  José de Jesús Hernández Serda} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%1202%%%%%%%%%%%
+\noindent  \ref{reg-1202}  {\bfseries Dinámica de poblaciones con ecuaciones fra\-ccionarias}\\
+{\slshape  Leticia Adriana Ramírez Hernández} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%1312%%%%%%%%%%%
+\noindent  \ref{reg-1312}  {\bfseries The Cell Transmission Model Applied to Urban Traffic Simulation}\\
+{\slshape  Miguel Ángel Mercado Martínez} {\footnotesize (CAR, Pos)}\\
+
+%%%%%%%%%%1405%%%%%%%%%%%
+\noindent  \ref{reg-1405}  {\bfseries Calibración del parámetro de sensibilidad para un modelo de autos seguidores}\\
+{\slshape  Omar  Luckie Aguirre} {\footnotesize (CAR, Inv)}\\
+
+%%%%%%%%%%1544%%%%%%%%%%%
+\noindent  \ref{reg-1544}  {\bfseries Atractores}\\
+{\slshape  Bruno  Ramos Cruz} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%1715%%%%%%%%%%%
+\noindent  \ref{reg-1715}  {\bfseries Iteración de la familia $f_c (z)= z^2+c$}\\
+{\slshape  Josué  Vázquez Rodríguez} {\footnotesize (CAR, 1Lic)}\\
+
+%%%%%%%%%%1801%%%%%%%%%%%
+\noindent  \ref{reg-1801}  {\bfseries Iteración de la familia $f_{c}(z)=z^{2}+c$  , $c$   imaginario, $-1$}\\
+{\slshape  Jeanete  Pérez Rojas} {\footnotesize (CAR, 1Lic)}\\
+
+%%%%%%%%%%1841%%%%%%%%%%%
+\noindent  \ref{reg-1841}  {\bfseries Algunos resultados sobre grupos Kleinianos y ejemplos}\\
+{\slshape  Ángel  Rodríguez Sánchez} {\footnotesize (CAR, 1Lic)}\\
+
+%%%%%%%%%%1750%%%%%%%%%%%
+\noindent  \ref{reg-1750}  {\bfseries Grupos de Lie}\\
+{\slshape  Ixchel Dzohara Gutiérrez Rodríguez} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%1768%%%%%%%%%%%
+\noindent  \ref{reg-1768}  {\bfseries El teorema de Arzel\`a-Ascoli}\\
+{\slshape  Lucero Guadalupe Contreras Hernández} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%1837%%%%%%%%%%%
+\noindent  \ref{reg-1837}  {\bfseries Algoritmo para determinar los pesos generalizados de Hamming}\\
+{\slshape  Eliseo  Sarmiento Rosales} {\footnotesize (CAR, 2Lic)}\\
+
+%%%%%%%%%%1879%%%%%%%%%%%
+\noindent  \ref{reg-1879}  {\bfseries Actividad Externa e invariantes en Gráficas Completas}\\
+{\slshape  Rosal de Jesús  Martínez Ríos} {\footnotesize (CAR, 1Lic)}\\
+
+
+
+
+
+\end{multicols}
