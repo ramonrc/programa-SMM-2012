@@ -15,36 +15,29 @@
  {\bfseries \ref{reg-1418}}   &
   {\bfseries \ref{reg-1418} }    \\
 \cline{1-1}\cline{3-6}
-{\hfill 9:50-10:10 \hfill} &
-      &
+{\hfill 10:00-10:20 \hfill} &
+     Inauguración &
   \ref{reg-969}     &
    \ref{reg-1082}    &
    \ref{reg-1011}    &
     \ref{reg-1810}  \\
 \cline{1-1}\cline{3-6}
-{\hfill 10:10-10:30 \hfill} &
-     Inauguración &
-     &
-     &
-    &
-   \ref{reg-193}  \\
-\cline{1-1}\cline{6-6}
-{\hfill 10:30-10:40 \hfill} &
+{\hfill 10:20-10:40 \hfill} &
       &
    {\bfseries  \ref{reg-338} } &
    \ref{reg-1549}   &
     \ref{reg-1208} &
-     \\
-\cline{1-2}
+   \ref{reg-193}  \\
+\cline{1-2}\cline{6-6}
 {\hfill 10:40-11:00 \hfill} &
-      &
+     {\bfseries PLENARIA } &
     &
      &
     &
    \ref{reg-921}   \\
 \cline{1-1}\cline{3-6}
 {\hfill 11:00-11:30 \hfill} &
-     {\bfseries PLENARIA 1 }&
+     {\bfseries  1 }&
      \multicolumn{4}{|c|} {\bfseries Café} \\
 \cline{1-6}
 {\hfill 11:40-12:00 \hfill} &
@@ -54,12 +47,19 @@
 \ref{reg-1191}  &
  \ref{reg-336}  \\
 \cline{1-6}
-{\hfill 12:00-12:50 \hfill} &
-    \ref{reg-544}   &
+{\hfill 12:00-12:20 \hfill} &
+    {\bfseries  \ref{reg-544} }  &
    {\bfseries  \ref{reg-762}}&
       \ref{reg-672}&
-    {\bfseries \ref{reg-996}}&
-   \ref{reg-976}\\
+   {\bfseries \ref{reg-996} }&
+   \ref{reg-1320}\\
+\cline{1-1}\cline{6-6}
+{\hfill 12:20-12:30 \hfill} &
+       &
+   &
+   &
+   &
+   \\
 \cline{1-6}
 {\hfill 12:50-13:00 \hfill} &
      \multicolumn{5}{|c|} {\bfseries Traslado} \\
@@ -83,33 +83,26 @@
    &
    \multicolumn{2}{|c|} {\bfseries COMIDA} \\
 \cline{1-3}\cline{5-6}
-{\hfill 16:40-17:00 \hfill} &
+{\hfill 16:40-17:10 \hfill} &
        &
      &
      &
      &
    \ref{reg-709}    \\
 \cline{1-1}\cline{6-6}
-{\hfill 17:00-17:20 \hfill} &
+{\hfill 17:10-17:40 \hfill} &
   {\bfseries \ref{reg-391} }   &
   {\bfseries \ref{reg-1036}}    &
    &
    {\bfseries \ref{reg-1404}}   &
     \ref{reg-339}  \\
-\cline{1-1}\cline{6-6}
-{\hfill 17:20-17:40 \hfill} &
-       &
-     &
-     &
-     &
-     \\
 \cline{1-3}\cline{5-6}
-{\hfill 17:40-18:10 \hfill} &
+{\hfill 17:40-18:00 \hfill} &
      \multicolumn{2}{|c|} {\bfseries Café}&
     {\bfseries Tarde Libre} &
      \multicolumn{2}{|c|} {\bfseries Café} \\
 \cline{1-3}\cline{5-6}
-{\hfill 18:10-18:30 \hfill} &
+{\hfill 18:00-18:30 \hfill} &
      &
     &
     &
@@ -238,7 +231,7 @@
 
 %%%%%%%%%%1191%%%%%%%%%%%
 \noindent  \ref{reg-1191}  {\bfseries La estructura simpléctica de los mapeos de billar}\\
-{\slshape  Antonio  García} {\footnotesize (FALTA,FALTA)}\\
+{\slshape  Antonio  García} {\footnotesize (CDV,2Lic)}\\
 
 %%%%%%%%%%996%%%%%%%%%%%
 \noindent  \ref{reg-996}  {\bfseries Soluciones de Möbius  en el problema curvado de los $n$--cuerpos. El caso de curvatura positiva}\\
@@ -269,7 +262,6 @@
 %{\slshape  Mario Errol Chávez Gordillo} {\footnotesize (CI, Inv)}\\
 
 %%%%%%%%%%%1320%%%%%%%%%%%
-
 \noindent  \ref{reg-1320}  {\bfseries El teorema de Poincaré-Bendixson}\\
 {\slshape Ana Luisa González Pérez} {\footnotesize (RT, 2Lic)}\\
 

@@ -43,7 +43,7 @@
     &\ref{reg-857}
      \\
 \cline{1-6}
-{\hfill 10:40-11:00 \hfill} &
+{\hfill 10:40-11:00 \hfill} & {\bfseries PLENARIA  }
       &\ref{reg-1364}
      &\ref{reg-1005}
      &\ref{reg-1297}
@@ -51,7 +51,7 @@
     \\
 \cline{1-1}\cline{3-6}
 {\hfill 11:00-11:30 \hfill} &
-     {\bfseries PLENARIA 1 }&
+     {\bfseries  1 }&
      \multicolumn{4}{|c|} {\bfseries Café} \\
 \cline{1-6}
 {\hfill 11:40-12:00 \hfill} &
@@ -436,7 +436,7 @@
     &\ref{reg-1709}
      \\
 \cline{1-6}
-{\hfill 10:40-11:00 \hfill} &
+{\hfill 10:40-11:00 \hfill} &  {\bfseries PLENARIA }
       &\ref{reg-933}
      &\ref{reg-1832}
      &\ref{reg-1089}
@@ -444,7 +444,7 @@
     \\
 \cline{1-1}\cline{3-6}
 {\hfill 11:00-11:30 \hfill} &
-     {\bfseries PLENARIA 1 }&
+     {\bfseries  1 }&
      \multicolumn{4}{|c|} {\bfseries Café} \\
 \cline{1-6}
 {\hfill 11:40-12:00 \hfill} &
@@ -815,7 +815,7 @@
     &
      \\
 \cline{1-6}
-{\hfill 10:40-11:00 \hfill} &
+{\hfill 10:40-11:00 \hfill} &  {\bfseries PLENARIA  }
       &\ref{reg-1461}
      &\ref{reg-1742}
      &
@@ -823,7 +823,7 @@
     \\
 \cline{1-1}\cline{3-6}
 {\hfill 11:00-11:30 \hfill} &
-     {\bfseries PLENARIA 1 }&
+     {\bfseries  1 }&
      \multicolumn{4}{|c|} {\bfseries Café} \\
 \cline{1-6}
 {\hfill 11:40-12:00 \hfill} &

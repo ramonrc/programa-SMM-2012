@@ -1,0 +1,3 @@
+pdftops programaSMM2012.pdf
+ps2pdf14 -dPDFSETTINGS=/prepress -dEmbedAllFonts=true programaSMM2012.ps programaSMM2012-F.pdf
+gs -o programaAreas-cmyk.pdf -sDEVICE=pdfwrite -sProcessColorModel=DeviceCMYK -sColorConversionStrategy=CMYK -sColorConversionStrategyForImages=CMYK programaAreas.pdf

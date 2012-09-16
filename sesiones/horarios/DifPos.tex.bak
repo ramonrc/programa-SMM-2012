@@ -1,0 +1,212 @@
+{\footnotesize
+\begin{center}
+%\begin{tabular}{|p{50pt}|p{50pt}|p{65pt}|p{65pt}|p{65pt}|p{65pt}|p{65pt}|}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline[1pt]
+\multicolumn{6}{|c|}{\Large\bfseries Difusión de Posgrados pág. \pageref{reg-671}}\\
+\hline
+\hline
+{\hfill\bfseries Hora\hfill} & {\hfill\bfseries Lunes\hfill} &  {\hfill\bfseries Martes\hfill} & {\hfill\bfseries Miércoles\hfill} & {\hfill\bfseries Jueves\hfill} & {\hfill\bfseries Viernes\hfill} \\
+\hline
+{\hfill 9:00-9:20 \hfill} &
+      &
+    &
+   {\bfseries \ref{reg-671}} &
+        &
+      \\
+\cline{1-1}\cline{3-6}
+
+{\hfill 9:20-9:40 \hfill} &
+      &
+    &
+   {\bfseries \ref{reg-657}} &
+        &
+      \\
+\cline{1-1}\cline{3-6}
+
+{\hfill 9:40-10:00 \hfill} &
+      &
+    &
+   {\bfseries \ref{reg-859}} &
+        &
+      \\
+\cline{1-1}\cline{3-6}
+
+{\hfill 10:00-10:20 \hfill} &
+    Inauguración   &
+    &
+   {\bfseries \ref{reg-743}} &
+    &
+     \\
+\cline{1-1}\cline{3-6}
+
+{\hfill 10:20-10:40 \hfill} &
+    &
+    &
+    {\bfseries \ref{reg-658}} &
+    &
+     \\
+\cline{1-6}
+
+{\hfill 10:40-11:00 \hfill} &
+      &
+    &
+     {\bfseries \ref{reg-736}} &
+      &
+     \\
+\cline{1-1}\cline{3-6}
+
+{\hfill 11:00-11:30 \hfill} &
+     {\bfseries PLENARIA 1 }&
+     \multicolumn{4}{|c|} {\bfseries Café} \\
+\cline{1-6}
+
+{\hfill 11:40-12:00 \hfill} &
+     Traslado &
+      &
+  &
+  &
+   \\
+\cline{1-6}
+
+{\hfill 12:00-12:50 \hfill} &
+       &
+      &
+      &
+   &
+   \\
+\cline{1-6}
+
+{\hfill 12:50-13:00 \hfill} &
+     \multicolumn{5}{|c|} {\bfseries Traslado} \\
+\cline{1-6}
+
+{\hfill 13:00-13:30 \hfill} &
+       &
+    {\bfseries PLENARIA  } &
+    {\bfseries PLENARIA  } &
+   {\bfseries PLENARIA  } &
+   {\bfseries PLENARIA  } \\
+%\cline{1-2}
+
+{\hfill 13:30-13:50 \hfill} &
+      &
+    {\bfseries 2  } &
+    {\bfseries 3  } &
+   {\bfseries 4  } &
+   {\bfseries 5  } \\
+\cline{1-6}
+
+{\hfill 14:00-16:30 \hfill} &
+    \multicolumn{2}{|c|} {\bfseries COMIDA} &
+   &
+   \multicolumn{2}{|c|} {\bfseries COMIDA} \\
+\cline{1-3}\cline{5-6}
+
+{\hfill 16:40-17:00 \hfill} &
+       &
+    &
+     &
+     &
+     \\
+\cline{1-1}\cline{3-3}\cline{5-6}
+
+{\hfill 17:00-17:20 \hfill} &
+      &
+      &
+     &
+    &
+    \\
+\cline{1-1}\cline{3-3}\cline{5-6}
+
+{\hfill 17:20-17:40 \hfill} &
+       &
+      &
+     &
+     &
+     \\
+\cline{1-3}\cline{5-6}
+
+{\hfill 17:40-18:10 \hfill} &
+     \multicolumn{2}{|c|} {\bfseries Café}&
+    {\bfseries Tarde Libre} &
+     \multicolumn{2}{|c|} {\bfseries Café} \\
+\cline{1-3}\cline{5-6}
+
+{\hfill 18:10-18:30 \hfill} &
+      &
+    &
+    &
+   {\bfseries PLENARIA  } &
+   {\bfseries PLENARIA  } \\
+\cline{1-3}
+
+{\hfill 18:30-18:50 \hfill} &
+  &
+    &
+    &
+   {\bfseries 8  } &
+ {\bfseries 9  } \\
+\cline{1-3}\cline{5-6}
+
+{\hfill 18:50-19:00 \hfill} &
+    \multicolumn{2}{|c|} {\bfseries Traslado} &
+     &
+  {\bfseries Traslado} &
+    \\
+\cline{1-3}\cline{5-5}
+
+{\hfill 19:00-19:50 \hfill} &
+ {\bfseries PLENARIA 6 } &
+   {\bfseries PLENARIA  7} &
+       &
+   {\bfseries Asamblea General } &
+   {\bfseries Clausura } \\
+\cline{1-6}
+
+\hline[1pt]
+\multicolumn{6}{|c|}{\large\bfseries Salón I9 }\\
+\hline
+\end{tabular}
+\end{center}
+
+}
+
+\begin{multicols}{2}
+\raggedcolumns
+
+
+
+%%%%%%%%%%%%671%%%%%%%%%%%%
+\noindent \ref{reg-671} {\bfseries Maestría en Ciencias en Matemáticas Aplicadas} \\
+{\slshape Gamaliel Blé González} {\footnotesize (CDV, 2Lic)} \\
+
+
+%%%%%%%%%%%%657%%%%%%%%%%%%
+\noindent \ref{reg-657} {\bfseries Posgrado Conjunto en Ciencias Matemáticas UMSNH-UNAM} \\
+{\slshape Adriana Briseño Chávez} {\footnotesize (CDV, Pos)} \\
+
+
+%%%%%%%%%%%%859%%%%%%%%%%%%
+\noindent \ref{reg-859} {\bfseries El Posgrado de Matemáticas de la UAM-Iztapalapa} \\
+{\slshape José Raúl Montes de Oca Machorro} {\footnotesize (CDV, 2Lic)} \\
+
+\columnbreak
+
+%%%%%%%%%%%%743%%%%%%%%%%%%
+\noindent \ref{reg-743} {\bfseries Posgrados en la Facultad de Matemáticas de la Universidad Autónoma de Yucatán} \\
+{\slshape Ramon Peniche Mena Peniche Mena} {\footnotesize (CDV, 2Lic)} \\
+
+
+%%%%%%%%%%%%658%%%%%%%%%%%%
+\noindent \ref{reg-658} {\bfseries Posgrado en Optimización en la UAM Azcapotzalco} \\
+{\slshape Francisco Javier Zaragoza Martínez} {\footnotesize (CDV, 2Lic)} \\
+
+
+%%%%%%%%%%%%736%%%%%%%%%%%%
+\noindent \ref{reg-736} {\bfseries Maestría en Estadística Aplicada} \\
+{\slshape José Eliud Silva Urrutia} {\footnotesize (CDV, 2Lic)} \\
+
+\pagebreak
+
+\end{multicols}

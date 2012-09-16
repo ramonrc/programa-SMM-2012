@@ -1,0 +1,333 @@
+\section{Las Matemáticas en las Licenciaturas}
+
+
+
+%%%%%%%%%%%%1874%%%%%%%%%%%%
+\subsection{Tecnología de Información y Estadística en Finanzas {\footnotesize (CDV, 1Lic)}} \label{reg-1874} \index{ortigoza alvarez giovana@Ortigoza Álvarez Giovana!\ref{reg-1874}}
+\noindent{\bfseries Giovana Ortigoza Álvarez}, {\tt giovana\_harrypotter@hotmail.com} {\slshape (Universidad Autónoma de Querétaro)}\\
+\noindent Uno de los objetivos principales de las Finanzas es
+satisfacer las necesidades de cierto sector (ya sea público o privado)
+mediante el estudio del Capital(dinero).Dicho estudio ayuda a la
+planificación, ejecución y control de las transacciones económicas o
+transferencias de recursos financieros, y es aquí donde se intercepta
+con las Matemáticas para dar paso al estudio y modelado de
+las diferentes complicaciones durante su estudio encaminado a la
+solución de problemas nacionales e internacionales dentro de la
+Economía.El trabajo se propone abarcar una introducción sobre la
+necesidad y el impacto de la tecnología de información y de la
+estadística en el campo de las finanzas.Se describirá la situación y
+relación actual entre las finanzas y la tecnología de información tanto
+en México como en Estados Unidos; de la misma manera se describirá y
+analizará la relación entre métodos estadísticos, la tecnología
+de información y las finanzas.Se describirán ejemplos recientes y
+aplicaciones concretas de empresas a nivel mundial que han utilizado
+con éxito los sistemas tecnológicos financieros y los métodos
+estadísticos para desempeñar sus funciones diarias y para
+lograr ventajas competitivas mediante el uso de estos sistemas y
+métodos.Los aspectos del área de finanzas en las cual se enfoca este
+trabajo son:presupuestos y planeación, análisis financiero, cierres
+financieros de mes,tesorería, administración de inventario, créditos y
+cobranzas y cuentas por pagar. Al final de este trabajo se presenta una
+conclusión de los beneficios y del valor agregado de utilizar la
+tecnología de información en el área de finanzas.Por la parte de
+estadística usaremos proyecciones y predicciones.
+
+%%%%%%%%%%%%1875%%%%%%%%%%%%
+\subsection{Percolación Topológica y Homología Persistente {\footnotesize (CDV, 2Lic)}} \label{reg-1875} \index{pitones amaro yuriko@Pitones Amaro, Yuriko!\ref{reg-1875}}
+\noindent{\bfseries Yuriko Pitones Amaro}, {\tt ypalob@hotmail.com} {\slshape (Universidad Autónoma de Zacatecas)}\\
+\noindent En el presente trabajo se formula el problema de
+percolaci\'on en sobre una superficie en t\'erminos de coberturas de
+redes de sensores. Se expone un criterio homol\'ogico de cobertura
+desarrollado en el art\'iculo {\slshape Homological Sensor Networks} de Vin
+de Silva and Robert Ghrist. Se iniciar\'a introduciendo conceptos
+b\'asicos de Topolog\'ia Algebr\'aica, para continuar con los
+preliminares de la Teor\'ia de Homolog\'ia Simplicial y con todo esto
+cumplir el objetivo planteado, para finalizar haremos una breve
+introducci\'on a la Teor\'ia de Homolog\'ia Persistente.
+
+
+%%%%%%%%%%%%1877%%%%%%%%%%%%
+\subsection{El Polinomio de Tutte {\footnotesize (CDV, 2Lic)}} \label{reg-1877} \index{martinez rios rosal de jesus@Martínez Ríos Rosal de Jesús!\ref{reg-1877}}
+\noindent{\bfseries Rosal de Jesús Martínez Ríos}, {\tt lasor\_22@yahoo.com} {\slshape (Universidad Autónoma Benito Juárez de Oaxaca)}\\
+\noindent El Polinomio de Tutte, un invariante de gráficas que es un
+polinomio en dos variables, debe su importancia a las múltiples
+interpretaciones combinatorias de diversas evaluaciones en puntos o a
+lo largo de curvas algebraicas. En este trabajo presentamos una nueva
+interpretación de la evaluación del Polinomio de Tutte en el punto
+(1,-1) para las gráficas completas, que además permite probar cierta
+igualdad.
+
+%%%%%%%%%%%%1876%%%%%%%%%%%%
+\subsection{El Problema de Desviación Máxima en un Sistema de Ecuaciones Diferenciales de Orden Cuatro {\footnotesize (CDV, 2Lic)}} \label{reg-1876} \index{pena garcia jose alberto@Peña García José Alberto!\ref{reg-1876}}
+\noindent{\bfseries José Alberto Peña García}, {\tt ruvelsa@yahoo.com} {\slshape (Universidad Autónoma del Estado de Hidalgo)}\\
+\noindent Mediante la aplicación del Principio del Máximo de
+Pontryaguin se resuelve de forma analítica la síntesis de ciclos
+límite orbitalmente estables que satisfacen el problema de desviación
+máxima en el sentido de Aleksandrov-Zhermolenko en una de las cuatro
+clases del sistema de ecuaciones diferenciales de orden cuatro
+
+\begin{equation*}
+\left\{\begin{aligned} &
+\ddot{\boldsymbol{x}}+A\dot{\boldsymbol{x}}+B\boldsymbol{x}=\boldsymbol{b}u_1\\ &
+u_1(\cdot)\in U=\{u\in KC:|u(t)|\leq 1\}\end{aligned}\right. \qquad
+\boldsymbol{x}(t)\in\mathbf{R}^2
+\end{equation*}
+
+donde $A=(a_{ij})$ y $B=(b_{ij})$ son matrices reales constantes de
+tamaño $2\times 2$, $\boldsymbol{b}$ es un vector constante de tamaño
+$2\times 1$, y $u_1(\cdot)$ es una función escalar (control adicional)
+continua a trozos. Los resultados obtenidos se comparan con técnicas
+numéricas.
+
+%%%%%%%%%%%%1393%%%%%%%%%%%%
+\subsection{El compás de Arquímedes y una propiedad característica de la  Elipse {\footnotesize (CDV, 1Lic)}} \label{reg-1393} \index{rosales rivera antonio@Rosales Rivera Antonio!\ref{reg-1393}}
+\noindent{\bfseries Antonio Rosales Rivera}, {\tt xx\_billyxx@hotmail.com} {\slshape (Universidad Autónoma de Quer\'etaro (UAQ))}\\
+\noindent Uno de los métodos para construir elipses es mediante el
+Compás de Arquímedes. A pesar de ser un método que cuenta con gran
+belleza y que encierra una gran cantidad de propiedades geométricas
+interesantes, no es método tan conocido como por ejemplo la
+Construcción del Jardinero. Al analizar un poco más profundamente este
+método hemos descubierto una propiedad que caracteriza a las elipses
+de entre las figuras convexas en el plano. Tal caracterización se
+fundamenta en algunas técnicas de álgebra vectorial y transformaciones
+afines. Además, es interesante como en los argumentos de la
+demostración se utilizan tanto el compás de Arquímedes como el método
+de los círculos concéntricos. Además, de toda la fundamentación
+teórica sobre esta construcción, se mostrará un mecanismo mediante el
+cual se pueden dibujar elipses. De esta manera, se verá una clara
+relación entre la geometría y la mecánica.
+
+
+%%%%%%%%%%%%598%%%%%%%%%%%%
+\subsection{Grupos Kleinianos y Superficies Hiperbólicas {\footnotesize (RT, 2Lic)}} \label{reg-598} \index{tapia lorenzo maria del carmen@Tapia Lorenzo María del Carmen!\ref{reg-598}}
+\noindent{\bfseries María del Carmen Tapia Lorenzo}, {\tt marlo\_tap13@hotmail.com} {\slshape (Universidad Autónoma del Estado de Morelos (UAEM))}\\
+\noindent En este trabajo estudiamos variedades hiperbólicas completas
+que no son necesariamente compactas. La herramienta principal para
+este estudio en el lema de Margulis, el cual puede ser enunciado de
+manera heurística de la siguiente forma:Para cada número natural n
+existe una constante $\epsilon_{n}$ tal que si $M$ es una n-variedad
+hiperbólica completa y orientable, y si $x$ es un elemento de $M$ para
+el cual existe un elemento del grupo fundamental de $M$ con base en
+$x$ y de longitud hiperbólica pequeña, entonces el subgrupo del grupo
+fundamental generada por lazos de longitud pequeña basados en $x$, no
+el muy complicado.Usando el resultado anterior, también se describen
+las propiedades de descomposición de una variedad hiperbólica en las
+partes llamadas delgadas y gruesas. También para el caso de variedades
+de volumen finito, se da una descripción de la forma de terminaciones
+de tales variedades.Copiar y pegar aquí su RESUMEN en texto plano y
+código \LaTeX (si requiere fórmulas).
+
+%%%%%%%%%%%%676%%%%%%%%%%%%
+\subsection{Una prueba topológica de la infinitud de los números primos {\footnotesize (CDV, 2Lic)}} \label{reg-676} \index{munoz zepeda jesus antonio@Muñoz Zepeda Jesús Antonio!\ref{reg-676}}
+\noindent{\bfseries Jesús Antonio Muñoz Zepeda}, {\tt jesss23@hotmail.com} {\slshape (Universidad Autónoma de Chiapas (UNACH) - Centro de Estudios en Física y Matemáticas Básicas y Aplicadas (CEFyMAP))}\\
+\noindent En esta charla, con aspectos tan básicos de topología como
+espacios topológicos y conjuntos abiertos y cerrados, mostraremos una
+prueba, topológica, de que existe una cantidad infinita de números
+primos.
+
+%%%%%%%%%%%%787%%%%%%%%%%%%
+\subsection{Teorías de Homología {\footnotesize (RT, 2Lic)}} \label{reg-787} \index{catalan ramirez juan jose@Catalán Ramírez Juan José!\ref{reg-787}}
+\noindent{\bfseries Juan José Catalán Ramírez}, {\tt rincon\_de\_pitagoras@hotmail.com} {\slshape (Universidad Autónoma del Estado de Morelos (UAEM))}\\
+\noindent Una teor\'ia de homolog\'ia definida en una familia de
+parejas de espacios topol\'ogicos $F$ consiste en los
+siguiente:
+
+\begin{itemize}
+\item Una familia \{$\widetilde{H}_{q}
+  \,|\, q \in$ $\mathbb{Z}$ \} tal que cada $\widetilde{H}_{q}$ asigna
+  a cada pareja $(\cal{X},A)$ $\in$ F un grupo abeliano
+  $H_{q}(\cal{X},A)$.
+  \vskip .1cm
+Este grupo se llama el $q$-\'esimo
+  grupo de homolog\'ia relativa de $\cal{X}$ mod A.
+  \vskip .2cm
+\item
+  Para cada funci\'on continua $f:(\cal{X},A)\rightarrow(\cal{Y},B)$
+  donde $(\cal{X},A)$, $(\cal{Y},B)$ $\in$ $F$, existe un homomorfismo
+  inducido
+  $f_{\ast,q}:\widetilde{H}_{q}(\cal{X},A)\rightarrow$$\widetilde{H}_{q}(\cal{Y},B)$
+  para todo $q$.
+  \vskip .2cm
+\item Para cualquier $(\cal{Y},B)$ $\in$
+  $F$ y para cualquier entero $q$ existe un homorfismo
+  $\partial_{q}:\widetilde{H}_{q}(\cal{X},A)\rightarrow$$\widetilde{H}_{q-1}(A)$.
+\end{itemize}
+\vskip .5cm
+Los objetos anteriores estan sujetos a un conjunto de axiomas, los
+axiomas de Eilenberg y N. Steenrod.  \vskip
+.3cm
+
+\begin{enumerate}
+\item Identidad. Sea
+  $1_{\cal{X}}:(\cal{X},A)\rightarrow (\cal{X},A)$ la identidad.
+  Entonces
+  $(1_{\cal{X}})_{\ast,q}:\widetilde{H}_{q}(\cal{X},A)\rightarrow$$\widetilde{H}_{q}(\cal{X},A)$
+  es la identidad.
+  \vskip .3cm
+\item Composici\'on. Sean
+  $f:(\cal{X},A)\rightarrow (\cal{Y},B)$, $g:(\cal{Y},B)\rightarrow
+  (\cal{Z},C)$ funciones continuas.
+  \vskip .1cm
+  Entonces $(g \circ
+  f)_{\ast,q}$ = $g_{\ast,q} \circ
+  f_{\ast,q}:\widetilde{H}_{q}(\cal{X},A)\rightarrow$$\widetilde{H}_{q}(\cal{Z},C)$
+\item
+  Homotopía. Sea $f,g:(\cal{X},A)\rightarrow(\cal{Y},B)$
+  homot\'opicas. Entonces $f_{\ast,q}$ =
+  $g_{\ast,q}:\widetilde{H}_{q}(\cal{X},A)\rightarrow$$\widetilde{H}_{q}(\cal{Y},B)$.
+  \vskip .3cm
+\item Exactitud. Sea $(\cal{X},A)$ una pareja de espacios
+  topol\'ogicos. Entonces la siguiente sucesi\'on es exacta.
+ \vskip .1cm
+ $\ldots\stackrel{\partial_{q+1}}{\longrightarrow}$$\widetilde{H}_{q}(A)$$\stackrel{i_{\ast,q}}{\longrightarrow}$$\widetilde{H}_{q}(\cal{X})$$\stackrel{j_{\ast,q}}{\longrightarrow}$$\widetilde{H}_{q}(\cal{X},A)$$\stackrel{\partial_{q}}{\longrightarrow}$$\widetilde{H}_{q-1}(A)$$\stackrel{i_{\ast,q-1}}{\longrightarrow} \ldots $
+\vskip .1cm
+Donde $\partial_{q}$ es el homomorfismo definido
+anteriormente, $i_{\ast,q}$ y $j_{\ast,q}$ son homomorfismos inducidos
+por la inclusi\'on.
+\item Excisi\'on. Sea $(\cal{X},A)$ una pareja de
+  espacios topol\'ogicos, $U$ $\subset$ $A$ $\subset$ $\cal{X}$ tal que
+  la cerradura de $U$ est\'a contenida en el interior de $A$. Entonces
+  la inclusi\'on $i:(\cal{X}-U,A-U)\rightarrow (\cal{X},A)$ induce
+  isomorfismos
+  $i_{\ast,q}:\widetilde{H}_{q}(\cal{X}-U,A-U)\rightarrow $$\widetilde{H}_{q}(\cal{X},A)$
+  para todo $q$.
+  \vskip .3cm
+\item Naturalidad del homorfismo
+  $\partial_{q}$). Sea $f:(\cal{X},A)\rightarrow(\cal{Y},B)$ una
+  funci\'on continua, $f\,|\,_{A}$ la restricci\'on de $f$ a
+  $A$. Entonces $\partial_{q} \circ f_{\ast,q}$ =
+  $(f\,|\,_{A})_{\ast,q-1} \circ \partial_{q}$ tal que el siguiente
+  diagrama es conmutativo:
+  \vskip .2cm
+  $\widetilde{H}_{q}(\cal{X},A)$
+  \hskip .3cm
+  $\stackrel{f_{\ast,q}}{\longrightarrow}$
+  \hskip .3cm
+  $\widetilde{H}_{q}(\cal{Y},B)$
+  \vskip .1cm
+  \hskip .5cm $\downarrow_{\partial_{q}}$
+  \hskip .9cm \hskip .9cm $ \downarrow_{\partial_{q}}$
+  \vskip .1cm $\widetilde{H}_{q-1}(A)$
+  $\stackrel{(f\,|\,_{A})_{\ast,q-1}}{\longrightarrow}$
+  $\widetilde{H}_{q-1}(B)$
+\item Dimensi\'on. Sea $P$ un espacio
+  topol\'ogico que consiste de un s\'olo punto.
+  \vskip .1cm Entonces
+  $\widetilde{H}_{q}(P)$ = $0$ para todo $q$ $\neq$ $0$.
+\end{enumerate}
+
+Si se omite el axioma de dimensi\'on los axiomas restantes definen lo
+que se conoce como una teor\'ia de homolog\'ia generalizada. En esta
+pl\'atica se describir\'a y dar\'an ejemplos de estas teor\'ias y se
+explicar\'a su utilidad.
+
+%%%%%%%%%%%%838%%%%%%%%%%%%
+\subsection{Algunas propiedades del espacio euclidiano $\mathbb{R}^{n}$ que no se preservan a espacios métricos arbitrarios {\footnotesize (CDV, 2Lic)}} \label{reg-838} \index{gonzalez martinez nayeli adriana@González Martínez Nayeli Adriana!\ref{reg-838}}
+\noindent{\bfseries Nayeli Adriana González Martínez}, {\tt eyan\_17@hotmail.com} {\slshape (Universidad Tecnológica de la Mixteca (UTM))}\\
+\noindent El conjunto $\mathbb{R}^{n}$, de todas las $n$-adas de
+números reales, junto con la forma usual de medir la distancia entre
+dos de ellas, es lo que se conoce como espacio métrico euclidiano. En
+esta plática expondremos algunas propiedades que tiene este espacio
+métrico particular y que no se preservan a espacios métricos
+arbitrarios.
+
+
+%%%%%%%%%%%%848%%%%%%%%%%%%
+\subsection{Construcción de una curva de Peano utilizando el conjunto de Cantor {\footnotesize (CDV, 2Lic)}} \label{reg-848} \index{morales jimenez israel@Morales Jiménez Israel!\ref{reg-848}}
+\noindent{\bfseries Israel Morales Jiménez}, {\tt fast.ismoji@gmail.com} {\slshape (Universidad Tecnológica de la Mixteca)}\\
+\noindent En esta plática se muestra cómo utilizar el conjunto de
+Cantor y un producto infinito de espacios topológicos para construir
+una curva que llena todo el cubo $k$-dimensional unitario
+$[0,1]^{k}$.
+
+%%%%%%%%%%%%1873%%%%%%%%%%%%
+\subsection{Polígonos, poliedros y politopos {\footnotesize (CDV, 2Lic)}} \label{reg-1873} \index{sanchez flores lizbeth@Sánchez Flores Lizbeth!\ref{reg-1873}}
+\noindent{\bfseries Lizbeth Sánchez Flores}, {\tt rcruzcast@gmail.com} {\slshape (Universidad Autónoma del Estado de Hidalgo (UAEH))}\\
+\noindent Se dará una breve introducción a los polígonos, poliedros y
+politopos.
+
+%%%%%%%%%%%%849%%%%%%%%%%%%
+\subsection{Algoritmo genético para entrenamiento de redes neuronales {\footnotesize (CDV, 1Lic)}} \label{reg-849} \index{ocampo sanchez jimena@Ocampo Sánchez Jimena!\ref{reg-849}}
+\noindent{\bfseries Jimena Ocampo Sánchez}, {\tt jimenaocampos.com@gmail.com} {\slshape (Universidad Autónoma de Querétaro (UAQ))}\\
+\noindent En un problema de optimización, aparte de las condiciones
+que deben cumplir las soluciones factibles del problema, se busca la
+que es óptima según algún criterio de comparación entre ellas.En
+Optimización Matemática, el término heurístico se aplica a un
+procedimiento de resolución de problemas de optimización con una
+concepción diferente: se califica de heurístico a un procedimiento
+para el que se tiene un alto grado de confianza en que encuentra
+soluciones de alta calidad con un coste computacional razonable,
+aunque no se garantice su optimalidad o su factibilidad, e incluso, en
+algunos casos, no se llegue a establecer lo cerca que se está de dicha
+situación.Es usual aplicar el término heurística cuando, utilizando el
+conocimiento que se tiene del problema, se realizan modificaciones en
+el procedimiento de solución del problema que, aunque no afectan a la
+complejidad del mismo, mejoran el rendimiento en su comportamiento
+práctico.Los métodos heurísticos específicos deben ser diseñados a
+propósito para cada problema, sin embargo, las heurísticas generales
+emanadas de las metaheurísticas pueden mejorar su rendimiento
+utilizando recursos computacionales y estrategias inteligentes. De
+esta manera es como surge la aplicación de inteligencia artificial en
+la rama de la optimización.En este trabajo se estudia a dos de las
+principales metaheurísticas utilizadas en la optimización; los
+algoritmos genéticos y las redes neuronales, pero no tomando cada caso
+por separado si no mas bien se estudia un método alternativo para el
+entrenamiento de redes neuronales con conexión hacia delante. Una vez
+determinada la topología de la red neuronal se utiliza un algoritmo
+genético para ajustar los pesos de la red neuronal. Se evalúan
+diferentes variantes de los operadores genéticos para el entrenamiento
+de las redes neuronales.
+
+%%%%%%%%%%%%850%%%%%%%%%%%%
+\subsection{Métrica de Hausdorff {\footnotesize (CDV, 2Lic)}} \label{reg-850} \index{hernandez hernandez pablo jorge@Hernández Hernández Pablo Jorge!\ref{reg-850}}
+\noindent{\bfseries Pablo Jorge Hernández Hernández}, {\tt pablin9104\_@hotmail.com} {\slshape (Universidad Tecnológica de la Mixteca (UTM))}\\
+\noindent Considerando un espacio métrico $(X,d)$, en esta plática
+demostramos que la métrica $d$, induce una métrica al conjunto que
+consiste de todos los subconjuntos cerrados y no vacíos de $X$,
+conocida como métrica de Hausdorff. Además, exponemos algunas de sus
+propiedades.
+
+
+%%%%%%%%%%%%1260%%%%%%%%%%%%
+\subsection{Reconstrucción combinatoria de Curvas: el Crust de una nube de puntos {\footnotesize (CI, 1Lic)}} \label{reg-1260} \index{martinez munoz daniel antonio@Martínez Muñoz Daniel Antonio!\ref{reg-1260}}
+\noindent{\bfseries Daniel Antonio Martínez Muñoz}, {\tt dannyelote@gmail.com} {\slshape (Universidad Autónoma de Ciudad Juárez (UACJ))}\\
+\noindent Existen varias situaciones en las cuales un conjunto de
+puntos situados cerca o sobre una superficie es usado para reconstruir
+una aproximación poligonal a la superficie. En el plano este problema
+se convierte en una especie del clásico juego ``conecta los puntos''. La
+reconstrucción de curvas en el plano es importante desde una visión
+computacional. Los identificadores simples de aristas seleccionan
+aquellos pixeles de la imagen que parecen pertenecer a las aristas,
+generalmente delimitando las fronteras de los objetos; agrupar esos
+pixeles y formar curvas hoy es un área de investigación muy
+atractiva. En este trabajo se pretende, a partir de un conjunto de
+puntos en el plano que cumple ciertas condiciones de muestreo, generar
+grafos basados en la proximidad de los puntos, de forma que se
+garantice la reconstrucción de una curva suave. El grafo que aquí se
+expone es el llamado ``crust'', concepto introducido por Nina Amenta,
+Marshal Bern y David Eppstein.
+
+%%%%%%%%%%%%1927%%%%%%%%%%%%
+\subsection{Equilibrios con Variaciones Conjeturadas en un Duopolio Mixto de Estructura Especial {\footnotesize (CDV, 2Lic)}} \label{reg-1927} \index{camacho esparza edgar@Camacho Esparza Edgar!\ref{reg-1927}}
+\noindent{\bfseries Edgar Camacho Esparza}, {\tt monique\_2789@hotmail.com} {\slshape (Universidad Autónoma de Nuevo León (UANL))}\\
+\noindent Consideramos un duopolio mixto en un mercado de un producto
+homogéneo con la estructura del agente público. Tomando en cuenta que
+un duopolio mixto cuenta con dos agentes, entre los cuales hay una
+compañía (agente) pública la cual, en contraste al agente privado,
+maximiza no la función de su ganancia neta pero si el bienestar
+doméstico social. Son empleados algunos Teoremas de existencia de
+equilibrios exteriores e interiores con variaciones conjeturadas (CVE)
+derivados en los trabajos previos de Nataliya I. Kalashnykova y sus
+coautores.
+
+En nuestro modelo, el productor público combina en forma convexa las
+funciones de bienestar doméstico social y de la ganancia neta. Bajo
+suposiciones generales, se demuestra la existencia y unicidad del
+equilibrio exterior (definido por las conjeturas fijas de los agentes
+dadas en forma exógena), así como la existencia de por lo menos un
+equilibrio interior (o bien, consistente), en los cuales las
+conjeturas (coeficientes de influencia) de los agentes se encuentran
+en proceso de búsqueda del equilibrio mismo. Finalmente, se analiza el
+comportamiento de ciertos parámetros del equilibrio interior
+(consistente) en dependencia con el coeficiente de combinación convexa
+de las funciones objetivos en la meta del agente público.

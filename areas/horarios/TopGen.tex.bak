@@ -3,7 +3,7 @@
 %\begin{tabular}{|p{50pt}|p{50pt}|p{65pt}|p{65pt}|p{65pt}|p{65pt}|p{65pt}|}
 \begin{tabular}{|c|c|c|c|c|c|}
 \hline[1pt]
-\multicolumn{6}{|c|}{\Large\bfseries Topología General pág. \pageref{reg-404}}\\
+\multicolumn{6}{|c|}{\Large\bfseries Topología General Salón 1 pág. \pageref{reg-404}}\\
 \hline
 \hline
 {\hfill\bfseries Hora\hfill} & {\hfill\bfseries Lunes\hfill}&  {\hfill\bfseries Martes\hfill} & {\hfill\bfseries Miércoles\hfill} & {\hfill\bfseries Jueves\hfill} & {\hfill\bfseries Viernes\hfill} \\
@@ -30,14 +30,14 @@
   \ref{reg-1060}   \\
 \cline{1-6}
 {\hfill 10:40-11:00 \hfill} &
-      &
+      {\bfseries PLENARIA  } &
    \ref{reg-1723}   &
    \ref{reg-188}   &
   \ref{reg-1111}    &
    \ref{reg-1553}  \\
 \cline{1-1}\cline{3-6}
 {\hfill 11:00-11:30 \hfill} &
-     {\bfseries PLENARIA 1 }&
+     {\bfseries  1 }&
      \multicolumn{4}{|c|} {\bfseries Café} \\
 \cline{1-6}
 {\hfill 11:40-12:00 \hfill} &
@@ -50,7 +50,7 @@
 {\hfill 12:00-12:50 \hfill} &
    \ref{reg-404}    &
   \ref{reg-404}   &
-  \ref{reg-741}    &
+{\bfseries  \ref{reg-741} }   &
   {\bfseries \ref{reg-714} } &
   {\bfseries \ref{reg-842}} \\
 \cline{1-6}
@@ -182,7 +182,7 @@
 {\slshape  Hugo  Cabrera Ibarra} {\footnotesize (RI, Pos)}\\
 
 %%%%%%%%%%1251%%%%%%%%%%%
-\noindent  \ref{reg-1251}  {\bfseries Presentaciones de Artina Positivas}\\
+\noindent  \ref{reg-1251}  {\bfseries Presentaciones de Artin Positivas}\\
 {\slshape  Lorena  Armas Sanabria} {\footnotesize (CI, 2Lic)}\\
 
 %%%%%%%%%%402%%%%%%%%%%%
@@ -227,7 +227,7 @@
 
 %%%%%%%%%%741%%%%%%%%%%%
 \noindent  \ref{reg-741}  {\bfseries Dinámica en el hiperespacio de los subconjuntos cerrados de un espacio topológico}\\
-{\slshape  Gerardo  Acosta García} {\footnotesize (CPI, 2Lic)}\\
+{\slshape  Gerardo  Acosta García (Invitado)} {\footnotesize (CPI, 2Lic)}\\
 
 %%%%%%%%%%1725%%%%%%%%%%%
 \noindent  \ref{reg-1725}  {\bfseries Algunas propiedades básicas de la extensión de Katetov}\\
@@ -278,7 +278,7 @@
 %\begin{tabular}{|p{50pt}|p{50pt}|p{65pt}|p{65pt}|p{65pt}|p{65pt}|p{65pt}|}
 \begin{tabular}{|c|c|c|c|c|c|}
 \hline[1pt]
-\multicolumn{6}{|c|}{\Large\bfseries Topología General pág. \pageref{reg-1394}}\\
+\multicolumn{6}{|c|}{\Large\bfseries Topología General Salón 2 pág. \pageref{reg-1394}}\\
 \hline
 \hline
 {\hfill\bfseries Hora\hfill} & {\hfill\bfseries Lunes\hfill}&  {\hfill\bfseries Martes\hfill} & {\hfill\bfseries Miércoles\hfill} & {\hfill\bfseries Jueves\hfill} & {\hfill\bfseries Viernes\hfill} \\
@@ -319,14 +319,14 @@
      \\
 \cline{1-6}
 {\hfill 10:40-11:00 \hfill} &
-      &
+      {\bfseries PLENARIA } &
    \ref{reg-1376}   &
      &
    &
      \\
 \cline{1-1}\cline{3-6}
 {\hfill 11:00-11:30 \hfill} &
-     {\bfseries PLENARIA 1 }&
+     {\bfseries  1 }&
      \multicolumn{4}{|c|} {\bfseries Café} \\
 \cline{1-6}
 {\hfill 11:40-12:00 \hfill} &
@@ -415,15 +415,36 @@
 {\hfill 18:50-19:00 \hfill} &
     \multicolumn{2}{|c|} {\bfseries Traslado} &
      &
-  {\bfseries Traslado} &
-    \\
-\cline{1-3}\cline{5-5}
+  {\bfseries HOMENAJE} &
+  {\bfseries Traslado}  \\
+\cline{1-3}\cline{6-6}
 {\hfill 19:00-19:50 \hfill} &
- {\bfseries PLENARIA 6 } &
-   {\bfseries PLENARIA  7} &
+ {\bfseries  PLENARIA 6 } &
+   {\bfseries  PLENARIA  7} &
        &
-   {\bfseries Asamblea General } &
-   {\bfseries Clausura } \\
+   {\bfseries  JORGE} &
+   {\bfseries Asamblea } \\
+\cline{1-3}
+{\hfill 19:50-20:50  \hfill} &
+  {\bfseries  HOMENAJE }&
+  {\bfseries  HOMENAJE } &
+       &
+  {\bfseries  IZE}  &
+  {\bfseries  General }  \\
+  \cline{1-1}\cline{5-6}
+{\hfill 20:50-21:00 \hfill} &
+ {\bfseries  ERNESTO }  &
+   {\bfseries FRANCISCO} &
+       &
+  &
+   {\bfseries Traslado } \\
+\cline{1-1}\cline{5-6}
+    {\hfill 21:00-21:50  \hfill} &
+ {\bfseries  LACOMBA } &
+   {\bfseries RAGGI} &
+       &
+    &
+   {\bfseries Clausura}   \\
 \cline{1-6}
 \hline[1pt]
 \multicolumn{6}{|c|}{\large\bfseries Salón B7 }\\
@@ -458,7 +479,7 @@
 
 %%%%%%%%%%1275%%%%%%%%%%%
 \noindent  \ref{reg-1275}  {\bfseries Gráficas finitas y dimensión}\\
-{\slshape  Vianey  Córdova Salazar} {\footnotesize (FALTA, FALTA)}\\
+{\slshape  Vianey  Córdova Salazar} {\footnotesize (RT y 2Lic)}\\
 
 %%%%%%%%%%636%%%%%%%%%%%
 \noindent  \ref{reg-636}  {\bfseries Algunos Axiomas de Sepación entre $T_{0}$ y $T_{1}$}\\

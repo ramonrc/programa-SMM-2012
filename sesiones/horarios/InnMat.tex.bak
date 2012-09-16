@@ -1,0 +1,223 @@
+{\footnotesize
+\begin{center}
+%\begin{tabular}{|p{50pt}|p{50pt}|p{65pt}|p{65pt}|p{65pt}|p{65pt}|p{65pt}|}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline[1pt]
+\multicolumn{6}{|c|}{\Large\bfseries Innovación en Tecnología Educativa pág. \pageref{reg-539}}\\
+\hline
+\hline
+{\hfill\bfseries Hora\hfill} & {\hfill\bfseries Lunes\hfill} &  {\hfill\bfseries Martes\hfill} & {\hfill\bfseries Miércoles\hfill} & {\hfill\bfseries Jueves\hfill} & {\hfill\bfseries Viernes\hfill} \\
+\hline
+{\hfill 9:00-9:50 \hfill} &
+      &
+   {\bfseries \ref{reg-1524}} &
+    &
+        &
+      \\
+\cline{1-1}\cline{3-6}
+
+{\hfill 10:00-10:20 \hfill} &
+    Inauguración   &
+    &
+    &
+    &
+     \\
+\cline{1-1}\cline{4-6}
+
+{\hfill 10:20-10:40 \hfill} &
+    &
+   {\bfseries \ref{reg-841}} &
+     &
+    &
+     \\
+\cline{1-2}\cline{4-6}
+
+{\hfill 10:40-11:00 \hfill} &
+      &
+    &
+      &
+      &
+     \\
+\cline{1-1}\cline{3-6}
+
+{\hfill 11:00-11:30 \hfill} &
+     {\bfseries PLENARIA 1 }&
+     \multicolumn{4}{|c|} {\bfseries Café} \\
+\cline{1-6}
+
+{\hfill 11:40-12:00 \hfill} &
+     Traslado &
+      &
+  &
+  &
+   \\
+\cline{1-6}
+
+{\hfill 12:00-12:50 \hfill} &
+    {\bfseries \ref{reg-539}}  &
+    {\bfseries \ref{reg-1133}}  &
+      &
+   &
+   \\
+\cline{1-6}
+
+{\hfill 12:50-13:00 \hfill} &
+     \multicolumn{5}{|c|} {\bfseries Traslado} \\
+\cline{1-6}
+
+{\hfill 13:00-13:30 \hfill} &
+      {\bfseries \ref{reg-779}} &
+    {\bfseries PLENARIA  } &
+    {\bfseries PLENARIA  } &
+   {\bfseries PLENARIA  } &
+   {\bfseries PLENARIA  } \\
+%\cline{1-2}
+
+{\hfill 13:30-13:50 \hfill} &
+      &
+    {\bfseries 2  } &
+    {\bfseries 3  } &
+   {\bfseries 4  } &
+   {\bfseries 5  } \\
+\cline{1-6}
+
+{\hfill 14:00-16:30 \hfill} &
+    \multicolumn{2}{|c|} {\bfseries COMIDA} &
+   &
+   \multicolumn{2}{|c|} {\bfseries COMIDA} \\
+\cline{1-3}\cline{5-6}
+
+{\hfill 16:40-17:00 \hfill} &
+      &
+    &
+     &
+     &
+     \\
+\cline{1-1}\cline{5-6}
+
+{\hfill 17:00-17:20 \hfill} &
+     {\bfseries \ref{reg-1918}} &
+     {\bfseries \ref{reg-1910}} &
+     &
+    &
+    \\
+\cline{1-1}\cline{5-6}
+
+{\hfill 17:20-17:40 \hfill} &
+       &
+      &
+     &
+     &
+     \\
+\cline{1-3}\cline{5-6}
+
+{\hfill 17:40-18:10 \hfill} &
+     \multicolumn{2}{|c|} {\bfseries Café}&
+    {\bfseries Tarde Libre} &
+     \multicolumn{2}{|c|} {\bfseries Café} \\
+\cline{1-3}\cline{5-6}
+
+{\hfill 18:10-18:30 \hfill} &
+   {\bfseries \ref{reg-innmat01}} &
+   {\bfseries \ref{reg-1903}} &
+    &
+   {\bfseries PLENARIA  } &
+   {\bfseries PLENARIA  } \\
+\cline{1-1}
+
+{\hfill 18:30-18:50 \hfill} &
+  &
+    &
+    &
+   {\bfseries 8  } &
+ {\bfseries 9  } \\
+\cline{1-3}\cline{5-6}
+
+{\hfill 18:50-19:00 \hfill} &
+    \multicolumn{2}{|c|} {\bfseries Traslado} &
+     &
+  {\bfseries HOMENAJE} &
+  {\bfseries Traslado}  \\
+\cline{1-3}\cline{6-6}
+{\hfill 19:00-19:50 \hfill} &
+ {\bfseries  PLENARIA 6 } &
+   {\bfseries  PLENARIA  7} &
+       &
+   {\bfseries  JORGE} &
+   {\bfseries Asamblea } \\
+\cline{1-3}
+{\hfill 19:50-20:50  \hfill} &
+  {\bfseries  HOMENAJE }&
+  {\bfseries  HOMENAJE } &
+       &
+  {\bfseries  IZE}  &
+  {\bfseries  General }  \\
+  \cline{1-1}\cline{5-6}
+{\hfill 20:50-21:00 \hfill} &
+ {\bfseries  ERNESTO }  &
+   {\bfseries FRANCISCO} &
+       &
+  &
+   {\bfseries Traslado } \\
+\cline{1-1}\cline{5-6}
+    {\hfill 21:00-21:50  \hfill} &
+ {\bfseries  LACOMBA } &
+   {\bfseries RAGGI} &
+       &
+    &
+   {\bfseries Clausura}   \\
+\cline{1-6}
+
+\hline[1pt]
+\multicolumn{6}{|c|}{\large\bfseries Salón I1 }\\
+\hline
+\end{tabular}
+\end{center}
+
+}
+
+\begin{multicols}{2}
+\raggedcolumns
+
+
+%%%%%%%%%%%%539%%%%%%%%%%%%
+\noindent \ref{reg-539} {\bfseries Uso de dispositivos móviles en la enseñanza de la geometría: Geolab}\\
+{\slshape Carlos Hernández Garciadiego} {\footnotesize (CDV, Bach)}\\
+
+%%%%%%%%%%%%779%%%%%%%%%%%%
+\noindent \ref{reg-779} {\bfseries MatemáTICas versus Innovación}\\
+{\slshape Juan Salvador Madrigal Muga} {\footnotesize (CPI, Sec)}\\
+
+%%%%%%%%%%%%1918%%%%%%%%%%%%
+\noindent \ref{reg-1918} {\bfseries Innovación en Tecnología Educativa: Caso India}\\
+{\slshape Sam Pitroda} {\footnotesize (CPI, Inv)}\\
+
+%%%%%%%%%%%%innmat01%%%%%%%%%%%%
+\noindent \ref{reg-innmat01} {\bfseries Por anunciar}\\
+{\slshape Alipio Gustavo Calles Martínez} \\
+
+%%%%%%%%%%%%1524%%%%%%%%%%%%
+\noindent \ref{reg-1524} {\bfseries El futuro de las tecnologías digitales en la educación matemática: treinta años después de investigación intensiva en el campo}\\
+{\slshape María Teresa Rojano Ceballos} {\footnotesize (CPI, Sec)}\\
+
+\columnbreak
+
+%%%%%%%%%%%%841%%%%%%%%%%%%
+\noindent \ref{reg-841} {\bfseries Análisis semántico de lenguaje natural  con árboles lógico-semánticos}\\
+{\slshape Tine Stalmans} {\footnotesize (RI, Bach)}\\
+
+%%%%%%%%%%%%1133%%%%%%%%%%%%
+\noindent \ref{reg-1133} {\bfseries Descartes: Asistente y Mediador Metodológico}\\
+{\slshape José Galo Sánchez} {\footnotesize (CDV, Sec)}\\
+
+%%%%%%%%%%%%1910%%%%%%%%%%%%
+\noindent \ref{reg-1910} {\bfseries El Ciclo Educación-Tecnología}\\
+{\slshape Francisco Cervantes} {\footnotesize (CPI, Bach)}\\
+
+%%%%%%%%%%%%1903%%%%%%%%%%%%
+\noindent \ref{reg-1903} {\bfseries Pasado, presente y futuro de proyectos tipo Enciclomedia}\\
+{\slshape Felipe Bracho Carpizo} {\footnotesize (CPI, Pri)}\\
+
+\pagebreak
+
+\end{multicols}

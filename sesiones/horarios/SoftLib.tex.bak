@@ -1,0 +1,197 @@
+{\footnotesize
+\begin{center}
+%\begin{tabular}{|p{50pt}|p{50pt}|p{65pt}|p{65pt}|p{65pt}|p{65pt}|p{65pt}|}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline[1pt]
+\multicolumn{6}{|c|}{\Large\bfseries Software Libre en Matemáticas pág. \pageref{reg-738}}\\
+\hline
+\hline
+{\hfill\bfseries Hora\hfill} & {\hfill\bfseries Lunes\hfill} &  {\hfill\bfseries Martes\hfill} & {\hfill\bfseries Miércoles\hfill} & {\hfill\bfseries Jueves\hfill} & {\hfill\bfseries Viernes\hfill} \\
+\hline
+{\hfill 9:00-9:50 \hfill} &
+      &
+    &
+    &
+        &
+      \\
+\cline{1-1}\cline{3-6}
+
+{\hfill 10:00-10:20 \hfill} &
+    Inauguración   &
+    &
+    &
+    &
+     \\
+\cline{1-1}\cline{5-6}
+
+{\hfill 10:20-10:40 \hfill} &
+    &
+   {\bfseries \ref{reg-738}} &
+   {\bfseries \ref{reg-980}}  &
+    &
+     \\
+\cline{1-2}\cline{5-6}
+
+{\hfill 10:40-11:00 \hfill} &
+      &
+    &
+      &
+      &
+     \\
+\cline{1-1}\cline{3-6}
+
+{\hfill 11:00-11:30 \hfill} &
+     {\bfseries PLENARIA 1 }&
+     \multicolumn{4}{|c|} {\bfseries Café} \\
+\cline{1-6}
+
+{\hfill 11:40-12:00 \hfill} &
+     Traslado &
+      &
+  &
+  &
+   \\
+\cline{1-6}
+
+{\hfill 12:00-12:50 \hfill} &
+       &
+     {\bfseries \ref{reg-669}} &
+     {\bfseries \ref{reg-794}} &
+   &
+   \\
+\cline{1-6}
+
+{\hfill 12:50-13:00 \hfill} &
+     \multicolumn{5}{|c|} {\bfseries Traslado} \\
+\cline{1-6}
+
+{\hfill 13:00-13:30 \hfill} &
+       &
+    {\bfseries PLENARIA  } &
+    {\bfseries PLENARIA  } &
+   {\bfseries PLENARIA  } &
+   {\bfseries PLENARIA  } \\
+%\cline{1-2}
+
+{\hfill 13:30-13:50 \hfill} &
+      &
+    {\bfseries 2  } &
+    {\bfseries 3  } &
+   {\bfseries 4  } &
+   {\bfseries 5  } \\
+\cline{1-6}
+
+{\hfill 14:00-16:30 \hfill} &
+    \multicolumn{2}{|c|} {\bfseries COMIDA} &
+   &
+   \multicolumn{2}{|c|} {\bfseries COMIDA} \\
+\cline{1-3}\cline{5-6}
+
+{\hfill 16:40-17:00 \hfill} &
+       &
+    &
+     &
+     &
+     \\
+\cline{1-1}\cline{5-6}
+
+{\hfill 17:00-17:20 \hfill} &
+      &
+     {\bfseries \ref{reg-1047}} &
+     &
+    &
+    \\
+\cline{1-1}\cline{5-6}
+
+{\hfill 17:20-17:40 \hfill} &
+       &
+      &
+     &
+     &
+     \\
+\cline{1-3}\cline{5-6}
+
+{\hfill 17:40-18:10 \hfill} &
+     \multicolumn{2}{|c|} {\bfseries Café}&
+    {\bfseries Tarde Libre} &
+     \multicolumn{2}{|c|} {\bfseries Café} \\
+\cline{1-3}\cline{5-6}
+
+{\hfill 18:10-18:30 \hfill} &
+      &
+   {\bfseries \ref{reg-1358}} &
+    &
+   {\bfseries PLENARIA  } &
+   {\bfseries PLENARIA  } \\
+\cline{1-2}
+
+{\hfill 18:30-18:50 \hfill} &
+  &
+    &
+    &
+   {\bfseries 8  } &
+ {\bfseries 9  } \\
+\cline{1-3}\cline{5-6}
+
+{\hfill 18:50-19:00 \hfill} &
+    \multicolumn{2}{|c|} {\bfseries Traslado} &
+     &
+  {\bfseries Traslado} &
+    \\
+\cline{1-3}\cline{5-5}
+
+{\hfill 19:00-19:50 \hfill} &
+ {\bfseries PLENARIA 6 } &
+   {\bfseries PLENARIA  7} &
+       &
+   {\bfseries Asamblea General } &
+   {\bfseries Clausura } \\
+\cline{1-6}
+
+\hline[1pt]
+\multicolumn{6}{|c|}{\large\bfseries Salón D11}\\
+\hline
+\end{tabular}
+\end{center}
+
+}
+
+\begin{multicols}{2}
+\raggedcolumns
+
+
+
+%%%%%%%%%%%%738%%%%%%%%%%%%
+\noindent \ref{reg-738} {\bfseries El sotware libre en el mundo} \\
+{\slshape Pedro Miramontes} {\footnotesize (CDV, 1Lic)}\\
+
+
+%%%%%%%%%%%%669%%%%%%%%%%%%
+\noindent \ref{reg-669} {\bfseries Sistemas dinámicos con software libre} \\
+{\slshape Jose Antonio Vallejo} {\footnotesize (CDV, 2Lic)}\\
+
+
+%%%%%%%%%%%%1047%%%%%%%%%%%%
+\noindent \ref{reg-1047} {\bfseries El regreso de Herón a la Geometría} \\
+{\slshape Aarón Aparicio Hernández} {\footnotesize (CDV, Bach)}\\
+
+\columnbreak
+
+%%%%%%%%%%%%1358%%%%%%%%%%%%
+\noindent \ref{reg-1358} {\bfseries El uso de Python para problemas de Geometría Combinatoria} \\
+{\slshape Ruy  Fabila Monroy} {\footnotesize (CPI, Pos)}\\
+
+
+%%%%%%%%%%%%980%%%%%%%%%%%%
+\noindent \ref{reg-980} {\bfseries Topotitlan} \\
+{\slshape Valdemar Emigdio Arce Guevara} {\footnotesize (RT, 1Lic)}\\
+
+
+%%%%%%%%%%%%794%%%%%%%%%%%%
+\noindent \ref{reg-794} {\bfseries Python y las matemáticas} \\
+{\slshape Felipe Humberto Contreras Alcalá} {\footnotesize (CDV, 1Lic)}\\
+
+\pagebreak
+
+
+\end{multicols}

@@ -17,7 +17,7 @@
 \cline{1-1}\cline{3-6}
 {\hfill 10:00-10:20 \hfill} &
      Inauguración &
-  {\bfseries \ref{reg-232}}   &
+   \ref{reg-232}  &
   \ref{reg-1634}   &
   \ref{reg-1217}  &
   \ref{reg-805}  \\
@@ -30,14 +30,14 @@
    \ref{reg-506}  \\
 \cline{1-6}
 {\hfill 10:40-11:00 \hfill} &
-      &
-  \ref{reg-1028}   &
+     {\bfseries PLENARIA  }  &
+   &
   \ref{reg-297}   &
   \ref{reg-389}   &
   \ref{reg-1061}  \\
 \cline{1-1}\cline{3-6}
 {\hfill 11:00-11:30 \hfill} &
-     {\bfseries PLENARIA 1 }&
+     {\bfseries  1 }&
      \multicolumn{4}{|c|} {\bfseries Café} \\
 \cline{1-6}
 {\hfill 11:40-12:00 \hfill} &
@@ -126,15 +126,36 @@
 {\hfill 18:50-19:00 \hfill} &
     \multicolumn{2}{|c|} {\bfseries Traslado} &
      &
-  {\bfseries Traslado} &
-    \\
-\cline{1-3}\cline{5-5}
+  {\bfseries HOMENAJE} &
+  {\bfseries Traslado}  \\
+\cline{1-3}\cline{6-6}
 {\hfill 19:00-19:50 \hfill} &
- {\bfseries PLENARIA 6 } &
-   {\bfseries PLENARIA  7} &
+ {\bfseries  PLENARIA 6 } &
+   {\bfseries  PLENARIA  7} &
        &
-   {\bfseries Asamblea General } &
-   {\bfseries Clausura } \\
+   {\bfseries  JORGE} &
+   {\bfseries Asamblea } \\
+\cline{1-3}
+{\hfill 19:50-20:50  \hfill} &
+  {\bfseries  HOMENAJE }&
+  {\bfseries  HOMENAJE } &
+       &
+  {\bfseries  IZE}  &
+  {\bfseries  General }  \\
+  \cline{1-1}\cline{5-6}
+{\hfill 20:50-21:00 \hfill} &
+ {\bfseries  ERNESTO }  &
+   {\bfseries FRANCISCO} &
+       &
+  &
+   {\bfseries Traslado } \\
+\cline{1-1}\cline{5-6}
+    {\hfill 21:00-21:50  \hfill} &
+ {\bfseries  LACOMBA } &
+   {\bfseries RAGGI} &
+       &
+    &
+   {\bfseries Clausura}   \\
 \cline{1-6}
 \hline[1pt]
 \multicolumn{6}{|c|}{\large\bfseries Salón E2 }\\
@@ -181,15 +202,15 @@
 
 %%%%%%%%%%232%%%%%%%%%%%
 \noindent  \ref{reg-232}  {\bfseries Regla de Simpson}\\
-{\slshape  Justino  Alavez Ramírez (Invitado)} {\footnotesize (CDV, 1Lic)}\\
+{\slshape  Justino  Alavez Ramírez} {\footnotesize (CDV, 1Lic)}\\
 
 %%%%%%%%%%1585%%%%%%%%%%%
 \noindent  \ref{reg-1585}  {\bfseries Modelo de campo social para el tráfico peatonal sobre un pasillo}\\
 {\slshape  María Luisa Sandoval Solís} {\footnotesize (CI, 2Lic)}\\
 
 %%%%%%%%%%1028%%%%%%%%%%%
-\noindent  \ref{reg-1028}  {\bfseries Problemas de coloración de gráficas, aplicaciones y extensiones}\\
-{\slshape  Antonin  Ponsich} {\footnotesize (CDV, Inv)}\\
+%\noindent  \ref{reg-1028}  {\bfseries Problemas de coloración de gráficas, aplicaciones y extensiones}\\
+%{\slshape  Antonin  Ponsich} {\footnotesize (CDV, Inv)}\\
 
 %%%%%%%%%%1601%%%%%%%%%%%
 \noindent  \ref{reg-1601}  {\bfseries Convergencia a estructuras moleculares óptimas para catalizadores de una Celda de Combustible de Etanol Directo mediante algoritmos genéticos y DFT}\\
@@ -241,7 +262,7 @@
 
 %%%%%%%%%%1283%%%%%%%%%%%
 \noindent  \ref{reg-1283}  {\bfseries Algunos aspectos de los esquemas en diferencias empleando mallas estructuradas convexas para regiones irregulares del plano}\\
-{\slshape  Francisco  Domínguez-Mota (Invitado)} {\footnotesize (FALTA, FALTA)}\\
+{\slshape  Francisco  Domínguez-Mota (Invitado)} {\footnotesize (CPI, 2Lic)}\\
 
 %%%%%%%%%%701%%%%%%%%%%%
 \noindent  \ref{reg-701}  {\bfseries La importancia de las factorizaciones matriciales no negativas en la minería de datos y el procesamiento de imágenes}\\
@@ -252,7 +273,7 @@
 {\slshape  Luis Eduardo Quintos Vázquez} {\footnotesize (RT, Pos)}\\
 
 %%%%%%%%%%619%%%%%%%%%%%
-\noindent  \ref{reg-619}  {\bfseries Factorización no negativa de matrices: Algóritmos y Aplicaciones}\\
+\noindent  \ref{reg-619}  {\bfseries Factorización no negativa de matrices: Algoritmos y Aplicaciones}\\
 {\slshape  Federico  Garza De Luna} {\footnotesize (RT, 2Lic)}\\
 
 %%%%%%%%%%389%%%%%%%%%%%
@@ -289,14 +310,14 @@
 
 %%%%%%%%%%506%%%%%%%%%%%
 \noindent  \ref{reg-506}  {\bfseries Resolución del problema de cuotas óptimas utilizando un algoritmo Stackelberg--evolutivo}\\
-{\slshape  Pamela Jocelyn Palomo Martínez} {\footnotesize (RT, Inv)}\\
+{\slshape  Pamela Jocelyn Palomo Martínez} {\footnotesize (RT, Inv)}\\\\
 
 %%%%%%%%%%1061%%%%%%%%%%%
 \noindent  \ref{reg-1061}  {\bfseries Algoritmo Stackelberg--Scatter Search aplicado al problema de localización de plantas con preferencias sin capacidades}\\
 {\slshape  Martha Selene Casas Ramírez} {\footnotesize (RT, Inv)}\\
 
 %%%%%%%%%%1465%%%%%%%%%%%
-\noindent  \ref{reg-1465}  {\bfseries Pronostico de series financieras utilizando aprendizaje supervisado y herramientas de la teoría del caos}\\
+\noindent  \ref{reg-1465}  {\bfseries Pronóstico de series financieras utilizando aprendizaje supervisado y herramientas de la teoría del caos}\\
 {\slshape  Carlos Mauro Ramos Orozco} {\footnotesize (CI, 2Lic)}\\
 
 %%%%%%%%%%1688%%%%%%%%%%%

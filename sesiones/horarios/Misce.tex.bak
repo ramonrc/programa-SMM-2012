@@ -1,0 +1,208 @@
+{\footnotesize
+\begin{center}
+%\begin{tabular}{|p{50pt}|p{50pt}|p{65pt}|p{65pt}|p{65pt}|p{65pt}|p{65pt}|}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline[1pt]
+\multicolumn{6}{|c|}{\Large\bfseries Miscelánea Matemática pág. \pageref{reg-1221}}\\
+\hline
+\hline
+{\hfill\bfseries Hora\hfill} & {\hfill\bfseries Lunes\hfill} &  {\hfill\bfseries Martes\hfill} & {\hfill\bfseries Miércoles\hfill} & {\hfill\bfseries Jueves\hfill} & {\hfill\bfseries Viernes\hfill} \\
+\hline
+{\hfill 9:00-9:50 \hfill} &
+      &
+    &
+    &
+   {\bfseries \ref{reg-1407}}  &
+   {\bfseries \ref{reg-1028}}  \\
+\cline{1-1}\cline{3-6}
+
+{\hfill 10:00-10:20 \hfill} &
+    Inauguración   &
+    &
+    &
+    &
+     \\
+\cline{1-1}\cline{3-4}%\cline{6-6}
+
+{\hfill 10:20-10:40 \hfill} &
+    &
+    &
+   {\bfseries \ref{reg-1221}} &
+   {\bfseries \ref{reg-630}} &
+   {\bfseries \ref{reg-597}} \\
+\cline{1-4}%\cline{6-6}
+
+{\hfill 10:40-11:00 \hfill} &
+      &
+    &
+      &
+      &
+     \\
+\cline{1-1}\cline{3-6}
+
+{\hfill 11:00-11:30 \hfill} &
+     {\bfseries PLENARIA 1 }&
+     \multicolumn{4}{|c|} {\bfseries Café} \\
+\cline{1-6}
+
+{\hfill 11:40-12:00 \hfill} &
+     Traslado &
+      &
+  &
+  &
+   \\
+\cline{1-6}
+
+{\hfill 12:00-12:50 \hfill} &
+       &
+     &
+   {\bfseries \ref{reg-700}} &
+   {\bfseries \ref{reg-440}} &
+   {\bfseries \ref{reg-750}} \\
+\cline{1-6}
+
+{\hfill 12:50-13:00 \hfill} &
+     \multicolumn{5}{|c|} {\bfseries Traslado} \\
+\cline{1-6}
+
+{\hfill 13:00-13:30 \hfill} &
+       &
+    {\bfseries PLENARIA  } &
+    {\bfseries PLENARIA  } &
+   {\bfseries PLENARIA  } &
+   {\bfseries PLENARIA  } \\
+%\cline{1-2}
+
+{\hfill 13:30-13:50 \hfill} &
+      &
+    {\bfseries 2  } &
+    {\bfseries 3  } &
+   {\bfseries 4  } &
+   {\bfseries 5  } \\
+\cline{1-6}
+
+{\hfill 14:00-16:30 \hfill} &
+    \multicolumn{2}{|c|} {\bfseries COMIDA} &
+   &
+   \multicolumn{2}{|c|} {\bfseries COMIDA} \\
+\cline{1-3}\cline{5-6}
+
+{\hfill 16:40-17:00 \hfill} &
+       &
+    &
+     &
+     &
+     \\
+\cline{1-1}\cline{3-3}\cline{6-6}
+
+{\hfill 17:00-17:20 \hfill} &
+      &
+      &
+     &
+   {\bfseries \ref{reg-905}} &
+    \\
+\cline{1-1}\cline{3-3}\cline{6-6}
+
+{\hfill 17:20-17:40 \hfill} &
+       &
+      &
+     &
+     &
+     \\
+\cline{1-3}\cline{5-6}
+
+{\hfill 17:40-18:10 \hfill} &
+     \multicolumn{2}{|c|} {\bfseries Café}&
+    {\bfseries Tarde Libre} &
+     \multicolumn{2}{|c|} {\bfseries Café} \\
+\cline{1-3}\cline{5-6}
+
+{\hfill 18:10-18:30 \hfill} &
+      &
+    &
+    &
+   {\bfseries PLENARIA  } &
+   {\bfseries PLENARIA  } \\
+\cline{1-3}
+
+{\hfill 18:30-18:50 \hfill} &
+  &
+    &
+    &
+   {\bfseries 8  } &
+ {\bfseries 9  } \\
+\cline{1-3}\cline{5-6}
+
+{\hfill 18:50-19:00 \hfill} &
+    \multicolumn{2}{|c|} {\bfseries Traslado} &
+     &
+  {\bfseries Traslado} &
+    \\
+\cline{1-3}\cline{5-5}
+
+{\hfill 19:00-19:50 \hfill} &
+ {\bfseries PLENARIA 6 } &
+   {\bfseries PLENARIA  7} &
+       &
+   {\bfseries Asamblea General } &
+   {\bfseries Clausura } \\
+\cline{1-6}
+
+\hline[1pt]
+\multicolumn{6}{|c|}{\large\bfseries Salón 1 }\\
+\hline
+\end{tabular}
+\end{center}
+
+}
+
+\begin{multicols}{2}
+\raggedcolumns
+
+
+%%%%%%%%%%%%1221%%%%%%%%%%%%
+\noindent \ref{reg-1221} {\bfseries El Producto Cruz y Cantidades Conservadas}\\
+{\slshape Ricardo Berlanga Zubiaga} {\footnotesize (CDV, 1Lic)}\\
+
+
+%%%%%%%%%%%%440%%%%%%%%%%%%
+\noindent \ref{reg-440} {\bfseries Puntos de Fermat y variantes}\\
+{\slshape Martin Celli} {\footnotesize (CDV, 1Lic)}\\
+
+
+%%%%%%%%%%%%1407%%%%%%%%%%%%
+\noindent \ref{reg-1407} {\bfseries Poliedros proyectos}\\
+{\slshape Isabel Hubard} {\footnotesize (CDV, 1Lic)}\\
+
+
+%%%%%%%%%%%%630%%%%%%%%%%%%
+\noindent \ref{reg-630} {\bfseries Modelos de Duopolio de Cournot con evasión de impuestos}\\
+{\slshape Benjamin Alfonso Itza Ortiz} {\footnotesize (RI, 2Lic)}\\
+
+
+%%%%%%%%%%%%905%%%%%%%%%%%%
+\noindent \ref{reg-905} {\bfseries Aplicaciones de la Probabilidad en Teoría del Riesgo.}\\
+{\slshape José Luis Ángel Pérez garmendia} {\footnotesize (CDV, 2Lic)}\\
+
+
+%%%%%%%%%%%%700%%%%%%%%%%%%
+\noindent \ref{reg-700} {\bfseries Solución al Problema de Toma de Decisión Personal}\\
+{\slshape Hortensia Galeana Sánchez} {\footnotesize (CDV, 1Lic)}\\
+
+
+%%%%%%%%%%%%1028%%%%%%%%%%%%
+\noindent \ref{reg-1028} {\bfseries Problemas de coloración de gráficas, aplicaciones y extensiones}\\
+{\slshape Antonin Ponsich} {\footnotesize (CDV, Inv)}\\
+
+
+%%%%%%%%%%%%597%%%%%%%%%%%%
+\noindent \ref{reg-597} {\bfseries Segmentación Probabilística de Imágenes y Video: Teoría y Aplicaciones}\\
+{\slshape Mariano José Juan Rivera Meraz} {\footnotesize (CDV, 2Lic)}\\
+
+
+%%%%%%%%%%%%750%%%%%%%%%%%%
+\noindent \ref{reg-750} {\bfseries Simulación escolástica y las leyes de los grandes números}\\
+{\slshape Raul Rueda Diaz del Campo} {\footnotesize (CDV, Bach)}\\
+
+
+\end{multicols}

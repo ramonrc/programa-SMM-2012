@@ -1,0 +1,282 @@
+{\footnotesize
+\begin{center}
+%\begin{tabular}{|p{50pt}|p{50pt}|p{65pt}|p{65pt}|p{65pt}|p{65pt}|p{65pt}|}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline[1pt]
+\multicolumn{6}{|c|}{\Large\bfseries Las Matemáticas en las Licenciaturas pág. \pageref{reg-1874}}\\
+\hline
+\hline
+{\hfill\bfseries Hora\hfill} & {\hfill\bfseries Lunes\hfill} &  {\hfill\bfseries Martes\hfill} & {\hfill\bfseries Miércoles\hfill} & {\hfill\bfseries Jueves\hfill} & {\hfill\bfseries Viernes\hfill} \\
+\hline
+ &
+      &
+   {\bfseries \ref{reg-1393}} &
+    &
+        &
+      \\
+\cline{3-6}
+
+{\hfill 9:00-9:50 \hfill} &
+      &
+   {\bfseries \ref{reg-598}} &
+    &
+        &
+      \\
+\cline{3-6}
+
+  &
+ Inauguración  &
+   {\bfseries \ref{reg-676}} &
+    &
+        &
+      \\
+\cline{1-1}\cline{3-6}
+
+{\hfill 10:00-10:20 \hfill} &
+       &
+   {\bfseries \ref{reg-787}} &
+    &
+    &
+     \\
+\cline{1-1}\cline{3-6}
+
+{\hfill 10:20-10:40 \hfill} &
+    &
+   {\bfseries \ref{reg-838}} &
+     &
+    &
+     \\
+\cline{1-6}
+
+{\hfill 10:40-11:00 \hfill} &
+      &
+   {\bfseries \ref{reg-848}} &
+      &
+      &
+     \\
+\cline{1-1}\cline{3-6}
+
+{\hfill 11:00-11:30 \hfill} &
+     {\bfseries PLENARIA 1 }&
+     \multicolumn{4}{|c|} {\bfseries Café} \\
+\cline{1-6}
+
+{\hfill 11:40-12:00 \hfill} &
+     Traslado &
+     {\bfseries \ref{reg-1873}} &
+  &
+  &
+   \\
+\cline{1-6}
+
+{\hfill 12:00-12:50 \hfill} &
+     {\bfseries \ref{reg-1874}}  &
+     {\bfseries \ref{reg-849}} &
+      &
+   &
+   \\
+\cline{2-6}
+
+ &
+ {\bfseries \ref{reg-1875}} &
+ {\bfseries \ref{reg-850}} &
+&
+&
+\\
+\cline{1-6}
+
+{\hfill 12:50-13:00 \hfill} &
+     \multicolumn{5}{|c|} {\bfseries Traslado} \\
+\cline{1-6}
+
+{\hfill 13:00-13:50 \hfill} &
+     {\bfseries \ref{reg-1877}}  &
+    {\bfseries PLENARIA  } &
+    {\bfseries PLENARIA  } &
+   {\bfseries PLENARIA  } &
+   {\bfseries PLENARIA  } \\
+\cline{2-2}
+
+  &
+   {\bfseries \ref{reg-1876}} &
+    {\bfseries 2  } &
+    {\bfseries 3  } &
+   {\bfseries 4  } &
+   {\bfseries 5  } \\
+\cline{1-6}
+
+{\hfill 14:00-16:30 \hfill} &
+    \multicolumn{2}{|c|} {\bfseries COMIDA} &
+   &
+   \multicolumn{2}{|c|} {\bfseries COMIDA} \\
+\cline{1-3}\cline{5-6}
+
+{\hfill 16:40-17:00 \hfill} &
+       &
+   {\bfseries \ref{reg-1260}} &
+     &
+     &
+     \\
+\cline{1-1}\cline{3-3}\cline{5-6}
+
+{\hfill 17:00-17:20 \hfill} &
+      &
+     {\bfseries \ref{reg-1927}} &
+     &
+    &
+    \\
+\cline{1-1}\cline{3-3}\cline{5-6}
+
+{\hfill 17:20-17:40 \hfill} &
+       &
+      &
+     &
+     &
+     \\
+\cline{1-3}\cline{5-6}
+
+{\hfill 17:40-18:10 \hfill} &
+     \multicolumn{2}{|c|} {\bfseries Café}&
+    {\bfseries Tarde Libre} &
+     \multicolumn{2}{|c|} {\bfseries Café} \\
+\cline{1-3}\cline{5-6}
+
+{\hfill 18:10-18:30 \hfill} &
+      &
+    &
+    &
+   {\bfseries PLENARIA  } &
+   {\bfseries PLENARIA  } \\
+\cline{1-3}
+
+{\hfill 18:30-18:50 \hfill} &
+  &
+    &
+    &
+   {\bfseries 8  } &
+ {\bfseries 9  } \\
+\cline{1-3}\cline{5-6}
+
+{\hfill 18:50-19:00 \hfill} &
+    \multicolumn{2}{|c|} {\bfseries Traslado} &
+     &
+  {\bfseries HOMENAJE} &
+  {\bfseries Traslado}  \\
+\cline{1-3}\cline{6-6}
+{\hfill 19:00-19:50 \hfill} &
+ {\bfseries  PLENARIA 6 } &
+   {\bfseries  PLENARIA  7} &
+       &
+   {\bfseries  JORGE} &
+   {\bfseries Asamblea } \\
+\cline{1-3}
+{\hfill 19:50-20:50  \hfill} &
+  {\bfseries  HOMENAJE }&
+  {\bfseries  HOMENAJE } &
+       &
+  {\bfseries  IZE}  &
+  {\bfseries  General }  \\
+  \cline{1-1}\cline{5-6}
+{\hfill 20:50-21:00 \hfill} &
+ {\bfseries  ERNESTO }  &
+   {\bfseries FRANCISCO} &
+       &
+  &
+   {\bfseries Traslado } \\
+\cline{1-1}\cline{5-6}
+    {\hfill 21:00-21:50  \hfill} &
+ {\bfseries  LACOMBA } &
+   {\bfseries RAGGI} &
+       &
+    &
+   {\bfseries Clausura}   \\
+\cline{1-6}
+\hline[1pt]
+\multicolumn{6}{|c|}{\large\bfseries Salón C3 }\\
+\hline
+\end{tabular}
+\end{center}
+
+}
+
+\begin{multicols}{2}
+\raggedcolumns
+
+
+
+%%%%%%%%%%%%1874%%%%%%%%%%%%
+\noindent \ref{reg-1874} {\bfseries Tecnología de Información y Estadística en Finanzas} \\
+{\slshape Giovana Ortigoza Álvarez} {\footnotesize (CDV, 1Lic)}\\
+
+
+%%%%%%%%%%%%1875%%%%%%%%%%%%
+\noindent \ref{reg-1875} {\bfseries Percolación Topológica y Homología Persistente} \\
+{\slshape Yuriko Pitones Amaro} {\footnotesize (CDV, 2Lic)}\\
+
+
+%%%%%%%%%%%%1877%%%%%%%%%%%%
+\noindent \ref{reg-1877} {\bfseries El Polinomio de Tutte} \\
+{\slshape Rosal de Jesús Martínez Ríos} {\footnotesize (CDV, 2Lic)}\\
+
+
+%%%%%%%%%%%%1876%%%%%%%%%%%%
+\noindent \ref{reg-1876} {\bfseries El Problema de Desviación Máxima en un Sistema de Ecuaciones Diferenciales de Orden Cuatro} \\
+{\slshape José Alberto Peña García} {\footnotesize (CDV, 2Lic)}\\
+
+
+%%%%%%%%%%%%1393%%%%%%%%%%%%
+\noindent \ref{reg-1393} {\bfseries El compás de Arquímedes y una propiedad característica de la  Elipse} \\
+{\slshape Antonio Rosales Rivera} {\footnotesize (CDV, 1Lic)}\\
+
+%%%%%%%%%%%%598%%%%%%%%%%%%
+\noindent \ref{reg-598} {\bfseries Grupos Kleinianos y Superficies Hiperbólicas} \\
+{\slshape María del Carmen Tapia Lorenzo} {\footnotesize (RT, 2Lic)}\\
+
+
+%%%%%%%%%%%%676%%%%%%%%%%%%
+\noindent \ref{reg-676} {\bfseries Una prueba topológica de la infinitud de los números primos} \\
+{\slshape Jesús Antonio Muñoz Zepeda} {\footnotesize (CDV, 2Lic)}\\
+
+
+%%%%%%%%%%%%787%%%%%%%%%%%%
+\noindent \ref{reg-787} {\bfseries Teorías de Homología} \\
+{\slshape Juan José Catalán Ramírez} {\footnotesize (RT, 2Lic)}\\
+
+
+%%%%%%%%%%%%838%%%%%%%%%%%%
+\noindent \ref{reg-838} {\bfseries Algunas propiedades del espacio euclidiano $\mathbb{R}^{n}$ que no se preservan a espacios métricos arbitrarios} \\
+{\slshape Nayeli Adriana González Martínez} {\footnotesize (CDV, 2Lic)}\\
+
+
+%%%%%%%%%%%%848%%%%%%%%%%%%
+\noindent \ref{reg-848} {\bfseries Construcción de una curva de Peano utilizando el conjunto de Cantor} \\
+{\slshape Israel Morales Jiménez} {\footnotesize (CDV, 2Lic)}\\
+
+
+%%%%%%%%%%%%1873%%%%%%%%%%%%
+\noindent \ref{reg-1873} {\bfseries Polígonos, poliedros y politopos} \\
+{\slshape Lizbeth Sánchez Flores} {\footnotesize (CDV, 2Lic)}\\
+
+
+%%%%%%%%%%%%849%%%%%%%%%%%%
+\noindent \ref{reg-849} {\bfseries Algoritmo genético para entrenamiento de redes neuronales} \\
+{\slshape Jimena Ocampo Sánchez} {\footnotesize (CDV, 1Lic)}
+
+%\columnbreak
+
+%%%%%%%%%%%%850%%%%%%%%%%%%
+\noindent \ref{reg-850} {\bfseries Métrica de Hausdorff} \\
+{\slshape Pablo Jorge Hernández Hernández} {\footnotesize (CDV, 2Lic)}\\
+
+
+%%%%%%%%%%%%1260%%%%%%%%%%%%
+\noindent \ref{reg-1260} {\bfseries Reconstrucción combinatoria de Curvas: el Crust de una nube de puntos} \\
+{\slshape Daniel Antonio Martínez Muñoz} {\footnotesize (CI, 1Lic)}\\
+
+%\columnbreak
+
+%%%%%%%%%%%%1927%%%%%%%%%%%%
+\noindent \ref{reg-1927} {\bfseries Equilibrios con Variaciones Conjeturadas en un Duopolio Mixto de Estructura Especial} \\
+{\slshape Edgar Camacho Esparza} {\footnotesize (CDV, 2Lic)}
+
+\end{multicols}
