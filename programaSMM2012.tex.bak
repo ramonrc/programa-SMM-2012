@@ -140,57 +140,84 @@ $ \;\;\;\;$\\
 \input{otros/comites}
 \newpage
 \input{otros/abrev}
+\newpage
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%                 SEMBLANZAS             %%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+{\sffamily
+\input{otros/ana_guzman}
+\newpage
+\input{otros/jose_angel_canavati}
+\newpage
+\input{otros/jorge_ize}
+\newpage
+\input{otros/ernesto_lacomba}
+\newpage
+\input{otros/francisco_raggi}
+\newpage
 }
 
-\chapter{Plenarias}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%                 ANUNCIOS             %%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%                 HORARIOS             %%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter{Horarios}
+
 {\sffamily
+
 \input{areas/horarios/Plenarias}
-\input{areas/resumenes/Plenarios}
-}
-
-\chapter{Semblanzas}
-{\sffamily
-\input{otros/semblanzas}
-}
-
-\chapter{Homenajes}
-
-\chapter{The 16th workshop on Eliptic Curve Criptography}
-
-\chapter{1er Congreso Nacional de AMITE}
-
-\chapter{Mesas Redondas}
-
-\chapter{Sesiones Especiales}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%           AREAS      HORARIOS             %%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\chapter{햞eas: Horarios}
-
-{\sffamily
+\chapter*{Homenajes}
+\chapter*{The 16th workshop on Eliptic Curve Criptography}
+\chapter*{1er Congreso Nacional de AMITE}
+\chapter*{Mesas Redondas}
+\chapter*{Sesiones Especiales}
+\input{sesiones/horarios/DinHam}
+\input{sesiones/horarios/InnMat}      % 26
+\input{sesiones/horarios/SMMBach}     % 27
+\input{sesiones/horarios/MatLic}      % 28
+\input{sesiones/horarios/MatInd}      % 29
+\input{sesiones/horarios/Misce}
+\input{sesiones/horarios/ProInv}      % 31
+\input{sesiones/horarios/SoftLib}     % 32
+\input{otros/anuncios.tex}
+\input{sesiones/horarios/DifPos}      % 34
+\input{sesiones/horarios/PreLib}      % 35
+\chapter*{햞eas}
 \input{areas/horarios/Alge}
 \input{areas/horarios/Ana}
 \input{areas/horarios/AnaNum}
 \input{areas/horarios/Bio}
 \input{areas/horarios/CieComp}
-\input{areas/horarios/Curs}
+\input{areas/horarios/Docen3-1}
 \input{areas/horarios/EcDifAp}
 \input{areas/horarios/Estad}
-\input{areas/horarios/Expe}
+%\input{areas/horarios/Expe}
 \input{areas/horarios/FMat}
 \input{areas/horarios/GeoAlg}
 \input{areas/horarios/HisFil}
 \input{areas/horarios/LogFun}
+\input{areas/horarios/MatDisc}
 \input{areas/horarios/MatEdu}
 \input{areas/horarios/MatIng}
+\input{areas/horarios/MatFin}
 \input{areas/horarios/Prob}
 \input{areas/horarios/SisDin}
-\input{areas/horarios/Talle}
+%\input{areas/horarios/Talle}
 \input{areas/horarios/TeoNum}
 \input{areas/horarios/TopAlg}
 \input{areas/horarios/TopGen}
+\input{areas/horarios/Carteles}
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -211,6 +238,29 @@ $ \;\;\;\;$\\
 \chapter{Res\'umenes}
 
 {\sffamily	
+\input{areas/resumenes/Plenarios}
+\chapter*{Homenajes}
+\addcontentsline{toc}{section}{Homenajes}
+\chapter*{The 16th workshop on Eliptic Curve Criptography}
+\addcontentsline{toc}{section}{The 16th workshop on Eliptic Curve Criptography}
+\chapter*{1er Congreso Nacional de AMITE}
+\addcontentsline{toc}{section}{1er Congreso Nacional de AMITE}
+\chapter*{Mesas Redondas}
+\addcontentsline{toc}{section}{Mesas Redondas}
+\chapter*{Sesiones Especiales}
+\addcontentsline{toc}{section}{Sesiones Especiales}
+\input{sesiones/resumenes/DinHam}
+\input{sesiones/resumenes/InnMat}      % 26
+\input{sesiones/resumenes/SMMBach}     % 27
+\input{sesiones/resumenes/MatLic}      % 28
+\input{sesiones/resumenes/MatInd}      % 29
+\input{sesiones/resumenes/Misce}
+\input{sesiones/resumenes/ProInv}      % 31
+\input{sesiones/resumenes/SoftLib}     % 32
+\input{sesiones/resumenes/DifPos}      % 34
+\input{sesiones/resumenes/PreLib}      % 35
+\chapter*{햞eas}
+\addcontentsline{toc}{section}{햞eas}
 \input{areas/resumenes/Alge}
 \input{areas/resumenes/Ana}
 \input{areas/resumenes/AnaNum}
@@ -224,14 +274,17 @@ $ \;\;\;\;$\\
 \input{areas/resumenes/GeoAlg}
 \input{areas/resumenes/HistFil}
 \input{areas/resumenes/LogFun}
+\input{areas/resumenes/MatDisc}
 \input{areas/resumenes/MatEdu}
 \input{areas/resumenes/MatIng}
+\input{areas/resumenes/MatFin}
 \input{areas/resumenes/Prob}
 \input{areas/resumenes/SisDin}
 \input{areas/resumenes/Talle}
 \input{areas/resumenes/TeoNum}
 \input{areas/resumenes/TopAlg}
 \input{areas/resumenes/TopGen}
+\input{areas/resumenes/Carteles}
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -242,7 +295,13 @@ $ \;\;\;\;$\\
 
 \printindex
 
-\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%                 IMPRENTA       %%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter*{\;\;}
+%\newpage
 
 $\;\;\;\;$ \\
 \vspace{16cm}
