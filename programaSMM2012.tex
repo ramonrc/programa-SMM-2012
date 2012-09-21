@@ -1,4 +1,4 @@
-\documentclass[10pt,openright,twoside,letterpaper,titlepage]{book}
+\documentclass[10pt,openany,twoside,letterpaper,titlepage]{book}
 \usepackage{amsmath, amscd, amssymb, amsthm,latexsym,amsfonts}
 \usepackage{fancyhdr} % cabeceras de cada pagina
 \usepackage{multicol} % tablas de horarios
@@ -87,7 +87,7 @@ $ \;\;\;\;$\\
 \vskip 0.3cm
 {\LARGE\sffamily 28 de octubre al 2 de noviembre de 2012}\\
 \vskip 0.3cm
-{\LARGE\sffamily Sede: Universidad Autónoma de Querétaro}\\
+{\LARGE\sffamily Universidad Autónoma de Querétaro}\\
 \vskip 0.3cm
 \end{center}
 
@@ -138,6 +138,9 @@ $ \;\;\;\;$\\
 \input{otros/presentacion}
 \newpage
 \input{otros/comites}
+\input{otros/socios_institucionales}
+\input{otros/patrocinadores}
+\input{otros/actividades}
 \newpage
 \input{otros/abrev}
 \newpage
@@ -160,14 +163,10 @@ $ \;\;\;\;$\\
 \newpage
 }
 
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%                 ANUNCIOS             %%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\input{otros/anuncios}
+\chapter*{Homenajes}
+\input{homenajes/jorge_ize}
+\input{homenajes/ernesto_lacomba}
+\input{homenajes/francisco_raggi}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -179,10 +178,6 @@ $ \;\;\;\;$\\
 {\sffamily
 
 \input{areas/horarios/Plenarias}
-\chapter*{Homenajes}
-\input{homenajes/jorge_ize}
-\input{homenajes/ernesto_lacomba}
-\input{homenajes/francisco_raggi}
 \chapter*{The 16th workshop on Elliptic Curve Cryptography}
 \chapter*{1er Congreso Nacional de la AMITE}
 \chapter*{Mesas Redondas}
@@ -198,6 +193,7 @@ $ \;\;\;\;$\\
 \input{otros/anuncios.tex}
 \input{sesiones/horarios/DifPos}      % 34
 \input{sesiones/horarios/PreLib}      % 35
+\input{sesiones/horarios/JovenAJoven} % 36
 \chapter*{Áreas}
 \input{areas/horarios/Alge}
 \input{areas/horarios/Ana}
@@ -235,6 +231,15 @@ $ \;\;\;\;$\\
 \chapter{Conferencias Panorámicas}
 
 \chapter{Conferencias de Divulgación}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%                 ANUNCIOS             %%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\input{otros/anuncios}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%                 RESUMENES                %%%%%%%%%%%%
@@ -265,6 +270,7 @@ $ \;\;\;\;$\\
 \input{sesiones/resumenes/SoftLib}     % 32
 \input{sesiones/resumenes/DifPos}      % 34
 \input{sesiones/resumenes/PreLib}      % 35
+\input{sesiones/resumenes/JovenAJoven} % 36
 \chapter*{Áreas}
 \addcontentsline{toc}{section}{Áreas}
 \input{areas/resumenes/Alge}
