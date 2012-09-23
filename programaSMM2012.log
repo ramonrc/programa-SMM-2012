@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011-OpenBSD_Ports) (format=latex 2011.9.1)  23 SEP 2012 03:17
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011-OpenBSD_Ports) (format=latex 2011.9.1)  23 SEP 2012 03:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -873,7 +873,7 @@ Overfull \hbox (71.13188pt too wide) in paragraph at lines 192--194
  []
 
 
-Overfull \hbox (1079.79791pt too wide) in paragraph at lines 192--194
+Overfull \hbox (761.41325pt too wide) in paragraph at lines 192--194
 [] 
  []
 
@@ -885,7 +885,7 @@ Overfull \vbox (96.46588pt too high) has occurred while \output is active []
 
 
 [23]
-Overfull \vbox (561.95775pt too high) has occurred while \output is active []
+Overfull \vbox (315.842pt too high) has occurred while \output is active []
 
 
 [24]
@@ -11348,7 +11348,6 @@ File: smm_relleno_claro.eps Graphic file (type eps)
  <smm_relleno_claro.eps>
 [383
 
-] [384
 
 ] (./programaSMM2012.aux)
 
@@ -11364,4 +11363,4 @@ Here is how much of TeX's memory you used:
  831 hyphenation exceptions out of 8191
  36i,15n,43p,10357b,2448s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on programaSMM2012.dvi (388 pages, 2600856 bytes).
+Output written on programaSMM2012.dvi (387 pages, 2600544 bytes).
