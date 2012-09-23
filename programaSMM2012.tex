@@ -149,10 +149,7 @@ $ \;\;\;\;$\\
 \input{otros/patrocinadores}
 \includegraphics[width=18cm]{otros/Cartel_Festival_Queretaroo.eps}
 \input{otros/actividades}
-\newpage
-\input{otros/abrev}
-\newpage
-}
+\newpage}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%                 SEMBLANZAS             %%%%%%%%%%%%
@@ -174,7 +171,10 @@ $ \;\;\;\;$\\
 \chapter*{Homenajes}
 \input{homenajes/jorge_ize}
 \input{homenajes/ernesto_lacomba}
+\newpage
 \input{homenajes/francisco_raggi}
+\newpage
+\input{otros/abrev}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -186,15 +186,19 @@ $ \;\;\;\;$\\
 {\sffamily
 
 \input{areas/horarios/Plenarias}
-\chapter*{The 16th workshop on Elliptic Curve Cryptography}
-\includegraphics[width=17cm]{otros/workshop2.eps}
-\newpage
-\includegraphics[width=17cm]{otros/ProgWork2.eps}
-\chapter*{1er Congreso Nacional de la AMITE}
+\addcontentsline{toc}{section}{Plenarias}
+\section*{The 16th workshop on Elliptic Curve Cryptography}
+\addcontentsline{toc}{section}{The 16th workshop on Elliptic Curve Cryptography}
+\includegraphics[width=20cm]{otros/workshop2.eps}
+\scalebox{2}{\includegraphics{otros/ProgWork2.eps}}
+\section*{1er Congreso Nacional de la AMITE}
+\addcontentsline{toc}{section}{1er Congreso Nacional de la AMITE}
 \includegraphics[width=17cm]{otros/cartel_AMITE.eps}
 \input{sesiones/horarios/InnMat}      % 26
 \chapter*{Mesas Redondas}
+\addcontentsline{toc}{section}{Mesas Redondas}
 \chapter*{Sesiones Especiales}
+\addcontentsline{toc}{section}{Sesiones Especiales}
 \input{sesiones/horarios/DinHam}
 %\input{sesiones/horarios/InnMat}      % 26
 \input{sesiones/horarios/SMMBach}     % 27
@@ -208,6 +212,7 @@ $ \;\;\;\;$\\
 \input{sesiones/horarios/PreLib}      % 35
 \input{sesiones/horarios/JovenAJoven} % 36
 \chapter*{Áreas}
+\addcontentsline{toc}{section}{\'Areas}
 \input{areas/horarios/Alge}
 \input{areas/horarios/Ana}
 \input{areas/horarios/AnaNum}
@@ -339,8 +344,12 @@ $ \;\;\;\;$\\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-\addcontentsline{toc}{section}{\'Indicce de autores}
+\addcontentsline{toc}{chapter}{\'Indicce de autores}
 \printindex
+\begin{figure}[h]
+\centering
+\scalebox{0.9}[0.9]{\includegraphics{smm_relleno_claro.eps}}
+\end{figure}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -353,10 +362,6 @@ $ \;\;\;\;$\\
 $\;\;\;\;$ \\
 \vspace{10cm}
  $\;\;\;\;$
-\begin{figure}[h]
-\centering
-\scalebox{0.9}[0.9]{\includegraphics{smm_relleno_claro.eps}}
-\end{figure}
 \vfill
 \begin{center}
 Estos programas se terminaron de imprimir\\
