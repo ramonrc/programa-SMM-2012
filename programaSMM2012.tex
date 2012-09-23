@@ -5,6 +5,8 @@
 \usepackage{multirow}
 \usepackage[dvipdfm]{graphicx}
 \usepackage{eulervm}
+%\usepackage{supertabular} 
+\usepackage{xtab}
 \usepackage{mathrsfs}
 \usepackage{esint}
 \usepackage{dsfont,vmargin}
@@ -39,6 +41,11 @@
 \parindent 0.5cm % Sangria
 %\parskip .2cm % Separación entre líneas
 \footskip 1cm % Distancia Pie de notas-Texto
+
+\usepackage{eso-pic}
+\newcommand\BackgroundPic{\put(0,0){\parbox[b][\paperheight]{\paperwidth}{\vfill\centering
+\includegraphics[width=\paperwidth,height=\paperheight,keepaspectratio]{otros/LogoCasio.eps}
+\vfill}}}
 
 \usepackage{titlesec}
 
@@ -140,6 +147,7 @@ $ \;\;\;\;$\\
 \input{otros/comites}
 \input{otros/socios_institucionales}
 \input{otros/patrocinadores}
+\includegraphics[width=18cm]{otros/Cartel_Festival_Queretaroo.eps}
 \input{otros/actividades}
 \newpage
 \input{otros/abrev}
@@ -180,17 +188,19 @@ $ \;\;\;\;$\\
 \input{areas/horarios/Plenarias}
 \chapter*{The 16th workshop on Elliptic Curve Cryptography}
 \chapter*{1er Congreso Nacional de la AMITE}
+\includegraphics[width=17cm]{otros/cartel_AMITE.eps}
+\input{sesiones/horarios/InnMat}      % 26
 \chapter*{Mesas Redondas}
 \chapter*{Sesiones Especiales}
 \input{sesiones/horarios/DinHam}
-\input{sesiones/horarios/InnMat}      % 26
+%\input{sesiones/horarios/InnMat}      % 26
 \input{sesiones/horarios/SMMBach}     % 27
 \input{sesiones/horarios/MatLic}      % 28
 \input{sesiones/horarios/MatInd}      % 29
 \input{sesiones/horarios/Misce}
 \input{sesiones/horarios/ProInv}      % 31
 \input{sesiones/horarios/SoftLib}     % 32
-\input{otros/anuncios.tex}
+%\input{otros/anuncios.tex}
 \input{sesiones/horarios/DifPos}      % 34
 \input{sesiones/horarios/PreLib}      % 35
 \input{sesiones/horarios/JovenAJoven} % 36
@@ -229,9 +239,14 @@ $ \;\;\;\;$\\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \chapter{Conferencias Panorámicas}
+{\sffamily
+\input{otros/tabla_panoramicas}
+}
 
 \chapter{Conferencias de Divulgación}
-
+{\sffamily
+\input{otros/tabla_divulgacion}
+}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%                 ANUNCIOS             %%%%%%%%%%%%
@@ -250,14 +265,14 @@ $ \;\;\;\;$\\
 
 {\sffamily	
 \input{areas/resumenes/Plenarios}
-\chapter*{Homenajes}
-\addcontentsline{toc}{section}{Homenajes}
+%\chapter*{Homenajes}
+%\addcontentsline{toc}{section}{Homenajes}
 \chapter*{The 16th workshop on Elliptic Curve Cryptography}
 \addcontentsline{toc}{section}{The 16th workshop on Elliptic Curve Cryptography}
 \chapter*{1er Congreso Nacional de la AMITE}
 \addcontentsline{toc}{section}{1er Congreso Nacional de la AMITE}
 \chapter*{Mesas Redondas}
-\addcontentsline{toc}{section}{Mesas Redondas}
+%\addcontentsline{toc}{section}{Mesas Redondas}
 \chapter*{Sesiones Especiales}
 \addcontentsline{toc}{section}{Sesiones Especiales}
 \input{sesiones/resumenes/DinHam}
@@ -299,6 +314,22 @@ $ \;\;\;\;$\\
 \input{areas/resumenes/Carteles}
 }
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%          HOJAS BLANCAS        %%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Mi programa}
+\AddToShipoutPicture{\BackgroundPic}
+\;  \newpage
+\  \newpage
+\  \newpage
+\  \newpage
+\  \newpage
+
+
+\ClearShipoutPicture
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%                 INDICE DE PONENTES        %%%%%%%%%%%%

@@ -1,0 +1,54 @@
+Ordenar:
+Talle.tex:reg-642 PreLib.tex:reg-730
+PreLib.tex:reg-411 LogFun.tex:reg-1689
+Docen.tex:reg-1592,reg-1587reg-1587 Expe.tex:reg-1592,reg-1587
+MatDisc.tex:reg-1842 TopGen.tex:reg-1311
+HistFil.tex:reg-1728 TopGen.tex:reg-1723
+EcDifAp.tex:reg-515 Talle.tex:reg-1105
+Bio.tex:reg-1911 Plenarios.tex:P8
+Expe.tex:reg-517,reg-518 MatEdu.tex:reg-516
+MatDisc.tex:reg-1365 SMMBach.tex:reg-1896 aguirre
+InnMat.tex:reg-539 ProInv.tex:reg-250
+Carteles.tex:reg-1264 MatEdu.tex:reg-483
+AnaNum.tex:reg-559 PreLib.tex:reg-561
+GeoAlg.tex:reg-489 TeoNum.tex:reg-488
+Alge.tex:reg-1704 MatDisc.tex:reg-1696 TeoNum.tex:reg-1708
+Alge.tex:reg-247 AnaNum.tex:reg-246
+MatDisc.tex:reg-296 JovenAJoven.tex:joven02,joven01
+MatEdu.tex:reg-875,reg-1571
+Curs.tex:reg-599,reg-1428,reg-1429 MatEdu.tex:reg-1444
+Curs.tex:reg-945 MatEdu.tex:reg-933
+Bio.tex:reg-191 SoftLib.tex:reg-738
+CieComp.tex:reg-752 LogFun.tex:reg-747
+HistFil.tex:reg-1453 MatEdu.tex:reg-1104
+GeoAlg.tex:reg-1146 SisDin.tex:reg-1143
+JovenAJoven.tex:joven29,joven30 MatLic.tex:reg-1874
+MatEdu.tex:reg-1635 MatIng.tex:reg-1313
+Curs.tex:reg-1890,reg-1891 MatEdu.tex:reg-1823
+GeoAlg.tex:reg-408 SisDin.tex:reg-391
+JovenAJoven.tex:joven24 MatLic.tex:reg-1393
+Estad.tex:reg-735 DifPos.tex:reg-736
+Alge.tex:reg-843 FMat.tex:reg-840
+
+Unificar:
+MatDisc.tex:reg-605 JovenAJoven.tex:joven27
+SisDin.tex:reg-1404 Misce.tex:reg-440
+Bio.tex:reg-633 EcDifAp.tex:reg-635 ProInv.tex:reg-639
+MatIng.tex:reg-1247 ProInv.tex:reg-1623
+Alge.tex:reg-496 JovenAJoven.tex:joven15
+HistFil.tex:reg-703 PreLib.tex:reg-1378
+MatDisc.tex:reg-1073 JovenAJoven.tex:joven08
+MatDisc.tex:reg-1532 MatLic.tex:reg-1260
+ProInv.tex:reg-778 ProInv.tex:reg-778
+MatDisc.tex:reg-1548 SMMBach.tex:reg-1895
+FMat.tex:reg-1366 PreLib.tex:reg-1371
+
+Corregir:
+MatEdu.tex:reg-1805
+Estad.tex:reg-1608
+JovenAJoven.tex:joven19
+MatDisc.tex:reg-1140 JovenAJoven.tex:joven14
+AnaNum.tex:reg-1493
+TopAlg.tex:reg-1136
+Prob.tex:reg-902 Misce.tex:reg-905
+MatFin.tex:reg-378

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011-OpenBSD_Ports) (format=pdflatex 2011.9.1)  21 SEP 2012 01:41
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011-OpenBSD_Ports) (format=latex 2011.9.1)  23 SEP 2012 01:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -215,6 +215,35 @@ File: dvipdfm.def 1999/9/6 vx.x Driver-dependant file
 (/usr/local/share/texmf-dist/tex/latex/eulervm/eulervm.sty
 Package: eulervm 2005/01/11 v4.0 (WaS)
 )
+(/usr/local/share/texmf-dist/tex/latex/xtab/xtab.sty
+Package: xtab 2010/02/06 v2.3e Extended supertabular package
+\c@tracingst=\count108
+\PWSTcapht=\dimen126
+\ST@wd=\dimen127
+\ST@rightskip=\skip60
+\ST@leftskip=\skip61
+\ST@parfillskip=\skip62
+\c@PWSTtable=\count109
+\PWSTlastpage=\count110
+\PWSTpenultimate=\count111
+\PWSTcurpage=\count112
+\PWSTtempc=\count113
+\PWSTlines=\count114
+\PWST@lastht=\dimen128
+\PWST@generalht=\dimen129
+\PWST@ht=\dimen130
+\ST@pageleft=\dimen131
+\ST@headht=\dimen132
+\ST@tailht=\dimen133
+\ST@pagesofar=\dimen134
+\ST@pboxht=\dimen135
+\ST@lineht=\dimen136
+\ST@stretchht=\dimen137
+\ST@prevht=\dimen138
+\ST@toadd=\dimen139
+\ST@dimen=\dimen140
+\ST@pbox=\box54
+)
 (/usr/local/share/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
 Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
 \symrsfs=\mathgroup7
@@ -230,18 +259,18 @@ Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
 Package: vmargin 2004/07/15 V2.5 set document margins (VK)
 
 Package: vmargin 2004/07/15 V2.5 set document margins (VK)
-\PaperWidth=\dimen126
-\PaperHeight=\dimen127
+\PaperWidth=\dimen141
+\PaperHeight=\dimen142
 ) (/usr/local/share/texmf-dist/tex/latex/base/makeidx.sty
 Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
 )
 (/usr/local/share/texmf-dist/tex/latex/tabls/tabls.sty
-\tablinesep=\dimen128
-\arraylinesep=\dimen129
-\extrarulesep=\dimen130
-\@arstdepth=\dimen131
-\@arstheight=\dimen132
-\@skip@bove=\dimen133
+\tablinesep=\dimen143
+\arraylinesep=\dimen144
+\extrarulesep=\dimen145
+\@arstdepth=\dimen146
+\@arstheight=\dimen147
+\@skip@bove=\dimen148
 )
 (/usr/local/share/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
@@ -258,30 +287,66 @@ Language: spanish.ldf 2009/01/02 v5.0h Spanish support from the babel system
 
 (/usr/local/share/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2008/07/06 v3.8l Babel common definitions
-\babel@savecnt=\count108
-\U@D=\dimen134
+\babel@savecnt=\count115
+\U@D=\dimen149
 )
-\es@datefmt=\count109
+\es@datefmt=\count116
 \es@quottoks=\toks27
-\es@quotdepth=\count110
+\es@quotdepth=\count117
 Package babel Info: Making " an active character on input line 492.
 Package babel Info: Making . an active character on input line 585.
 Package babel Info: Making < an active character on input line 630.
 Package babel Info: Making > an active character on input line 630.
 ))
-\c@lema=\count111
+\c@lema=\count118
 
+(/usr/local/share/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2010/10/06 v2.0c eso-pic (RN)
+
+(/usr/local/share/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2011/01/30 v1.15 At begin shipout hook (HO)
+
+(/usr/local/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(/usr/local/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+))
+(/usr/local/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/local/share/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: dvips.def on input line 225.
+
+(/usr/local/share/texmf-dist/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
 (/usr/local/share/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2007/08/12 v2.8 Sectioning titles
-\ttl@box=\box54
-\beforetitleunit=\skip60
-\aftertitleunit=\skip61
-\ttl@plus=\dimen135
-\ttl@minus=\dimen136
+\ttl@box=\box55
+\beforetitleunit=\skip63
+\aftertitleunit=\skip64
+\ttl@plus=\dimen150
+\ttl@minus=\dimen151
 \ttl@toksa=\toks28
-\titlewidth=\dimen137
-\titlewidthlast=\dimen138
-\titlewidthfirst=\dimen139
+\titlewidth=\dimen152
+\titlewidthlast=\dimen153
+\titlewidthfirst=\dimen154
 )
 \@indexfile=\write3
 \openout3 = `programaSMM2012.idx'.
@@ -291,97 +356,48 @@ Writing index file programaSMM2012.idx
 (./programaSMM2012.aux)
 \openout1 = `programaSMM2012.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-
-(/usr/local/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
-
-(/usr/local/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
-)
-(/usr/local/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
-(/usr/local/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
-)
-(/usr/local/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-(/usr/local/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
-
-(/usr/local/share/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2010/08/19 v1.1 Managing graphics extensions (HO)
-
-(/usr/local/share/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
-))
-(/usr/local/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
-
-(/usr/local/share/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
-
-(/usr/local/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
-
-Package epstopdf Warning: Drivers other than `pdftex.def' are not supported.
-
-)
-LaTeX Font Info:    Try loading font information for U+zeur on input line 82.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+\AtBeginShipoutBox=\box56
+LaTeX Font Info:    Try loading font information for U+zeur on input line 89.
  (/usr/local/share/texmf-dist/tex/latex/eulervm/uzeur.fd
 File: uzeur.fd 2005/01/11 v4.0 (WaS)
 )
-LaTeX Font Info:    Try loading font information for U+zeus on input line 82.
-
-(/usr/local/share/texmf-dist/tex/latex/eulervm/uzeus.fd
+LaTeX Font Info:    Try loading font information for U+zeus on input line 89.
+ (/usr/local/share/texmf-dist/tex/latex/eulervm/uzeus.fd
 File: uzeus.fd 2005/01/11 v4.0 (WaS)
 )
-LaTeX Font Info:    Try loading font information for U+zeuex on input line 82.
+LaTeX Font Info:    Try loading font information for U+zeuex on input line 89.
 
 (/usr/local/share/texmf-dist/tex/latex/eulervm/uzeuex.fd
 File: uzeuex.fd 2005/01/11 v4.0 (WaS)
 )
-LaTeX Font Info:    Try loading font information for U+lasy on input line 82.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 89.
 
 (/usr/local/share/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 82.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 89.
 
 (/usr/local/share/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Try loading font information for U+esint on input line 82.
+LaTeX Font Info:    Try loading font information for U+esint on input line 89.
 
 (/usr/local/share/texmf-dist/tex/latex/esint/uesint.fd
 File: uesint.fd 
 )
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 84.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 91.
 
 (/usr/local/share/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
@@ -392,19 +408,15 @@ File: smm_relleno_claro.eps Graphic file (type eps)
 
 
 
-{/usr/local/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!]
-LaTeX Font Info:    Try loading font information for T1+pag on input line 126.
-
-(/usr/local/share/texmf-dist/tex/latex/psnfss/t1pag.fd
+]
+LaTeX Font Info:    Try loading font information for T1+pag on input line 133.
+ (/usr/local/share/texmf-dist/tex/latex/psnfss/t1pag.fd
 File: t1pag.fd 2001/06/04 font definitions for T1/pag.
 )
 LaTeX Font Info:    Font shape `T1/pag/bx/sl' in size <10> not available
-(Font)              Font shape `T1/pag/b/sl' tried instead on input line 126.
+(Font)              Font shape `T1/pag/b/sl' tried instead on input line 133.
 LaTeX Font Info:    Font shape `T1/pag/b/sl' in size <10> not available
-(Font)              Font shape `T1/pag/db/sl' tried instead on input line 126.
+(Font)              Font shape `T1/pag/db/sl' tried instead on input line 133.
 
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -413,9 +425,9 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 LaTeX Font Info:    Font shape `T1/pag/bx/sc' in size <10> not available
-(Font)              Font shape `T1/pag/b/sc' tried instead on input line 126.
+(Font)              Font shape `T1/pag/b/sc' tried instead on input line 133.
 LaTeX Font Info:    Font shape `T1/pag/b/sc' in size <10> not available
-(Font)              Font shape `T1/pag/db/sc' tried instead on input line 126.
+(Font)              Font shape `T1/pag/db/sc' tried instead on input line 133.
 [2] (./programaSMM2012.toc
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -548,14 +560,24 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [7])
-(./otros/actividades.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [8])
+ [8]
+File: otros/Cartel_Festival_Queretaroo.eps Graphic file (type eps)
+
+<otros/Cartel_Festival_Queretaroo.eps> (./otros/actividades.tex
+Overfull \hbox (14.22636pt too wide) in paragraph at lines 150--1
+[][] 
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [9]
-[10] (./otros/abrev.tex) [11] (./otros/ana_guzman.tex
+ [9])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+[11] (./otros/abrev.tex) [12] (./otros/ana_guzman.tex
 Underfull \hbox (badness 10000) in paragraph at lines 8--12
 
  []
@@ -570,7 +592,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--28
 
  []
 
-) [12] (./otros/jose_angel_canavati.tex
+) [13] (./otros/jose_angel_canavati.tex
 Underfull \hbox (badness 10000) in paragraph at lines 8--15
 
  []
@@ -600,7 +622,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--53
 
  []
 
-) [13] (./otros/jorge_ize.tex
+) [14] (./otros/jorge_ize.tex
 Underfull \hbox (badness 10000) in paragraph at lines 8--10
 
  []
@@ -655,7 +677,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--62
 
  []
 
-) [14] (./otros/ernesto_lacomba.tex
+) [15] (./otros/ernesto_lacomba.tex
 Underfull \hbox (badness 10000) in paragraph at lines 8--23
 
  []
@@ -695,7 +717,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 87--96
 
  []
 
-[15]
+[16]
 Underfull \hbox (badness 10000) in paragraph at lines 97--109
 
  []
@@ -710,7 +732,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 135--158
 
  []
 
-) [16] (./otros/francisco_raggi.tex
+) [17] (./otros/francisco_raggi.tex
 Underfull \hbox (badness 10000) in paragraph at lines 8--21
 
  []
@@ -750,7 +772,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 69--72
 
  []
 
-) [17] (./homenajes/jorge_ize.tex
+) [18] (./homenajes/jorge_ize.tex
 Underfull \hbox (badness 10000) in paragraph at lines 9--12
 
  []
@@ -785,9 +807,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--2
 
  []
 
-[18
+[19
 
-]) [19]
+]) [20]
 Cap\'{\i }tulo 2.
 (./areas/horarios/Plenarias.tex
 Underfull \hbox (badness 10000) in paragraph at lines 183--185
@@ -824,7 +846,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 207--209
 
  []
 
-[20
+[21
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 211--213
@@ -836,55 +858,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 215--217
 
  []
 
-) [21] [22
+) [22] [23
 
-] [23
+]
+File: otros/cartel_AMITE.eps Graphic file (type eps)
+ <otros/cartel_AMITE.eps> (./sesiones/horarios/InnMat.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-] [24
+ [24
 
-] (./sesiones/horarios/DinHam.tex
-Underfull \hbox (badness 10000) in paragraph at lines 183--185
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 187--189
-
- []
+]
+Overfull \vbox (5.47437pt too high) has occurred while \output is active []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--193
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 195--197
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 199--201
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 203--205
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 207--209
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 211--213
-
- []
-
-[25
-
-]) (./sesiones/horarios/InnMat.tex
+[25]
 Underfull \hbox (badness 10000) in paragraph at lines 184--186
 
  []
@@ -929,10 +916,51 @@ Underfull \hbox (badness 10000) in paragraph at lines 218--220
 
  []
 
-) (./sesiones/horarios/SMMBach.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+) [26] [27
 
- [26]
+] (./sesiones/horarios/DinHam.tex
+Underfull \hbox (badness 10000) in paragraph at lines 183--185
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--189
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--193
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--197
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--201
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--205
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--209
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--213
+
+ []
+
+[28
+
+]) (./sesiones/horarios/SMMBach.tex
 Underfull \hbox (badness 10000) in paragraph at lines 183--185
 
  []
@@ -982,7 +1010,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 225--227
 
  []
 
-[27]) (./sesiones/horarios/MatLic.tex
+[29]) (./sesiones/horarios/MatLic.tex
 Underfull \hbox (badness 10000) in paragraph at lines 208--210
 
  []
@@ -1037,7 +1065,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 257--259
 
  []
 
-[28]
+[30]
 Underfull \hbox (badness 10000) in paragraph at lines 262--264
 
  []
@@ -1092,7 +1120,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 220--223
 
  []
 
-[29]) (./sesiones/horarios/Misce.tex
+[31]) (./sesiones/horarios/Misce.tex
 Underfull \hbox (badness 10000) in paragraph at lines 184--186
 
  []
@@ -1137,7 +1165,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 224--226
 
  []
 
-[30]) (./sesiones/horarios/ProInv.tex
+[32]) (./sesiones/horarios/ProInv.tex
 Underfull \hbox (badness 10000) in paragraph at lines 184--186
 
  []
@@ -1195,7 +1223,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 235--237
 ) (./sesiones/horarios/SoftLib.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [31]
+ [33]
 Underfull \hbox (badness 10000) in paragraph at lines 185--187
 
  []
@@ -1225,16 +1253,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 211--213
 
  []
 
-[32]) (./otros/anuncios.tex
-File: otros/anuncio_UAEH.eps Graphic file (type eps)
- <otros/anuncio_UAEH.eps>)
-(./sesiones/horarios/DifPos.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [33
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!]
+[34]) (./sesiones/horarios/DifPos.tex
 Underfull \hbox (badness 10000) in paragraph at lines 201--203
 
  []
@@ -1264,7 +1283,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 227--229
 
  []
 
-[34]) (./sesiones/horarios/PreLib.tex
+[35]) (./sesiones/horarios/PreLib.tex
 Underfull \hbox (badness 10000) in paragraph at lines 210--212
 
  []
@@ -1324,7 +1343,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 268--270
 
  []
 
-[35]
+[36]
 Underfull \hbox (badness 10000) in paragraph at lines 273--275
 
  []
@@ -1369,202 +1388,202 @@ Underfull \hbox (badness 10000) in paragraph at lines 316--318
 
  []
 
-) (./sesiones/horarios/JovenAJoven.tex
-Underfull \hbox (badness 10000) in paragraph at lines 201--204
+) (./sesiones/horarios/JovenAJoven.tex [37]
+Underfull \hbox (badness 10000) in paragraph at lines 222--226
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--211
+Underfull \hbox (badness 10000) in paragraph at lines 229--233
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 214--217
-
- []
-
-[36]
-Underfull \hbox (badness 10000) in paragraph at lines 220--224
+Underfull \hbox (badness 10000) in paragraph at lines 236--239
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--230
+Underfull \hbox (badness 10000) in paragraph at lines 242--246
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 233--237
+Underfull \hbox (badness 10000) in paragraph at lines 250--253
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 240--243
+Underfull \hbox (badness 10000) in paragraph at lines 256--260
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 246--249
+Underfull \hbox (badness 10000) in paragraph at lines 263--266
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 252--256
+Underfull \hbox (badness 10000) in paragraph at lines 269--272
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 259--262
+Underfull \hbox (badness 10000) in paragraph at lines 277--280
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 265--268
+Underfull \hbox (badness 10000) in paragraph at lines 283--286
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 271--275
+Underfull \hbox (badness 10000) in paragraph at lines 289--293
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 278--282
+Underfull \hbox (badness 10000) in paragraph at lines 296--300
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 285--288
+Underfull \hbox (badness 10000) in paragraph at lines 303--307
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 291--294
+Underfull \hbox (badness 10000) in paragraph at lines 310--313
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 297--300
+Underfull \hbox (badness 10000) in paragraph at lines 316--319
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 303--306
+Underfull \hbox (badness 10000) in paragraph at lines 323--326
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--312
+Underfull \hbox (badness 10000) in paragraph at lines 329--332
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 315--318
+Underfull \hbox (badness 10000) in paragraph at lines 335--338
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 321--324
+Underfull \hbox (badness 10000) in paragraph at lines 341--344
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 327--330
+Underfull \hbox (badness 10000) in paragraph at lines 347--350
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 333--336
+Underfull \hbox (badness 10000) in paragraph at lines 353--356
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 339--342
-
- []
-
-[37]
-Underfull \hbox (badness 10000) in paragraph at lines 483--486
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 489--492
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 495--498
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 501--504
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 507--510
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 513--517
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 520--523
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 526--529
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 532--535
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 538--541
+Underfull \hbox (badness 10000) in paragraph at lines 359--362
 
  []
 
 [38]
-Underfull \hbox (badness 10000) in paragraph at lines 545--548
+Underfull \hbox (badness 10000) in paragraph at lines 365--368
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 551--554
+Underfull \hbox (badness 10000) in paragraph at lines 529--532
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 557--560
+Underfull \hbox (badness 10000) in paragraph at lines 535--538
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 563--566
+Underfull \hbox (badness 10000) in paragraph at lines 541--544
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 569--572
+Underfull \hbox (badness 10000) in paragraph at lines 547--550
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 575--578
+Underfull \hbox (badness 10000) in paragraph at lines 553--556
 
  []
 
-) [39] (./areas/horarios/Alge.tex
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--563
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 566--569
+
+ []
+
+[39]
+Underfull \hbox (badness 10000) in paragraph at lines 572--575
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 578--581
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 584--587
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 591--594
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 597--600
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 603--606
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 609--612
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 615--618
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 621--624
+
+ []
+
+) [40] (./areas/horarios/Alge.tex
 Underfull \hbox (badness 10000) in paragraph at lines 165--167
 
  []
@@ -1623,7 +1642,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 205--207
 
  []
 
-[40
+[41
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 209--211
@@ -1683,7 +1702,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 249--251
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [41]
+ [42]
 Underfull \hbox (badness 10000) in paragraph at lines 419--421
 
  []
@@ -1753,7 +1772,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 471--473
 
  []
 
-[42]
+[43]
 Underfull \hbox (badness 10000) in paragraph at lines 475--477
 
  []
@@ -1813,7 +1832,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 196--198
 
  []
 
-[43]
+[44]
 Underfull \hbox (badness 10000) in paragraph at lines 200--202
 
  []
@@ -1951,7 +1970,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 308--310
 ) (./areas/horarios/AnaNum.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [44]
+ [45]
 Underfull \hbox (badness 10000) in paragraph at lines 172--174
 
  []
@@ -2006,7 +2025,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 216--218
 
  []
 
-[45]
+[46]
 Underfull \hbox (badness 10000) in paragraph at lines 220--222
 
  []
@@ -2136,7 +2155,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 317--319
 
  []
 
-[46]
+[47]
 Underfull \hbox (badness 10000) in paragraph at lines 321--323
 
  []
@@ -2181,7 +2200,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 181--183
 
  []
 
-[47]
+[48]
 Underfull \hbox (badness 10000) in paragraph at lines 185--187
 
  []
@@ -2284,7 +2303,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 261--263
 ) (./areas/horarios/CieComp.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [48]
+ [49]
 Underfull \hbox (badness 10000) in paragraph at lines 179--181
 
  []
@@ -2339,7 +2358,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 215--217
 
  []
 
-[49]
+[50]
 Underfull \hbox (badness 10000) in paragraph at lines 219--221
 
  []
@@ -2375,7 +2394,7 @@ Underfull \hbox (badness 5260) in paragraph at lines 154--156
 blemas-
  []
 
-[50]
+[51]
 Underfull \hbox (badness 10000) in paragraph at lines 313--315
 
  []
@@ -2385,12 +2404,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 317--319
 
  []
 
-[51]
+[52]
 Underfull \hbox (badness 10000) in paragraph at lines 474--476
 
  []
 
-[52]
+[53]
 Underfull \hbox (badness 10000) in paragraph at lines 630--632
 
  []
@@ -2400,7 +2419,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 634--636
 
  []
 
-[53]
+[54]
 Underfull \hbox (badness 10000) in paragraph at lines 792--794
 
  []
@@ -2410,7 +2429,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 796--798
 
  []
 
-[54]
+[55]
 Underfull \hbox (badness 10000) in paragraph at lines 953--955
 
  []
@@ -2420,7 +2439,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 957--959
 
  []
 
-) (./areas/horarios/EcDifAp.tex [55]
+) (./areas/horarios/EcDifAp.tex [56]
 Underfull \hbox (badness 10000) in paragraph at lines 181--183
 
  []
@@ -2475,7 +2494,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 217--219
 
  []
 
-[56]
+[57]
 Underfull \hbox (badness 10000) in paragraph at lines 221--223
 
  []
@@ -2610,7 +2629,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 322--324
 
  []
 
-[57]
+[58]
 Underfull \hbox (badness 10000) in paragraph at lines 326--328
 
  []
@@ -2655,7 +2674,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 537--539
 
  []
 
-[58]
+[59]
 Underfull \hbox (badness 10000) in paragraph at lines 541--543
 
  []
@@ -2700,7 +2719,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 202--204
 
  []
 
-[59]
+[60]
 Underfull \hbox (badness 10000) in paragraph at lines 206--208
 
  []
@@ -2820,7 +2839,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 298--300
 
  []
 
-[60]) (./areas/horarios/Expe.tex
+[61]) (./areas/horarios/Expe.tex
 Underfull \hbox (badness 10000) in paragraph at lines 151--153
 
  []
@@ -2868,7 +2887,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 183--185
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [61]
+ [62]
 Underfull \hbox (badness 10000) in paragraph at lines 337--339
 
  []
@@ -2916,7 +2935,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 369--371
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [62]
+ [63]
 Underfull \hbox (badness 10000) in paragraph at lines 522--524
 
  []
@@ -2959,7 +2978,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 550--552
 ) (./areas/horarios/FMat.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [63]
+ [64]
 Underfull \hbox (badness 10000) in paragraph at lines 179--181
 
  []
@@ -3009,7 +3028,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 215--217
 
  []
 
-[64]
+[65]
 Underfull \hbox (badness 10000) in paragraph at lines 219--221
 
  []
@@ -3054,7 +3073,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 251--253
 
  []
 
-) (./areas/horarios/GeoAlg.tex [65]
+) (./areas/horarios/GeoAlg.tex [66]
 Underfull \hbox (badness 10000) in paragraph at lines 165--167
 
  []
@@ -3137,7 +3156,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 225--227
 ) (./areas/horarios/HisFil.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [66]
+ [67]
 Underfull \hbox (badness 10000) in paragraph at lines 165--167
 
  []
@@ -3202,7 +3221,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 213--215
 
  []
 
-[67]
+[68]
 Underfull \hbox (badness 10000) in paragraph at lines 217--219
 
  []
@@ -3257,7 +3276,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 185--187
 
  []
 
-[68]
+[69]
 Underfull \hbox (badness 10000) in paragraph at lines 189--191
 
  []
@@ -3350,7 +3369,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 257--259
 ) (./areas/horarios/MatDisc.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [69]
+ [70]
 Underfull \hbox (badness 10000) in paragraph at lines 179--181
 
  []
@@ -3405,7 +3424,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 219--221
 
  []
 
-[70]
+[71]
 Underfull \hbox (badness 10000) in paragraph at lines 223--225
 
  []
@@ -3545,7 +3564,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 331--333
 
  []
 
-[71]) (./areas/horarios/MatEdu.tex
+[72]) (./areas/horarios/MatEdu.tex
 Underfull \hbox (badness 10000) in paragraph at lines 193--195
 
  []
@@ -3585,7 +3604,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 221--223
 
  []
 
-[72]
+[73]
 Underfull \hbox (badness 10000) in paragraph at lines 225--227
 
  []
@@ -3720,7 +3739,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 329--331
 
  []
 
-[73]
+[74]
 Underfull \hbox (badness 10000) in paragraph at lines 333--335
 
  []
@@ -3798,7 +3817,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 389--391
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [74]
+ [75]
 Underfull \hbox (badness 10000) in paragraph at lines 588--590
 
  []
@@ -3843,7 +3862,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 620--622
 
  []
 
-[75]
+[76]
 Underfull \hbox (badness 10000) in paragraph at lines 624--626
 
  []
@@ -3978,7 +3997,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 728--730
 
  []
 
-[76]
+[77]
 Underfull \hbox (badness 10000) in paragraph at lines 732--734
 
  []
@@ -4031,7 +4050,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 768--770
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [77]
+ [78]
 Underfull \hbox (badness 10000) in paragraph at lines 964--966
 
  []
@@ -4071,7 +4090,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 992--994
 
  []
 
-[78]
+[79]
 Underfull \hbox (badness 10000) in paragraph at lines 996--998
 
  []
@@ -4179,7 +4198,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1076--1078
 ) (./areas/horarios/MatIng.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [79]
+ [80]
 Underfull \hbox (badness 10000) in paragraph at lines 169--171
 
  []
@@ -4239,7 +4258,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 213--215
 
  []
 
-[80]
+[81]
 Underfull \hbox (badness 10000) in paragraph at lines 217--219
 
  []
@@ -4322,7 +4341,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 277--279
 ) (./areas/horarios/MatFin.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [81]
+ [82]
 Underfull \hbox (badness 10000) in paragraph at lines 152--154
 
  []
@@ -4387,7 +4406,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 200--202
 
  []
 
-[82]
+[83]
 Underfull \hbox (badness 10000) in paragraph at lines 204--206
 
  []
@@ -4480,7 +4499,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 272--274
 ) (./areas/horarios/Prob.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [83]
+ [84]
 Underfull \hbox (badness 10000) in paragraph at lines 165--167
 
  []
@@ -4535,7 +4554,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 208--210
 
  []
 
-[84]
+[85]
 Underfull \hbox (badness 10000) in paragraph at lines 212--214
 
  []
@@ -4588,7 +4607,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 248--250
 ) (./areas/horarios/SisDin.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [85]
+ [86]
 Underfull \hbox (badness 10000) in paragraph at lines 165--167
 
  []
@@ -4658,7 +4677,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 217--219
 
  []
 
-[86]
+[87]
 Underfull \hbox (badness 10000) in paragraph at lines 221--223
 
  []
@@ -4726,7 +4745,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 273--275
 ) (./areas/horarios/Talle.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [87]
+ [88]
 Underfull \hbox (badness 10000) in paragraph at lines 151--153
 
  []
@@ -4736,7 +4755,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 155--157
 
  []
 
-[88]
+[89]
 Underfull \hbox (badness 10000) in paragraph at lines 312--314
 
  []
@@ -4746,7 +4765,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 316--318
 
  []
 
-[89]
+[90]
 Underfull \hbox (badness 10000) in paragraph at lines 473--475
 
  []
@@ -4756,7 +4775,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 477--479
 
  []
 
-[90]
+[91]
 Underfull \hbox (badness 10000) in paragraph at lines 633--635
 
  []
@@ -4766,7 +4785,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 637--639
 
  []
 
-[91]
+[92]
 Underfull \hbox (badness 10000) in paragraph at lines 792--794
 
  []
@@ -4776,7 +4795,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 796--798
 
  []
 
-[92]
+[93]
 Underfull \hbox (badness 10000) in paragraph at lines 952--954
 
  []
@@ -4789,7 +4808,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 956--958
 ) (./areas/horarios/TeoNum.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [93]
+ [94]
 Underfull \hbox (badness 10000) in paragraph at lines 164--166
 
  []
@@ -4859,7 +4878,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 216--218
 
  []
 
-[94]
+[95]
 Underfull \hbox (badness 10000) in paragraph at lines 220--222
 
  []
@@ -4919,7 +4938,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 193--195
 
  []
 
-[95]
+[96]
 Underfull \hbox (badness 10000) in paragraph at lines 197--199
 
  []
@@ -4987,7 +5006,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 245--247
 ) (./areas/horarios/TopGen.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [96]
+ [97]
 Underfull \hbox (badness 10000) in paragraph at lines 165--167
 
  []
@@ -5052,7 +5071,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 213--215
 
  []
 
-[97]
+[98]
 Underfull \hbox (badness 10000) in paragraph at lines 217--219
 
  []
@@ -5125,7 +5144,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 269--271
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [98]
+ [99]
 Underfull \hbox (badness 10000) in paragraph at lines 461--463
 
  []
@@ -5185,7 +5204,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 505--507
 
  []
 
-[99]
+[100]
 Underfull \hbox (badness 10000) in paragraph at lines 509--511
 
  []
@@ -5240,7 +5259,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 161--163
 
  []
 
-[100]
+[101]
 Underfull \hbox (badness 10000) in paragraph at lines 165--167
 
  []
@@ -5385,7 +5404,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 277--279
 
  []
 
-[101]
+[102]
 Underfull \hbox (badness 10000) in paragraph at lines 281--283
 
  []
@@ -5525,7 +5544,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 389--391
 
  []
 
-[102]
+[103]
 Underfull \hbox (badness 10000) in paragraph at lines 393--395
 
  []
@@ -5670,27 +5689,5219 @@ Underfull \hbox (badness 10000) in paragraph at lines 505--507
 
  []
 
-[103])
+[104])
 Cap\'{\i }tulo 3.
-[104
+(./otros/tabla_panoramicas.tex
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 20--20
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 20--20
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 20--20
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 22--22
+[]\T1/cmss/m/n/10 Análisis Nu-
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 22--22
+[]\T1/cmss/m/n/10 14.1[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 24--24
+[]\T1/cmss/m/n/10 13.1[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+[]\T1/cmss/m/n/10 Lógica y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+\T1/cmss/m/n/10 Fun-da-men-
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 26--26
+[]\T1/cmss/m/n/10 24.1[]| 
+ []
+
+
+Underfull \hbox (badness 2213) in paragraph at lines 26--26
+[]\T1/cmss/m/n/10 El za-fa-rran-cho oca-sio-na-do por
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[]\T1/cmss/m/n/10 Ecuaciones
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+\T1/cmss/m/n/10 Di-fe-ren-cia-les
+ []
+
+
+Underfull \hbox (badness 4752) in paragraph at lines 28--28
+\T1/cmss/m/n/10 y Apli-ca-cio-
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 28--28
+[]\T1/cmss/m/n/10 18.1[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+[]\T1/cmss/m/n/10 Física Ma-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+\T1/cmss/m/n/10 te-má-ti-ca y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+\T1/cmss/m/n/10 Geo-me-tría
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 30--30
+[]\T1/cmss/m/n/10 21.1[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+[]\T1/cmss/m/n/10 Geometría
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 32--32
+[]\T1/cmss/m/n/10 22.1[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]\T1/cmss/m/n/10 13:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]\T1/cmss/m/n/10 Innovación
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+\T1/cmss/m/n/10 en Tec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+\T1/cmss/m/n/10 no-lo-gía
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]\T1/cmss/m/n/10 Juan Sal-va-dor Ma-dri-gal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+[]\T1/cmss/m/n/10 16:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 36--36
+[]\T1/cmss/m/n/10 30.3[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+[]\T1/cmss/m/n/10 16:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 38--38
+[]\T1/cmss/m/n/10 13.5[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+[]\T1/cmss/m/n/10 Francisco Mar-cos Ló-pez
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]\T1/cmss/m/n/10 16:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]\T1/cmss/m/n/10 Innovación
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/cmss/m/n/10 en Tec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T1/cmss/m/n/10 no-lo-gía
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+[]\T1/cmss/m/n/10 18:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+[]\T1/cmss/m/n/10 Física Ma-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+\T1/cmss/m/n/10 te-má-ti-ca y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+\T1/cmss/m/n/10 Geo-me-tría
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 42--42
+[]\T1/cmss/m/n/10 21.5[]| 
+ []
+
+[105
 
 ]
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 43--43
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+[]\T1/cmss/m/n/10 18:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 44--44
+[]\T1/cmss/m/n/10 30.4[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+[]\T1/cmss/m/n/10 18:10
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+[]\T1/cmss/m/n/10 Innovación
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\T1/cmss/m/n/10 en Tec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\T1/cmss/m/n/10 no-lo-gía
+ []
+
+
+Overfull \hbox (1.07819pt too wide) in paragraph at lines 46--47
+[]\T1/cmss/m/n/10 Bach| 
+ []
+
+
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 55--55
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 55--55
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 55--55
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
+[]\T1/cmss/m/n/10 Innovación
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
+\T1/cmss/m/n/10 en Tec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
+\T1/cmss/m/n/10 no-lo-gía
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 59--59
+[]\T1/cmss/m/n/10 13.8[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+[]\T1/cmss/m/n/10 Topología
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 61--61
+[]\T1/cmss/m/n/10 33.7[]| 
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 63--63
+[]\T1/cmss/m/n/10 12.6[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+[]\T1/cmss/m/n/10 Ciencias de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+\T1/cmss/m/n/10 la Compu-
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 65--65
+[]\T1/cmss/m/n/10 16.1[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 67--67
+[]\T1/cmss/m/n/10 25.2[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+[]\T1/cmss/m/n/10 10:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+[]\T1/cmss/m/n/10 Topología
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 69--69
+[]\T1/cmss/m/n/10 33.8[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 71--71
+[]\T1/cmss/m/n/10 13.13[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+[]\T1/cmss/m/n/10 Topología
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 73--73
+[]\T1/cmss/m/n/10 33.12[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
+\T1/cmss/m/n/10 Fi-nan-cie-ras
+ []
+
+
+Underfull \hbox (badness 5504) in paragraph at lines 75--75
+\T1/cmss/m/n/10 y Eco-no-mía
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 75--75
+[]\T1/cmss/m/n/10 28.11[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+[]\T1/cmss/m/n/10 Geometría
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 77--77
+[]\T1/cmss/m/n/10 22.8[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--79
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--79
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--79
+[]\T1/cmss/m/n/10 Problemas
+ []
+
+[106]
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 80--80
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 81--81
+[]\T1/cmss/m/n/10 Análisis Nu-
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 81--81
+[]\T1/cmss/m/n/10 14.12[]| 
+ []
+
+
+Underfull \hbox (badness 2088) in paragraph at lines 81--81
+[]\T1/cmss/m/n/10 Nuevos re-sul-ta-dos en la so-lu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+[]\T1/cmss/m/n/10 Matemática
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 83--83
+[]\T1/cmss/m/n/10 26.18[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
+[]\T1/cmss/m/n/10 Física Ma-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
+\T1/cmss/m/n/10 te-má-ti-ca y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
+\T1/cmss/m/n/10 Geo-me-tría
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 87--87
+[]\T1/cmss/m/n/10 21.11[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 89--89
+[]\T1/cmss/m/n/10 25.8[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+[]\T1/cmss/m/n/10 Mucuy-kak del Car-men
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--91
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--91
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--91
+[]\T1/cmss/m/n/10 Ciencias de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--91
+\T1/cmss/m/n/10 la Compu-
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 91--91
+[]\T1/cmss/m/n/10 16.6[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--93
+[]\T1/cmss/m/n/10 16:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--93
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--93
+[]\T1/cmss/m/n/10 Topología
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 93--93
+[]\T1/cmss/m/n/10 34.12[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+[]\T1/cmss/m/n/10 16:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 95--95
+[]\T1/cmss/m/n/10 30.9[]| 
+ []
+
+
+Underfull \hbox (badness 2229) in paragraph at lines 95--95
+[]\T1/cmss/m/n/10 La ubi-cui-dad del con-jun-to de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--97
+[]\T1/cmss/m/n/10 16:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--97
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--97
+[]\T1/cmss/m/n/10 Física Ma-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--97
+\T1/cmss/m/n/10 te-má-ti-ca y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--97
+\T1/cmss/m/n/10 Geo-me-tría
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 97--97
+[]\T1/cmss/m/n/10 21.12[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--99
+[]\T1/cmss/m/n/10 16:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--99
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--99
+[]\T1/cmss/m/n/10 Ciencias de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--99
+\T1/cmss/m/n/10 la Compu-
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 99--99
+[]\T1/cmss/m/n/10 16.7[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--101
+[]\T1/cmss/m/n/10 16:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--101
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--101
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--101
+\T1/cmss/m/n/10 Fi-nan-cie-ras
+ []
+
+
+Underfull \hbox (badness 5504) in paragraph at lines 101--101
+\T1/cmss/m/n/10 y Eco-no-mía
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 101--101
+[]\T1/cmss/m/n/10 28.12[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+[]\T1/cmss/m/n/10 16:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+[]\T1/cmss/m/n/10 Innovación
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+\T1/cmss/m/n/10 en Tec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+\T1/cmss/m/n/10 no-lo-gía
+ []
+
+
+Overfull \hbox (1.07819pt too wide) in paragraph at lines 103--104
+[]\T1/cmss/m/n/10 Bach| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--105
+[]\T1/cmss/m/n/10 18:10
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--105
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--105
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--105
+\T1/cmss/m/n/10 Fi-nan-cie-ras
+ []
+
+
+Underfull \hbox (badness 5504) in paragraph at lines 105--105
+\T1/cmss/m/n/10 y Eco-no-mía
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 105--105
+[]\T1/cmss/m/n/10 28.13[]| 
+ []
+
+[107]
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 106--106
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--107
+[]\T1/cmss/m/n/10 18:10
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--107
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--107
+[]\T1/cmss/m/n/10 Innovación
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--107
+\T1/cmss/m/n/10 en Tec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--107
+\T1/cmss/m/n/10 no-lo-gía
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]\T1/cmss/m/n/10 18:10
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 2173) in paragraph at lines 109--109
+[]\T1/cmss/m/n/10 Software Li-
+ []
+
+
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 118--118
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 118--118
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 118--118
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 120--120
+[]\T1/cmss/m/n/10 Análisis Nu-
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 120--120
+[]\T1/cmss/m/n/10 14.18[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--122
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 122--122
+[]\T1/cmss/m/n/10 27.1[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
+[]\T1/cmss/m/n/10 Ecuaciones
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
+\T1/cmss/m/n/10 Di-fe-ren-cia-les
+ []
+
+
+Underfull \hbox (badness 4752) in paragraph at lines 124--124
+\T1/cmss/m/n/10 y Apli-ca-cio-
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 124--124
+[]\T1/cmss/m/n/10 18.20[]| 
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 124--124
+[]\T1/cmss/m/n/10 Ondas re-en-tran-tes y fi-bri-la-ción
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+[]\T1/cmss/m/n/10 10:20
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 126--126
+[]\T1/cmss/m/n/10 12.15[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--128
+[]\T1/cmss/m/n/10 10:20
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--128
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--128
+[]\T1/cmss/m/n/10 Teoría de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--128
+\T1/cmss/m/n/10 Nú-me-ros y
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 128--128
+[]\T1/cmss/m/n/10 32.3[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+[]\T1/cmss/m/n/10 10:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+\T1/cmss/m/n/10 Fi-nan-cie-ras
+ []
+
+
+Underfull \hbox (badness 5504) in paragraph at lines 130--130
+\T1/cmss/m/n/10 y Eco-no-mía
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 130--130
+[]\T1/cmss/m/n/10 28.17[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
+[]\T1/cmss/m/n/10 11:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 132--132
+[]\T1/cmss/m/n/10 25.20[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
+[]\T1/cmss/m/n/10 Martha Ga-brie-la Arau-jo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--134
+[]\T1/cmss/m/n/10 11:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--134
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (11.67816pt too wide) in paragraph at lines 134--134
+[]\T1/cmss/m/n/10 Biomatemáticas| 
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 134--134
+[]\T1/cmss/m/n/10 15.14[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+\T1/cmss/m/n/10 Fi-nan-cie-ras
+ []
+
+
+Underfull \hbox (badness 5504) in paragraph at lines 136--136
+\T1/cmss/m/n/10 y Eco-no-mía
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 136--136
+[]\T1/cmss/m/n/10 28.19[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
+[]\T1/cmss/m/n/10 Teoría de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
+\T1/cmss/m/n/10 Nú-me-ros y
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 138--138
+[]\T1/cmss/m/n/10 32.5[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--140
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--140
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--140
+[]\T1/cmss/m/n/10 Ecuaciones
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--140
+\T1/cmss/m/n/10 Di-fe-ren-cia-les
+ []
+
+
+Underfull \hbox (badness 4752) in paragraph at lines 140--140
+\T1/cmss/m/n/10 y Apli-ca-cio-
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 140--140
+[]\T1/cmss/m/n/10 18.25[]| 
+ []
+
+[108]
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 141--141
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--142
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--142
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--142
+[]\T1/cmss/m/n/10 Topología
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 142--142
+[]\T1/cmss/m/n/10 34.17[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 144--144
+[]\T1/cmss/m/n/10 29.6[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+[]\T1/cmss/m/n/10 Física Ma-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+\T1/cmss/m/n/10 te-má-ti-ca y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+\T1/cmss/m/n/10 Geo-me-tría
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 146--146
+[]\T1/cmss/m/n/10 21.19[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 148--148
+[]\T1/cmss/m/n/10 12.33[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 150--150
+[]\T1/cmss/m/n/10 Análisis Nu-
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 150--150
+[]\T1/cmss/m/n/10 14.23[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+[]\T1/cmss/m/n/10 Topología
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 152--152
+[]\T1/cmss/m/n/10 33.21[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Underfull \hbox (badness 1377) in paragraph at lines 154--154
+\T1/cmss/m/n/10 tié-rrez de Ve-las-co Ro-drí-
+ []
+
+
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 163--163
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 163--163
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 163--163
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--165
+[]\T1/cmss/m/n/10 Geometría
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 165--165
+[]\T1/cmss/m/n/10 22.14[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--167
+[]\T1/cmss/m/n/10 Teoría de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--167
+\T1/cmss/m/n/10 Nú-me-ros y
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 167--167
+[]\T1/cmss/m/n/10 32.6[]| 
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 169--169
+[]\T1/cmss/m/n/10 Análisis Nu-
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 169--169
+[]\T1/cmss/m/n/10 14.24[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--171
+[]\T1/cmss/m/n/10 Problemas
+ []
+
+
+Overfull \hbox (11.67816pt too wide) in paragraph at lines 173--173
+[]\T1/cmss/m/n/10 Biomatemáticas| 
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 173--173
+[]\T1/cmss/m/n/10 15.16[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 175--175
+[]\T1/cmss/m/n/10 27.10[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--177
+[]\T1/cmss/m/n/10 10:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--177
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 177--177
+[]\T1/cmss/m/n/10 12.19[]| 
+ []
+
+[109]
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 178--178
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--179
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--179
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--179
+[]\T1/cmss/m/n/10 Teoría de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--179
+\T1/cmss/m/n/10 Nú-me-ros y
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 179--179
+[]\T1/cmss/m/n/10 32.10[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--181
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--181
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--181
+[]\T1/cmss/m/n/10 Geometría
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 181--181
+[]\T1/cmss/m/n/10 22.16[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (11.67816pt too wide) in paragraph at lines 183--183
+[]\T1/cmss/m/n/10 Biomatemáticas| 
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 183--183
+[]\T1/cmss/m/n/10 15.19[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--185
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--185
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--185
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 185--185
+[]\T1/cmss/m/n/10 25.29[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+[]\T1/cmss/m/n/10 16:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 187--187
+[]\T1/cmss/m/n/10 27.19[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+[]\T1/cmss/m/n/10 16:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 189--189
+[]\T1/cmss/m/n/10 30.20[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
+[]\T1/cmss/m/n/10 16:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 191--191
+[]\T1/cmss/m/n/10 25.30[]| 
+ []
+
+[110]
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 203--203
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 203--203
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 203--203
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--205
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 205--205
+[]\T1/cmss/m/n/10 25.31[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 207--207
+[]\T1/cmss/m/n/10 27.20[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
+[]\T1/cmss/m/n/10 Teoría de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
+\T1/cmss/m/n/10 Nú-me-ros y
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 209--209
+[]\T1/cmss/m/n/10 32.12[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--211
+[]\T1/cmss/m/n/10 10:20
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--211
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--211
+[]\T1/cmss/m/n/10 Teoría de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--211
+\T1/cmss/m/n/10 Nú-me-ros y
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 211--211
+[]\T1/cmss/m/n/10 32.14[]| 
+ []
+
+
+Underfull \hbox (badness 1168) in paragraph at lines 211--211
+[]\T1/cmss/m/n/10 Sumas Ex-po-nen-cia-les Mod $\U/zeur/m/n/10 p[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--213
+[]\T1/cmss/m/n/10 10:20
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--213
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--213
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 213--213
+[]\T1/cmss/m/n/10 25.35[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--215
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--215
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--215
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--215
+\T1/cmss/m/n/10 Fi-nan-cie-ras
+ []
+
+
+Underfull \hbox (badness 5504) in paragraph at lines 215--215
+\T1/cmss/m/n/10 y Eco-no-mía
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 215--215
+[]\T1/cmss/m/n/10 28.31[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--217
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--217
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--217
+[]\T1/cmss/m/n/10 Ecuaciones
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--217
+\T1/cmss/m/n/10 Di-fe-ren-cia-les
+ []
+
+
+Underfull \hbox (badness 4752) in paragraph at lines 217--217
+\T1/cmss/m/n/10 y Apli-ca-cio-
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 217--217
+[]\T1/cmss/m/n/10 18.38[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--219
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--219
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 219--219
+[]\T1/cmss/m/n/10 23.18[]| 
+ []
+
+
+Underfull \hbox (badness 3735) in paragraph at lines 219--219
+[]\T1/cmss/m/n/10 Alejandro R. Gar-cia-die-go
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--221
+[]\T1/cmss/m/n/10 16:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--221
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--221
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 221--221
+[]\T1/cmss/m/n/10 27.28[]| 
+ []
+
+) [111]
 Cap\'{\i }tulo 4.
-(./otros/anuncios.tex
+(./otros/tabla_divulgacion.tex
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 19--19
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 19--19
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 19--19
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 21--21
+\T1/cmss/m/n/10 ti-cas en las
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+[]\T1/cmss/m/n/10 Topología
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 23--23
+[]\T1/cmss/m/n/10 33.1[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+[]\T1/cmss/m/n/10 Innovación
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+\T1/cmss/m/n/10 en Tec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+\T1/cmss/m/n/10 no-lo-gía
+ []
+
+
+Underfull \hbox (badness 2088) in paragraph at lines 25--25
+[]\T1/cmss/m/n/10 Carlos Her-nán-dez Gar-cia-
+ []
+
+
+Overfull \hbox (1.07819pt too wide) in paragraph at lines 25--26
+[]\T1/cmss/m/n/10 Bach| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 27--27
+[]\T1/cmss/m/n/10 12.22[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 29--29
+[]\T1/cmss/m/n/10 12.1[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (11.67816pt too wide) in paragraph at lines 33--33
+[]\T1/cmss/m/n/10 Biomatemáticas| 
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 33--33
+[]\T1/cmss/m/n/10 15.1[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+[]\T1/cmss/m/n/10 12:25
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 35--35
+\T1/cmss/m/n/10 ti-cas en las
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+[]\T1/cmss/m/n/10 12:25
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+[]\T1/cmss/m/n/10 Matemática
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 37--37
+[]\T1/cmss/m/n/10 26.2[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+[]\T1/cmss/m/n/10 12:25
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+[]\T1/cmss/m/n/10 Matemática
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 39--39
+[]\T1/cmss/m/n/10 26.52[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+[]\T1/cmss/m/n/10 12:25
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+[]\T1/cmss/m/n/10 Matemática
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 41--41
+[]\T1/cmss/m/n/10 26.98[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+[]\T1/cmss/m/n/10 13:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+[]\T1/cmss/m/n/10 Lógica y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+\T1/cmss/m/n/10 Fun-da-men-
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 43--43
+[]\T1/cmss/m/n/10 24.2[]| 
+ []
+
+[112
+
+]
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 44--44
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+[]\T1/cmss/m/n/10 13:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 45--45
+[]\T1/cmss/m/n/10 12.23[]| 
+ []
+
+
+Underfull \hbox (badness 1122) in paragraph at lines 45--45
+[]\T1/cmss/m/n/10 María del Car-men Ro-drí-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
+[]\T1/cmss/m/n/10 13:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
+[]\T1/cmss/m/n/10 Física Ma-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
+\T1/cmss/m/n/10 te-má-ti-ca y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
+\T1/cmss/m/n/10 Geo-me-tría
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 47--47
+[]\T1/cmss/m/n/10 21.2[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+[]\T1/cmss/m/n/10 13:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+[]\T1/cmss/m/n/10 Topología
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 49--49
+[]\T1/cmss/m/n/10 34.30[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+[]\T1/cmss/m/n/10 13:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 51--51
+[]\T1/cmss/m/n/10 12.2[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+[]\T1/cmss/m/n/10 13:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+[]\T1/cmss/m/n/10 Topología
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 53--53
+[]\T1/cmss/m/n/10 34.2[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+[]\T1/cmss/m/n/10 13:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 55--55
+[]\T1/cmss/m/n/10 30.2[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
+[]\T1/cmss/m/n/10 13:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
+[]\T1/cmss/m/n/10 Matemática
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 57--57
+[]\T1/cmss/m/n/10 26.99[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+[]\T1/cmss/m/n/10 13:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 59--59
+\T1/cmss/m/n/10 ti-cas en las
+ []
+
+
+Underfull \hbox (badness 2326) in paragraph at lines 59--59
+[]\T1/cmss/m/n/10 Rosal de Je-sús Mar-tí-nez
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+[]\T1/cmss/m/n/10 13:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+[]\T1/cmss/m/n/10 13:25
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 63--63
+\T1/cmss/m/n/10 ti-cas en las
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+[]\T1/cmss/m/n/10 16:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 65--65
+[]\T1/cmss/m/n/10 12.4[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+[]\T1/cmss/m/n/10 16:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 67--67
+[]\T1/cmss/m/n/10 19.5[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+[]\T1/cmss/m/n/10 16:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+\T1/cmss/m/n/10 Fi-nan-cie-ras
+ []
+
+
+Underfull \hbox (badness 5504) in paragraph at lines 69--69
+\T1/cmss/m/n/10 y Eco-no-mía
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 69--69
+[]\T1/cmss/m/n/10 28.4[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+[]\T1/cmss/m/n/10 16:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+[]\T1/cmss/m/n/10 Geometría
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 71--71
+[]\T1/cmss/m/n/10 22.3[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+[]\T1/cmss/m/n/10 Enrique Ja-vier Eli-zon-do
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+[]\T1/cmss/m/n/10 16:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+[]\T1/cmss/m/n/10 Lógica y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+\T1/cmss/m/n/10 Fun-da-men-
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 73--73
+[]\T1/cmss/m/n/10 24.3[]| 
+ []
+
+[113]
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 74--74
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
+[]\T1/cmss/m/n/10 16:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
+[]\T1/cmss/m/n/10 Topología
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 75--75
+[]\T1/cmss/m/n/10 34.4[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+[]\T1/cmss/m/n/10 18:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+[]\T1/cmss/m/n/10 Matemática
+ []
+
+
+Overfull \hbox (12.771pt too wide) in paragraph at lines 77--77
+[]\T1/cmss/m/n/10 26.105[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--79
+[]\T1/cmss/m/n/10 18:30
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--79
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--79
+[]\T1/cmss/m/n/10 Matemática
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 79--79
+[]\T1/cmss/m/n/10 26.60[]| 
+ []
+
+
+Overfull \hbox (1.07819pt too wide) in paragraph at lines 79--80
+[]\T1/cmss/m/n/10 Bach| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
+[]\T1/cmss/m/n/10 18:10
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 90--90
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 90--90
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 90--90
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+[]\T1/cmss/m/n/10 Matemática
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 92--92
+[]\T1/cmss/m/n/10 26.11[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+[]\T1/cmss/m/n/10 Integrando mul-ti-me-dia, ani-
+ []
+
+
+Underfull \hbox (badness 3009) in paragraph at lines 92--92
+\T1/cmss/m/n/10 ma-ción y sis-te-mas al-ge-brai-cos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
+[]\T1/cmss/m/n/10 Topología
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 94--94
+[]\T1/cmss/m/n/10 34.34[]| 
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 96--96
+\T1/cmss/m/n/10 ti-cas en las
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+[]\T1/cmss/m/n/10 Lógica y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+\T1/cmss/m/n/10 Fun-da-men-
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 98--98
+[]\T1/cmss/m/n/10 24.6[]| 
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 100--100
+[]\T1/cmss/m/n/10 Análisis Nu-
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 100--100
+[]\T1/cmss/m/n/10 14.8[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Overfull \hbox (11.67816pt too wide) in paragraph at lines 106--106
+[]\T1/cmss/m/n/10 Biomatemáticas| 
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 106--106
+[]\T1/cmss/m/n/10 15.5[]| 
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 108--108
+[]\T1/cmss/m/n/10 19.11[]| 
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 110--110
+\T1/cmss/m/n/10 ti-cas en las
+ []
+
+[114]
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 111--111
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--112
+[]\T1/cmss/m/n/10 10:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--112
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--112
+[]\T1/cmss/m/n/10 Topología
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 112--112
+[]\T1/cmss/m/n/10 34.8[]| 
+ []
+
+
+Underfull \hbox (badness 2103) in paragraph at lines 112--112
+[]\T1/cmss/m/n/10 Una in-tro-duc-ción a las cuasi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--112
+[]\T1/cmss/m/n/10 Adolfo Ja-vier Pi-mien-ta
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+[]\T1/cmss/m/n/10 10:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 114--114
+[]\T1/cmss/m/n/10 Análisis Nu-
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 114--114
+[]\T1/cmss/m/n/10 14.9[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+[]\T1/cmss/m/n/10 10:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+[]\T1/cmss/m/n/10 Matemática
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 116--116
+[]\T1/cmss/m/n/10 26.14[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
+[]\T1/cmss/m/n/10 10:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
+[]\T1/cmss/m/n/10 Lógica y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
+\T1/cmss/m/n/10 Fun-da-men-
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 118--118
+[]\T1/cmss/m/n/10 24.7[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--120
+[]\T1/cmss/m/n/10 10:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--120
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 120--120
+[]\T1/cmss/m/n/10 12.7[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--120
+[]\T1/cmss/m/n/10 Rogelio Fernández-Alonso
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--122
+[]\T1/cmss/m/n/10 10:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--122
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 2173) in paragraph at lines 122--122
+[]\T1/cmss/m/n/10 Software Li-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
+[]\T1/cmss/m/n/10 10:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+[]\T1/cmss/m/n/10 10:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--128
+[]\T1/cmss/m/n/10 10:20
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--128
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--128
+[]\T1/cmss/m/n/10 Topología
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 128--128
+[]\T1/cmss/m/n/10 34.9[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+[]\T1/cmss/m/n/10 10:20
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 130--130
+\T1/cmss/m/n/10 ti-cas en las
+ []
+
+
+Underfull \hbox (badness 7221) in paragraph at lines 130--130
+[]\T1/cmss/m/n/10 Nayeli Adria-na Gon-zá-lez
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
+[]\T1/cmss/m/n/10 10:20
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
+[]\T1/cmss/m/n/10 Matemática
+ []
+
+
+Overfull \hbox (12.771pt too wide) in paragraph at lines 132--132
+[]\T1/cmss/m/n/10 26.111[]| 
+ []
+
+
+Overfull \hbox (1.07819pt too wide) in paragraph at lines 132--133
+[]\T1/cmss/m/n/10 Bach| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--134
+[]\T1/cmss/m/n/10 10:20
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--134
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--134
+[]\T1/cmss/m/n/10 Topología
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 134--134
+[]\T1/cmss/m/n/10 33.9[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+[]\T1/cmss/m/n/10 10:20
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 136--136
+[]\T1/cmss/m/n/10 30.6[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
+[]\T1/cmss/m/n/10 10:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 138--138
+[]\T1/cmss/m/n/10 25.6[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--140
+[]\T1/cmss/m/n/10 10:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--140
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 140--140
+\T1/cmss/m/n/10 ti-cas en las
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 140--140
+[]\T1/cmss/m/n/10 4.10[]| 
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 140--140
+[]\T1/cmss/m/n/10 Construcción de una cur-va de
+ []
+
+[115]
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 141--141
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--142
+[]\T1/cmss/m/n/10 10:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--142
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--142
+[]\T1/cmss/m/n/10 Matemática
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 142--142
+[]\T1/cmss/m/n/10 26.16[]| 
+ []
+
+
+Overfull \hbox (1.07819pt too wide) in paragraph at lines 142--143
+[]\T1/cmss/m/n/10 Bach| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]\T1/cmss/m/n/10 10:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]\T1/cmss/m/n/10 Topología
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 144--144
+[]\T1/cmss/m/n/10 34.39[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+[]\T1/cmss/m/n/10 10:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+[]\T1/cmss/m/n/10 Topología
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 146--146
+[]\T1/cmss/m/n/10 34.10[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmss/m/n/10 11:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 148--148
+[]\T1/cmss/m/n/10 30.7[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]\T1/cmss/m/n/10 11:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 150--150
+\T1/cmss/m/n/10 ti-cas en las
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 150--150
+[]\T1/cmss/m/n/10 4.11[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 152--152
+\T1/cmss/m/n/10 ti-cas en las
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 152--152
+[]\T1/cmss/m/n/10 4.12[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 2173) in paragraph at lines 154--154
+[]\T1/cmss/m/n/10 Software Li-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
+[]\T1/cmss/m/n/10 Lógica y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
+\T1/cmss/m/n/10 Fun-da-men-
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 156--156
+[]\T1/cmss/m/n/10 24.11[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+[]\T1/cmss/m/n/10 Innovación
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+\T1/cmss/m/n/10 en Tec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+\T1/cmss/m/n/10 no-lo-gía
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--160
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--160
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--162
+[]\T1/cmss/m/n/10 12:25
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--162
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 162--162
+\T1/cmss/m/n/10 ti-cas en las
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 162--162
+[]\T1/cmss/m/n/10 4.13[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
+[]\T1/cmss/m/n/10 16:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
+[]\T1/cmss/m/n/10 Lógica y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
+\T1/cmss/m/n/10 Fun-da-men-
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 164--164
+[]\T1/cmss/m/n/10 24.12[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--166
+[]\T1/cmss/m/n/10 16:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--166
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 2173) in paragraph at lines 166--166
+[]\T1/cmss/m/n/10 Software Li-
+ []
+
+
+Overfull \hbox (1.07819pt too wide) in paragraph at lines 166--167
+[]\T1/cmss/m/n/10 Bach| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
+[]\T1/cmss/m/n/10 16:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 168--168
+[]\T1/cmss/m/n/10 13.14[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
+[]\T1/cmss/m/n/10 Lino Fe-li-ciano Re-sén-dis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
+[]\T1/cmss/m/n/10 16:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
+\T1/cmss/m/n/10 -
+ []
+
+[116]
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 171--171
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--172
+[]\T1/cmss/m/n/10 16:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--172
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--172
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--174
+[]\T1/cmss/m/n/10 16:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--174
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (11.67816pt too wide) in paragraph at lines 174--174
+[]\T1/cmss/m/n/10 Biomatemáticas| 
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 174--174
+[]\T1/cmss/m/n/10 15.9[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--176
+[]\T1/cmss/m/n/10 17:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--176
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 176--176
+\T1/cmss/m/n/10 ti-cas en las
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 176--176
+[]\T1/cmss/m/n/10 4.15[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--178
+[]\T1/cmss/m/n/10 17:20
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--178
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--178
+[]\T1/cmss/m/n/10 Matemática
+ []
+
+
+Overfull \hbox (12.771pt too wide) in paragraph at lines 178--178
+[]\T1/cmss/m/n/10 26.116[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--180
+[]\T1/cmss/m/n/10 18:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--180
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--180
+[]\T1/cmss/m/n/10 Física Ma-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--180
+\T1/cmss/m/n/10 te-má-ti-ca y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--180
+\T1/cmss/m/n/10 Geo-me-tría
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 180--180
+[]\T1/cmss/m/n/10 21.13[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
+[]\T1/cmss/m/n/10 18:10
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
+[]\T1/cmss/m/n/10 Lógica y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
+\T1/cmss/m/n/10 Fun-da-men-
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 182--182
+[]\T1/cmss/m/n/10 24.13[]| 
+ []
+
+
+Underfull \hbox (badness 2781) in paragraph at lines 182--182
+[]\T1/cmss/m/n/10 Abelardo Ve-la Pon-ce de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--184
+[]\T1/cmss/m/n/10 18:10
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--184
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--184
+[]\T1/cmss/m/n/10 Topología
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 184--184
+[]\T1/cmss/m/n/10 33.14[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--186
+[]\T1/cmss/m/n/10 18:10
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--186
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--188
+[]\T1/cmss/m/n/10 18:10
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--188
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--188
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--190
+[]\T1/cmss/m/n/10 18:30
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--190
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--190
+[]\T1/cmss/m/n/10 Lógica y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--190
+\T1/cmss/m/n/10 Fun-da-men-
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 190--190
+[]\T1/cmss/m/n/10 24.14[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--192
+[]\T1/cmss/m/n/10 18:30
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--192
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--192
+[]\T1/cmss/m/n/10 Matemática
+ []
+
+
+Overfull \hbox (12.771pt too wide) in paragraph at lines 192--192
+[]\T1/cmss/m/n/10 26.118[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--194
+[]\T1/cmss/m/n/10 18:30
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--194
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--194
+[]\T1/cmss/m/n/10 Matemática
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 194--194
+[]\T1/cmss/m/n/10 26.23[]| 
+ []
+
+
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 203--203
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 203--203
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 203--203
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--205
+[]\T1/cmss/m/n/10 Difusión de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 207--207
+[]\T1/cmss/m/n/10 25.14[]| 
+ []
+
+[117]
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 208--208
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
+[]\T1/cmss/m/n/10 Matemática
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 209--209
+[]\T1/cmss/m/n/10 26.73[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
+[]\T1/cmss/m/n/10 José Fer-nan-do Gon-zá-lez
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 211--211
+[]\T1/cmss/m/n/10 23.1[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--213
+[]\T1/cmss/m/n/10 Teoría de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--213
+\T1/cmss/m/n/10 Nú-me-ros y
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 213--213
+[]\T1/cmss/m/n/10 32.1[]| 
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 215--215
+[]\T1/cmss/m/n/10 3.10[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--217
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Overfull \hbox (11.67816pt too wide) in paragraph at lines 219--219
+[]\T1/cmss/m/n/10 Biomatemáticas| 
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 219--219
+[]\T1/cmss/m/n/10 15.12[]| 
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 221--221
+[]\T1/cmss/m/n/10 12.13[]| 
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 223--223
+[]\T1/cmss/m/n/10 13.17[]| 
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 225--225
+[]\T1/cmss/m/n/10 29.1[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--225
+[]\T1/cmss/m/n/10 Maria Emi-lia Ca-ba-lle-ro
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--227
+[]\T1/cmss/m/n/10 Geometría
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 227--227
+[]\T1/cmss/m/n/10 22.10[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--229
+[]\T1/cmss/m/n/10 Lógica y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--229
+\T1/cmss/m/n/10 Fun-da-men-
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 229--229
+[]\T1/cmss/m/n/10 24.15[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--231
+[]\T1/cmss/m/n/10 Difusión de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]\T1/cmss/m/n/10 Difusión de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--235
+[]\T1/cmss/m/n/10 10:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--235
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 235--235
+[]\T1/cmss/m/n/10 23.2[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
+[]\T1/cmss/m/n/10 10:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
+[]\T1/cmss/m/n/10 Matemática
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 237--237
+[]\T1/cmss/m/n/10 26.76[]| 
+ []
+
+
+Overfull \hbox (1.07819pt too wide) in paragraph at lines 237--238
+[]\T1/cmss/m/n/10 Bach| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--239
+[]\T1/cmss/m/n/10 10:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--239
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--239
+[]\T1/cmss/m/n/10 Difusión de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--241
+[]\T1/cmss/m/n/10 10:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--241
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--241
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--243
+[]\T1/cmss/m/n/10 10:20
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--243
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 243--243
+[]\T1/cmss/m/n/10 23.3[]| 
+ []
+
+[118]
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 244--244
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--245
+[]\T1/cmss/m/n/10 10:20
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--245
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--245
+[]\T1/cmss/m/n/10 Miscelánea
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--247
+[]\T1/cmss/m/n/10 10:20
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--247
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--247
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 247--247
+[]\T1/cmss/m/n/10 25.18[]| 
+ []
+
+
+Underfull \hbox (badness 5008) in paragraph at lines 247--247
+[]\T1/cmss/m/n/10 Daniel An-to-nio Mar-tí-nez
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--249
+[]\T1/cmss/m/n/10 10:20
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--249
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--249
+[]\T1/cmss/m/n/10 Difusión de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--251
+[]\T1/cmss/m/n/10 10:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--251
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--251
+[]\T1/cmss/m/n/10 Teoría de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--251
+\T1/cmss/m/n/10 Nú-me-ros y
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 251--251
+[]\T1/cmss/m/n/10 32.4[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--253
+[]\T1/cmss/m/n/10 10:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--253
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--253
+[]\T1/cmss/m/n/10 Ecuaciones
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--253
+\T1/cmss/m/n/10 Di-fe-ren-cia-les
+ []
+
+
+Underfull \hbox (badness 4752) in paragraph at lines 253--253
+\T1/cmss/m/n/10 y Apli-ca-cio-
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 253--253
+[]\T1/cmss/m/n/10 18.43[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--255
+[]\T1/cmss/m/n/10 10:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--255
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--255
+[]\T1/cmss/m/n/10 Física Ma-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--255
+\T1/cmss/m/n/10 te-má-ti-ca y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--255
+\T1/cmss/m/n/10 Geo-me-tría
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 255--255
+[]\T1/cmss/m/n/10 21.17[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--257
+[]\T1/cmss/m/n/10 10:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--257
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--257
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 257--257
+[]\T1/cmss/m/n/10 25.19[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--257
+\T1/cmss/m/n/10 al-ge-brai-cos compu-tacio-na-les
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--259
+[]\T1/cmss/m/n/10 10:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--259
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--259
+[]\T1/cmss/m/n/10 Difusión de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--261
+[]\T1/cmss/m/n/10 11:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--261
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--261
+[]\T1/cmss/m/n/10 Topología
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 261--261
+[]\T1/cmss/m/n/10 34.16[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--263
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--263
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 263--263
+[]\T1/cmss/m/n/10 30.14[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--265
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--265
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (11.67816pt too wide) in paragraph at lines 265--265
+[]\T1/cmss/m/n/10 Biomatemáticas| 
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 265--265
+[]\T1/cmss/m/n/10 15.15[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--267
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--267
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 267--267
+[]\T1/cmss/m/n/10 12.17[]| 
+ []
+
+
+Underfull \hbox (badness 4205) in paragraph at lines 267--267
+[]\T1/cmss/m/n/10 Rafael He-ra-clio Vi-lla-rreal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
+[]\T1/cmss/m/n/10 Miscelánea
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 271--271
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 271--271
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 271--271
+[]\T1/cmss/m/n/10 Problemas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
+[]\T1/cmss/m/n/10 Miscelánea
+ []
+
+[119]
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 274--274
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--275
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--275
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 275--275
+[]\T1/cmss/m/n/10 23.5[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--277
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--277
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 2173) in paragraph at lines 277--277
+[]\T1/cmss/m/n/10 Software Li-
+ []
+
+
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 286--286
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 286--286
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 286--286
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--288
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 288--288
+[]\T1/cmss/m/n/10 25.22[]| 
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 290--290
+[]\T1/cmss/m/n/10 13.23[]| 
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 292--292
+[]\T1/cmss/m/n/10 12.18[]| 
+ []
+
+
+Underfull \hbox (badness 4726) in paragraph at lines 292--292
+[]\T1/cmss/m/n/10 Series for-ma-les so-bre gra-fi-cas
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 294--294
+[]\T1/cmss/m/n/10 29.7[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--296
+[]\T1/cmss/m/n/10 Lógica y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--296
+\T1/cmss/m/n/10 Fun-da-men-
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 296--296
+[]\T1/cmss/m/n/10 24.21[]| 
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 298--298
+[]\T1/cmss/m/n/10 12.34[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--300
+[]\T1/cmss/m/n/10 Miscelánea
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--302
+[]\T1/cmss/m/n/10 10:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--302
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--302
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 302--302
+[]\T1/cmss/m/n/10 27.11[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+[]\T1/cmss/m/n/10 10:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+[]\T1/cmss/m/n/10 Matemática
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 304--304
+[]\T1/cmss/m/n/10 26.80[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--306
+[]\T1/cmss/m/n/10 10:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--306
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--306
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--306
+\T1/cmss/m/n/10 Fi-nan-cie-ras
+ []
+
+
+Underfull \hbox (badness 5504) in paragraph at lines 306--306
+\T1/cmss/m/n/10 y Eco-no-mía
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 306--306
+[]\T1/cmss/m/n/10 28.20[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--308
+[]\T1/cmss/m/n/10 10:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--308
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--308
+[]\T1/cmss/m/n/10 Topología
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 308--308
+[]\T1/cmss/m/n/10 34.18[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 310--310
+[]\T1/cmss/m/n/10 10:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 310--310
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 310--310
+[]\T1/cmss/m/n/10 Lógica y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 310--310
+\T1/cmss/m/n/10 Fun-da-men-
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 310--310
+[]\T1/cmss/m/n/10 24.22[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+[]\T1/cmss/m/n/10 10:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+[]\T1/cmss/m/n/10 Problemas
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 312--312
+[]\T1/cmss/m/n/10 7.10[]| 
+ []
+
+[120]
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 313--313
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--314
+[]\T1/cmss/m/n/10 10:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--314
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 314--314
+[]\T1/cmss/m/n/10 19.27[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 316--316
+[]\T1/cmss/m/n/10 10:20
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 316--316
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 316--316
+[]\T1/cmss/m/n/10 Lógica y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 316--316
+\T1/cmss/m/n/10 Fun-da-men-
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 316--316
+[]\T1/cmss/m/n/10 24.23[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--318
+[]\T1/cmss/m/n/10 10:20
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--318
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--318
+[]\T1/cmss/m/n/10 Topología
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 318--318
+[]\T1/cmss/m/n/10 34.19[]| 
+ []
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 318--318
+\T1/cmss/m/n/10 sub-se-cuen-cia-les nu-me-ra-bles con
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--320
+[]\T1/cmss/m/n/10 10:20
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--320
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 320--320
+[]\T1/cmss/m/n/10 23.8[]| 
+ []
+
+
+Overfull \hbox (1.07819pt too wide) in paragraph at lines 320--321
+[]\T1/cmss/m/n/10 Bach| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--322
+[]\T1/cmss/m/n/10 10:20
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--322
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--322
+[]\T1/cmss/m/n/10 Ecuaciones
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--322
+\T1/cmss/m/n/10 Di-fe-ren-cia-les
+ []
+
+
+Underfull \hbox (badness 4752) in paragraph at lines 322--322
+\T1/cmss/m/n/10 y Apli-ca-cio-
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 322--322
+[]\T1/cmss/m/n/10 18.29[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--324
+[]\T1/cmss/m/n/10 10:20
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--324
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--324
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--324
+\T1/cmss/m/n/10 Fi-nan-cie-ras
+ []
+
+
+Underfull \hbox (badness 5504) in paragraph at lines 324--324
+\T1/cmss/m/n/10 y Eco-no-mía
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 324--324
+[]\T1/cmss/m/n/10 28.21[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--326
+[]\T1/cmss/m/n/10 10:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--326
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--326
+[]\T1/cmss/m/n/10 Matemática
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 326--326
+[]\T1/cmss/m/n/10 26.82[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 328--328
+[]\T1/cmss/m/n/10 10:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 328--328
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 328--328
+[]\T1/cmss/m/n/10 Análisis Nu-
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 328--328
+[]\T1/cmss/m/n/10 14.27[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--330
+[]\T1/cmss/m/n/10 10:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--330
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 330--330
+[]\T1/cmss/m/n/10 23.9[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--332
+[]\T1/cmss/m/n/10 10:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--332
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--332
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 332--332
+[]\T1/cmss/m/n/10 27.13[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--334
+[]\T1/cmss/m/n/10 11:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--334
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--334
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 334--334
+[]\T1/cmss/m/n/10 27.14[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
+[]\T1/cmss/m/n/10 11:20
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 336--336
+[]\T1/cmss/m/n/10 27.15[]| 
+ []
+
+
+Underfull \hbox (badness 1721) in paragraph at lines 336--336
+[]\T1/cmss/m/n/10 Transformada Dis-cre-ta Wa-ve-let
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--338
+[]\T1/cmss/m/n/10 11:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--338
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 338--338
+[]\T1/cmss/m/n/10 Análisis Nu-
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 338--338
+[]\T1/cmss/m/n/10 14.28[]| 
+ []
+
+
+Underfull \hbox (badness 1466) in paragraph at lines 338--338
+[]\T1/cmss/m/n/10 Estrategias de lo-ca-li-za-ción con
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 340--340
+[]\T1/cmss/m/n/10 11:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 340--340
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 340--340
+[]\T1/cmss/m/n/10 30.18[]| 
+ []
+
+[121]
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 341--341
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--342
+[]\T1/cmss/m/n/10 11:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--342
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--342
+[]\T1/cmss/m/n/10 Topología
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 342--342
+[]\T1/cmss/m/n/10 34.21[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+[]\T1/cmss/m/n/10 11:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 344--344
+[]\T1/cmss/m/n/10 25.28[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--346
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--346
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 346--346
+[]\T1/cmss/m/n/10 12.21[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--348
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--348
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 348--348
+[]\T1/cmss/m/n/10 23.11[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 350--350
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 350--350
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 350--350
+[]\T1/cmss/m/n/10 Topología
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 350--350
+[]\T1/cmss/m/n/10 34.22[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--352
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--352
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 352--352
+[]\T1/cmss/m/n/10 13.28[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 354--354
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 354--354
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 354--354
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 354--354
+\T1/cmss/m/n/10 Fi-nan-cie-ras
+ []
+
+
+Underfull \hbox (badness 5504) in paragraph at lines 354--354
+\T1/cmss/m/n/10 y Eco-no-mía
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 354--354
+[]\T1/cmss/m/n/10 28.24[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--356
+[]\T1/cmss/m/n/10 16:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--356
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--356
+[]\T1/cmss/m/n/10 Miscelánea
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--358
+[]\T1/cmss/m/n/10 16:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--358
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--358
+[]\T1/cmss/m/n/10 Teoría de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--358
+\T1/cmss/m/n/10 Nú-me-ros y
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 358--358
+[]\T1/cmss/m/n/10 32.11[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 360--360
+[]\T1/cmss/m/n/10 16:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 360--360
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 360--360
+[]\T1/cmss/m/n/10 23.12[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 362--362
+[]\T1/cmss/m/n/10 17:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 362--362
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 362--362
+[]\T1/cmss/m/n/10 Matemática
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 362--362
+[]\T1/cmss/m/n/10 26.39[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 364--364
+[]\T1/cmss/m/n/10 17:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 364--364
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 364--364
+[]\T1/cmss/m/n/10 Matemática
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 364--364
+[]\T1/cmss/m/n/10 26.87[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 366--366
+[]\T1/cmss/m/n/10 17:20
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 366--366
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 366--366
+[]\T1/cmss/m/n/10 Matemática
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 366--366
+[]\T1/cmss/m/n/10 26.88[]| 
+ []
+
+
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 375--375
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 375--375
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 375--375
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--377
+[]\T1/cmss/m/n/10 Matemática
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 377--377
+[]\T1/cmss/m/n/10 26.89[]| 
+ []
+
+
+Overfull \hbox (1.07819pt too wide) in paragraph at lines 377--378
+[]\T1/cmss/m/n/10 Bach| 
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 379--379
+[]\T1/cmss/m/n/10 Análisis Nu-
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 379--379
+[]\T1/cmss/m/n/10 14.33[]| 
+ []
+
+[122]
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 380--380
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Overfull \hbox (11.67816pt too wide) in paragraph at lines 381--381
+[]\T1/cmss/m/n/10 Biomatemáticas| 
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 381--381
+[]\T1/cmss/m/n/10 15.20[]| 
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 383--383
+[]\T1/cmss/m/n/10 29.15[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 385--385
+[]\T1/cmss/m/n/10 Miscelánea
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 387--387
+[]\T1/cmss/m/n/10 23.13[]| 
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 389--389
+[]\T1/cmss/m/n/10 13.32[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 391--391
+[]\T1/cmss/m/n/10 Matemática
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 391--391
+[]\T1/cmss/m/n/10 26.90[]| 
+ []
+
+
+Underfull \hbox (badness 3428) in paragraph at lines 391--391
+[]\T1/cmss/m/n/10 Claudia Mar-ga-ri-ta Acu-ña
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 393--393
+[]\T1/cmss/m/n/10 Ecuaciones
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 393--393
+\T1/cmss/m/n/10 Di-fe-ren-cia-les
+ []
+
+
+Underfull \hbox (badness 4752) in paragraph at lines 393--393
+\T1/cmss/m/n/10 y Apli-ca-cio-
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 393--393
+[]\T1/cmss/m/n/10 18.34[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 395--395
+[]\T1/cmss/m/n/10 Ciencias de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 395--395
+\T1/cmss/m/n/10 la Compu-
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 395--395
+[]\T1/cmss/m/n/10 16.8[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--397
+[]\T1/cmss/m/n/10 Ciencias de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--397
+\T1/cmss/m/n/10 la Compu-
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 397--397
+[]\T1/cmss/m/n/10 16.9[]| 
+ []
+
+
+Underfull \hbox (badness 1147) in paragraph at lines 397--397
+[]\T1/cmss/m/n/10 Algorítmos evo-lu-ti-vos y me-mé-
+ []
+
+
+Underfull \hbox (badness 2894) in paragraph at lines 397--397
+\T1/cmss/m/n/10 ti-cos pa-ra op-ti-mi-za-ción multi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 399--399
+[]\T1/cmss/m/n/10 10:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 399--399
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 399--399
+[]\T1/cmss/m/n/10 Ciencias de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 399--399
+\T1/cmss/m/n/10 la Compu-
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 399--399
+[]\T1/cmss/m/n/10 16.10[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 399--399
+[]\T1/cmss/m/n/10 Implementación en software-
+ []
+
+
+Underfull \hbox (badness 6428) in paragraph at lines 399--399
+\T1/cmss/m/n/10 hardware de arit-mé-ti-ca so-bre
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 401--401
+[]\T1/cmss/m/n/10 10:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 401--401
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 401--401
+[]\T1/cmss/m/n/10 Topología
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 401--401
+[]\T1/cmss/m/n/10 34.23[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 403--403
+[]\T1/cmss/m/n/10 10:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 403--403
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 403--403
+[]\T1/cmss/m/n/10 Matemática
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 403--403
+[]\T1/cmss/m/n/10 26.44[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 405--405
+[]\T1/cmss/m/n/10 10:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 405--405
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 405--405
+[]\T1/cmss/m/n/10 Miscelánea
+ []
+
+
+Underfull \hbox (badness 2376) in paragraph at lines 405--405
+[]\T1/cmss/m/n/10 Segmentación Pro-ba-bi-lís-ti-ca de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 407--407
+[]\T1/cmss/m/n/10 10:20
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 407--407
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 407--407
+[]\T1/cmss/m/n/10 Topología
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 407--407
+[]\T1/cmss/m/n/10 34.24[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--409
+[]\T1/cmss/m/n/10 10:20
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--409
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 409--409
+[]\T1/cmss/m/n/10 23.15[]| 
+ []
+
+
+Overfull \hbox (1.07819pt too wide) in paragraph at lines 409--410
+[]\T1/cmss/m/n/10 Bach| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--411
+[]\T1/cmss/m/n/10 10:20
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--411
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--411
+[]\T1/cmss/m/n/10 Matemática
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 411--411
+[]\T1/cmss/m/n/10 26.45[]| 
+ []
+
+
+Underfull \hbox (badness 1742) in paragraph at lines 411--411
+[]\T1/cmss/m/n/10 Gloria Cons-tan-za Hol-guín
+ []
+
+[123]
+Overfull \hbox (3.16101pt too wide) in paragraph at lines 412--412
+[]\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--413
+[]\T1/cmss/m/n/10 10:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--413
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--413
+[]\T1/cmss/m/n/10 Ecuaciones
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--413
+\T1/cmss/m/n/10 Di-fe-ren-cia-les
+ []
+
+
+Underfull \hbox (badness 4752) in paragraph at lines 413--413
+\T1/cmss/m/n/10 y Apli-ca-cio-
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 413--413
+[]\T1/cmss/m/n/10 18.37[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--415
+[]\T1/cmss/m/n/10 10:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--415
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--415
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 415--415
+[]\T1/cmss/m/n/10 25.36[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 417--417
+[]\T1/cmss/m/n/10 11:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 417--417
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 417--417
+[]\T1/cmss/m/n/10 Ciencias de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 417--417
+\T1/cmss/m/n/10 la Compu-
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 417--417
+[]\T1/cmss/m/n/10 16.13[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 419--419
+[]\T1/cmss/m/n/10 11:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 419--419
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 419--419
+[]\T1/cmss/m/n/10 23.17[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 421--421
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 421--421
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 421--421
+[]\T1/cmss/m/n/10 Miscelánea
+ []
+
+
+Overfull \hbox (1.07819pt too wide) in paragraph at lines 421--422
+[]\T1/cmss/m/n/10 Bach| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--423
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--423
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--423
+[]\T1/cmss/m/n/10 Topología
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 423--423
+[]\T1/cmss/m/n/10 34.27[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 425--425
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 425--425
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 425--425
+[]\T1/cmss/m/n/10 Análisis Nu-
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 425--425
+[]\T1/cmss/m/n/10 14.38[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 427--427
+[]\T1/cmss/m/n/10 12:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 427--427
+\T1/cmss/m/n/10 -
+ []
+
+
+Overfull \hbox (11.67816pt too wide) in paragraph at lines 427--427
+[]\T1/cmss/m/n/10 Biomatemáticas| 
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 427--427
+[]\T1/cmss/m/n/10 15.25[]| 
+ []
+
+
+Underfull \hbox (badness 3601) in paragraph at lines 427--427
+[]\T1/cmss/m/n/10 Alejandro Ri-car-do Fe-mat
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 429--429
+[]\T1/cmss/m/n/10 16:40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 429--429
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 429--429
+[]\T1/cmss/m/n/10 Matemáticas
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 429--429
+[]\T1/cmss/m/n/10 25.39[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 431--431
+[]\T1/cmss/m/n/10 17:00
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 431--431
+\T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 431--431
+[]\T1/cmss/m/n/10 Teoría de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 431--431
+\T1/cmss/m/n/10 Nú-me-ros y
+ []
+
+
+Overfull \hbox (7.77222pt too wide) in paragraph at lines 431--431
+[]\T1/cmss/m/n/10 32.18[]| 
+ []
+
+) (./otros/anuncios.tex [124]
 File: otros/anuncio_UAEH.eps Graphic file (type eps)
- <otros/anuncio_UAEH.eps>) [105
+ <otros/anuncio_UAEH.eps>
+File: otros/anuncio_UAEH.eps Graphic file (type eps)
 
-
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!]
+<otros/anuncio_UAEH.eps>
+File: otros/anuncio_VER.eps Graphic file (type eps)
+ <otros/anuncio_VER.eps>) [125]
 Cap\'{\i }tulo 5.
 (./areas/resumenes/Plenarios.tex
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 5.
 
 (/usr/local/share/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-) [106
+) [126
 
 ]
 
@@ -5698,18 +10909,16 @@ Package amsmath Warning: Foreign command \over;
 (amsmath)                \frac or \genfrac should be used instead
 (amsmath)                 on input line 20.
 
-[107]) [108] [109
+[127]) [128] [129
 
-] [110
+] [130
 
-] [111
+] [131
 
-] [112
-
-] (./sesiones/resumenes/DinHam.tex [113
+] (./sesiones/resumenes/DinHam.tex [132
 
 ])
-(./sesiones/resumenes/InnMat.tex [114] [115]) (./sesiones/resumenes/SMMBach.tex
+(./sesiones/resumenes/InnMat.tex [133] [134]) (./sesiones/resumenes/SMMBach.tex
 
 Overfull \hbox (3.93494pt too wide) in paragraph at lines 7--14
 \T1/cmss/bx/n/10 Ricardo Gó-mez\T1/cmss/m/n/10 , \T1/cmtt/m/n/10 rgomez@matem.u
@@ -5717,12 +10926,12 @@ nam.com \T1/cmss/m/sl/10 (Ins-ti-tu-to de Ma-te-má-ti-cas, Uni-ver-si-dad Na-ci
 o-nal Au-tó-no-ma de Mé-xi-co (UNAM)) 
  []
 
-[116]
+[135]
 Underfull \hbox (badness 10000) in paragraph at lines 29--30
 
  []
 
-[117]
+[136]
 Underfull \hbox (badness 10000) in paragraph at lines 116--117
 
  []
@@ -5732,7 +10941,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 120--1
 
  []
 
-[118] [119] [120] [121]) (./sesiones/resumenes/MatInd.tex
+[137] [138] [139] [140]) (./sesiones/resumenes/MatInd.tex
 Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
@@ -5747,7 +10956,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
  []
 
-[122]
+[141]
 Underfull \hbox (badness 10000) in paragraph at lines 72--73
 
  []
@@ -5757,7 +10966,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 78--1
 
  []
 
-[123]
+[142]
 Underfull \hbox (badness 10000) in paragraph at lines 75--81
 
  []
@@ -5772,69 +10981,69 @@ Underfull \hbox (badness 10000) in paragraph at lines 101--108
 
  []
 
-[124]) (./sesiones/resumenes/ProInv.tex [125] [126])
-(./sesiones/resumenes/SoftLib.tex [127]) (./sesiones/resumenes/DifPos.tex
+[143]) (./sesiones/resumenes/ProInv.tex [144] [145])
+(./sesiones/resumenes/SoftLib.tex [146]) (./sesiones/resumenes/DifPos.tex
 Overfull \hbox (4.91414pt too wide) in paragraph at lines 58--1
 \T1/cmss/bx/n/10 Felipe Hum-ber-to Con-tre-ras Al-ca-lá\T1/cmss/m/n/10 , \T1/cm
 tt/m/n/10 hobber.mallow@gmail.com \T1/cmss/m/sl/10 (Uni-ver-si-dad Au-tó-no-ma 
 de la Ciu-dad de Mé-xi-co (UACM)) 
  []
 
-[128]) (./sesiones/resumenes/PreLib.tex [129] [130] [131] [132] [133]
+[147]) (./sesiones/resumenes/PreLib.tex [148] [149] [150] [151] [152]
 Underfull \hbox (badness 10000) in paragraph at lines 403--404
 
  []
 
-) (./sesiones/resumenes/JovenAJoven.tex [134] [135] [136]
-Underfull \hbox (badness 10000) in paragraph at lines 284--289
+) (./sesiones/resumenes/JovenAJoven.tex [153] [154] [155]
+Underfull \hbox (badness 10000) in paragraph at lines 283--288
 
  []
 
-[137]
-Underfull \hbox (badness 10000) in paragraph at lines 351--358
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 387--391
-
- []
-
-[138]
-Underfull \hbox (badness 10000) in paragraph at lines 452--455
+[156]
+Underfull \hbox (badness 10000) in paragraph at lines 350--357
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 456--461
+Underfull \hbox (badness 10000) in paragraph at lines 386--390
+
+ []
+
+[157]
+Underfull \hbox (badness 10000) in paragraph at lines 451--454
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 462--468
+Underfull \hbox (badness 10000) in paragraph at lines 455--460
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 488--499
+Underfull \hbox (badness 10000) in paragraph at lines 461--467
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 510--512
+Underfull \hbox (badness 10000) in paragraph at lines 487--498
 
  []
 
-[139]) [140] (./areas/resumenes/Alge.tex [141
 
-] [142] [143] [144] [145]
+Underfull \hbox (badness 10000) in paragraph at lines 509--511
+
+ []
+
+[158]) [159] (./areas/resumenes/Alge.tex [160
+
+] [161] [162] [163] [164]
 Overfull \hbox (8.46883pt too wide) in paragraph at lines 130--133
 \T1/cmss/bx/n/10 Mauricio Ga-briel Me-di-na Bár-ce-nas\T1/cmss/m/n/10 , \T1/cmt
 t/m/n/10 mauricio_g_mb@yahoo.com.mx \T1/cmss/m/it/10 (Uni-ver-si-dad Na-cio-nal
  Au-tó-no-ma de Mé-xi-co (UNAM)) 
  []
 
-[146]
+[165]
 
 Package amsfonts Warning: Obsolete command \frak; \mathfrak should be used inst
 ead on input line 135.
@@ -5846,35 +11055,35 @@ n/10 rlopez@correo.azc.uam.mx \T1/cmss/m/it/10 (Uni-ver-si-dad Au-tó-no-ma Metr
 opolitana-Azcapotzalco (UAM)
  []
 
-[147]) (./areas/resumenes/Ana.tex [148] [149] [150] [151]
+[166]) (./areas/resumenes/Ana.tex [167] [168] [169] [170]
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 80.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 80.
- [152]
+ [171]
 LaTeX Font Info:    Try loading font information for U+dsrom on input line 96.
 
 (/usr/local/share/texmf-dist/tex/latex/doublestroke/Udsrom.fd
 File: Udsrom.fd 1995/08/01 v0.1 Double stroke roman font definitions
-) [153] [154])
-(./areas/resumenes/AnaNum.tex [155] [156] [157] [158] [159] [160] [161]
-[162] [163] [164] [165]
+) [172] [173])
+(./areas/resumenes/AnaNum.tex [174] [175] [176] [177] [178] [179] [180]
+[181] [182] [183] [184]
 Underfull \vbox (badness 1946) has occurred while \output is active []
 
- [166])
-(./areas/resumenes/Bio.tex [167] [168] [169] [170] [171] [172] [173])
-(./areas/resumenes/CieComp.tex [174] [175] [176]) (./areas/resumenes/Curs.tex
-[177] [178] [179] [180]) (./areas/resumenes/EcDifAp.tex [181]
+ [185])
+(./areas/resumenes/Bio.tex [186] [187] [188] [189] [190] [191] [192])
+(./areas/resumenes/CieComp.tex [193] [194] [195]) (./areas/resumenes/Curs.tex
+[196] [197] [198] [199]) (./areas/resumenes/EcDifAp.tex [200]
 Overfull \hbox (2.35521pt too wide) in paragraph at lines 11--12
 \T1/cmss/m/n/10 Referencias: [1] H. Cam-pos, V. V. Krav-chen-ko and S. Tor-ba, 
 J. Math. Anal. Appl. \T1/cmss/bx/n/10 389 \T1/cmss/m/n/10 (2012), 1222-1238. [2
 ] V. V.Kravchenko
  []
 
-[182] [183] [184] [185]
+[201] [202] [203] [204]
 Missing character: There is no ' in font rsfs10!
 Missing character: There is no 1 in font rsfs7!
- [186] [187] [188] [189] [190] [191] [192]
+ [205] [206] [207] [208] [209] [210] [211]
 Underfull \hbox (badness 10000) in paragraph at lines 237--239
 
  []
@@ -5889,42 +11098,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 240--240
 
  []
 
-[193] [194]
+[212] [213]
 Overfull \hbox (5.65562pt too wide) in paragraph at lines 273--276
 \T1/cmss/bx/n/10 Cutberto Ro-me-ro Me-lén-dez\T1/cmss/m/n/10 , \T1/cmtt/m/n/10 
 cutberto@correo.azc.uam.mx \T1/cmss/m/it/10 (Uni-ver-si-dad Au-tó-no-ma Metropo
 litana-Azcapotzalco (UAM-
  []
 
-[195]) (./areas/resumenes/Estad.tex [196] [197] [198] [199] [200]
+[214]) (./areas/resumenes/Estad.tex [215] [216] [217] [218] [219]
 Underfull \vbox (badness 1062) has occurred while \output is active []
 
- [201]
+ [220]
 Underfull \vbox (badness 5954) has occurred while \output is active []
 
- [202]
-[203]) (./areas/resumenes/Expe.tex [204] [205]
+ [221]
+[222]) (./areas/resumenes/Expe.tex [223] [224]
 Overfull \hbox (9.23808pt too wide) in paragraph at lines 42--46
 \T1/cmss/bx/n/10 Jonathan En-ri-que Mar-tí-nez Me-di-na\T1/cmss/m/n/10 , \T1/cm
 tt/m/n/10 jona_martinez7@hotmail.com \T1/cmss/m/it/10 (Uni-ver-si-dad Au-tó-no-
 ma de San Luis Po-to-sí (UASLP)) 
  []
 
-[206] [207] [208] [209]) (./areas/resumenes/FMat.tex [210]
+[225] [226] [227] [228]) (./areas/resumenes/FMat.tex [229]
 Overfull \hbox (1.64272pt too wide) in paragraph at lines 21--24
 \T1/cmss/bx/n/10 Jaime Cruz Sam-pe-dro\T1/cmss/m/n/10 , \T1/cmtt/m/n/10 cruzsam
 pedro@gmail.com \T1/cmss/m/it/10 (Área de Aná-li-sis Ma-te-má-ti-co de la Uni-v
 er-si-dad Au-tó-no-ma Metropolita-
  []
 
-[211] [212] [213]) (./areas/resumenes/GeoAlg.tex [214] [215]
+[230] [231] [232]) (./areas/resumenes/GeoAlg.tex [233] [234]
 
 LaTeX Font Warning: Font shape `T1/cmss/m/sc' in size <10> not available
 (Font)              Font shape `T1/cmr/m/sc' tried instead on input line 22.
 
-[216] [217]) (./areas/resumenes/HistFil.tex [218] [219] [220] [221] [222])
-(./areas/resumenes/LogFun.tex [223] [224] [225] [226] [227])
-(./areas/resumenes/MatDisc.tex [228] [229] [230] [231]
+[235] [236]) (./areas/resumenes/HistFil.tex [237] [238] [239] [240] [241])
+(./areas/resumenes/LogFun.tex [242] [243] [244] [245] [246])
+(./areas/resumenes/MatDisc.tex [247] [248] [249] [250]
 Overfull \hbox (4.31706pt too wide) in paragraph at lines 82--86
 \T1/cmss/bx/n/10 Pedro Ri-car-do Ló-pez Bau-tis-ta\T1/cmss/m/n/10 , \T1/cmtt/m/
 n/10 rlopez@correo.azc.uam.mx \T1/cmss/m/it/10 (Uni-ver-si-dad Au-tó-no-ma Metr
@@ -5934,91 +11143,91 @@ opolitana-Azcapotzalco (UAM)
 
 Underfull \vbox (badness 1152) has occurred while \output is active []
 
- [232]
+ [251]
 Overfull \hbox (0.13864pt too wide) in paragraph at lines 96--99
 \T1/cmss/bx/n/10 Ricardo Strausz\T1/cmss/m/n/10 , \T1/cmtt/m/n/10 dino@math.una
 m.mx \T1/cmss/m/it/10 (Ins-ti-tu-to de Ma-te-má-ti-cas, Uni-ver-si-dad Na-cio-n
 al Au-tó-no-ma de Mé-xi-co (IM-UNAM)) 
  []
 
-[233]
+[252]
 Underfull \vbox (badness 1655) has occurred while \output is active []
 
- [234]
-[235] [236]) (./areas/resumenes/MatEdu.tex [237] [238] [239]
+ [253]
+[254] [255]) (./areas/resumenes/MatEdu.tex [256] [257] [258]
 Overfull \hbox (3.09404pt too wide) in paragraph at lines 47--51
 \T1/cmss/bx/n/10 María Vic-to-ria Ra-mos Abun-dio\T1/cmss/m/n/10 , \T1/cmtt/m/n
 /10 vicky_vero17@hotmail.com \T1/cmss/m/it/10 (Uni-dad Aca-dé-mi-ca de Ma-te-má
 -ti-cas (UAM) Ext.-Acapulco) 
  []
 
-[240]
+[259]
 Underfull \vbox (badness 3690) has occurred while \output is active []
 
- [241]
-[242] [243]
+ [260]
+[261] [262]
 Underfull \vbox (badness 3690) has occurred while \output is active []
 
- [244]
-[245] [246] [247] [248] [249] [250] [251] [252] [253] [254] [255] [256]
-[257]
+ [263]
+[264] [265] [266] [267] [268] [269] [270] [271] [272] [273] [274] [275]
+[276]
 Underfull \vbox (badness 1052) has occurred while \output is active []
 
- [258]
-[259] [260]
+ [277]
+[278] [279]
 Overfull \hbox (8.41884pt too wide) in paragraph at lines 429--432
 \T1/cmss/bx/n/10 Claudia Mar-ga-ri-ta Acu-ña So-to\T1/cmss/m/n/10 , \T1/cmtt/m/
 n/10 claudiamargarita_as@hotmail.com \T1/cmss/m/it/10 (De-par-ta-men-to de Ma-t
 e-má-ti-ca Edu-ca-ti-va Cinvestav-
  []
 
-[261] [262]
+[280] [281]
 Overfull \hbox (3.36452pt too wide) in paragraph at lines 467--471
 \T1/cmss/bx/n/10 Lizzeth Tru-ji-llo San-ta-ma-ría\T1/cmss/m/n/10 , \T1/cmtt/m/n
 /10 200828931@alumnos.fcfm.buap.mx \T1/cmss/m/it/10 (Be-ne-mé-ri-ta Uni-ver-si-
 dad Au-tó-no-ma de Pue-bla (BUAP)) 
  []
 
-[263] [264] [265] [266] [267] [268] [269] [270]) (./areas/resumenes/MatIng.tex
-[271]
+[282] [283] [284] [285] [286] [287] [288] [289]) (./areas/resumenes/MatIng.tex
+[290]
 Overfull \hbox (3.09404pt too wide) in paragraph at lines 23--27
 \T1/cmss/bx/n/10 María Vic-to-ria Ra-mos Abun-dio\T1/cmss/m/n/10 , \T1/cmtt/m/n
 /10 vicky_vero17@hotmail.com \T1/cmss/m/it/10 (Uni-dad Aca-dé-mi-ca de Ma-te-má
 -ti-cas (UAM) Ext.-Acapulco) 
  []
 
-[272]
+[291]
 Overfull \hbox (0.6885pt too wide) in paragraph at lines 36--40
 \T1/cmss/bx/n/10 J. Juan Ro-sa-les Gar-cía\T1/cmss/m/n/10 , \T1/cmtt/m/n/10 ros
 ales@ugto.mx \T1/cmss/m/it/10 (De-par-ta-men-to de In-ge-nie-ría Eléc-tri-ca, D
 i-vi-sión de In-ge-nie-rías Cam-pus Irapuato-
  []
 
-[273] [274] [275] [276] [277]
+[292] [293] [294] [295] [296]
 Underfull \vbox (badness 7238) has occurred while \output is active []
 
- [278])
+ [297])
 (./areas/resumenes/MatFin.tex
 Underfull \vbox (badness 2334) has occurred while \output is active []
 
- [279]
-[280] [281] [282] [283] [284] [285]
+ [298]
+[299] [300] [301] [302] [303] [304]
 Underfull \vbox (badness 2310) has occurred while \output is active []
 
- [286])
-(./areas/resumenes/Prob.tex [287] [288]
+ [305])
+(./areas/resumenes/Prob.tex [306] [307]
 Overfull \hbox (6.08607pt too wide) in paragraph at lines 31--34
 \T1/cmss/bx/n/10 Juan Ruíz de Chá-vez So-mo-za\T1/cmss/m/n/10 , \T1/cmtt/m/n/10
  jrch@xanum.uam.mx \T1/cmss/m/it/10 (De-par-ta-men-to de Ma-te-má-ti-cas Uni-ve
 r-si-dad Au-tó-no-ma Metropolitana-
  []
 
-[289] [290] [291] [292]) (./areas/resumenes/SisDin.tex [293] [294]
+[308] [309] [310] [311]) (./areas/resumenes/SisDin.tex [312] [313]
 
 Package amsfonts Warning: Obsolete command \Bbb; \mathbb should be used instead
  on input line 44.
 
-[295] [296] [297]) (./areas/resumenes/Talle.tex [298] [299] [300])
+[314] [315] [316]) (./areas/resumenes/Talle.tex [317] [318] [319])
 (./areas/resumenes/TeoNum.tex
 Overfull \hbox (4.31706pt too wide) in paragraph at lines 5--9
 \T1/cmss/bx/n/10 Pedro Ri-car-do Ló-pez Bau-tis-ta\T1/cmss/m/n/10 , \T1/cmtt/m/
@@ -6026,25 +11235,25 @@ n/10 rlopez@correo.azc.uam.mx \T1/cmss/m/it/10 (Uni-ver-si-dad Au-tó-no-ma Metr
 opolitana-Azcapotzalco (UAM)
  []
 
-[301] [302] [303] [304]
+[320] [321] [322] [323]
 
 LaTeX Font Warning: Command \normalsize invalid in math mode on input line 73.
 
-[305]) (./areas/resumenes/TopAlg.tex [306] [307] [308] [309])
-(./areas/resumenes/TopGen.tex [310] [311] [312] [313]
+[324]) (./areas/resumenes/TopAlg.tex [325] [326] [327] [328])
+(./areas/resumenes/TopGen.tex [329] [330] [331] [332]
 Underfull \hbox (badness 10000) in paragraph at lines 86--89
 
  []
 
-[314] [315]
+[333] [334]
 Overfull \hbox (1.30391pt too wide) in paragraph at lines 129--133
 \T1/cmss/bx/n/10 Luis Al-ber-to Gue-rre-ro Mén-dez\T1/cmss/m/n/10 , \T1/cmtt/m/
 n/10 luisalberto_gm4@hotmail.com \T1/cmss/m/it/10 (Be-ne-mé-ri-ta Uni-ver-si-da
 d Au-tó-no-ma de Pue-bla (BUAP),
  []
 
-[316] [317]) (./areas/resumenes/Carteles.tex [318] [319] [320] [321] [322]
-[323] [324] [325] [326] [327]
+[335] [336]) (./areas/resumenes/Carteles.tex [337] [338] [339] [340] [341]
+[342] [343] [344] [345] [346]
 LaTeX Font Info:    Try loading font information for OMS+cmss on input line 159
 .
 LaTeX Font Info:    No file OMScmss.fd. on input line 159.
@@ -6054,14 +11263,14 @@ LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
 (Font)              for symbol `textbullet' on input line 159.
 
-[328] [329]
+[347] [348]
 Overfull \hbox (1.85933pt too wide) in paragraph at lines 194--198
 \T1/cmss/bx/n/10 María Ele-na Var-gas Mar-tí-nez\T1/cmss/m/n/10 , \T1/cmtt/m/n/
 10 m.elena_vargas.m@hotmail.com \T1/cmss/m/it/10 (Be-ne-mé-ri-ta Uni-ver-si-dad
  Au-tó-no-ma de Pue-bla (BUAP)) 
  []
 
-[330] [331] [332] [333]
+[349] [350] [351] [352]
 Underfull \hbox (badness 10000) in paragraph at lines 276--277
 
  []
@@ -6071,7 +11280,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 277--277
 
  []
 
-[334] [335] [336]
+[353] [354] [355]
 Overfull \hbox (5.65562pt too wide) in paragraph at lines 351--354
 \T1/cmss/bx/n/10 Cutberto Ro-me-ro Me-lén-dez\T1/cmss/m/n/10 , \T1/cmtt/m/n/10 
 cutberto@correo.azc.uam.mx \T1/cmss/m/it/10 (Uni-ver-si-dad Au-tó-no-ma Metropo
@@ -6081,103 +11290,57 @@ litana-Azcapotzalco (UAM-
 
 Underfull \vbox (badness 1292) has occurred while \output is active []
 
- [337]
-[338]
+ [356]
+[357]
 Overfull \hbox (7.41908pt too wide) in paragraph at lines 378--381
 \T1/cmss/bx/n/10 Aurelia Gon-zá-lez Mi-guel\T1/cmss/m/n/10 , \T1/cmtt/m/n/10 au
 reliagonzalezmiguel@hotmail.com \T1/cmss/m/it/10 (Be-ne-mé-ri-ta Uni-ver-si-dad
  Au-tó-no-ma de Pue-bla (BUAP)) 
  []
 
-[339] [340]
+[358] [359]
 Overfull \hbox (8.19112pt too wide) in paragraph at lines 431--435
 \T1/cmss/bx/n/10 Lucero Gua-da-lu-pe Con-tre-ras Her-nán-dez\T1/cmss/m/n/10 , \
 T1/cmtt/m/n/10 lucero1602@gmail.com \T1/cmss/m/it/10 (Be-ne-mé-ri-ta Uni-ver-si
 -dad Au-tó-no-ma de Pue-bla (BUAP).
  []
 
-[341]) (./programaSMM2012.ind [342] [343
+[360]) [361]
+Cap\'{\i }tulo 6.
+File: otros/LogoCasio.eps Graphic file (type eps)
+<otros/LogoCasio.eps> [362
 
-] [344] [345] [346] [347] [348]
-[349] [350] [351] [352] [353] [354] [355] [356] [357] [358] [359] [360
+]
+File: otros/LogoCasio.eps Graphic file (type eps)
+ <otros/LogoCasio.eps> [363]
+File: otros/LogoCasio.eps Graphic file (type eps)
+ <otros/LogoCasio.eps>
+[364]
+File: otros/LogoCasio.eps Graphic file (type eps)
+ <otros/LogoCasio.eps> [365]
+File: otros/LogoCasio.eps Graphic file (type eps)
+ <otros/LogoCasio.eps> [366]
+(./programaSMM2012.ind [367
 
-])
-[361
+] [368] [369] [370] [371] [372] [373] [374] [375]
+[376] [377] [378] [379] [380] [381] [382] [383] [384
+
+]) [385
 
 
-] [362] [363] (./programaSMM2012.aux)
+] [386] [387]
+(./programaSMM2012.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 5104 strings out of 493633
- 63824 string characters out of 3146311
- 145145 words of memory out of 3000000
- 7936 multiletter control sequences out of 15000+200000
- 75754 words of font info for 191 fonts, out of 3000000 for 9000
+ 5618 strings out of 493634
+ 69385 string characters out of 3146334
+ 172215 words of memory out of 3000000
+ 8498 multiletter control sequences out of 15000+200000
+ 58949 words of font info for 140 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 38i,15n,43p,10357b,2426s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/local/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/l
-ocal/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/share/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmb10.pfb></usr/local/share/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmex10.pfb></usr/local/share/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmmi10.pfb></usr/local/share/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr10.pfb></usr/local/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-12.pfb></usr/local/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></u
-sr/local/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/s
-hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/share/texmf
--dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/share/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/share/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmsy7.pfb></usr/local/share/texmf-dist/fonts/type1/public/d
-oublestroke/dsrom10.pfb></usr/local/share/texmf-dist/fonts/type1/public/esint-t
-ype1/esint10.pfb></usr/local/share/texmf-dist/fonts/type1/public/amsfonts/euler
-/euex10.pfb></usr/local/share/texmf-dist/fonts/type1/public/amsfonts/euler/eufb
-10.pfb></usr/local/share/texmf-dist/fonts/type1/public/amsfonts/euler/eufm10.pf
-b></usr/local/share/texmf-dist/fonts/type1/public/amsfonts/euler/eufm5.pfb></us
-r/local/share/texmf-dist/fonts/type1/public/amsfonts/euler/eufm7.pfb></usr/loca
-l/share/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb></usr/local/sha
-re/texmf-dist/fonts/type1/public/amsfonts/euler/eurb5.pfb></usr/local/share/tex
-mf-dist/fonts/type1/public/amsfonts/euler/eurb7.pfb></usr/local/share/texmf-dis
-t/fonts/type1/public/amsfonts/euler/eurm10.pfb></usr/local/share/texmf-dist/fon
-ts/type1/public/amsfonts/euler/eurm5.pfb></usr/local/share/texmf-dist/fonts/typ
-e1/public/amsfonts/euler/eurm7.pfb></usr/local/share/texmf-dist/fonts/type1/pub
-lic/amsfonts/euler/eusm10.pfb></usr/local/share/texmf-dist/fonts/type1/public/a
-msfonts/euler/eusm7.pfb></usr/local/share/texmf-dist/fonts/type1/public/amsfont
-s/latxfont/lasy10.pfb></usr/local/share/texmf-dist/fonts/type1/public/amsfonts/
-symbols/msam10.pfb></usr/local/share/texmf-dist/fonts/type1/public/amsfonts/sym
-bols/msam7.pfb></usr/local/share/texmf-dist/fonts/type1/public/amsfonts/symbols
-/msbm10.pfb></usr/local/share/texmf-dist/fonts/type1/public/amsfonts/symbols/ms
-bm7.pfb></usr/local/share/texmf-dist/fonts/type1/public/rsfs/rsfs10.pfb></usr/l
-ocal/share/texmf-dist/fonts/type1/public/cm-super/sfbl1200.pfb></usr/local/shar
-e/texmf-dist/fonts/type1/public/cm-super/sfbx0800.pfb></usr/local/share/texmf-d
-ist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/share/texmf-dist/fonts
-/type1/public/cm-super/sfbx1200.pfb></usr/local/share/texmf-dist/fonts/type1/pu
-blic/cm-super/sfbx1440.pfb></usr/local/share/texmf-dist/fonts/type1/public/cm-s
-uper/sfbx2074.pfb></usr/local/share/texmf-dist/fonts/type1/public/cm-super/sfcc
-1000.pfb></usr/local/share/texmf-dist/fonts/type1/public/cm-super/sfrm0500.pfb>
-</usr/local/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/loc
-al/share/texmf-dist/fonts/type1/public/cm-super/sfsi1000.pfb></usr/local/share/
-texmf-dist/fonts/type1/public/cm-super/sfsl1000.pfb></usr/local/share/texmf-dis
-t/fonts/type1/public/cm-super/sfso1000.pfb></usr/local/share/texmf-dist/fonts/t
-ype1/public/cm-super/sfso1200.pfb></usr/local/share/texmf-dist/fonts/type1/publ
-ic/cm-super/sfss0800.pfb></usr/local/share/texmf-dist/fonts/type1/public/cm-sup
-er/sfss1000.pfb></usr/local/share/texmf-dist/fonts/type1/public/cm-super/sfss12
-00.pfb></usr/local/share/texmf-dist/fonts/type1/public/cm-super/sfss1728.pfb></
-usr/local/share/texmf-dist/fonts/type1/public/cm-super/sfss2488.pfb></usr/local
-/share/texmf-dist/fonts/type1/public/cm-super/sfsx0800.pfb></usr/local/share/te
-xmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb></usr/local/share/texmf-dist/
-fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/share/texmf-dist/fonts/typ
-e1/public/cm-super/sfsx1440.pfb></usr/local/share/texmf-dist/fonts/type1/public
-/cm-super/sfsx2488.pfb></usr/local/share/texmf-dist/fonts/type1/public/cm-super
-/sfti1000.pfb></usr/local/share/texmf-dist/fonts/type1/public/cm-super/sfti1200
-.pfb></usr/local/share/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></us
-r/local/share/texmf-dist/fonts/type1/urw/avantgar/uagd8a.pfb></usr/local/share/
-texmf-dist/fonts/type1/urw/avantgar/uagdo8a.pfb>
-Output written on programaSMM2012.pdf (367 pages, 2231068 bytes).
-PDF statistics:
- 1432 PDF objects out of 1440 (max. 8388607)
- 993 compressed objects within 10 object streams
- 0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36i,15n,43p,10357b,2448s stack positions out of 5000i,500n,10000p,200000b,50000s
 
+Output written on programaSMM2012.dvi (391 pages, 2598828 bytes).
