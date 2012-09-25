@@ -108,6 +108,13 @@ $ \;\;\;\;$\\
 
 \pagestyle{empty}
 
+\newpage
+\;\ 
+\newpage
+
+\includegraphics[width=17cm]{otros/ANUNCIO-UAQ.eps}
+
+
 \renewcommand{\chaptermark}[1]{}
 \renewcommand{\sectionmark}[1]{\markright{\thesection\ #1}}
 \renewcommand{\headrulewidth}{0.5pt}
@@ -122,10 +129,17 @@ $ \;\;\;\;$\\
 %%%%%%%%%%%%
 %%%% Es esta parte va la informacion de la portada, segunda de forros y fotos.
 %%%%%%%%%%%%
-\newpage $\;\;$
+\newpage 
+\;\ 
+\vfill
+\noindent
+{\it Segunda de forros}: Arcos de Quer\'etaro\\
+{\it Tercera de forros}: Mapa de la Facultad de Ingenier\'ia, Campus Cerro de las Campanas\\
+{\it Contra portada}: Mapa de la Universidad Aut\'onoma de Quer\'etaro, Campus Cerro de las Campanas
+
 
 %% Primeras paginas del programa, incluidas por el impresor...
-\setcounter{page}{2}
+\setcounter{page}{4}
 
 \pagestyle{fancy}
 
@@ -155,6 +169,7 @@ $ \;\;\;\;$\\
 %%%%%%%%%%%%                 SEMBLANZAS             %%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\addcontentsline{toc}{section}{Semblanzas}
 {\sffamily
 \input{otros/ana_guzman}
 \newpage
@@ -168,7 +183,8 @@ $ \;\;\;\;$\\
 \newpage
 }
 
-\chapter*{Homenajes}
+%\chapter*{Homenajes}
+\addcontentsline{toc}{section}{Homenajes}
 \input{homenajes/jorge_ize}
 \input{homenajes/ernesto_lacomba}
 \newpage
@@ -187,9 +203,9 @@ $ \;\;\;\;$\\
 
 \input{areas/horarios/Plenarias}
 \addcontentsline{toc}{section}{Plenarias}
-\newpage
-\;\;\ 
-\newpage
+%\newpage
+%\;\;\ 
+%\newpage
 \section*{The 16th workshop on Elliptic Curve Cryptography}
 \addcontentsline{toc}{section}{The 16th workshop on Elliptic Curve Cryptography}
 \input{otros/workshop.tex}
@@ -332,6 +348,16 @@ $ \;\;\;\;$\\
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%                 INDICE DE PONENTES        %%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\addcontentsline{toc}{chapter}{\'Indicce de autores}
+\printindex
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%          HOJAS BLANCAS        %%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -344,16 +370,6 @@ $ \;\;\;\;$\\
 \  \newpage
 \  \newpage
 \ClearShipoutPicture
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%                 INDICE DE PONENTES        %%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
-\addcontentsline{toc}{chapter}{\'Indicce de autores}
-\printindex
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

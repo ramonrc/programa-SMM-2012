@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011-OpenBSD_Ports) (format=pdflatex 2011.9.1)  24 SEP 2012 19:13
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011-OpenBSD_Ports) (format=pdflatex 2011.9.1)  25 SEP 2012 01:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -473,15 +473,33 @@ ine 105.
 
 {/usr/local/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./smm_relleno_
 claro-eps-converted-to.pdf>]
-LaTeX Font Info:    Try loading font information for T1+pag on input line 133.
+[2]
+Package epstopdf Info: Source file: <otros/ANUNCIO-UAQ.eps>
+(epstopdf)                    date: 2012-09-24 22:01:35
+(epstopdf)                    size: 2402690 bytes
+(epstopdf)             Output file: <otros/ANUNCIO-UAQ-eps-converted-to.pdf>
+(epstopdf)                    date: 2012-09-24 23:56:53
+(epstopdf)                    size: 169194 bytes
+(epstopdf)             Command: <repstopdf --outfile=otros/ANUNCIO-UAQ-eps-conv
+erted-to.pdf otros/ANUNCIO-UAQ.eps>
+(epstopdf)             \includegraphics on input line 115.
+Package epstopdf Info: Output file is already uptodate.
+ <otros/ANUNCIO-UAQ-eps-converted-to.pdf, id=15, 615.29875pt x 795.97375pt>
+File: otros/ANUNCIO-UAQ-eps-converted-to.pdf Graphic file (type pdf)
 
-(/usr/local/share/texmf-dist/tex/latex/psnfss/t1pag.fd
+<use otros/ANUNCIO-UAQ-eps-converted-to.pdf>
+Package pdftex.def Info: otros/ANUNCIO-UAQ-eps-converted-to.pdf used on input l
+ine 115.
+(pdftex.def)             Requested size: 483.69684pt x 625.73956pt.
+ [3 <./otros/ANUNCIO-UAQ-eps-converted-to.pdf>]
+LaTeX Font Info:    Try loading font information for T1+pag on input line 147.
+ (/usr/local/share/texmf-dist/tex/latex/psnfss/t1pag.fd
 File: t1pag.fd 2001/06/04 font definitions for T1/pag.
 )
 LaTeX Font Info:    Font shape `T1/pag/bx/sl' in size <10> not available
-(Font)              Font shape `T1/pag/b/sl' tried instead on input line 133.
+(Font)              Font shape `T1/pag/b/sl' tried instead on input line 147.
 LaTeX Font Info:    Font shape `T1/pag/b/sl' in size <10> not available
-(Font)              Font shape `T1/pag/db/sl' tried instead on input line 133.
+(Font)              Font shape `T1/pag/db/sl' tried instead on input line 147.
 
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -490,23 +508,23 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 LaTeX Font Info:    Font shape `T1/pag/bx/sc' in size <10> not available
-(Font)              Font shape `T1/pag/b/sc' tried instead on input line 133.
+(Font)              Font shape `T1/pag/b/sc' tried instead on input line 147.
 LaTeX Font Info:    Font shape `T1/pag/b/sc' in size <10> not available
-(Font)              Font shape `T1/pag/db/sc' tried instead on input line 133.
-[2] (./programaSMM2012.toc
+(Font)              Font shape `T1/pag/db/sc' tried instead on input line 147.
+[4] (./programaSMM2012.toc
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.94pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[3
+[5
 
 ])
 \tf@toc=\write4
 \openout4 = `programaSMM2012.toc'.
 
- [4]
+ [6]
 Cap\'{\i }tulo 1.
 (./otros/presentacion.tex
 Underfull \hbox (badness 10000) in paragraph at lines 4--7
@@ -539,70 +557,68 @@ Underfull \hbox (badness 10000) in paragraph at lines 58--63
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--81
+Underfull \vbox (badness 2359) has occurred while \output is active []
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 82--90
-
- []
-
-[1
+ [1
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 91--103
+Underfull \hbox (badness 10000) in paragraph at lines 84--92
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--114
+Underfull \hbox (badness 10000) in paragraph at lines 93--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--127
+Underfull \hbox (badness 10000) in paragraph at lines 106--116
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--134
+Underfull \hbox (badness 10000) in paragraph at lines 117--129
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--149
+Underfull \hbox (badness 10000) in paragraph at lines 130--136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--162
+Underfull \hbox (badness 10000) in paragraph at lines 137--151
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--171
+Underfull \hbox (badness 10000) in paragraph at lines 152--164
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 172--183
+Underfull \hbox (badness 10000) in paragraph at lines 165--173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--185
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 184--193
+Underfull \hbox (badness 10000) in paragraph at lines 186--195
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--207
+Underfull \hbox (badness 10000) in paragraph at lines 196--209
 
  []
 
 ) [3] (./otros/comites.tex
-Overfull \hbox (13.68341pt too wide) in paragraph at lines 6--52
+Overfull \hbox (0.50607pt too wide) in paragraph at lines 6--52
 [][]
  []
 
@@ -626,20 +642,20 @@ rted-to.pdf>
 (epstopdf)                    size: 185394 bytes
 (epstopdf)             Command: <repstopdf --outfile=otros/Cartel_Festival_Quer
 etaroo-eps-converted-to.pdf otros/Cartel_Festival_Queretaroo.eps>
-(epstopdf)             \includegraphics on input line 150.
+(epstopdf)             \includegraphics on input line 164.
 Package epstopdf Info: Output file is already uptodate.
 
-<otros/Cartel_Festival_Queretaroo-eps-converted-to.pdf, id=60, 615.29875pt x 79
+<otros/Cartel_Festival_Queretaroo-eps-converted-to.pdf, id=71, 615.29875pt x 79
 5.97375pt>
 File: otros/Cartel_Festival_Queretaroo-eps-converted-to.pdf Graphic file (type 
 pdf)
  <use otros/Cartel_Festival_Queretaroo-eps-converted-to.pdf>
 Package pdftex.def Info: otros/Cartel_Festival_Queretaroo-eps-converted-to.pdf 
-used on input line 150.
+used on input line 164.
 (pdftex.def)             Requested size: 512.1496pt x 662.57706pt.
 
 (./otros/actividades.tex
-Overfull \hbox (14.22636pt too wide) in paragraph at lines 150--1
+Overfull \hbox (14.22636pt too wide) in paragraph at lines 164--1
 [][] 
  []
 
@@ -648,12 +664,67 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [10 <./otros/Cartel_Festival_Queretaroo-eps-converted-to.pdf>] [11]
 (./otros/ana_guzman.tex
-Underfull \hbox (badness 10000) in paragraph at lines 8--12
+Underfull \hbox (badness 10000) in paragraph at lines 10--14
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--23
+Underfull \hbox (badness 10000) in paragraph at lines 15--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--30
+
+ []
+
+) [12] (./otros/jose_angel_canavati.tex
+Underfull \hbox (badness 10000) in paragraph at lines 9--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--54
+
+ []
+
+) [13] (./otros/jorge_ize.tex
+Underfull \hbox (badness 10000) in paragraph at lines 9--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--23
 
  []
 
@@ -662,153 +733,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--28
 
  []
 
-) [12] (./otros/jose_angel_canavati.tex
-Underfull \hbox (badness 10000) in paragraph at lines 8--15
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--23
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--29
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 30--35
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--48
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--53
-
- []
-
-) [13] (./otros/jorge_ize.tex
-Underfull \hbox (badness 10000) in paragraph at lines 8--10
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--13
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 14--17
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--22
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--27
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--30
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 31--35
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--39
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--49
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 50--56
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 57--62
-
- []
-
-) [14] (./otros/ernesto_lacomba.tex
-Underfull \hbox (badness 10000) in paragraph at lines 8--23
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--35
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--39
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--46
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 47--52
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--69
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 70--86
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--96
-
- []
-
-[15]
-Underfull \hbox (badness 10000) in paragraph at lines 97--109
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 110--134
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 135--158
-
- []
-
-) [16] (./otros/francisco_raggi.tex
-Underfull \hbox (badness 10000) in paragraph at lines 8--21
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--31
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
 
  []
 
@@ -818,27 +744,117 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--36
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--44
+Underfull \hbox (badness 10000) in paragraph at lines 37--40
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 45--50
+Underfull \hbox (badness 10000) in paragraph at lines 41--50
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--60
+Underfull \hbox (badness 10000) in paragraph at lines 51--57
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--68
+Underfull \hbox (badness 10000) in paragraph at lines 58--63
+
+ []
+
+) [14] (./otros/ernesto_lacomba.tex
+Underfull \hbox (badness 10000) in paragraph at lines 9--24
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--72
+Underfull \hbox (badness 10000) in paragraph at lines 25--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--97
+
+ []
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 98--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--135
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--159
+
+ []
+
+) [16] (./otros/francisco_raggi.tex
+Underfull \hbox (badness 10000) in paragraph at lines 9--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--51
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--69
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--73
 
  []
 
@@ -848,38 +864,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--12
  []
 
 ) (./homenajes/ernesto_lacomba.tex
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--11
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--17
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
 
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 18--174
+Underfull \hbox (badness 10000) in paragraph at lines 19--190
 
  []
 
-[18
-
-] (./homenajes/francisco_raggi.tex) [19] (./otros/abrev.tex
+[18] (./homenajes/francisco_raggi.tex) [19] (./otros/abrev.tex
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
@@ -887,53 +901,53 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
 ) [20]
 Cap\'{\i }tulo 2.
 (./areas/horarios/Plenarias.tex
-Underfull \hbox (badness 10000) in paragraph at lines 183--185
+Underfull \hbox (badness 10000) in paragraph at lines 169--171
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 187--189
+Underfull \hbox (badness 10000) in paragraph at lines 173--175
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--193
+Underfull \hbox (badness 10000) in paragraph at lines 177--179
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 195--197
+Underfull \hbox (badness 10000) in paragraph at lines 181--183
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 199--201
+Underfull \hbox (badness 10000) in paragraph at lines 185--187
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 203--205
+Underfull \hbox (badness 10000) in paragraph at lines 189--191
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--209
+Underfull \hbox (badness 10000) in paragraph at lines 193--195
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--199
 
  []
 
 [21
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 211--213
+Underfull \hbox (badness 10000) in paragraph at lines 201--203
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 215--217
-
- []
-
-) [22] [23] (./otros/workshop.tex
+) (./otros/workshop.tex
 Underfull \hbox (badness 10000) in paragraph at lines 6--15
 
  []
@@ -943,7 +957,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--19
 
  []
 
-[24])
+[22])
 Package epstopdf Info: Source file: <otros/cartel_AMITE.eps>
 (epstopdf)                    date: 2012-09-23 00:01:24
 (epstopdf)                    size: 2389584 bytes
@@ -952,21 +966,21 @@ Package epstopdf Info: Source file: <otros/cartel_AMITE.eps>
 (epstopdf)                    size: 194580 bytes
 (epstopdf)             Command: <repstopdf --outfile=otros/cartel_AMITE-eps-con
 verted-to.pdf otros/cartel_AMITE.eps>
-(epstopdf)             \includegraphics on input line 204.
+(epstopdf)             \includegraphics on input line 220.
 Package epstopdf Info: Output file is already uptodate.
 
-<otros/cartel_AMITE-eps-converted-to.pdf, id=123, 680.5425pt x 861.2175pt>
+<otros/cartel_AMITE-eps-converted-to.pdf, id=127, 680.5425pt x 861.2175pt>
 File: otros/cartel_AMITE-eps-converted-to.pdf Graphic file (type pdf)
 
 <use otros/cartel_AMITE-eps-converted-to.pdf>
 Package pdftex.def Info: otros/cartel_AMITE-eps-converted-to.pdf used on input 
-line 204.
+line 220.
 (pdftex.def)             Requested size: 483.69684pt x 612.11263pt.
  (./sesiones/horarios/InnMat.tex
-[25]
+[23]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [26 <./otros/cartel_AMITE-eps-converted-to.pdf>]
+ [24 <./otros/cartel_AMITE-eps-converted-to.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 184--186
 
  []
@@ -1011,7 +1025,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 218--220
 
  []
 
-) [27] [28
+) [25] [26
 
 ] (./sesiones/horarios/DinHam.tex
 Underfull \hbox (badness 10000) in paragraph at lines 183--185
@@ -1053,7 +1067,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 211--213
 
  []
 
-[29
+[27
 
 ]) (./sesiones/horarios/SMMBach.tex
 Underfull \hbox (badness 10000) in paragraph at lines 183--185
@@ -1105,7 +1119,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 225--227
 
  []
 
-[30]) (./sesiones/horarios/MatLic.tex
+[28]) (./sesiones/horarios/MatLic.tex
 Underfull \hbox (badness 10000) in paragraph at lines 208--210
 
  []
@@ -1160,7 +1174,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 257--259
 
  []
 
-[31]
+[29]
 Underfull \hbox (badness 10000) in paragraph at lines 262--264
 
  []
@@ -1215,7 +1229,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 220--223
 
  []
 
-[32]) (./sesiones/horarios/Misce.tex
+[30]) (./sesiones/horarios/Misce.tex
 Underfull \hbox (badness 10000) in paragraph at lines 184--186
 
  []
@@ -1260,7 +1274,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 224--226
 
  []
 
-[33]) (./sesiones/horarios/ProInv.tex
+[31]) (./sesiones/horarios/ProInv.tex
 Underfull \hbox (badness 10000) in paragraph at lines 184--186
 
  []
@@ -1318,7 +1332,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 235--237
 ) (./sesiones/horarios/SoftLib.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [34]
+ [32]
 Underfull \hbox (badness 10000) in paragraph at lines 185--187
 
  []
@@ -1348,7 +1362,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 211--213
 
  []
 
-[35]) (./sesiones/horarios/DifPos.tex
+[33]) (./sesiones/horarios/DifPos.tex
 Underfull \hbox (badness 10000) in paragraph at lines 201--203
 
  []
@@ -1378,7 +1392,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 227--229
 
  []
 
-[36]) (./sesiones/horarios/PreLib.tex
+[34]) (./sesiones/horarios/PreLib.tex
 Underfull \hbox (badness 10000) in paragraph at lines 210--212
 
  []
@@ -1438,7 +1452,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 268--270
 
  []
 
-[37]
+[35]
 Underfull \hbox (badness 10000) in paragraph at lines 273--275
 
  []
@@ -1483,7 +1497,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 316--318
 
  []
 
-) (./sesiones/horarios/JovenAJoven.tex [38]
+) (./sesiones/horarios/JovenAJoven.tex [36]
 Underfull \hbox (badness 10000) in paragraph at lines 222--226
 
  []
@@ -1593,7 +1607,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 359--362
 
  []
 
-[39]
+[37]
 Underfull \hbox (badness 10000) in paragraph at lines 365--368
 
  []
@@ -1633,7 +1647,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 566--569
 
  []
 
-[40]
+[38]
 Underfull \hbox (badness 10000) in paragraph at lines 572--575
 
  []
@@ -1678,7 +1692,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 621--624
 
  []
 
-) [41] (./areas/horarios/Alge.tex
+) [39] (./areas/horarios/Alge.tex
 Underfull \hbox (badness 10000) in paragraph at lines 165--167
 
  []
@@ -1737,7 +1751,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 205--207
 
  []
 
-[42
+[40
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 209--211
@@ -1797,7 +1811,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 249--251
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [43]
+ [41]
 Underfull \hbox (badness 10000) in paragraph at lines 419--421
 
  []
@@ -1867,7 +1881,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 471--473
 
  []
 
-[44]
+[42]
 Underfull \hbox (badness 10000) in paragraph at lines 475--477
 
  []
@@ -1927,7 +1941,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 196--198
 
  []
 
-[45]
+[43]
 Underfull \hbox (badness 10000) in paragraph at lines 200--202
 
  []
@@ -2065,7 +2079,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 308--310
 ) (./areas/horarios/AnaNum.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [46]
+ [44]
 Underfull \hbox (badness 10000) in paragraph at lines 172--174
 
  []
@@ -2120,7 +2134,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 216--218
 
  []
 
-[47]
+[45]
 Underfull \hbox (badness 10000) in paragraph at lines 220--222
 
  []
@@ -2250,7 +2264,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 317--319
 
  []
 
-[48]
+[46]
 Underfull \hbox (badness 10000) in paragraph at lines 321--323
 
  []
@@ -2295,7 +2309,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 181--183
 
  []
 
-[49]
+[47]
 Underfull \hbox (badness 10000) in paragraph at lines 185--187
 
  []
@@ -2398,7 +2412,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 261--263
 ) (./areas/horarios/CieComp.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [50]
+ [48]
 Underfull \hbox (badness 10000) in paragraph at lines 179--181
 
  []
@@ -2453,7 +2467,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 215--217
 
  []
 
-[51]
+[49]
 Underfull \hbox (badness 10000) in paragraph at lines 219--221
 
  []
@@ -2489,7 +2503,7 @@ Underfull \hbox (badness 5260) in paragraph at lines 154--156
 blemas-
  []
 
-[52]
+[50]
 Underfull \hbox (badness 10000) in paragraph at lines 313--315
 
  []
@@ -2499,12 +2513,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 317--319
 
  []
 
-[53]
+[51]
 Underfull \hbox (badness 10000) in paragraph at lines 474--476
 
  []
 
-[54]
+[52]
 Underfull \hbox (badness 10000) in paragraph at lines 630--632
 
  []
@@ -2514,7 +2528,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 634--636
 
  []
 
-[55]
+[53]
 Underfull \hbox (badness 10000) in paragraph at lines 792--794
 
  []
@@ -2524,7 +2538,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 796--798
 
  []
 
-[56]
+[54]
 Underfull \hbox (badness 10000) in paragraph at lines 953--955
 
  []
@@ -2534,7 +2548,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 957--959
 
  []
 
-) (./areas/horarios/EcDifAp.tex [57]
+) (./areas/horarios/EcDifAp.tex [55]
 Underfull \hbox (badness 10000) in paragraph at lines 181--183
 
  []
@@ -2589,7 +2603,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 217--219
 
  []
 
-[58]
+[56]
 Underfull \hbox (badness 10000) in paragraph at lines 221--223
 
  []
@@ -2724,7 +2738,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 322--324
 
  []
 
-[59]
+[57]
 Underfull \hbox (badness 10000) in paragraph at lines 326--328
 
  []
@@ -2769,7 +2783,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 537--539
 
  []
 
-[60]
+[58]
 Underfull \hbox (badness 10000) in paragraph at lines 541--543
 
  []
@@ -2814,7 +2828,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 202--204
 
  []
 
-[61]
+[59]
 Underfull \hbox (badness 10000) in paragraph at lines 206--208
 
  []
@@ -2934,7 +2948,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 298--300
 
  []
 
-[62]) (./areas/horarios/Expe.tex
+[60]) (./areas/horarios/Expe.tex
 Underfull \hbox (badness 10000) in paragraph at lines 151--153
 
  []
@@ -2979,7 +2993,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 183--185
 
  []
 
-[63]
+[61]
 Underfull \hbox (badness 10000) in paragraph at lines 338--340
 
  []
@@ -3024,7 +3038,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 370--372
 
  []
 
-[64]
+[62]
 Underfull \hbox (badness 10000) in paragraph at lines 524--526
 
  []
@@ -3064,7 +3078,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 552--554
 
  []
 
-) (./areas/horarios/FMat.tex [65]
+) (./areas/horarios/FMat.tex [63]
 Underfull \hbox (badness 10000) in paragraph at lines 179--181
 
  []
@@ -3114,7 +3128,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 215--217
 
  []
 
-[66]
+[64]
 Underfull \hbox (badness 10000) in paragraph at lines 219--221
 
  []
@@ -3159,7 +3173,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 251--253
 
  []
 
-) (./areas/horarios/GeoAlg.tex [67]
+) (./areas/horarios/GeoAlg.tex [65]
 Underfull \hbox (badness 10000) in paragraph at lines 165--167
 
  []
@@ -3242,7 +3256,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 225--227
 ) (./areas/horarios/HisFil.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [68]
+ [66]
 Underfull \hbox (badness 10000) in paragraph at lines 165--167
 
  []
@@ -3307,7 +3321,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 213--215
 
  []
 
-[69]
+[67]
 Underfull \hbox (badness 10000) in paragraph at lines 217--219
 
  []
@@ -3362,7 +3376,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 185--187
 
  []
 
-[70]
+[68]
 Underfull \hbox (badness 10000) in paragraph at lines 189--191
 
  []
@@ -3455,7 +3469,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 257--259
 ) (./areas/horarios/MatDisc.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [71]
+ [69]
 Underfull \hbox (badness 10000) in paragraph at lines 179--181
 
  []
@@ -3510,7 +3524,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 219--221
 
  []
 
-[72]
+[70]
 Underfull \hbox (badness 10000) in paragraph at lines 223--225
 
  []
@@ -3650,7 +3664,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 331--333
 
  []
 
-[73]) (./areas/horarios/MatEdu.tex
+[71]) (./areas/horarios/MatEdu.tex
 Underfull \hbox (badness 10000) in paragraph at lines 193--195
 
  []
@@ -3690,7 +3704,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 221--223
 
  []
 
-[74]
+[72]
 Underfull \hbox (badness 10000) in paragraph at lines 225--227
 
  []
@@ -3825,7 +3839,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 329--331
 
  []
 
-[75]
+[73]
 Underfull \hbox (badness 10000) in paragraph at lines 333--335
 
  []
@@ -3903,7 +3917,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 389--391
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [76]
+ [74]
 Underfull \hbox (badness 10000) in paragraph at lines 588--590
 
  []
@@ -3948,7 +3962,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 620--622
 
  []
 
-[77]
+[75]
 Underfull \hbox (badness 10000) in paragraph at lines 624--626
 
  []
@@ -4083,7 +4097,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 728--730
 
  []
 
-[78]
+[76]
 Underfull \hbox (badness 10000) in paragraph at lines 732--734
 
  []
@@ -4136,7 +4150,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 768--770
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [79]
+ [77]
 Underfull \hbox (badness 10000) in paragraph at lines 964--966
 
  []
@@ -4176,7 +4190,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 992--994
 
  []
 
-[80]
+[78]
 Underfull \hbox (badness 10000) in paragraph at lines 996--998
 
  []
@@ -4284,7 +4298,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1076--1078
 ) (./areas/horarios/MatIng.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [81]
+ [79]
 Underfull \hbox (badness 10000) in paragraph at lines 169--171
 
  []
@@ -4344,7 +4358,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 213--215
 
  []
 
-[82]
+[80]
 Underfull \hbox (badness 10000) in paragraph at lines 217--219
 
  []
@@ -4427,7 +4441,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 277--279
 ) (./areas/horarios/MatFin.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [83]
+ [81]
 Underfull \hbox (badness 10000) in paragraph at lines 152--154
 
  []
@@ -4492,7 +4506,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 200--202
 
  []
 
-[84]
+[82]
 Underfull \hbox (badness 10000) in paragraph at lines 204--206
 
  []
@@ -4585,7 +4599,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 272--274
 ) (./areas/horarios/Prob.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [85]
+ [83]
 Underfull \hbox (badness 10000) in paragraph at lines 165--167
 
  []
@@ -4640,7 +4654,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 208--210
 
  []
 
-[86]
+[84]
 Underfull \hbox (badness 10000) in paragraph at lines 212--214
 
  []
@@ -4693,7 +4707,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 248--250
 ) (./areas/horarios/SisDin.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [87]
+ [85]
 Underfull \hbox (badness 10000) in paragraph at lines 165--167
 
  []
@@ -4763,7 +4777,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 217--219
 
  []
 
-[88]
+[86]
 Underfull \hbox (badness 10000) in paragraph at lines 221--223
 
  []
@@ -4831,7 +4845,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 273--275
 ) (./areas/horarios/Talle.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [89]
+ [87]
 Underfull \hbox (badness 10000) in paragraph at lines 151--153
 
  []
@@ -4841,7 +4855,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 155--157
 
  []
 
-[90]
+[88]
 Underfull \hbox (badness 10000) in paragraph at lines 312--314
 
  []
@@ -4851,7 +4865,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 316--318
 
  []
 
-[91]
+[89]
 Underfull \hbox (badness 10000) in paragraph at lines 473--475
 
  []
@@ -4861,7 +4875,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 477--479
 
  []
 
-[92]
+[90]
 Underfull \hbox (badness 10000) in paragraph at lines 633--635
 
  []
@@ -4871,7 +4885,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 637--639
 
  []
 
-[93]
+[91]
 Underfull \hbox (badness 10000) in paragraph at lines 792--794
 
  []
@@ -4881,7 +4895,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 796--798
 
  []
 
-[94]
+[92]
 Underfull \hbox (badness 10000) in paragraph at lines 952--954
 
  []
@@ -4891,7 +4905,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 956--958
 
  []
 
-) (./areas/horarios/TeoNum.tex [95]
+) (./areas/horarios/TeoNum.tex [93]
 Underfull \hbox (badness 10000) in paragraph at lines 164--166
 
  []
@@ -4961,7 +4975,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 216--218
 
  []
 
-[96]
+[94]
 Underfull \hbox (badness 10000) in paragraph at lines 220--222
 
  []
@@ -5021,7 +5035,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 193--195
 
  []
 
-[97]
+[95]
 Underfull \hbox (badness 10000) in paragraph at lines 197--199
 
  []
@@ -5089,7 +5103,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 245--247
 ) (./areas/horarios/TopGen.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [98]
+ [96]
 Underfull \hbox (badness 10000) in paragraph at lines 165--167
 
  []
@@ -5154,7 +5168,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 213--215
 
  []
 
-[99]
+[97]
 Underfull \hbox (badness 10000) in paragraph at lines 217--219
 
  []
@@ -5227,7 +5241,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 269--271
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [100]
+ [98]
 Underfull \hbox (badness 10000) in paragraph at lines 461--463
 
  []
@@ -5287,7 +5301,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 505--507
 
  []
 
-[101]
+[99]
 Underfull \hbox (badness 10000) in paragraph at lines 509--511
 
  []
@@ -5342,7 +5356,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 161--163
 
  []
 
-[102]
+[100]
 Underfull \hbox (badness 10000) in paragraph at lines 165--167
 
  []
@@ -5487,7 +5501,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 277--279
 
  []
 
-[103]
+[101]
 Underfull \hbox (badness 10000) in paragraph at lines 281--283
 
  []
@@ -5627,7 +5641,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 389--391
 
  []
 
-[104]
+[102]
 Underfull \hbox (badness 10000) in paragraph at lines 393--395
 
  []
@@ -5772,7 +5786,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 505--507
 
  []
 
-[105])
+[103])
 Cap\'{\i }tulo 3.
 (./otros/tabla_panoramicas.tex
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 20--20
@@ -6054,7 +6068,7 @@ Overfull \hbox (2.77344pt too wide) in paragraph at lines 42--42
 []\T1/cmss/m/n/10 21.5[]| 
  []
 
-[106
+[104
 
 ]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 43--43
@@ -6311,7 +6325,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--79
 []\T1/cmss/m/n/10 Problemas
  []
 
-[107]
+[105]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 80--80
 []\T1/cmss/bx/n/10 Nivel| 
  []
@@ -6651,7 +6665,7 @@ Overfull \hbox (7.77222pt too wide) in paragraph at lines 105--105
 []\T1/cmss/m/n/10 28.13[]| 
  []
 
-[108]
+[106]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 106--106
 []\T1/cmss/bx/n/10 Nivel| 
  []
@@ -6966,7 +6980,7 @@ Overfull \hbox (7.77222pt too wide) in paragraph at lines 140--140
 []\T1/cmss/m/n/10 18.25[]| 
  []
 
-[109]
+[107]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 141--141
 []\T1/cmss/bx/n/10 Nivel| 
  []
@@ -7201,7 +7215,7 @@ Overfull \hbox (7.77222pt too wide) in paragraph at lines 177--177
 []\T1/cmss/m/n/10 12.19[]| 
  []
 
-[110]
+[108]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 178--178
 []\T1/cmss/bx/n/10 Nivel| 
  []
@@ -7546,7 +7560,7 @@ Overfull \hbox (7.77222pt too wide) in paragraph at lines 217--217
 []\T1/cmss/m/n/10 18.38[]| 
  []
 
-[111]
+[109]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 218--218
 []\T1/cmss/bx/n/10 Nivel| 
  []
@@ -7591,7 +7605,7 @@ Overfull \hbox (7.77222pt too wide) in paragraph at lines 221--221
 []\T1/cmss/m/n/10 27.28[]| 
  []
 
-) [112]
+) [110]
 Cap\'{\i }tulo 4.
 (./otros/tabla_divulgacion.tex
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 19--19
@@ -7838,7 +7852,7 @@ Overfull \hbox (2.77344pt too wide) in paragraph at lines 43--43
 []\T1/cmss/m/n/10 24.2[]| 
  []
 
-[113
+[111
 
 ]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 44--44
@@ -8140,7 +8154,7 @@ Overfull \hbox (2.77344pt too wide) in paragraph at lines 73--73
 []\T1/cmss/m/n/10 24.3[]| 
  []
 
-[114]
+[112]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 74--74
 []\T1/cmss/bx/n/10 Nivel| 
  []
@@ -8320,7 +8334,7 @@ Underfull \hbox (badness 1728) in paragraph at lines 110--110
 \T1/cmss/m/n/10 ti-cas en las
  []
 
-[115]
+[113]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 111--111
 []\T1/cmss/bx/n/10 Nivel| 
  []
@@ -8635,7 +8649,7 @@ Underfull \hbox (badness 1342) in paragraph at lines 140--140
 []\T1/cmss/m/n/10 Construcción de una cur-va de
  []
 
-[116]
+[114]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 141--141
 []\T1/cmss/bx/n/10 Nivel| 
  []
@@ -8930,7 +8944,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 170--170
 \T1/cmss/m/n/10 -
  []
 
-[117]
+[115]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 171--171
 []\T1/cmss/bx/n/10 Nivel| 
  []
@@ -9220,7 +9234,7 @@ Overfull \hbox (7.77222pt too wide) in paragraph at lines 207--207
 []\T1/cmss/m/n/10 25.14[]| 
  []
 
-[118]
+[116]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 208--208
 []\T1/cmss/bx/n/10 Nivel| 
  []
@@ -9420,7 +9434,7 @@ Overfull \hbox (2.77344pt too wide) in paragraph at lines 243--243
 []\T1/cmss/m/n/10 23.3[]| 
  []
 
-[119]
+[117]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 244--244
 []\T1/cmss/bx/n/10 Nivel| 
  []
@@ -9745,7 +9759,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 273--273
 []\T1/cmss/m/n/10 Miscelánea
  []
 
-[120]
+[118]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 274--274
 []\T1/cmss/bx/n/10 Nivel| 
  []
@@ -9995,7 +10009,7 @@ Overfull \hbox (2.77344pt too wide) in paragraph at lines 312--312
 []\T1/cmss/m/n/10 7.10[]| 
  []
 
-[121]
+[119]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 313--313
 []\T1/cmss/bx/n/10 Nivel| 
  []
@@ -10305,7 +10319,7 @@ Overfull \hbox (7.77222pt too wide) in paragraph at lines 340--340
 []\T1/cmss/m/n/10 30.18[]| 
  []
 
-[122]
+[120]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 341--341
 []\T1/cmss/bx/n/10 Nivel| 
  []
@@ -10610,7 +10624,7 @@ Overfull \hbox (7.77222pt too wide) in paragraph at lines 379--379
 []\T1/cmss/m/n/10 14.33[]| 
  []
 
-[123]
+[121]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 380--380
 []\T1/cmss/bx/n/10 Nivel| 
  []
@@ -10880,7 +10894,7 @@ Underfull \hbox (badness 1742) in paragraph at lines 411--411
 []\T1/cmss/m/n/10 Gloria Cons-tan-za Hol-guín
  []
 
-[124]
+[122]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 412--412
 []\T1/cmss/bx/n/10 Nivel| 
  []
@@ -11125,19 +11139,19 @@ Overfull \hbox (7.77222pt too wide) in paragraph at lines 431--431
 []\T1/cmss/m/n/10 32.18[]| 
  []
 
-) (./otros/anuncios.tex [125]
+) (./otros/anuncios.tex [123]
 Package epstopdf Info: Source file: <otros/anuncio_UAEH.eps>
-(epstopdf)                    date: 2012-09-23 02:30:10
+(epstopdf)                    date: 2012-09-25 01:33:53
 (epstopdf)                    size: 15172 bytes
 (epstopdf)             Output file: <otros/anuncio_UAEH-eps-converted-to.pdf>
-(epstopdf)                    date: 2012-09-24 00:59:51
+(epstopdf)                    date: 2012-09-25 01:34:53
 (epstopdf)                    size: 19498 bytes
 (epstopdf)             Command: <repstopdf --outfile=otros/anuncio_UAEH-eps-con
 verted-to.pdf otros/anuncio_UAEH.eps>
 (epstopdf)             \includegraphics on input line 9.
 Package epstopdf Info: Output file is already uptodate.
 
-<otros/anuncio_UAEH-eps-converted-to.pdf, id=463, 303.1325pt x 383.4325pt>
+<otros/anuncio_UAEH-eps-converted-to.pdf, id=467, 303.1325pt x 383.4325pt>
 File: otros/anuncio_UAEH-eps-converted-to.pdf Graphic file (type pdf)
 
 <use otros/anuncio_UAEH-eps-converted-to.pdf>
@@ -11155,7 +11169,7 @@ erted-to.pdf otros/POSTER-UANL.eps>
 (epstopdf)             \includegraphics on input line 11.
 Package epstopdf Info: Output file is already uptodate.
 
-<otros/POSTER-UANL-eps-converted-to.pdf, id=464, 615.29875pt x 795.97375pt>
+<otros/POSTER-UANL-eps-converted-to.pdf, id=468, 615.29875pt x 795.97375pt>
 File: otros/POSTER-UANL-eps-converted-to.pdf Graphic file (type pdf)
 
 <use otros/POSTER-UANL-eps-converted-to.pdf>
@@ -11173,13 +11187,13 @@ pdf otros/uv.eps>
 (epstopdf)             \includegraphics on input line 13.
 Package epstopdf Info: Output file is already uptodate.
 
-<otros/uv-eps-converted-to.pdf, id=465, 668.4975pt x 433.62pt>
+<otros/uv-eps-converted-to.pdf, id=469, 668.4975pt x 433.62pt>
 File: otros/uv-eps-converted-to.pdf Graphic file (type pdf)
 
 <use otros/uv-eps-converted-to.pdf>
 Package pdftex.def Info: otros/uv-eps-converted-to.pdf used on input line 13.
 (pdftex.def)             Requested size: 426.80669pt x 312.99353pt.
-) [126 <./otros/anuncio_UAEH-eps-converted-to.pdf> <./otros/POSTER-UANL-eps-con
+) [124 <./otros/anuncio_UAEH-eps-converted-to.pdf> <./otros/POSTER-UANL-eps-con
 verted-to.pdf> <./otros/uv-eps-converted-to.pdf>]
 Cap\'{\i }tulo 5.
 (./areas/resumenes/Plenarios.tex
@@ -11187,7 +11201,7 @@ LaTeX Font Info:    Try loading font information for T1+cmtt on input line 5.
 
 (/usr/local/share/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-) [127
+) [125
 
 ]
 
@@ -11195,10 +11209,10 @@ Package amsmath Warning: Foreign command \over;
 (amsmath)                \frac or \genfrac should be used instead
 (amsmath)                 on input line 20.
 
-[128]) [129] (./sesiones/resumenes/DinHam.tex [130
+[126]) [127] (./sesiones/resumenes/DinHam.tex [128
 
 ])
-(./sesiones/resumenes/InnMat.tex [131] [132]) (./sesiones/resumenes/SMMBach.tex
+(./sesiones/resumenes/InnMat.tex [129] [130]) (./sesiones/resumenes/SMMBach.tex
 
 Overfull \hbox (3.93494pt too wide) in paragraph at lines 7--14
 \T1/cmss/bx/n/10 Ricardo Gó-mez\T1/cmss/m/n/10 , \T1/cmtt/m/n/10 rgomez@matem.u
@@ -11206,22 +11220,8 @@ nam.com \T1/cmss/m/sl/10 (Ins-ti-tu-to de Ma-te-má-ti-cas, Uni-ver-si-dad Na-ci
 o-nal Au-tó-no-ma de Mé-xi-co (UNAM)) 
  []
 
-[133]
-Underfull \hbox (badness 10000) in paragraph at lines 29--30
-
- []
-
-[134]
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
-
- []
-
-) (./sesiones/resumenes/MatLic.tex
-Underfull \hbox (badness 10000) in paragraph at lines 120--1
-
- []
-
-[135] [136] [137] [138]) (./sesiones/resumenes/MatInd.tex
+[131] [132]) (./sesiones/resumenes/MatLic.tex [133] [134] [135] [136])
+(./sesiones/resumenes/MatInd.tex
 Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
@@ -11236,7 +11236,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
  []
 
-[139]
+[137]
 Underfull \hbox (badness 10000) in paragraph at lines 72--73
 
  []
@@ -11246,7 +11246,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 78--1
 
  []
 
-[140]
+[138]
 Underfull \hbox (badness 10000) in paragraph at lines 75--81
 
  []
@@ -11261,25 +11261,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 101--108
 
  []
 
-[141]) (./sesiones/resumenes/ProInv.tex [142] [143])
-(./sesiones/resumenes/SoftLib.tex [144]) (./sesiones/resumenes/DifPos.tex
+[139]) (./sesiones/resumenes/ProInv.tex [140] [141])
+(./sesiones/resumenes/SoftLib.tex [142]) (./sesiones/resumenes/DifPos.tex
 Overfull \hbox (4.91414pt too wide) in paragraph at lines 58--1
 \T1/cmss/bx/n/10 Felipe Hum-ber-to Con-tre-ras Al-ca-lá\T1/cmss/m/n/10 , \T1/cm
 tt/m/n/10 hobber.mallow@gmail.com \T1/cmss/m/sl/10 (Uni-ver-si-dad Au-tó-no-ma 
 de la Ciu-dad de Mé-xi-co (UACM)) 
  []
 
-[145]) (./sesiones/resumenes/PreLib.tex [146] [147] [148] [149] [150]
+[143]) (./sesiones/resumenes/PreLib.tex [144] [145] [146] [147] [148]
 Underfull \hbox (badness 10000) in paragraph at lines 403--404
 
  []
 
-) (./sesiones/resumenes/JovenAJoven.tex [151] [152] [153]
+) (./sesiones/resumenes/JovenAJoven.tex [149] [150] [151]
 Underfull \hbox (badness 10000) in paragraph at lines 283--288
 
  []
 
-[154]
+[152]
 Underfull \hbox (badness 10000) in paragraph at lines 350--357
 
  []
@@ -11289,7 +11289,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 386--390
 
  []
 
-[155]
+[153]
 Underfull \hbox (badness 10000) in paragraph at lines 451--454
 
  []
@@ -11309,21 +11309,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 487--498
 
  []
 
-
+[154]
 Underfull \hbox (badness 10000) in paragraph at lines 509--511
 
  []
 
-[156]) [157] (./areas/resumenes/Alge.tex [158
+) [155] (./areas/resumenes/Alge.tex [156
 
-] [159] [160] [161] [162]
+] [157] [158] [159] [160]
 Overfull \hbox (8.46883pt too wide) in paragraph at lines 130--133
 \T1/cmss/bx/n/10 Mauricio Ga-briel Me-di-na Bár-ce-nas\T1/cmss/m/n/10 , \T1/cmt
 t/m/n/10 mauricio_g_mb@yahoo.com.mx \T1/cmss/m/it/10 (Uni-ver-si-dad Na-cio-nal
  Au-tó-no-ma de Mé-xi-co (UNAM)) 
  []
 
-[163]
+[161]
 
 Package amsfonts Warning: Obsolete command \frak; \mathfrak should be used inst
 ead on input line 135.
@@ -11335,35 +11335,35 @@ n/10 rlopez@correo.azc.uam.mx \T1/cmss/m/it/10 (Uni-ver-si-dad Au-tó-no-ma Metr
 opolitana-Azcapotzalco (UAM)
  []
 
-[164]) (./areas/resumenes/Ana.tex [165] [166] [167] [168]
+[162]) (./areas/resumenes/Ana.tex [163] [164] [165] [166]
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 80.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 80.
- [169]
+ [167]
 LaTeX Font Info:    Try loading font information for U+dsrom on input line 96.
 
 (/usr/local/share/texmf-dist/tex/latex/doublestroke/Udsrom.fd
 File: Udsrom.fd 1995/08/01 v0.1 Double stroke roman font definitions
-) [170] [171])
-(./areas/resumenes/AnaNum.tex [172] [173] [174] [175] [176] [177] [178]
-[179] [180] [181] [182]
+) [168] [169])
+(./areas/resumenes/AnaNum.tex [170] [171] [172] [173] [174] [175] [176]
+[177] [178] [179] [180]
 Underfull \vbox (badness 1946) has occurred while \output is active []
 
- [183])
-(./areas/resumenes/Bio.tex [184] [185] [186] [187] [188] [189] [190])
-(./areas/resumenes/CieComp.tex [191] [192] [193]) (./areas/resumenes/Curs.tex
-[194] [195] [196] [197]) (./areas/resumenes/EcDifAp.tex [198]
+ [181])
+(./areas/resumenes/Bio.tex [182] [183] [184] [185] [186] [187] [188])
+(./areas/resumenes/CieComp.tex [189] [190] [191]) (./areas/resumenes/Curs.tex
+[192] [193] [194] [195]) (./areas/resumenes/EcDifAp.tex [196]
 Overfull \hbox (2.35521pt too wide) in paragraph at lines 11--12
 \T1/cmss/m/n/10 Referencias: [1] H. Cam-pos, V. V. Krav-chen-ko and S. Tor-ba, 
 J. Math. Anal. Appl. \T1/cmss/bx/n/10 389 \T1/cmss/m/n/10 (2012), 1222-1238. [2
 ] V. V.Kravchenko
  []
 
-[199] [200] [201] [202]
+[197] [198] [199] [200]
 Missing character: There is no ' in font rsfs10!
 Missing character: There is no 1 in font rsfs7!
- [203] [204] [205] [206] [207] [208] [209]
+ [201] [202] [203] [204] [205] [206] [207]
 Underfull \hbox (badness 10000) in paragraph at lines 237--239
 
  []
@@ -11378,42 +11378,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 240--240
 
  []
 
-[210] [211]
+[208] [209]
 Overfull \hbox (5.65562pt too wide) in paragraph at lines 273--276
 \T1/cmss/bx/n/10 Cutberto Ro-me-ro Me-lén-dez\T1/cmss/m/n/10 , \T1/cmtt/m/n/10 
 cutberto@correo.azc.uam.mx \T1/cmss/m/it/10 (Uni-ver-si-dad Au-tó-no-ma Metropo
 litana-Azcapotzalco (UAM-
  []
 
-[212]) (./areas/resumenes/Estad.tex [213] [214] [215] [216] [217]
+[210]) (./areas/resumenes/Estad.tex [211] [212] [213] [214] [215]
 Underfull \vbox (badness 1062) has occurred while \output is active []
 
- [218]
+ [216]
 Underfull \vbox (badness 5954) has occurred while \output is active []
 
- [219]
-[220]) (./areas/resumenes/Expe.tex [221] [222]
+ [217]
+[218]) (./areas/resumenes/Expe.tex [219] [220]
 Overfull \hbox (9.23808pt too wide) in paragraph at lines 42--46
 \T1/cmss/bx/n/10 Jonathan En-ri-que Mar-tí-nez Me-di-na\T1/cmss/m/n/10 , \T1/cm
 tt/m/n/10 jona_martinez7@hotmail.com \T1/cmss/m/it/10 (Uni-ver-si-dad Au-tó-no-
 ma de San Luis Po-to-sí (UASLP)) 
  []
 
-[223] [224] [225] [226]) (./areas/resumenes/FMat.tex [227]
+[221] [222] [223] [224]) (./areas/resumenes/FMat.tex [225]
 Overfull \hbox (1.64272pt too wide) in paragraph at lines 21--24
 \T1/cmss/bx/n/10 Jaime Cruz Sam-pe-dro\T1/cmss/m/n/10 , \T1/cmtt/m/n/10 cruzsam
 pedro@gmail.com \T1/cmss/m/it/10 (Área de Aná-li-sis Ma-te-má-ti-co de la Uni-v
 er-si-dad Au-tó-no-ma Metropolita-
  []
 
-[228] [229] [230]) (./areas/resumenes/GeoAlg.tex [231] [232]
+[226] [227] [228]) (./areas/resumenes/GeoAlg.tex [229] [230]
 
 LaTeX Font Warning: Font shape `T1/cmss/m/sc' in size <10> not available
 (Font)              Font shape `T1/cmr/m/sc' tried instead on input line 22.
 
-[233] [234]) (./areas/resumenes/HistFil.tex [235] [236] [237] [238] [239])
-(./areas/resumenes/LogFun.tex [240] [241] [242] [243] [244])
-(./areas/resumenes/MatDisc.tex [245] [246] [247] [248]
+[231] [232]) (./areas/resumenes/HistFil.tex [233] [234] [235] [236] [237])
+(./areas/resumenes/LogFun.tex [238] [239] [240] [241] [242])
+(./areas/resumenes/MatDisc.tex [243] [244] [245] [246]
 Overfull \hbox (4.31706pt too wide) in paragraph at lines 82--86
 \T1/cmss/bx/n/10 Pedro Ri-car-do Ló-pez Bau-tis-ta\T1/cmss/m/n/10 , \T1/cmtt/m/
 n/10 rlopez@correo.azc.uam.mx \T1/cmss/m/it/10 (Uni-ver-si-dad Au-tó-no-ma Metr
@@ -11423,91 +11423,91 @@ opolitana-Azcapotzalco (UAM)
 
 Underfull \vbox (badness 1152) has occurred while \output is active []
 
- [249]
+ [247]
 Overfull \hbox (0.13864pt too wide) in paragraph at lines 96--99
 \T1/cmss/bx/n/10 Ricardo Strausz\T1/cmss/m/n/10 , \T1/cmtt/m/n/10 dino@math.una
 m.mx \T1/cmss/m/it/10 (Ins-ti-tu-to de Ma-te-má-ti-cas, Uni-ver-si-dad Na-cio-n
 al Au-tó-no-ma de Mé-xi-co (IM-UNAM)) 
  []
 
-[250]
+[248]
 Underfull \vbox (badness 1655) has occurred while \output is active []
 
- [251]
-[252] [253]) (./areas/resumenes/MatEdu.tex [254] [255] [256]
+ [249]
+[250] [251]) (./areas/resumenes/MatEdu.tex [252] [253] [254]
 Overfull \hbox (3.09404pt too wide) in paragraph at lines 47--51
 \T1/cmss/bx/n/10 María Vic-to-ria Ra-mos Abun-dio\T1/cmss/m/n/10 , \T1/cmtt/m/n
 /10 vicky_vero17@hotmail.com \T1/cmss/m/it/10 (Uni-dad Aca-dé-mi-ca de Ma-te-má
 -ti-cas (UAM) Ext.-Acapulco) 
  []
 
-[257]
+[255]
 Underfull \vbox (badness 3690) has occurred while \output is active []
 
- [258]
-[259] [260]
+ [256]
+[257] [258]
 Underfull \vbox (badness 3690) has occurred while \output is active []
 
- [261]
-[262] [263] [264] [265] [266] [267] [268] [269] [270] [271] [272] [273]
-[274]
+ [259]
+[260] [261] [262] [263] [264] [265] [266] [267] [268] [269] [270] [271]
+[272]
 Underfull \vbox (badness 1052) has occurred while \output is active []
 
- [275]
-[276] [277]
+ [273]
+[274] [275]
 Overfull \hbox (8.41884pt too wide) in paragraph at lines 429--432
 \T1/cmss/bx/n/10 Claudia Mar-ga-ri-ta Acu-ña So-to\T1/cmss/m/n/10 , \T1/cmtt/m/
 n/10 claudiamargarita_as@hotmail.com \T1/cmss/m/it/10 (De-par-ta-men-to de Ma-t
 e-má-ti-ca Edu-ca-ti-va Cinvestav-
  []
 
-[278] [279]
+[276] [277]
 Overfull \hbox (3.36452pt too wide) in paragraph at lines 467--471
 \T1/cmss/bx/n/10 Lizzeth Tru-ji-llo San-ta-ma-ría\T1/cmss/m/n/10 , \T1/cmtt/m/n
 /10 200828931@alumnos.fcfm.buap.mx \T1/cmss/m/it/10 (Be-ne-mé-ri-ta Uni-ver-si-
 dad Au-tó-no-ma de Pue-bla (BUAP)) 
  []
 
-[280] [281] [282] [283] [284] [285] [286] [287]) (./areas/resumenes/MatIng.tex
-[288]
+[278] [279] [280] [281] [282] [283] [284] [285]) (./areas/resumenes/MatIng.tex
+[286]
 Overfull \hbox (3.09404pt too wide) in paragraph at lines 23--27
 \T1/cmss/bx/n/10 María Vic-to-ria Ra-mos Abun-dio\T1/cmss/m/n/10 , \T1/cmtt/m/n
 /10 vicky_vero17@hotmail.com \T1/cmss/m/it/10 (Uni-dad Aca-dé-mi-ca de Ma-te-má
 -ti-cas (UAM) Ext.-Acapulco) 
  []
 
-[289]
+[287]
 Overfull \hbox (0.6885pt too wide) in paragraph at lines 36--40
 \T1/cmss/bx/n/10 J. Juan Ro-sa-les Gar-cía\T1/cmss/m/n/10 , \T1/cmtt/m/n/10 ros
 ales@ugto.mx \T1/cmss/m/it/10 (De-par-ta-men-to de In-ge-nie-ría Eléc-tri-ca, D
 i-vi-sión de In-ge-nie-rías Cam-pus Irapuato-
  []
 
-[290] [291] [292] [293] [294]
+[288] [289] [290] [291] [292]
 Underfull \vbox (badness 7238) has occurred while \output is active []
 
- [295])
+ [293])
 (./areas/resumenes/MatFin.tex
 Underfull \vbox (badness 2334) has occurred while \output is active []
 
- [296]
-[297] [298] [299] [300] [301] [302]
+ [294]
+[295] [296] [297] [298] [299] [300]
 Underfull \vbox (badness 2310) has occurred while \output is active []
 
- [303])
-(./areas/resumenes/Prob.tex [304] [305]
+ [301])
+(./areas/resumenes/Prob.tex [302] [303]
 Overfull \hbox (6.08607pt too wide) in paragraph at lines 31--34
 \T1/cmss/bx/n/10 Juan Ruíz de Chá-vez So-mo-za\T1/cmss/m/n/10 , \T1/cmtt/m/n/10
  jrch@xanum.uam.mx \T1/cmss/m/it/10 (De-par-ta-men-to de Ma-te-má-ti-cas Uni-ve
 r-si-dad Au-tó-no-ma Metropolitana-
  []
 
-[306] [307] [308] [309]) (./areas/resumenes/SisDin.tex [310] [311]
+[304] [305] [306] [307]) (./areas/resumenes/SisDin.tex [308] [309]
 
 Package amsfonts Warning: Obsolete command \Bbb; \mathbb should be used instead
  on input line 44.
 
-[312] [313] [314]) (./areas/resumenes/Talle.tex [315] [316] [317])
+[310] [311] [312]) (./areas/resumenes/Talle.tex [313] [314] [315])
 (./areas/resumenes/TeoNum.tex
 Overfull \hbox (4.31706pt too wide) in paragraph at lines 5--9
 \T1/cmss/bx/n/10 Pedro Ri-car-do Ló-pez Bau-tis-ta\T1/cmss/m/n/10 , \T1/cmtt/m/
@@ -11515,25 +11515,25 @@ n/10 rlopez@correo.azc.uam.mx \T1/cmss/m/it/10 (Uni-ver-si-dad Au-tó-no-ma Metr
 opolitana-Azcapotzalco (UAM)
  []
 
-[318] [319] [320] [321]
+[316] [317] [318] [319]
 
 LaTeX Font Warning: Command \normalsize invalid in math mode on input line 73.
 
-[322]) (./areas/resumenes/TopAlg.tex [323] [324] [325] [326])
-(./areas/resumenes/TopGen.tex [327] [328] [329] [330]
+[320]) (./areas/resumenes/TopAlg.tex [321] [322] [323] [324])
+(./areas/resumenes/TopGen.tex [325] [326] [327] [328]
 Underfull \hbox (badness 10000) in paragraph at lines 86--89
 
  []
 
-[331] [332]
+[329] [330]
 Overfull \hbox (1.30391pt too wide) in paragraph at lines 129--133
 \T1/cmss/bx/n/10 Luis Al-ber-to Gue-rre-ro Mén-dez\T1/cmss/m/n/10 , \T1/cmtt/m/
 n/10 luisalberto_gm4@hotmail.com \T1/cmss/m/it/10 (Be-ne-mé-ri-ta Uni-ver-si-da
 d Au-tó-no-ma de Pue-bla (BUAP),
  []
 
-[333] [334]) (./areas/resumenes/Carteles.tex [335] [336] [337] [338] [339]
-[340] [341] [342] [343] [344]
+[331] [332]) (./areas/resumenes/Carteles.tex [333] [334] [335] [336] [337]
+[338] [339] [340] [341] [342]
 LaTeX Font Info:    Try loading font information for OMS+cmss on input line 159
 .
 LaTeX Font Info:    No file OMScmss.fd. on input line 159.
@@ -11543,14 +11543,14 @@ LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
 (Font)              for symbol `textbullet' on input line 159.
 
-[345] [346]
+[343] [344]
 Overfull \hbox (1.85933pt too wide) in paragraph at lines 194--198
 \T1/cmss/bx/n/10 María Ele-na Var-gas Mar-tí-nez\T1/cmss/m/n/10 , \T1/cmtt/m/n/
 10 m.elena_vargas.m@hotmail.com \T1/cmss/m/it/10 (Be-ne-mé-ri-ta Uni-ver-si-dad
  Au-tó-no-ma de Pue-bla (BUAP)) 
  []
 
-[347] [348] [349] [350]
+[345] [346] [347] [348]
 Underfull \hbox (badness 10000) in paragraph at lines 276--277
 
  []
@@ -11560,7 +11560,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 277--277
 
  []
 
-[351] [352] [353]
+[349] [350] [351]
 Overfull \hbox (5.65562pt too wide) in paragraph at lines 351--354
 \T1/cmss/bx/n/10 Cutberto Ro-me-ro Me-lén-dez\T1/cmss/m/n/10 , \T1/cmtt/m/n/10 
 cutberto@correo.azc.uam.mx \T1/cmss/m/it/10 (Uni-ver-si-dad Au-tó-no-ma Metropo
@@ -11570,22 +11570,25 @@ litana-Azcapotzalco (UAM-
 
 Underfull \vbox (badness 1292) has occurred while \output is active []
 
- [354]
-[355]
+ [352]
+[353]
 Overfull \hbox (7.41908pt too wide) in paragraph at lines 378--381
 \T1/cmss/bx/n/10 Aurelia Gon-zá-lez Mi-guel\T1/cmss/m/n/10 , \T1/cmtt/m/n/10 au
 reliagonzalezmiguel@hotmail.com \T1/cmss/m/it/10 (Be-ne-mé-ri-ta Uni-ver-si-dad
  Au-tó-no-ma de Pue-bla (BUAP)) 
  []
 
-[356] [357]
+[354] [355]
 Overfull \hbox (8.19112pt too wide) in paragraph at lines 431--435
 \T1/cmss/bx/n/10 Lucero Gua-da-lu-pe Con-tre-ras Her-nán-dez\T1/cmss/m/n/10 , \
 T1/cmtt/m/n/10 lucero1602@gmail.com \T1/cmss/m/it/10 (Be-ne-mé-ri-ta Uni-ver-si
 -dad Au-tó-no-ma de Pue-bla (BUAP).
  []
 
-[358]) [359]
+[356]) (./programaSMM2012.ind [357] [358
+
+] [359] [360] [361] [362] [363]
+[364] [365] [366] [367] [368] [369] [370] [371] [372] [373] [374])
 Cap\'{\i }tulo 6.
 Package epstopdf Info: Source file: <otros/LogoCasio.eps>
 (epstopdf)                    date: 2012-09-22 19:27:12
@@ -11595,16 +11598,17 @@ Package epstopdf Info: Source file: <otros/LogoCasio.eps>
 (epstopdf)                    size: 4037 bytes
 (epstopdf)             Command: <repstopdf --outfile=otros/LogoCasio-eps-conver
 ted-to.pdf otros/LogoCasio.eps>
-(epstopdf)             \includegraphics on input line 341.
+(epstopdf)             \includegraphics on input line 367.
 Package epstopdf Info: Output file is already uptodate.
-<otros/LogoCasio-eps-converted-to.pdf, id=1246, 107.40125pt x 99.37125pt>
+<otros/LogoCasio-eps-converted-to.pdf, id=1305, 107.40125pt x 99.37125pt>
 File: otros/LogoCasio-eps-converted-to.pdf Graphic file (type pdf)
 
 <use otros/LogoCasio-eps-converted-to.pdf>
 Package pdftex.def Info: otros/LogoCasio-eps-converted-to.pdf used on input lin
-e 341.
+e 367.
 (pdftex.def)             Requested size: 598.29138pt x 553.55937pt.
- [360
+ [375
+
 
  <./otros/LogoCasio-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <otros/LogoCasio.eps>
@@ -11615,14 +11619,14 @@ Package epstopdf Info: Source file: <otros/LogoCasio.eps>
 (epstopdf)                    size: 4037 bytes
 (epstopdf)             Command: <repstopdf --outfile=otros/LogoCasio-eps-conver
 ted-to.pdf otros/LogoCasio.eps>
-(epstopdf)             \includegraphics on input line 342.
+(epstopdf)             \includegraphics on input line 368.
 Package epstopdf Info: Output file is already uptodate.
 File: otros/LogoCasio-eps-converted-to.pdf Graphic file (type pdf)
  <use otros/LogoCasio-eps-converted-to.pdf>
 Package pdftex.def Info: otros/LogoCasio-eps-converted-to.pdf used on input lin
-e 342.
+e 368.
 (pdftex.def)             Requested size: 598.29138pt x 553.55937pt.
- [361]
+ [376]
 Package epstopdf Info: Source file: <otros/LogoCasio.eps>
 (epstopdf)                    date: 2012-09-22 19:27:12
 (epstopdf)                    size: 13271 bytes
@@ -11631,15 +11635,15 @@ Package epstopdf Info: Source file: <otros/LogoCasio.eps>
 (epstopdf)                    size: 4037 bytes
 (epstopdf)             Command: <repstopdf --outfile=otros/LogoCasio-eps-conver
 ted-to.pdf otros/LogoCasio.eps>
-(epstopdf)             \includegraphics on input line 343.
+(epstopdf)             \includegraphics on input line 369.
 Package epstopdf Info: Output file is already uptodate.
 File: otros/LogoCasio-eps-converted-to.pdf Graphic file (type pdf)
 
 <use otros/LogoCasio-eps-converted-to.pdf>
 Package pdftex.def Info: otros/LogoCasio-eps-converted-to.pdf used on input lin
-e 343.
+e 369.
 (pdftex.def)             Requested size: 598.29138pt x 553.55937pt.
- [362]
+ [377]
 Package epstopdf Info: Source file: <otros/LogoCasio.eps>
 (epstopdf)                    date: 2012-09-22 19:27:12
 (epstopdf)                    size: 13271 bytes
@@ -11648,15 +11652,15 @@ Package epstopdf Info: Source file: <otros/LogoCasio.eps>
 (epstopdf)                    size: 4037 bytes
 (epstopdf)             Command: <repstopdf --outfile=otros/LogoCasio-eps-conver
 ted-to.pdf otros/LogoCasio.eps>
-(epstopdf)             \includegraphics on input line 344.
+(epstopdf)             \includegraphics on input line 370.
 Package epstopdf Info: Output file is already uptodate.
 File: otros/LogoCasio-eps-converted-to.pdf Graphic file (type pdf)
 
 <use otros/LogoCasio-eps-converted-to.pdf>
 Package pdftex.def Info: otros/LogoCasio-eps-converted-to.pdf used on input lin
-e 344.
+e 370.
 (pdftex.def)             Requested size: 598.29138pt x 553.55937pt.
- [363]
+ [378]
 Package epstopdf Info: Source file: <otros/LogoCasio.eps>
 (epstopdf)                    date: 2012-09-22 19:27:12
 (epstopdf)                    size: 13271 bytes
@@ -11665,19 +11669,15 @@ Package epstopdf Info: Source file: <otros/LogoCasio.eps>
 (epstopdf)                    size: 4037 bytes
 (epstopdf)             Command: <repstopdf --outfile=otros/LogoCasio-eps-conver
 ted-to.pdf otros/LogoCasio.eps>
-(epstopdf)             \includegraphics on input line 345.
+(epstopdf)             \includegraphics on input line 371.
 Package epstopdf Info: Output file is already uptodate.
 File: otros/LogoCasio-eps-converted-to.pdf Graphic file (type pdf)
 
 <use otros/LogoCasio-eps-converted-to.pdf>
 Package pdftex.def Info: otros/LogoCasio-eps-converted-to.pdf used on input lin
-e 345.
+e 371.
 (pdftex.def)             Requested size: 598.29138pt x 553.55937pt.
- [364] (./programaSMM2012.ind
-[365
-
-] [366] [367] [368] [369] [370] [371] [372] [373] [374] [375] [376]
-[377] [378] [379] [380] [381])
+ [379]
 Package epstopdf Info: Source file: <smm_relleno_claro.eps>
 (epstopdf)                    date: 2010-10-12 00:23:06
 (epstopdf)                    size: 366822 bytes
@@ -11686,16 +11686,15 @@ Package epstopdf Info: Source file: <smm_relleno_claro.eps>
 (epstopdf)                    size: 51492 bytes
 (epstopdf)             Command: <repstopdf --outfile=smm_relleno_claro-eps-conv
 erted-to.pdf smm_relleno_claro.eps>
-(epstopdf)             \includegraphics on input line 371.
+(epstopdf)             \includegraphics on input line 387.
 Package epstopdf Info: Output file is already uptodate.
 File: smm_relleno_claro-eps-converted-to.pdf Graphic file (type pdf)
- <use smm_relleno_claro-eps-converted-to.pdf>
+
+<use smm_relleno_claro-eps-converted-to.pdf>
 Package pdftex.def Info: smm_relleno_claro-eps-converted-to.pdf used on input l
-ine 371.
+ine 387.
 (pdftex.def)             Requested size: 97.3635pt x 83.31104pt.
-
-[382
-
+ [380
 
 ] (./programaSMM2012.aux)
 
@@ -11703,13 +11702,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 6155 strings out of 493633
- 78549 string characters out of 3146311
- 185472 words of memory out of 3000000
- 8944 multiletter control sequences out of 15000+200000
+ 6161 strings out of 493633
+ 78742 string characters out of 3146311
+ 185608 words of memory out of 3000000
+ 8949 multiletter control sequences out of 15000+200000
  78927 words of font info for 195 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 38i,15n,43p,10357b,2448s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,15n,43p,10357b,2444s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/l
 ocal/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/share/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmb10.pfb></usr/local/share/texmf-dist/fonts/typ
@@ -11770,10 +11769,10 @@ f-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/share/texmf-dist/fo
 nts/type1/public/cm-super/sftt1000.pfb></usr/local/share/texmf-dist/fonts/type1
 /urw/avantgar/uagd8a.pfb></usr/local/share/texmf-dist/fonts/type1/urw/avantgar/
 uagdo8a.pfb>
-Output written on programaSMM2012.pdf (386 pages, 3102145 bytes).
+Output written on programaSMM2012.pdf (386 pages, 3270103 bytes).
 PDF statistics:
- 1537 PDF objects out of 1728 (max. 8388607)
- 1060 compressed objects within 11 object streams
+ 1541 PDF objects out of 1728 (max. 8388607)
+ 1062 compressed objects within 11 object streams
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
