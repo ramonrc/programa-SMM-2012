@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011-OpenBSD_Ports) (format=latex 2011.9.1)  24 SEP 2012 00:55
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011-OpenBSD_Ports) (format=pdflatex 2011.9.1)  24 SEP 2012 19:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -314,7 +314,7 @@ Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
 )
 (/usr/local/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is not detected.
+Package ifpdf Info: pdfTeX in PDF mode is detected.
 ))
 (/usr/local/share/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
@@ -322,10 +322,11 @@ Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 (/usr/local/share/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
-Package xcolor Info: Driver file: dvips.def on input line 225.
+Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-(/usr/local/share/texmf-dist/tex/latex/graphics/dvips.def
-File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+(/usr/local/share/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+\Gread@gobject=\count119
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
 Package xcolor Info: Model `RGB' extended on input line 1353.
@@ -368,13 +369,59 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
 LaTeX Font Info:    ... okay on input line 63.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
 LaTeX Font Info:    ... okay on input line 63.
+
+(/usr/local/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+
+(/usr/local/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/share/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Managing graphics extensions (HO)
+
+(/usr/local/share/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+))
+(/usr/local/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+
+(/usr/local/share/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+
+(/usr/local/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 \AtBeginShipoutBox=\box56
 LaTeX Font Info:    Try loading font information for U+zeur on input line 89.
- (/usr/local/share/texmf-dist/tex/latex/eulervm/uzeur.fd
+
+(/usr/local/share/texmf-dist/tex/latex/eulervm/uzeur.fd
 File: uzeur.fd 2005/01/11 v4.0 (WaS)
 )
 LaTeX Font Info:    Try loading font information for U+zeus on input line 89.
- (/usr/local/share/texmf-dist/tex/latex/eulervm/uzeus.fd
+
+(/usr/local/share/texmf-dist/tex/latex/eulervm/uzeus.fd
 File: uzeus.fd 2005/01/11 v4.0 (WaS)
 )
 LaTeX Font Info:    Try loading font information for U+zeuex on input line 89.
@@ -402,15 +449,33 @@ LaTeX Font Info:    Try loading font information for T1+cmss on input line 91.
 (/usr/local/share/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-File: smm_relleno_claro.eps Graphic file (type eps)
- <smm_relleno_claro.eps>
-[1
+Package epstopdf Info: Source file: <smm_relleno_claro.eps>
+(epstopdf)                    date: 2010-10-12 00:23:06
+(epstopdf)                    size: 366822 bytes
+(epstopdf)             Output file: <smm_relleno_claro-eps-converted-to.pdf>
+(epstopdf)                    date: 2012-09-22 22:24:28
+(epstopdf)                    size: 51492 bytes
+(epstopdf)             Command: <repstopdf --outfile=smm_relleno_claro-eps-conv
+erted-to.pdf smm_relleno_claro.eps>
+(epstopdf)             \includegraphics on input line 105.
+Package epstopdf Info: Output file is already uptodate.
+
+<smm_relleno_claro-eps-converted-to.pdf, id=1, 97.36375pt x 83.31125pt>
+File: smm_relleno_claro-eps-converted-to.pdf Graphic file (type pdf)
+
+<use smm_relleno_claro-eps-converted-to.pdf>
+Package pdftex.def Info: smm_relleno_claro-eps-converted-to.pdf used on input l
+ine 105.
+(pdftex.def)             Requested size: 97.3635pt x 83.31104pt.
+ [1
 
 
 
-]
+{/usr/local/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./smm_relleno_
+claro-eps-converted-to.pdf>]
 LaTeX Font Info:    Try loading font information for T1+pag on input line 133.
- (/usr/local/share/texmf-dist/tex/latex/psnfss/t1pag.fd
+
+(/usr/local/share/texmf-dist/tex/latex/psnfss/t1pag.fd
 File: t1pag.fd 2001/06/04 font definitions for T1/pag.
 )
 LaTeX Font Info:    Font shape `T1/pag/bx/sl' in size <10> not available
@@ -552,8 +617,28 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [6])
 [7] (./otros/socios_institucionales.tex) (./otros/patrocinadores.tex) [8]
 [9]
-File: otros/Cartel_Festival_Queretaroo.eps Graphic file (type eps)
- <otros/Cartel_Festival_Queretaroo.eps> (./otros/actividades.tex
+Package epstopdf Info: Source file: <otros/Cartel_Festival_Queretaroo.eps>
+(epstopdf)                    date: 2012-09-22 23:40:26
+(epstopdf)                    size: 803997 bytes
+(epstopdf)             Output file: <otros/Cartel_Festival_Queretaroo-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2012-09-23 01:04:33
+(epstopdf)                    size: 185394 bytes
+(epstopdf)             Command: <repstopdf --outfile=otros/Cartel_Festival_Quer
+etaroo-eps-converted-to.pdf otros/Cartel_Festival_Queretaroo.eps>
+(epstopdf)             \includegraphics on input line 150.
+Package epstopdf Info: Output file is already uptodate.
+
+<otros/Cartel_Festival_Queretaroo-eps-converted-to.pdf, id=60, 615.29875pt x 79
+5.97375pt>
+File: otros/Cartel_Festival_Queretaroo-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use otros/Cartel_Festival_Queretaroo-eps-converted-to.pdf>
+Package pdftex.def Info: otros/Cartel_Festival_Queretaroo-eps-converted-to.pdf 
+used on input line 150.
+(pdftex.def)             Requested size: 512.1496pt x 662.57706pt.
+
+(./otros/actividades.tex
 Overfull \hbox (14.22636pt too wide) in paragraph at lines 150--1
 [][] 
  []
@@ -561,8 +646,8 @@ Overfull \hbox (14.22636pt too wide) in paragraph at lines 150--1
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [10]
-[11] (./otros/ana_guzman.tex
+ [10 <./otros/Cartel_Festival_Queretaroo-eps-converted-to.pdf>] [11]
+(./otros/ana_guzman.tex
 Underfull \hbox (badness 10000) in paragraph at lines 8--12
 
  []
@@ -848,20 +933,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 215--217
 
  []
 
-) [22] [23]
-File: otros/workshop3.eps Graphic file (type eps)
- <otros/workshop3.eps> [24]
-File: otros/ProgWork3.eps Graphic file (type eps)
- <otros/ProgWork3.eps>
-File: otros/cartel_AMITE.eps Graphic file (type eps)
+) [22] [23] (./otros/workshop.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--15
 
-<otros/cartel_AMITE.eps> (./sesiones/horarios/InnMat.tex
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--19
+
+ []
+
+[24])
+Package epstopdf Info: Source file: <otros/cartel_AMITE.eps>
+(epstopdf)                    date: 2012-09-23 00:01:24
+(epstopdf)                    size: 2389584 bytes
+(epstopdf)             Output file: <otros/cartel_AMITE-eps-converted-to.pdf>
+(epstopdf)                    date: 2012-09-23 01:04:51
+(epstopdf)                    size: 194580 bytes
+(epstopdf)             Command: <repstopdf --outfile=otros/cartel_AMITE-eps-con
+verted-to.pdf otros/cartel_AMITE.eps>
+(epstopdf)             \includegraphics on input line 204.
+Package epstopdf Info: Output file is already uptodate.
+
+<otros/cartel_AMITE-eps-converted-to.pdf, id=123, 680.5425pt x 861.2175pt>
+File: otros/cartel_AMITE-eps-converted-to.pdf Graphic file (type pdf)
+
+<use otros/cartel_AMITE-eps-converted-to.pdf>
+Package pdftex.def Info: otros/cartel_AMITE-eps-converted-to.pdf used on input 
+line 204.
+(pdftex.def)             Requested size: 483.69684pt x 612.11263pt.
+ (./sesiones/horarios/InnMat.tex
+[25]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [25]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [26]
+ [26 <./otros/cartel_AMITE-eps-converted-to.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 184--186
 
  []
@@ -6068,6 +6173,16 @@ Overfull \hbox (2.77344pt too wide) in paragraph at lines 65--65
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 67--67
+[]\T1/cmss/m/n/10 Aud. C.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+\T1/cmss/m/n/10 Po-lí-ti-cas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 []\T1/cmss/m/n/10 Matemáticas
  []
 
@@ -6299,6 +6414,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 89--89
 
 Underfull \hbox (badness 10000) in paragraph at lines 89--89
 \T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+[]\T1/cmss/m/n/10 Aud. C.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+\T1/cmss/m/n/10 Po-lí-ti-cas
  []
 
 
@@ -6709,6 +6834,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 132--132
 
 Underfull \hbox (badness 10000) in paragraph at lines 132--132
 \T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
+[]\T1/cmss/m/n/10 Aud. C.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
+\T1/cmss/m/n/10 Po-lí-ti-cas
  []
 
 
@@ -7148,6 +7283,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 185--185
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 185--185
+[]\T1/cmss/m/n/10 Aud. C.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--185
+\T1/cmss/m/n/10 Po-lí-ti-cas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--185
 []\T1/cmss/m/n/10 Matemáticas
  []
 
@@ -7203,6 +7348,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 191--191
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 191--191
+[]\T1/cmss/m/n/10 Aud. C.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
+\T1/cmss/m/n/10 Po-lí-ti-cas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
 []\T1/cmss/m/n/10 Matemáticas
  []
 
@@ -7224,6 +7379,16 @@ Overfull \hbox (3.16101pt too wide) in paragraph at lines 203--203
 
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 203--203
 []\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--205
+[]\T1/cmss/m/n/10 Aud. C.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--205
+\T1/cmss/m/n/10 Po-lí-ti-cas
  []
 
 
@@ -7299,6 +7464,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 213--213
 
 Underfull \hbox (badness 10000) in paragraph at lines 213--213
 \T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--213
+[]\T1/cmss/m/n/10 Aud. C.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--213
+\T1/cmss/m/n/10 Po-lí-ti-cas
  []
 
 
@@ -8417,6 +8592,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 138--138
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 138--138
+[]\T1/cmss/m/n/10 Aud. C.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
+\T1/cmss/m/n/10 Po-lí-ti-cas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
 []\T1/cmss/m/n/10 Matemáticas
  []
 
@@ -9017,6 +9202,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 205--205
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 207--207
+[]\T1/cmss/m/n/10 Aud. C.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
+\T1/cmss/m/n/10 Po-lí-ti-cas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
 []\T1/cmss/m/n/10 Matemáticas
  []
 
@@ -9257,6 +9452,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 247--247
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 247--247
+[]\T1/cmss/m/n/10 Aud. C.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--247
+\T1/cmss/m/n/10 Po-lí-ti-cas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--247
 []\T1/cmss/m/n/10 Matemáticas
  []
 
@@ -9378,6 +9583,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 257--257
 
 Underfull \hbox (badness 10000) in paragraph at lines 257--257
 \T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--257
+[]\T1/cmss/m/n/10 Aud. C.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--257
+\T1/cmss/m/n/10 Po-lí-ti-cas
  []
 
 
@@ -9578,6 +9793,16 @@ Overfull \hbox (3.16101pt too wide) in paragraph at lines 286--286
 
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 286--286
 []\T1/cmss/bx/n/10 Nivel| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--288
+[]\T1/cmss/m/n/10 Aud. C.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--288
+\T1/cmss/m/n/10 Po-lí-ti-cas
  []
 
 
@@ -10113,6 +10338,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 344--344
 
 Underfull \hbox (badness 10000) in paragraph at lines 344--344
 \T1/cmss/m/n/10 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+[]\T1/cmss/m/n/10 Aud. C.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+\T1/cmss/m/n/10 Po-lí-ti-cas
  []
 
 
@@ -10692,6 +10927,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 415--415
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 415--415
+[]\T1/cmss/m/n/10 Aud. C.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--415
+\T1/cmss/m/n/10 Po-lí-ti-cas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--415
 []\T1/cmss/m/n/10 Matemáticas
  []
 
@@ -10837,6 +11082,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 429--429
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 429--429
+[]\T1/cmss/m/n/10 Aud. C.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 429--429
+\T1/cmss/m/n/10 Po-lí-ti-cas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 429--429
 []\T1/cmss/m/n/10 Matemáticas
  []
 
@@ -10871,13 +11126,61 @@ Overfull \hbox (7.77222pt too wide) in paragraph at lines 431--431
  []
 
 ) (./otros/anuncios.tex [125]
-File: otros/anuncio_UAEH.eps Graphic file (type eps)
- <otros/anuncio_UAEH.eps>
-File: otros/POSTER-UANL.eps Graphic file (type eps)
- <otros/POSTER-UANL.eps>
-File: otros/uv.eps Graphic file (type eps)
+Package epstopdf Info: Source file: <otros/anuncio_UAEH.eps>
+(epstopdf)                    date: 2012-09-23 02:30:10
+(epstopdf)                    size: 15172 bytes
+(epstopdf)             Output file: <otros/anuncio_UAEH-eps-converted-to.pdf>
+(epstopdf)                    date: 2012-09-24 00:59:51
+(epstopdf)                    size: 19498 bytes
+(epstopdf)             Command: <repstopdf --outfile=otros/anuncio_UAEH-eps-con
+verted-to.pdf otros/anuncio_UAEH.eps>
+(epstopdf)             \includegraphics on input line 9.
+Package epstopdf Info: Output file is already uptodate.
 
-<otros/uv.eps>) [126]
+<otros/anuncio_UAEH-eps-converted-to.pdf, id=463, 303.1325pt x 383.4325pt>
+File: otros/anuncio_UAEH-eps-converted-to.pdf Graphic file (type pdf)
+
+<use otros/anuncio_UAEH-eps-converted-to.pdf>
+Package pdftex.def Info: otros/anuncio_UAEH-eps-converted-to.pdf used on input 
+line 9.
+(pdftex.def)             Requested size: 227.62634pt x 313.00081pt.
+Package epstopdf Info: Source file: <otros/POSTER-UANL.eps>
+(epstopdf)                    date: 2012-09-23 13:33:39
+(epstopdf)                    size: 753227 bytes
+(epstopdf)             Output file: <otros/POSTER-UANL-eps-converted-to.pdf>
+(epstopdf)                    date: 2012-09-23 19:56:11
+(epstopdf)                    size: 168362 bytes
+(epstopdf)             Command: <repstopdf --outfile=otros/POSTER-UANL-eps-conv
+erted-to.pdf otros/POSTER-UANL.eps>
+(epstopdf)             \includegraphics on input line 11.
+Package epstopdf Info: Output file is already uptodate.
+
+<otros/POSTER-UANL-eps-converted-to.pdf, id=464, 615.29875pt x 795.97375pt>
+File: otros/POSTER-UANL-eps-converted-to.pdf Graphic file (type pdf)
+
+<use otros/POSTER-UANL-eps-converted-to.pdf>
+Package pdftex.def Info: otros/POSTER-UANL-eps-converted-to.pdf used on input l
+ine 11.
+(pdftex.def)             Requested size: 227.61942pt x 312.97908pt.
+Package epstopdf Info: Source file: <otros/uv.eps>
+(epstopdf)                    date: 2012-09-23 02:12:11
+(epstopdf)                    size: 755007 bytes
+(epstopdf)             Output file: <otros/uv-eps-converted-to.pdf>
+(epstopdf)                    date: 2012-09-23 19:56:13
+(epstopdf)                    size: 118974 bytes
+(epstopdf)             Command: <repstopdf --outfile=otros/uv-eps-converted-to.
+pdf otros/uv.eps>
+(epstopdf)             \includegraphics on input line 13.
+Package epstopdf Info: Output file is already uptodate.
+
+<otros/uv-eps-converted-to.pdf, id=465, 668.4975pt x 433.62pt>
+File: otros/uv-eps-converted-to.pdf Graphic file (type pdf)
+
+<use otros/uv-eps-converted-to.pdf>
+Package pdftex.def Info: otros/uv-eps-converted-to.pdf used on input line 13.
+(pdftex.def)             Requested size: 426.80669pt x 312.99353pt.
+) [126 <./otros/anuncio_UAEH-eps-converted-to.pdf> <./otros/POSTER-UANL-eps-con
+verted-to.pdf> <./otros/uv-eps-converted-to.pdf>]
 Cap\'{\i }tulo 5.
 (./areas/resumenes/Plenarios.tex
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 5.
@@ -11284,28 +11587,114 @@ T1/cmtt/m/n/10 lucero1602@gmail.com \T1/cmss/m/it/10 (Be-ne-mé-ri-ta Uni-ver-si
 
 [358]) [359]
 Cap\'{\i }tulo 6.
-File: otros/LogoCasio.eps Graphic file (type eps)
-<otros/LogoCasio.eps> [360
+Package epstopdf Info: Source file: <otros/LogoCasio.eps>
+(epstopdf)                    date: 2012-09-22 19:27:12
+(epstopdf)                    size: 13271 bytes
+(epstopdf)             Output file: <otros/LogoCasio-eps-converted-to.pdf>
+(epstopdf)                    date: 2012-09-22 21:13:51
+(epstopdf)                    size: 4037 bytes
+(epstopdf)             Command: <repstopdf --outfile=otros/LogoCasio-eps-conver
+ted-to.pdf otros/LogoCasio.eps>
+(epstopdf)             \includegraphics on input line 341.
+Package epstopdf Info: Output file is already uptodate.
+<otros/LogoCasio-eps-converted-to.pdf, id=1246, 107.40125pt x 99.37125pt>
+File: otros/LogoCasio-eps-converted-to.pdf Graphic file (type pdf)
 
-]
-File: otros/LogoCasio.eps Graphic file (type eps)
- <otros/LogoCasio.eps> [361]
-File: otros/LogoCasio.eps Graphic file (type eps)
- <otros/LogoCasio.eps>
-[362]
-File: otros/LogoCasio.eps Graphic file (type eps)
- <otros/LogoCasio.eps> [363]
-File: otros/LogoCasio.eps Graphic file (type eps)
- <otros/LogoCasio.eps> [364]
-(./programaSMM2012.ind [365
+<use otros/LogoCasio-eps-converted-to.pdf>
+Package pdftex.def Info: otros/LogoCasio-eps-converted-to.pdf used on input lin
+e 341.
+(pdftex.def)             Requested size: 598.29138pt x 553.55937pt.
+ [360
 
-] [366] [367] [368] [369] [370] [371] [372] [373]
-[374] [375] [376] [377] [378] [379] [380] [381] [382
+ <./otros/LogoCasio-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <otros/LogoCasio.eps>
+(epstopdf)                    date: 2012-09-22 19:27:12
+(epstopdf)                    size: 13271 bytes
+(epstopdf)             Output file: <otros/LogoCasio-eps-converted-to.pdf>
+(epstopdf)                    date: 2012-09-22 21:13:51
+(epstopdf)                    size: 4037 bytes
+(epstopdf)             Command: <repstopdf --outfile=otros/LogoCasio-eps-conver
+ted-to.pdf otros/LogoCasio.eps>
+(epstopdf)             \includegraphics on input line 342.
+Package epstopdf Info: Output file is already uptodate.
+File: otros/LogoCasio-eps-converted-to.pdf Graphic file (type pdf)
+ <use otros/LogoCasio-eps-converted-to.pdf>
+Package pdftex.def Info: otros/LogoCasio-eps-converted-to.pdf used on input lin
+e 342.
+(pdftex.def)             Requested size: 598.29138pt x 553.55937pt.
+ [361]
+Package epstopdf Info: Source file: <otros/LogoCasio.eps>
+(epstopdf)                    date: 2012-09-22 19:27:12
+(epstopdf)                    size: 13271 bytes
+(epstopdf)             Output file: <otros/LogoCasio-eps-converted-to.pdf>
+(epstopdf)                    date: 2012-09-22 21:13:51
+(epstopdf)                    size: 4037 bytes
+(epstopdf)             Command: <repstopdf --outfile=otros/LogoCasio-eps-conver
+ted-to.pdf otros/LogoCasio.eps>
+(epstopdf)             \includegraphics on input line 343.
+Package epstopdf Info: Output file is already uptodate.
+File: otros/LogoCasio-eps-converted-to.pdf Graphic file (type pdf)
 
-])
-File: smm_relleno_claro.eps Graphic file (type eps)
- <smm_relleno_claro.eps>
-[383
+<use otros/LogoCasio-eps-converted-to.pdf>
+Package pdftex.def Info: otros/LogoCasio-eps-converted-to.pdf used on input lin
+e 343.
+(pdftex.def)             Requested size: 598.29138pt x 553.55937pt.
+ [362]
+Package epstopdf Info: Source file: <otros/LogoCasio.eps>
+(epstopdf)                    date: 2012-09-22 19:27:12
+(epstopdf)                    size: 13271 bytes
+(epstopdf)             Output file: <otros/LogoCasio-eps-converted-to.pdf>
+(epstopdf)                    date: 2012-09-22 21:13:51
+(epstopdf)                    size: 4037 bytes
+(epstopdf)             Command: <repstopdf --outfile=otros/LogoCasio-eps-conver
+ted-to.pdf otros/LogoCasio.eps>
+(epstopdf)             \includegraphics on input line 344.
+Package epstopdf Info: Output file is already uptodate.
+File: otros/LogoCasio-eps-converted-to.pdf Graphic file (type pdf)
+
+<use otros/LogoCasio-eps-converted-to.pdf>
+Package pdftex.def Info: otros/LogoCasio-eps-converted-to.pdf used on input lin
+e 344.
+(pdftex.def)             Requested size: 598.29138pt x 553.55937pt.
+ [363]
+Package epstopdf Info: Source file: <otros/LogoCasio.eps>
+(epstopdf)                    date: 2012-09-22 19:27:12
+(epstopdf)                    size: 13271 bytes
+(epstopdf)             Output file: <otros/LogoCasio-eps-converted-to.pdf>
+(epstopdf)                    date: 2012-09-22 21:13:51
+(epstopdf)                    size: 4037 bytes
+(epstopdf)             Command: <repstopdf --outfile=otros/LogoCasio-eps-conver
+ted-to.pdf otros/LogoCasio.eps>
+(epstopdf)             \includegraphics on input line 345.
+Package epstopdf Info: Output file is already uptodate.
+File: otros/LogoCasio-eps-converted-to.pdf Graphic file (type pdf)
+
+<use otros/LogoCasio-eps-converted-to.pdf>
+Package pdftex.def Info: otros/LogoCasio-eps-converted-to.pdf used on input lin
+e 345.
+(pdftex.def)             Requested size: 598.29138pt x 553.55937pt.
+ [364] (./programaSMM2012.ind
+[365
+
+] [366] [367] [368] [369] [370] [371] [372] [373] [374] [375] [376]
+[377] [378] [379] [380] [381])
+Package epstopdf Info: Source file: <smm_relleno_claro.eps>
+(epstopdf)                    date: 2010-10-12 00:23:06
+(epstopdf)                    size: 366822 bytes
+(epstopdf)             Output file: <smm_relleno_claro-eps-converted-to.pdf>
+(epstopdf)                    date: 2012-09-22 22:24:28
+(epstopdf)                    size: 51492 bytes
+(epstopdf)             Command: <repstopdf --outfile=smm_relleno_claro-eps-conv
+erted-to.pdf smm_relleno_claro.eps>
+(epstopdf)             \includegraphics on input line 371.
+Package epstopdf Info: Output file is already uptodate.
+File: smm_relleno_claro-eps-converted-to.pdf Graphic file (type pdf)
+ <use smm_relleno_claro-eps-converted-to.pdf>
+Package pdftex.def Info: smm_relleno_claro-eps-converted-to.pdf used on input l
+ine 371.
+(pdftex.def)             Requested size: 97.3635pt x 83.31104pt.
+
+[382
 
 
 ] (./programaSMM2012.aux)
@@ -11314,12 +11703,77 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 5624 strings out of 493634
- 69503 string characters out of 3146334
- 172289 words of memory out of 3000000
- 8501 multiletter control sequences out of 15000+200000
- 58949 words of font info for 140 fonts, out of 3000000 for 9000
+ 6155 strings out of 493633
+ 78549 string characters out of 3146311
+ 185472 words of memory out of 3000000
+ 8944 multiletter control sequences out of 15000+200000
+ 78927 words of font info for 195 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 36i,15n,43p,10357b,2448s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,15n,43p,10357b,2448s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/local/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/l
+ocal/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/share/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmb10.pfb></usr/local/share/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmex10.pfb></usr/local/share/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmmi10.pfb></usr/local/share/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr10.pfb></usr/local/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+12.pfb></usr/local/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></u
+sr/local/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/s
+hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/share/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/share/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/share/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmsy7.pfb></usr/local/share/texmf-dist/fonts/type1/public/d
+oublestroke/dsrom10.pfb></usr/local/share/texmf-dist/fonts/type1/public/esint-t
+ype1/esint10.pfb></usr/local/share/texmf-dist/fonts/type1/public/amsfonts/euler
+/euex10.pfb></usr/local/share/texmf-dist/fonts/type1/public/amsfonts/euler/eufb
+10.pfb></usr/local/share/texmf-dist/fonts/type1/public/amsfonts/euler/eufm10.pf
+b></usr/local/share/texmf-dist/fonts/type1/public/amsfonts/euler/eufm5.pfb></us
+r/local/share/texmf-dist/fonts/type1/public/amsfonts/euler/eufm7.pfb></usr/loca
+l/share/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb></usr/local/sha
+re/texmf-dist/fonts/type1/public/amsfonts/euler/eurb5.pfb></usr/local/share/tex
+mf-dist/fonts/type1/public/amsfonts/euler/eurb7.pfb></usr/local/share/texmf-dis
+t/fonts/type1/public/amsfonts/euler/eurm10.pfb></usr/local/share/texmf-dist/fon
+ts/type1/public/amsfonts/euler/eurm5.pfb></usr/local/share/texmf-dist/fonts/typ
+e1/public/amsfonts/euler/eurm7.pfb></usr/local/share/texmf-dist/fonts/type1/pub
+lic/amsfonts/euler/eusm10.pfb></usr/local/share/texmf-dist/fonts/type1/public/a
+msfonts/euler/eusm7.pfb></usr/local/share/texmf-dist/fonts/type1/public/amsfont
+s/latxfont/lasy10.pfb></usr/local/share/texmf-dist/fonts/type1/public/amsfonts/
+symbols/msam10.pfb></usr/local/share/texmf-dist/fonts/type1/public/amsfonts/sym
+bols/msam7.pfb></usr/local/share/texmf-dist/fonts/type1/public/amsfonts/symbols
+/msbm10.pfb></usr/local/share/texmf-dist/fonts/type1/public/amsfonts/symbols/ms
+bm7.pfb></usr/local/share/texmf-dist/fonts/type1/public/rsfs/rsfs10.pfb></usr/l
+ocal/share/texmf-dist/fonts/type1/public/cm-super/sfbl1200.pfb></usr/local/shar
+e/texmf-dist/fonts/type1/public/cm-super/sfbx0800.pfb></usr/local/share/texmf-d
+ist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/share/texmf-dist/fonts
+/type1/public/cm-super/sfbx1200.pfb></usr/local/share/texmf-dist/fonts/type1/pu
+blic/cm-super/sfbx1440.pfb></usr/local/share/texmf-dist/fonts/type1/public/cm-s
+uper/sfbx2074.pfb></usr/local/share/texmf-dist/fonts/type1/public/cm-super/sfcc
+1000.pfb></usr/local/share/texmf-dist/fonts/type1/public/cm-super/sfrm0500.pfb>
+</usr/local/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/loc
+al/share/texmf-dist/fonts/type1/public/cm-super/sfsi0800.pfb></usr/local/share/
+texmf-dist/fonts/type1/public/cm-super/sfsi0900.pfb></usr/local/share/texmf-dis
+t/fonts/type1/public/cm-super/sfsi1000.pfb></usr/local/share/texmf-dist/fonts/t
+ype1/public/cm-super/sfsl1000.pfb></usr/local/share/texmf-dist/fonts/type1/publ
+ic/cm-super/sfso1000.pfb></usr/local/share/texmf-dist/fonts/type1/public/cm-sup
+er/sfso1200.pfb></usr/local/share/texmf-dist/fonts/type1/public/cm-super/sfss08
+00.pfb></usr/local/share/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb></
+usr/local/share/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local
+/share/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/share/te
+xmf-dist/fonts/type1/public/cm-super/sfss1728.pfb></usr/local/share/texmf-dist/
+fonts/type1/public/cm-super/sfss2488.pfb></usr/local/share/texmf-dist/fonts/typ
+e1/public/cm-super/sfsx0800.pfb></usr/local/share/texmf-dist/fonts/type1/public
+/cm-super/sfsx0900.pfb></usr/local/share/texmf-dist/fonts/type1/public/cm-super
+/sfsx1000.pfb></usr/local/share/texmf-dist/fonts/type1/public/cm-super/sfsx1200
+.pfb></usr/local/share/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></us
+r/local/share/texmf-dist/fonts/type1/public/cm-super/sfsx2488.pfb></usr/local/s
+hare/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/share/texm
+f-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/share/texmf-dist/fo
+nts/type1/public/cm-super/sftt1000.pfb></usr/local/share/texmf-dist/fonts/type1
+/urw/avantgar/uagd8a.pfb></usr/local/share/texmf-dist/fonts/type1/urw/avantgar/
+uagdo8a.pfb>
+Output written on programaSMM2012.pdf (386 pages, 3102145 bytes).
+PDF statistics:
+ 1537 PDF objects out of 1728 (max. 8388607)
+ 1060 compressed objects within 11 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on programaSMM2012.dvi (387 pages, 2600460 bytes).

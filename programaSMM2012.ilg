@@ -7,7 +7,7 @@ Scanning input file programaSMM2012.idx....
 !! Input index error (file = programaSMM2012.idx, line = 343):
    -- Extra `@' at position 46 of first argument.
 done (952 entries accepted, 2 rejected).
-Sorting entries...........done (10858 comparisons).
-Generating output file programaSMM2012.ind....done (1889 lines written, 0 warnings).
+Sorting entries...........done (10881 comparisons).
+Generating output file programaSMM2012.ind....done (1886 lines written, 0 warnings).
 Output written in programaSMM2012.ind.
 Transcript written in programaSMM2012.ilg.
