@@ -1,13 +1,13 @@
 This is makeindex, version 2.15 [TeX Live 2011] (kpathsea + Thai support).
 Scanning style file ./indice.sty......done (6 attributes redefined, 0 ignored).
 Scanning input file programaSMM2012.idx....
-!! Input index error (file = programaSMM2012.idx, line = 336):
+!! Input index error (file = programaSMM2012.idx, line = 366):
    -- Extra `@' at position 42 of first argument.
 
-!! Input index error (file = programaSMM2012.idx, line = 343):
+!! Input index error (file = programaSMM2012.idx, line = 373):
    -- Extra `@' at position 46 of first argument.
-done (952 entries accepted, 2 rejected).
-Sorting entries...........done (10963 comparisons).
-Generating output file programaSMM2012.ind....done (1886 lines written, 0 warnings).
+done (980 entries accepted, 2 rejected).
+Sorting entries..........done (10436 comparisons).
+Generating output file programaSMM2012.ind....done (1934 lines written, 0 warnings).
 Output written in programaSMM2012.ind.
 Transcript written in programaSMM2012.ilg.

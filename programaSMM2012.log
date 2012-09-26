@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011-OpenBSD_Ports) (format=latex 2011.9.1)  25 SEP 2012 02:31
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011-OpenBSD_Ports) (format=latex 2011.9.1)  26 SEP 2012 11:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -409,8 +409,8 @@ File: smm_relleno_claro.eps Graphic file (type eps)
 
 
 ] [2]
-File: otros/ANUNCIO-UAQ.eps Graphic file (type eps)
- <otros/ANUNCIO-UAQ.eps> [3]
+File: otros/ANUNCIO_UAQ.eps Graphic file (type eps)
+ <otros/ANUNCIO_UAQ.eps> [3]
 LaTeX Font Info:    Try loading font information for T1+pag on input line 147.
 
 (/usr/local/share/texmf-dist/tex/latex/psnfss/t1pag.fd
@@ -907,9 +907,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 218--220
 
  []
 
-) [25] [26
+) [25] (./sesiones/horarios/mesas.tex
+Underfull \hbox (badness 10000) in paragraph at lines 199--209
 
-] (./sesiones/horarios/DinHam.tex
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--232
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--249
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--270
+
+ []
+
+[26
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 282--290
+
+ []
+
+) [27] (./sesiones/horarios/DinHam.tex
 Underfull \hbox (badness 10000) in paragraph at lines 183--185
 
  []
@@ -949,9 +974,64 @@ Underfull \hbox (badness 10000) in paragraph at lines 211--213
 
  []
 
-[27
+[28
 
-]) (./sesiones/horarios/SMMBach.tex
+]) (./sesiones/horarios/EncEsc.tex
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--191
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--203
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
+
+ []
+
+) (./sesiones/horarios/SMMBach.tex [29]
 Underfull \hbox (badness 10000) in paragraph at lines 183--185
 
  []
@@ -1001,7 +1081,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 225--227
 
  []
 
-[28]) (./sesiones/horarios/MatLic.tex
+[30]) (./sesiones/horarios/MatLic.tex
 Underfull \hbox (badness 10000) in paragraph at lines 208--210
 
  []
@@ -1056,7 +1136,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 257--259
 
  []
 
-[29]
+[31]
 Underfull \hbox (badness 10000) in paragraph at lines 262--264
 
  []
@@ -1111,7 +1191,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 220--223
 
  []
 
-[30]) (./sesiones/horarios/Misce.tex
+[32]) (./sesiones/horarios/Misce.tex
 Underfull \hbox (badness 10000) in paragraph at lines 184--186
 
  []
@@ -1156,7 +1236,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 224--226
 
  []
 
-[31]) (./sesiones/horarios/ProInv.tex
+[33]) (./sesiones/horarios/ProInv.tex
 Underfull \hbox (badness 10000) in paragraph at lines 184--186
 
  []
@@ -1214,7 +1294,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 235--237
 ) (./sesiones/horarios/SoftLib.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [32]
+ [34]
 Underfull \hbox (badness 10000) in paragraph at lines 185--187
 
  []
@@ -1244,7 +1324,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 211--213
 
  []
 
-[33]) (./sesiones/horarios/DifPos.tex
+[35]) (./sesiones/horarios/DifPos.tex
 Underfull \hbox (badness 10000) in paragraph at lines 201--203
 
  []
@@ -1274,7 +1354,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 227--229
 
  []
 
-[34]) (./sesiones/horarios/PreLib.tex
+[36]) (./sesiones/horarios/PreLib.tex
 Underfull \hbox (badness 10000) in paragraph at lines 210--212
 
  []
@@ -1334,7 +1414,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 268--270
 
  []
 
-[35]
+[37]
 Underfull \hbox (badness 10000) in paragraph at lines 273--275
 
  []
@@ -1379,7 +1459,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 316--318
 
  []
 
-) (./sesiones/horarios/JovenAJoven.tex [36]
+) (./sesiones/horarios/JovenAJoven.tex [38]
 Underfull \hbox (badness 10000) in paragraph at lines 222--226
 
  []
@@ -1489,7 +1569,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 359--362
 
  []
 
-[37]
+[39]
 Underfull \hbox (badness 10000) in paragraph at lines 365--368
 
  []
@@ -1529,7 +1609,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 566--569
 
  []
 
-[38]
+[40]
 Underfull \hbox (badness 10000) in paragraph at lines 572--575
 
  []
@@ -1574,7 +1654,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 621--624
 
  []
 
-) [39] (./areas/horarios/Alge.tex
+) [41] (./areas/horarios/Alge.tex
 Underfull \hbox (badness 10000) in paragraph at lines 165--167
 
  []
@@ -1633,7 +1713,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 205--207
 
  []
 
-[40
+[42
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 209--211
@@ -1693,7 +1773,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 249--251
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [41]
+ [43]
 Underfull \hbox (badness 10000) in paragraph at lines 419--421
 
  []
@@ -1763,7 +1843,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 471--473
 
  []
 
-[42]
+[44]
 Underfull \hbox (badness 10000) in paragraph at lines 475--477
 
  []
@@ -1823,7 +1903,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 196--198
 
  []
 
-[43]
+[45]
 Underfull \hbox (badness 10000) in paragraph at lines 200--202
 
  []
@@ -1961,7 +2041,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 308--310
 ) (./areas/horarios/AnaNum.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [44]
+ [46]
 Underfull \hbox (badness 10000) in paragraph at lines 172--174
 
  []
@@ -2016,7 +2096,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 216--218
 
  []
 
-[45]
+[47]
 Underfull \hbox (badness 10000) in paragraph at lines 220--222
 
  []
@@ -2146,7 +2226,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 317--319
 
  []
 
-[46]
+[48]
 Underfull \hbox (badness 10000) in paragraph at lines 321--323
 
  []
@@ -2191,7 +2271,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 181--183
 
  []
 
-[47]
+[49]
 Underfull \hbox (badness 10000) in paragraph at lines 185--187
 
  []
@@ -2294,7 +2374,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 261--263
 ) (./areas/horarios/CieComp.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [48]
+ [50]
 Underfull \hbox (badness 10000) in paragraph at lines 179--181
 
  []
@@ -2349,7 +2429,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 215--217
 
  []
 
-[49]
+[51]
 Underfull \hbox (badness 10000) in paragraph at lines 219--221
 
  []
@@ -2381,11 +2461,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 150--152
 
 
 Underfull \hbox (badness 5260) in paragraph at lines 154--156
-\T1/cmss/m/n/10 17.7[] \T1/cmss/bx/n/10 Cur-so: Ta-ller de re-so-lu-ción de pro
+\T1/cmss/m/n/10 18.7[] \T1/cmss/bx/n/10 Cur-so: Ta-ller de re-so-lu-ción de pro
 blemas-
  []
 
-[50]
+[52]
 Underfull \hbox (badness 10000) in paragraph at lines 313--315
 
  []
@@ -2395,12 +2475,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 317--319
 
  []
 
-[51]
+[53]
 Underfull \hbox (badness 10000) in paragraph at lines 474--476
 
  []
 
-[52]
+[54]
 Underfull \hbox (badness 10000) in paragraph at lines 630--632
 
  []
@@ -2410,7 +2490,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 634--636
 
  []
 
-[53]
+[55]
 Underfull \hbox (badness 10000) in paragraph at lines 792--794
 
  []
@@ -2420,7 +2500,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 796--798
 
  []
 
-[54]
+[56]
 Underfull \hbox (badness 10000) in paragraph at lines 953--955
 
  []
@@ -2430,7 +2510,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 957--959
 
  []
 
-) (./areas/horarios/EcDifAp.tex [55]
+) (./areas/horarios/EcDifAp.tex [57]
 Underfull \hbox (badness 10000) in paragraph at lines 181--183
 
  []
@@ -2485,7 +2565,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 217--219
 
  []
 
-[56]
+[58]
 Underfull \hbox (badness 10000) in paragraph at lines 221--223
 
  []
@@ -2596,11 +2676,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 306--308
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 310--312
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 314--316
 
  []
@@ -2620,12 +2695,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 322--324
 
  []
 
-[57]
+
 Underfull \hbox (badness 10000) in paragraph at lines 326--328
 
  []
 
-
+[59]
 Underfull \hbox (badness 10000) in paragraph at lines 330--332
 
  []
@@ -2665,12 +2740,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 537--539
 
  []
 
-[58]
+
 Underfull \hbox (badness 10000) in paragraph at lines 541--543
 
  []
 
-
+[60]
 Underfull \hbox (badness 10000) in paragraph at lines 545--547
 
  []
@@ -2710,12 +2785,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 202--204
 
  []
 
-[59]
+
 Underfull \hbox (badness 10000) in paragraph at lines 206--208
 
  []
 
-
+[61]
 Underfull \hbox (badness 10000) in paragraph at lines 210--212
 
  []
@@ -2830,7 +2905,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 298--300
 
  []
 
-[60]) (./areas/horarios/Expe.tex
+) (./areas/horarios/Expe.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [62]
 Underfull \hbox (badness 10000) in paragraph at lines 151--153
 
  []
@@ -2875,7 +2953,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 183--185
 
  []
 
-[61]
+[63]
 Underfull \hbox (badness 10000) in paragraph at lines 338--340
 
  []
@@ -2920,7 +2998,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 370--372
 
  []
 
-[62]
+[64]
 Underfull \hbox (badness 10000) in paragraph at lines 524--526
 
  []
@@ -2960,7 +3038,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 552--554
 
  []
 
-) (./areas/horarios/FMat.tex [63]
+) (./areas/horarios/FMat.tex [65]
 Underfull \hbox (badness 10000) in paragraph at lines 179--181
 
  []
@@ -3010,7 +3088,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 215--217
 
  []
 
-[64]
+[66]
 Underfull \hbox (badness 10000) in paragraph at lines 219--221
 
  []
@@ -3055,7 +3133,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 251--253
 
  []
 
-) (./areas/horarios/GeoAlg.tex [65]
+) (./areas/horarios/GeoAlg.tex [67]
 Underfull \hbox (badness 10000) in paragraph at lines 165--167
 
  []
@@ -3138,7 +3216,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 225--227
 ) (./areas/horarios/HisFil.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [66]
+ [68]
 Underfull \hbox (badness 10000) in paragraph at lines 165--167
 
  []
@@ -3203,7 +3281,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 213--215
 
  []
 
-[67]
+[69]
 Underfull \hbox (badness 10000) in paragraph at lines 217--219
 
  []
@@ -3258,7 +3336,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 185--187
 
  []
 
-[68]
+[70]
 Underfull \hbox (badness 10000) in paragraph at lines 189--191
 
  []
@@ -3351,7 +3429,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 257--259
 ) (./areas/horarios/MatDisc.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [69]
+ [71]
 Underfull \hbox (badness 10000) in paragraph at lines 179--181
 
  []
@@ -3406,7 +3484,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 219--221
 
  []
 
-[70]
+[72]
 Underfull \hbox (badness 10000) in paragraph at lines 223--225
 
  []
@@ -3546,7 +3624,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 331--333
 
  []
 
-[71]) (./areas/horarios/MatEdu.tex
+[73]) (./areas/horarios/MatEdu.tex
 Underfull \hbox (badness 10000) in paragraph at lines 193--195
 
  []
@@ -3586,7 +3664,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 221--223
 
  []
 
-[72]
+[74]
 Underfull \hbox (badness 10000) in paragraph at lines 225--227
 
  []
@@ -3721,7 +3799,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 329--331
 
  []
 
-[73]
+[75]
 Underfull \hbox (badness 10000) in paragraph at lines 333--335
 
  []
@@ -3799,7 +3877,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 389--391
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [74]
+ [76]
 Underfull \hbox (badness 10000) in paragraph at lines 588--590
 
  []
@@ -3844,7 +3922,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 620--622
 
  []
 
-[75]
+[77]
 Underfull \hbox (badness 10000) in paragraph at lines 624--626
 
  []
@@ -3979,7 +4057,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 728--730
 
  []
 
-[76]
+[78]
 Underfull \hbox (badness 10000) in paragraph at lines 732--734
 
  []
@@ -4032,7 +4110,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 768--770
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [77]
+ [79]
 Underfull \hbox (badness 10000) in paragraph at lines 964--966
 
  []
@@ -4072,7 +4150,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 992--994
 
  []
 
-[78]
+[80]
 Underfull \hbox (badness 10000) in paragraph at lines 996--998
 
  []
@@ -4180,7 +4258,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1076--1078
 ) (./areas/horarios/MatIng.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [79]
+ [81]
 Underfull \hbox (badness 10000) in paragraph at lines 169--171
 
  []
@@ -4240,7 +4318,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 213--215
 
  []
 
-[80]
+[82]
 Underfull \hbox (badness 10000) in paragraph at lines 217--219
 
  []
@@ -4323,7 +4401,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 277--279
 ) (./areas/horarios/MatFin.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [81]
+ [83]
 Underfull \hbox (badness 10000) in paragraph at lines 152--154
 
  []
@@ -4388,7 +4466,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 200--202
 
  []
 
-[82]
+[84]
 Underfull \hbox (badness 10000) in paragraph at lines 204--206
 
  []
@@ -4481,7 +4559,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 272--274
 ) (./areas/horarios/Prob.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [83]
+ [85]
 Underfull \hbox (badness 10000) in paragraph at lines 165--167
 
  []
@@ -4536,7 +4614,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 208--210
 
  []
 
-[84]
+[86]
 Underfull \hbox (badness 10000) in paragraph at lines 212--214
 
  []
@@ -4589,7 +4667,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 248--250
 ) (./areas/horarios/SisDin.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [85]
+ [87]
 Underfull \hbox (badness 10000) in paragraph at lines 165--167
 
  []
@@ -4659,7 +4737,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 217--219
 
  []
 
-[86]
+[88]
 Underfull \hbox (badness 10000) in paragraph at lines 221--223
 
  []
@@ -4727,7 +4805,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 273--275
 ) (./areas/horarios/Talle.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [87]
+ [89]
 Underfull \hbox (badness 10000) in paragraph at lines 151--153
 
  []
@@ -4737,7 +4815,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 155--157
 
  []
 
-[88]
+[90]
 Underfull \hbox (badness 10000) in paragraph at lines 312--314
 
  []
@@ -4747,7 +4825,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 316--318
 
  []
 
-[89]
+[91]
 Underfull \hbox (badness 10000) in paragraph at lines 473--475
 
  []
@@ -4757,7 +4835,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 477--479
 
  []
 
-[90]
+[92]
 Underfull \hbox (badness 10000) in paragraph at lines 633--635
 
  []
@@ -4767,7 +4845,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 637--639
 
  []
 
-[91]
+[93]
 Underfull \hbox (badness 10000) in paragraph at lines 792--794
 
  []
@@ -4777,7 +4855,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 796--798
 
  []
 
-[92]
+[94]
 Underfull \hbox (badness 10000) in paragraph at lines 952--954
 
  []
@@ -4787,7 +4865,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 956--958
 
  []
 
-) (./areas/horarios/TeoNum.tex [93]
+) (./areas/horarios/TeoNum.tex [95]
 Underfull \hbox (badness 10000) in paragraph at lines 164--166
 
  []
@@ -4857,7 +4935,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 216--218
 
  []
 
-[94]
+[96]
 Underfull \hbox (badness 10000) in paragraph at lines 220--222
 
  []
@@ -4917,7 +4995,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 193--195
 
  []
 
-[95]
+[97]
 Underfull \hbox (badness 10000) in paragraph at lines 197--199
 
  []
@@ -4985,7 +5063,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 245--247
 ) (./areas/horarios/TopGen.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [96]
+ [98]
 Underfull \hbox (badness 10000) in paragraph at lines 165--167
 
  []
@@ -5050,7 +5128,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 213--215
 
  []
 
-[97]
+[99]
 Underfull \hbox (badness 10000) in paragraph at lines 217--219
 
  []
@@ -5077,11 +5155,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 233--235
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 237--239
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 241--243
 
  []
 
@@ -5123,7 +5196,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 269--271
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [98]
+ [100]
 Underfull \hbox (badness 10000) in paragraph at lines 461--463
 
  []
@@ -5183,7 +5256,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 505--507
 
  []
 
-[99]
+[101]
 Underfull \hbox (badness 10000) in paragraph at lines 509--511
 
  []
@@ -5238,7 +5311,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 161--163
 
  []
 
-[100]
+[102]
 Underfull \hbox (badness 10000) in paragraph at lines 165--167
 
  []
@@ -5383,7 +5456,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 277--279
 
  []
 
-[101]
+[103]
 Underfull \hbox (badness 10000) in paragraph at lines 281--283
 
  []
@@ -5523,7 +5596,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 389--391
 
  []
 
-[102]
+[104]
 Underfull \hbox (badness 10000) in paragraph at lines 393--395
 
  []
@@ -5668,7 +5741,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 505--507
 
  []
 
-[103])
+[105])
 Cap\'{\i }tulo 3.
 (./otros/tabla_panoramicas.tex
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 20--20
@@ -5702,7 +5775,7 @@ Underfull \hbox (badness 2134) in paragraph at lines 22--22
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 22--22
-[]\T1/cmss/m/n/10 14.1[]| 
+[]\T1/cmss/m/n/10 15.1[]| 
  []
 
 
@@ -5717,7 +5790,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--24
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 24--24
-[]\T1/cmss/m/n/10 13.1[]| 
+[]\T1/cmss/m/n/10 14.1[]| 
  []
 
 
@@ -5742,7 +5815,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--26
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 26--26
-[]\T1/cmss/m/n/10 24.1[]| 
+[]\T1/cmss/m/n/10 25.1[]| 
  []
 
 
@@ -5777,7 +5850,7 @@ Underfull \hbox (badness 4752) in paragraph at lines 28--28
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 28--28
-[]\T1/cmss/m/n/10 18.1[]| 
+[]\T1/cmss/m/n/10 19.1[]| 
  []
 
 
@@ -5807,7 +5880,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--30
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 30--30
-[]\T1/cmss/m/n/10 21.1[]| 
+[]\T1/cmss/m/n/10 22.1[]| 
  []
 
 
@@ -5827,7 +5900,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--32
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 32--32
-[]\T1/cmss/m/n/10 22.1[]| 
+[]\T1/cmss/m/n/10 23.1[]| 
  []
 
 
@@ -5872,7 +5945,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--36
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 36--36
-[]\T1/cmss/m/n/10 30.3[]| 
+[]\T1/cmss/m/n/10 31.3[]| 
  []
 
 
@@ -5887,7 +5960,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--38
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 38--38
-[]\T1/cmss/m/n/10 13.5[]| 
+[]\T1/cmss/m/n/10 14.5[]| 
  []
 
 
@@ -5947,10 +6020,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--42
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 42--42
-[]\T1/cmss/m/n/10 21.5[]| 
+[]\T1/cmss/m/n/10 22.5[]| 
  []
 
-[104
+[106
 
 ]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 43--43
@@ -5969,7 +6042,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--44
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 44--44
-[]\T1/cmss/m/n/10 30.4[]| 
+[]\T1/cmss/m/n/10 31.4[]| 
  []
 
 
@@ -6034,7 +6107,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--57
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 59--59
-[]\T1/cmss/m/n/10 13.8[]| 
+[]\T1/cmss/m/n/10 14.8[]| 
  []
 
 
@@ -6044,12 +6117,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 61--61
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 61--61
-[]\T1/cmss/m/n/10 33.7[]| 
+[]\T1/cmss/m/n/10 34.7[]| 
  []
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 63--63
-[]\T1/cmss/m/n/10 12.6[]| 
+[]\T1/cmss/m/n/10 13.6[]| 
  []
 
 
@@ -6064,7 +6137,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--65
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 65--65
-[]\T1/cmss/m/n/10 16.1[]| 
+[]\T1/cmss/m/n/10 17.1[]| 
  []
 
 
@@ -6084,7 +6157,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--67
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 67--67
-[]\T1/cmss/m/n/10 25.2[]| 
+[]\T1/cmss/m/n/10 26.2[]| 
  []
 
 
@@ -6104,7 +6177,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 69--69
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 69--69
-[]\T1/cmss/m/n/10 33.8[]| 
+[]\T1/cmss/m/n/10 34.8[]| 
  []
 
 
@@ -6119,7 +6192,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 71--71
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 71--71
-[]\T1/cmss/m/n/10 13.13[]| 
+[]\T1/cmss/m/n/10 14.13[]| 
  []
 
 
@@ -6139,7 +6212,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 73--73
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 73--73
-[]\T1/cmss/m/n/10 33.12[]| 
+[]\T1/cmss/m/n/10 34.12[]| 
  []
 
 
@@ -6169,7 +6242,7 @@ Underfull \hbox (badness 5504) in paragraph at lines 75--75
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 75--75
-[]\T1/cmss/m/n/10 28.11[]| 
+[]\T1/cmss/m/n/10 29.11[]| 
  []
 
 
@@ -6189,7 +6262,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--77
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 77--77
-[]\T1/cmss/m/n/10 22.8[]| 
+[]\T1/cmss/m/n/10 23.8[]| 
  []
 
 
@@ -6207,7 +6280,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--79
 []\T1/cmss/m/n/10 Problemas
  []
 
-[105]
+[107]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 80--80
 []\T1/cmss/bx/n/10 Nivel| 
  []
@@ -6229,7 +6302,7 @@ Underfull \hbox (badness 2134) in paragraph at lines 81--81
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 81--81
-[]\T1/cmss/m/n/10 14.12[]| 
+[]\T1/cmss/m/n/10 15.12[]| 
  []
 
 
@@ -6254,7 +6327,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 83--83
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 83--83
-[]\T1/cmss/m/n/10 26.18[]| 
+[]\T1/cmss/m/n/10 27.18[]| 
  []
 
 
@@ -6299,7 +6372,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 87--87
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 87--87
-[]\T1/cmss/m/n/10 21.11[]| 
+[]\T1/cmss/m/n/10 22.11[]| 
  []
 
 
@@ -6329,7 +6402,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 89--89
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 89--89
-[]\T1/cmss/m/n/10 25.8[]| 
+[]\T1/cmss/m/n/10 26.8[]| 
  []
 
 
@@ -6359,7 +6432,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 91--91
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 91--91
-[]\T1/cmss/m/n/10 16.6[]| 
+[]\T1/cmss/m/n/10 17.6[]| 
  []
 
 
@@ -6379,7 +6452,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 93--93
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 93--93
-[]\T1/cmss/m/n/10 34.12[]| 
+[]\T1/cmss/m/n/10 35.12[]| 
  []
 
 
@@ -6394,7 +6467,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 95--95
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 95--95
-[]\T1/cmss/m/n/10 30.9[]| 
+[]\T1/cmss/m/n/10 31.9[]| 
  []
 
 
@@ -6429,7 +6502,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 97--97
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 97--97
-[]\T1/cmss/m/n/10 21.12[]| 
+[]\T1/cmss/m/n/10 22.12[]| 
  []
 
 
@@ -6454,7 +6527,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 99--99
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 99--99
-[]\T1/cmss/m/n/10 16.7[]| 
+[]\T1/cmss/m/n/10 17.7[]| 
  []
 
 
@@ -6484,7 +6557,7 @@ Underfull \hbox (badness 5504) in paragraph at lines 101--101
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 101--101
-[]\T1/cmss/m/n/10 28.12[]| 
+[]\T1/cmss/m/n/10 29.12[]| 
  []
 
 
@@ -6544,10 +6617,10 @@ Underfull \hbox (badness 5504) in paragraph at lines 105--105
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 105--105
-[]\T1/cmss/m/n/10 28.13[]| 
+[]\T1/cmss/m/n/10 29.13[]| 
  []
 
-[106]
+[108]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 106--106
 []\T1/cmss/bx/n/10 Nivel| 
  []
@@ -6614,7 +6687,7 @@ Underfull \hbox (badness 2134) in paragraph at lines 120--120
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 120--120
-[]\T1/cmss/m/n/10 14.18[]| 
+[]\T1/cmss/m/n/10 15.18[]| 
  []
 
 
@@ -6624,7 +6697,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 122--122
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 122--122
-[]\T1/cmss/m/n/10 27.1[]| 
+[]\T1/cmss/m/n/10 28.1[]| 
  []
 
 
@@ -6644,7 +6717,7 @@ Underfull \hbox (badness 4752) in paragraph at lines 124--124
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 124--124
-[]\T1/cmss/m/n/10 18.20[]| 
+[]\T1/cmss/m/n/10 19.20[]| 
  []
 
 
@@ -6664,7 +6737,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 126--126
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 126--126
-[]\T1/cmss/m/n/10 12.15[]| 
+[]\T1/cmss/m/n/10 13.15[]| 
  []
 
 
@@ -6689,7 +6762,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 128--128
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 128--128
-[]\T1/cmss/m/n/10 32.3[]| 
+[]\T1/cmss/m/n/10 33.3[]| 
  []
 
 
@@ -6719,7 +6792,7 @@ Underfull \hbox (badness 5504) in paragraph at lines 130--130
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 130--130
-[]\T1/cmss/m/n/10 28.17[]| 
+[]\T1/cmss/m/n/10 29.17[]| 
  []
 
 
@@ -6749,7 +6822,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 132--132
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 132--132
-[]\T1/cmss/m/n/10 25.20[]| 
+[]\T1/cmss/m/n/10 26.20[]| 
  []
 
 
@@ -6774,7 +6847,7 @@ Overfull \hbox (11.67816pt too wide) in paragraph at lines 134--134
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 134--134
-[]\T1/cmss/m/n/10 15.14[]| 
+[]\T1/cmss/m/n/10 16.14[]| 
  []
 
 
@@ -6804,7 +6877,7 @@ Underfull \hbox (badness 5504) in paragraph at lines 136--136
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 136--136
-[]\T1/cmss/m/n/10 28.19[]| 
+[]\T1/cmss/m/n/10 29.19[]| 
  []
 
 
@@ -6829,7 +6902,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 138--138
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 138--138
-[]\T1/cmss/m/n/10 32.5[]| 
+[]\T1/cmss/m/n/10 33.5[]| 
  []
 
 
@@ -6859,10 +6932,10 @@ Underfull \hbox (badness 4752) in paragraph at lines 140--140
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 140--140
-[]\T1/cmss/m/n/10 18.25[]| 
+[]\T1/cmss/m/n/10 19.25[]| 
  []
 
-[107]
+[109]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 141--141
 []\T1/cmss/bx/n/10 Nivel| 
  []
@@ -6884,7 +6957,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 142--142
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 142--142
-[]\T1/cmss/m/n/10 34.17[]| 
+[]\T1/cmss/m/n/10 35.17[]| 
  []
 
 
@@ -6899,7 +6972,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 144--144
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 144--144
-[]\T1/cmss/m/n/10 29.6[]| 
+[]\T1/cmss/m/n/10 30.6[]| 
  []
 
 
@@ -6929,7 +7002,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 146--146
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 146--146
-[]\T1/cmss/m/n/10 21.19[]| 
+[]\T1/cmss/m/n/10 22.19[]| 
  []
 
 
@@ -6944,7 +7017,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 148--148
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 148--148
-[]\T1/cmss/m/n/10 12.33[]| 
+[]\T1/cmss/m/n/10 13.33[]| 
  []
 
 
@@ -6964,7 +7037,7 @@ Underfull \hbox (badness 2134) in paragraph at lines 150--150
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 150--150
-[]\T1/cmss/m/n/10 14.23[]| 
+[]\T1/cmss/m/n/10 15.23[]| 
  []
 
 
@@ -6984,7 +7057,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 152--152
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 152--152
-[]\T1/cmss/m/n/10 33.21[]| 
+[]\T1/cmss/m/n/10 34.21[]| 
  []
 
 
@@ -7029,7 +7102,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 165--165
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 165--165
-[]\T1/cmss/m/n/10 22.14[]| 
+[]\T1/cmss/m/n/10 23.14[]| 
  []
 
 
@@ -7044,7 +7117,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 167--167
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 167--167
-[]\T1/cmss/m/n/10 32.6[]| 
+[]\T1/cmss/m/n/10 33.6[]| 
  []
 
 
@@ -7054,7 +7127,7 @@ Underfull \hbox (badness 2134) in paragraph at lines 169--169
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 169--169
-[]\T1/cmss/m/n/10 14.24[]| 
+[]\T1/cmss/m/n/10 15.24[]| 
  []
 
 
@@ -7069,7 +7142,7 @@ Overfull \hbox (11.67816pt too wide) in paragraph at lines 173--173
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 173--173
-[]\T1/cmss/m/n/10 15.16[]| 
+[]\T1/cmss/m/n/10 16.16[]| 
  []
 
 
@@ -7079,7 +7152,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 175--175
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 175--175
-[]\T1/cmss/m/n/10 27.10[]| 
+[]\T1/cmss/m/n/10 28.10[]| 
  []
 
 
@@ -7094,10 +7167,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 177--177
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 177--177
-[]\T1/cmss/m/n/10 12.19[]| 
+[]\T1/cmss/m/n/10 13.19[]| 
  []
 
-[108]
+[110]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 178--178
 []\T1/cmss/bx/n/10 Nivel| 
  []
@@ -7124,7 +7197,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 179--179
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 179--179
-[]\T1/cmss/m/n/10 32.10[]| 
+[]\T1/cmss/m/n/10 33.10[]| 
  []
 
 
@@ -7144,7 +7217,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 181--181
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 181--181
-[]\T1/cmss/m/n/10 22.16[]| 
+[]\T1/cmss/m/n/10 23.16[]| 
  []
 
 
@@ -7164,7 +7237,7 @@ Overfull \hbox (11.67816pt too wide) in paragraph at lines 183--183
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 183--183
-[]\T1/cmss/m/n/10 15.19[]| 
+[]\T1/cmss/m/n/10 16.19[]| 
  []
 
 
@@ -7194,7 +7267,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 185--185
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 185--185
-[]\T1/cmss/m/n/10 25.29[]| 
+[]\T1/cmss/m/n/10 26.29[]| 
  []
 
 
@@ -7214,7 +7287,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 187--187
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 187--187
-[]\T1/cmss/m/n/10 27.19[]| 
+[]\T1/cmss/m/n/10 28.19[]| 
  []
 
 
@@ -7229,7 +7302,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 189--189
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 189--189
-[]\T1/cmss/m/n/10 30.20[]| 
+[]\T1/cmss/m/n/10 31.20[]| 
  []
 
 
@@ -7259,7 +7332,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 191--191
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 191--191
-[]\T1/cmss/m/n/10 25.30[]| 
+[]\T1/cmss/m/n/10 26.30[]| 
  []
 
 
@@ -7294,7 +7367,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 205--205
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 205--205
-[]\T1/cmss/m/n/10 25.31[]| 
+[]\T1/cmss/m/n/10 26.31[]| 
  []
 
 
@@ -7304,7 +7377,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 207--207
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 207--207
-[]\T1/cmss/m/n/10 27.20[]| 
+[]\T1/cmss/m/n/10 28.20[]| 
  []
 
 
@@ -7319,7 +7392,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 209--209
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 209--209
-[]\T1/cmss/m/n/10 32.12[]| 
+[]\T1/cmss/m/n/10 33.12[]| 
  []
 
 
@@ -7344,7 +7417,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 211--211
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 211--211
-[]\T1/cmss/m/n/10 32.14[]| 
+[]\T1/cmss/m/n/10 33.14[]| 
  []
 
 
@@ -7379,7 +7452,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 213--213
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 213--213
-[]\T1/cmss/m/n/10 25.35[]| 
+[]\T1/cmss/m/n/10 26.35[]| 
  []
 
 
@@ -7409,7 +7482,7 @@ Underfull \hbox (badness 5504) in paragraph at lines 215--215
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 215--215
-[]\T1/cmss/m/n/10 28.31[]| 
+[]\T1/cmss/m/n/10 29.31[]| 
  []
 
 
@@ -7439,10 +7512,10 @@ Underfull \hbox (badness 4752) in paragraph at lines 217--217
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 217--217
-[]\T1/cmss/m/n/10 18.38[]| 
+[]\T1/cmss/m/n/10 19.37[]| 
  []
 
-[109]
+[111]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 218--218
 []\T1/cmss/bx/n/10 Nivel| 
  []
@@ -7459,7 +7532,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 219--219
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 219--219
-[]\T1/cmss/m/n/10 23.18[]| 
+[]\T1/cmss/m/n/10 24.18[]| 
  []
 
 
@@ -7484,10 +7557,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 221--221
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 221--221
-[]\T1/cmss/m/n/10 27.28[]| 
+[]\T1/cmss/m/n/10 28.28[]| 
  []
 
-) [110]
+) [112]
 Cap\'{\i }tulo 4.
 (./otros/tabla_divulgacion.tex
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 19--19
@@ -7536,7 +7609,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--23
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 23--23
-[]\T1/cmss/m/n/10 33.1[]| 
+[]\T1/cmss/m/n/10 34.1[]| 
  []
 
 
@@ -7586,7 +7659,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--27
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 27--27
-[]\T1/cmss/m/n/10 12.22[]| 
+[]\T1/cmss/m/n/10 13.22[]| 
  []
 
 
@@ -7601,7 +7674,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--29
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 29--29
-[]\T1/cmss/m/n/10 12.1[]| 
+[]\T1/cmss/m/n/10 13.1[]| 
  []
 
 
@@ -7631,7 +7704,7 @@ Overfull \hbox (11.67816pt too wide) in paragraph at lines 33--33
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 33--33
-[]\T1/cmss/m/n/10 15.1[]| 
+[]\T1/cmss/m/n/10 16.1[]| 
  []
 
 
@@ -7666,7 +7739,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--37
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 37--37
-[]\T1/cmss/m/n/10 26.2[]| 
+[]\T1/cmss/m/n/10 27.2[]| 
  []
 
 
@@ -7686,7 +7759,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--39
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 39--39
-[]\T1/cmss/m/n/10 26.52[]| 
+[]\T1/cmss/m/n/10 27.52[]| 
  []
 
 
@@ -7706,7 +7779,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--41
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 41--41
-[]\T1/cmss/m/n/10 26.98[]| 
+[]\T1/cmss/m/n/10 27.98[]| 
  []
 
 
@@ -7731,10 +7804,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--43
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 43--43
-[]\T1/cmss/m/n/10 24.2[]| 
+[]\T1/cmss/m/n/10 25.2[]| 
  []
 
-[111
+[113
 
 ]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 44--44
@@ -7753,7 +7826,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--45
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 45--45
-[]\T1/cmss/m/n/10 12.23[]| 
+[]\T1/cmss/m/n/10 13.23[]| 
  []
 
 
@@ -7788,7 +7861,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--47
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 47--47
-[]\T1/cmss/m/n/10 21.2[]| 
+[]\T1/cmss/m/n/10 22.2[]| 
  []
 
 
@@ -7808,7 +7881,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--49
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 49--49
-[]\T1/cmss/m/n/10 34.30[]| 
+[]\T1/cmss/m/n/10 35.29[]| 
  []
 
 
@@ -7823,7 +7896,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 51--51
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 51--51
-[]\T1/cmss/m/n/10 12.2[]| 
+[]\T1/cmss/m/n/10 13.2[]| 
  []
 
 
@@ -7843,7 +7916,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--53
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 53--53
-[]\T1/cmss/m/n/10 34.2[]| 
+[]\T1/cmss/m/n/10 35.2[]| 
  []
 
 
@@ -7858,7 +7931,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 55--55
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 55--55
-[]\T1/cmss/m/n/10 30.2[]| 
+[]\T1/cmss/m/n/10 31.2[]| 
  []
 
 
@@ -7878,7 +7951,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--57
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 57--57
-[]\T1/cmss/m/n/10 26.99[]| 
+[]\T1/cmss/m/n/10 27.99[]| 
  []
 
 
@@ -7938,7 +8011,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--65
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 65--65
-[]\T1/cmss/m/n/10 12.4[]| 
+[]\T1/cmss/m/n/10 13.4[]| 
  []
 
 
@@ -7953,7 +8026,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--67
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 67--67
-[]\T1/cmss/m/n/10 19.5[]| 
+[]\T1/cmss/m/n/10 20.5[]| 
  []
 
 
@@ -7983,7 +8056,7 @@ Underfull \hbox (badness 5504) in paragraph at lines 69--69
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 69--69
-[]\T1/cmss/m/n/10 28.4[]| 
+[]\T1/cmss/m/n/10 29.4[]| 
  []
 
 
@@ -8003,7 +8076,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 71--71
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 71--71
-[]\T1/cmss/m/n/10 22.3[]| 
+[]\T1/cmss/m/n/10 23.3[]| 
  []
 
 
@@ -8033,10 +8106,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 73--73
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 73--73
-[]\T1/cmss/m/n/10 24.3[]| 
+[]\T1/cmss/m/n/10 25.3[]| 
  []
 
-[112]
+[114]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 74--74
 []\T1/cmss/bx/n/10 Nivel| 
  []
@@ -8058,7 +8131,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 75--75
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 75--75
-[]\T1/cmss/m/n/10 34.4[]| 
+[]\T1/cmss/m/n/10 35.4[]| 
  []
 
 
@@ -8078,7 +8151,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--77
 
 
 Overfull \hbox (12.771pt too wide) in paragraph at lines 77--77
-[]\T1/cmss/m/n/10 26.105[]| 
+[]\T1/cmss/m/n/10 27.105[]| 
  []
 
 
@@ -8098,7 +8171,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--79
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 79--79
-[]\T1/cmss/m/n/10 26.60[]| 
+[]\T1/cmss/m/n/10 27.60[]| 
  []
 
 
@@ -8138,7 +8211,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 92--92
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 92--92
-[]\T1/cmss/m/n/10 26.11[]| 
+[]\T1/cmss/m/n/10 27.11[]| 
  []
 
 
@@ -8158,7 +8231,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 94--94
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 94--94
-[]\T1/cmss/m/n/10 34.34[]| 
+[]\T1/cmss/m/n/10 35.33[]| 
  []
 
 
@@ -8178,7 +8251,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 98--98
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 98--98
-[]\T1/cmss/m/n/10 24.6[]| 
+[]\T1/cmss/m/n/10 25.6[]| 
  []
 
 
@@ -8188,7 +8261,7 @@ Underfull \hbox (badness 2134) in paragraph at lines 100--100
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 100--100
-[]\T1/cmss/m/n/10 14.8[]| 
+[]\T1/cmss/m/n/10 15.8[]| 
  []
 
 
@@ -8203,12 +8276,12 @@ Overfull \hbox (11.67816pt too wide) in paragraph at lines 106--106
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 106--106
-[]\T1/cmss/m/n/10 15.5[]| 
+[]\T1/cmss/m/n/10 16.5[]| 
  []
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 108--108
-[]\T1/cmss/m/n/10 19.11[]| 
+[]\T1/cmss/m/n/10 20.11[]| 
  []
 
 
@@ -8216,7 +8289,7 @@ Underfull \hbox (badness 1728) in paragraph at lines 110--110
 \T1/cmss/m/n/10 ti-cas en las
  []
 
-[113]
+[115]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 111--111
 []\T1/cmss/bx/n/10 Nivel| 
  []
@@ -8238,7 +8311,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 112--112
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 112--112
-[]\T1/cmss/m/n/10 34.8[]| 
+[]\T1/cmss/m/n/10 35.8[]| 
  []
 
 
@@ -8268,7 +8341,7 @@ Underfull \hbox (badness 2134) in paragraph at lines 114--114
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 114--114
-[]\T1/cmss/m/n/10 14.9[]| 
+[]\T1/cmss/m/n/10 15.9[]| 
  []
 
 
@@ -8288,7 +8361,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 116--116
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 116--116
-[]\T1/cmss/m/n/10 26.14[]| 
+[]\T1/cmss/m/n/10 27.14[]| 
  []
 
 
@@ -8313,7 +8386,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 118--118
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 118--118
-[]\T1/cmss/m/n/10 24.7[]| 
+[]\T1/cmss/m/n/10 25.7[]| 
  []
 
 
@@ -8328,7 +8401,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 120--120
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 120--120
-[]\T1/cmss/m/n/10 12.7[]| 
+[]\T1/cmss/m/n/10 13.7[]| 
  []
 
 
@@ -8393,7 +8466,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 128--128
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 128--128
-[]\T1/cmss/m/n/10 34.9[]| 
+[]\T1/cmss/m/n/10 35.9[]| 
  []
 
 
@@ -8433,7 +8506,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 132--132
 
 
 Overfull \hbox (12.771pt too wide) in paragraph at lines 132--132
-[]\T1/cmss/m/n/10 26.111[]| 
+[]\T1/cmss/m/n/10 27.111[]| 
  []
 
 
@@ -8458,7 +8531,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 134--134
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 134--134
-[]\T1/cmss/m/n/10 33.9[]| 
+[]\T1/cmss/m/n/10 34.9[]| 
  []
 
 
@@ -8473,7 +8546,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 136--136
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 136--136
-[]\T1/cmss/m/n/10 30.6[]| 
+[]\T1/cmss/m/n/10 31.6[]| 
  []
 
 
@@ -8503,7 +8576,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 138--138
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 138--138
-[]\T1/cmss/m/n/10 25.6[]| 
+[]\T1/cmss/m/n/10 26.6[]| 
  []
 
 
@@ -8523,7 +8596,7 @@ Underfull \hbox (badness 1728) in paragraph at lines 140--140
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 140--140
-[]\T1/cmss/m/n/10 4.10[]| 
+[]\T1/cmss/m/n/10 5.10[]| 
  []
 
 
@@ -8531,7 +8604,7 @@ Underfull \hbox (badness 1342) in paragraph at lines 140--140
 []\T1/cmss/m/n/10 Construcción de una cur-va de
  []
 
-[114]
+[116]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 141--141
 []\T1/cmss/bx/n/10 Nivel| 
  []
@@ -8553,7 +8626,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 142--142
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 142--142
-[]\T1/cmss/m/n/10 26.16[]| 
+[]\T1/cmss/m/n/10 27.16[]| 
  []
 
 
@@ -8578,7 +8651,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 144--144
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 144--144
-[]\T1/cmss/m/n/10 34.39[]| 
+[]\T1/cmss/m/n/10 35.38[]| 
  []
 
 
@@ -8598,7 +8671,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 146--146
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 146--146
-[]\T1/cmss/m/n/10 34.10[]| 
+[]\T1/cmss/m/n/10 35.10[]| 
  []
 
 
@@ -8613,7 +8686,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 148--148
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 148--148
-[]\T1/cmss/m/n/10 30.7[]| 
+[]\T1/cmss/m/n/10 31.7[]| 
  []
 
 
@@ -8633,7 +8706,7 @@ Underfull \hbox (badness 1728) in paragraph at lines 150--150
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 150--150
-[]\T1/cmss/m/n/10 4.11[]| 
+[]\T1/cmss/m/n/10 5.11[]| 
  []
 
 
@@ -8653,7 +8726,7 @@ Underfull \hbox (badness 1728) in paragraph at lines 152--152
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 152--152
-[]\T1/cmss/m/n/10 4.12[]| 
+[]\T1/cmss/m/n/10 5.12[]| 
  []
 
 
@@ -8693,7 +8766,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 156--156
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 156--156
-[]\T1/cmss/m/n/10 24.11[]| 
+[]\T1/cmss/m/n/10 25.11[]| 
  []
 
 
@@ -8748,7 +8821,7 @@ Underfull \hbox (badness 1728) in paragraph at lines 162--162
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 162--162
-[]\T1/cmss/m/n/10 4.13[]| 
+[]\T1/cmss/m/n/10 5.13[]| 
  []
 
 
@@ -8773,7 +8846,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 164--164
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 164--164
-[]\T1/cmss/m/n/10 24.12[]| 
+[]\T1/cmss/m/n/10 25.12[]| 
  []
 
 
@@ -8808,7 +8881,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 168--168
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 168--168
-[]\T1/cmss/m/n/10 13.14[]| 
+[]\T1/cmss/m/n/10 14.14[]| 
  []
 
 
@@ -8826,7 +8899,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 170--170
 \T1/cmss/m/n/10 -
  []
 
-[115]
+[117]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 171--171
 []\T1/cmss/bx/n/10 Nivel| 
  []
@@ -8863,7 +8936,7 @@ Overfull \hbox (11.67816pt too wide) in paragraph at lines 174--174
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 174--174
-[]\T1/cmss/m/n/10 15.9[]| 
+[]\T1/cmss/m/n/10 16.9[]| 
  []
 
 
@@ -8883,7 +8956,7 @@ Underfull \hbox (badness 1728) in paragraph at lines 176--176
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 176--176
-[]\T1/cmss/m/n/10 4.15[]| 
+[]\T1/cmss/m/n/10 5.15[]| 
  []
 
 
@@ -8903,7 +8976,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 178--178
 
 
 Overfull \hbox (12.771pt too wide) in paragraph at lines 178--178
-[]\T1/cmss/m/n/10 26.116[]| 
+[]\T1/cmss/m/n/10 27.116[]| 
  []
 
 
@@ -8933,7 +9006,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 180--180
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 180--180
-[]\T1/cmss/m/n/10 21.13[]| 
+[]\T1/cmss/m/n/10 22.13[]| 
  []
 
 
@@ -8958,7 +9031,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 182--182
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 182--182
-[]\T1/cmss/m/n/10 24.13[]| 
+[]\T1/cmss/m/n/10 25.13[]| 
  []
 
 
@@ -8983,7 +9056,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 184--184
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 184--184
-[]\T1/cmss/m/n/10 33.14[]| 
+[]\T1/cmss/m/n/10 34.14[]| 
  []
 
 
@@ -9033,7 +9106,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 190--190
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 190--190
-[]\T1/cmss/m/n/10 24.14[]| 
+[]\T1/cmss/m/n/10 25.14[]| 
  []
 
 
@@ -9053,7 +9126,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 192--192
 
 
 Overfull \hbox (12.771pt too wide) in paragraph at lines 192--192
-[]\T1/cmss/m/n/10 26.118[]| 
+[]\T1/cmss/m/n/10 27.118[]| 
  []
 
 
@@ -9073,7 +9146,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 194--194
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 194--194
-[]\T1/cmss/m/n/10 26.23[]| 
+[]\T1/cmss/m/n/10 27.23[]| 
  []
 
 
@@ -9097,6 +9170,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 205--205
  []
 
 
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 205--205
+[]\T1/cmss/m/n/10 10.1[]| 
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 207--207
 []\T1/cmss/m/n/10 Aud. C.
  []
@@ -9113,10 +9191,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 207--207
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 207--207
-[]\T1/cmss/m/n/10 25.14[]| 
+[]\T1/cmss/m/n/10 26.14[]| 
  []
 
-[116]
+[118]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 208--208
 []\T1/cmss/bx/n/10 Nivel| 
  []
@@ -9128,7 +9206,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 209--209
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 209--209
-[]\T1/cmss/m/n/10 26.73[]| 
+[]\T1/cmss/m/n/10 27.73[]| 
  []
 
 
@@ -9138,7 +9216,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 209--209
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 211--211
-[]\T1/cmss/m/n/10 23.1[]| 
+[]\T1/cmss/m/n/10 24.1[]| 
  []
 
 
@@ -9153,12 +9231,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 213--213
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 213--213
-[]\T1/cmss/m/n/10 32.1[]| 
+[]\T1/cmss/m/n/10 33.1[]| 
  []
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 215--215
-[]\T1/cmss/m/n/10 3.10[]| 
+[]\T1/cmss/m/n/10 4.10[]| 
  []
 
 
@@ -9173,22 +9251,22 @@ Overfull \hbox (11.67816pt too wide) in paragraph at lines 219--219
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 219--219
-[]\T1/cmss/m/n/10 15.12[]| 
+[]\T1/cmss/m/n/10 16.12[]| 
  []
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 221--221
-[]\T1/cmss/m/n/10 12.13[]| 
+[]\T1/cmss/m/n/10 13.13[]| 
  []
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 223--223
-[]\T1/cmss/m/n/10 13.17[]| 
+[]\T1/cmss/m/n/10 14.17[]| 
  []
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 225--225
-[]\T1/cmss/m/n/10 29.1[]| 
+[]\T1/cmss/m/n/10 30.1[]| 
  []
 
 
@@ -9203,7 +9281,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 227--227
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 227--227
-[]\T1/cmss/m/n/10 22.10[]| 
+[]\T1/cmss/m/n/10 23.10[]| 
  []
 
 
@@ -9218,7 +9296,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 229--229
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 229--229
-[]\T1/cmss/m/n/10 24.15[]| 
+[]\T1/cmss/m/n/10 25.15[]| 
  []
 
 
@@ -9227,8 +9305,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 231--231
  []
 
 
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 231--231
+[]\T1/cmss/m/n/10 10.2[]| 
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 233--233
 []\T1/cmss/m/n/10 Difusión de
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 233--233
+[]\T1/cmss/m/n/10 10.3[]| 
  []
 
 
@@ -9243,7 +9331,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 235--235
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 235--235
-[]\T1/cmss/m/n/10 23.2[]| 
+[]\T1/cmss/m/n/10 24.2[]| 
  []
 
 
@@ -9263,7 +9351,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 237--237
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 237--237
-[]\T1/cmss/m/n/10 26.76[]| 
+[]\T1/cmss/m/n/10 27.76[]| 
  []
 
 
@@ -9284,6 +9372,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 239--239
 
 Underfull \hbox (badness 10000) in paragraph at lines 239--239
 []\T1/cmss/m/n/10 Difusión de
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 239--239
+[]\T1/cmss/m/n/10 10.4[]| 
  []
 
 
@@ -9313,10 +9406,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 243--243
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 243--243
-[]\T1/cmss/m/n/10 23.3[]| 
+[]\T1/cmss/m/n/10 24.3[]| 
  []
 
-[117]
+[119]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 244--244
 []\T1/cmss/bx/n/10 Nivel| 
  []
@@ -9363,7 +9456,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 247--247
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 247--247
-[]\T1/cmss/m/n/10 25.18[]| 
+[]\T1/cmss/m/n/10 26.18[]| 
  []
 
 
@@ -9384,6 +9477,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 249--249
 
 Underfull \hbox (badness 10000) in paragraph at lines 249--249
 []\T1/cmss/m/n/10 Difusión de
+ []
+
+
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 249--249
+[]\T1/cmss/m/n/10 10.5[]| 
  []
 
 
@@ -9408,7 +9506,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 251--251
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 251--251
-[]\T1/cmss/m/n/10 32.4[]| 
+[]\T1/cmss/m/n/10 33.4[]| 
  []
 
 
@@ -9438,7 +9536,7 @@ Underfull \hbox (badness 4752) in paragraph at lines 253--253
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 253--253
-[]\T1/cmss/m/n/10 18.43[]| 
+[]\T1/cmss/m/n/10 19.42[]| 
  []
 
 
@@ -9468,7 +9566,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 255--255
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 255--255
-[]\T1/cmss/m/n/10 21.17[]| 
+[]\T1/cmss/m/n/10 22.17[]| 
  []
 
 
@@ -9498,7 +9596,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 257--257
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 257--257
-[]\T1/cmss/m/n/10 25.19[]| 
+[]\T1/cmss/m/n/10 26.19[]| 
  []
 
 
@@ -9522,6 +9620,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 259--259
  []
 
 
+Overfull \hbox (2.77344pt too wide) in paragraph at lines 259--259
+[]\T1/cmss/m/n/10 10.6[]| 
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 261--261
 []\T1/cmss/m/n/10 11:40
  []
@@ -9538,7 +9641,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 261--261
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 261--261
-[]\T1/cmss/m/n/10 34.16[]| 
+[]\T1/cmss/m/n/10 35.16[]| 
  []
 
 
@@ -9553,7 +9656,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 263--263
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 263--263
-[]\T1/cmss/m/n/10 30.14[]| 
+[]\T1/cmss/m/n/10 31.14[]| 
  []
 
 
@@ -9573,7 +9676,7 @@ Overfull \hbox (11.67816pt too wide) in paragraph at lines 265--265
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 265--265
-[]\T1/cmss/m/n/10 15.15[]| 
+[]\T1/cmss/m/n/10 16.15[]| 
  []
 
 
@@ -9588,7 +9691,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 267--267
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 267--267
-[]\T1/cmss/m/n/10 12.17[]| 
+[]\T1/cmss/m/n/10 13.17[]| 
  []
 
 
@@ -9641,7 +9744,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 273--273
 []\T1/cmss/m/n/10 Miscelánea
  []
 
-[118]
+[120]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 274--274
 []\T1/cmss/bx/n/10 Nivel| 
  []
@@ -9658,7 +9761,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 275--275
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 275--275
-[]\T1/cmss/m/n/10 23.5[]| 
+[]\T1/cmss/m/n/10 24.5[]| 
  []
 
 
@@ -9708,17 +9811,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 288--288
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 288--288
-[]\T1/cmss/m/n/10 25.22[]| 
+[]\T1/cmss/m/n/10 26.22[]| 
  []
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 290--290
-[]\T1/cmss/m/n/10 13.23[]| 
+[]\T1/cmss/m/n/10 14.23[]| 
  []
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 292--292
-[]\T1/cmss/m/n/10 12.18[]| 
+[]\T1/cmss/m/n/10 13.18[]| 
  []
 
 
@@ -9728,7 +9831,7 @@ Underfull \hbox (badness 4726) in paragraph at lines 292--292
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 294--294
-[]\T1/cmss/m/n/10 29.7[]| 
+[]\T1/cmss/m/n/10 30.7[]| 
  []
 
 
@@ -9743,12 +9846,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 296--296
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 296--296
-[]\T1/cmss/m/n/10 24.21[]| 
+[]\T1/cmss/m/n/10 25.21[]| 
  []
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 298--298
-[]\T1/cmss/m/n/10 12.34[]| 
+[]\T1/cmss/m/n/10 13.34[]| 
  []
 
 
@@ -9773,7 +9876,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 302--302
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 302--302
-[]\T1/cmss/m/n/10 27.11[]| 
+[]\T1/cmss/m/n/10 28.11[]| 
  []
 
 
@@ -9793,7 +9896,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 304--304
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 304--304
-[]\T1/cmss/m/n/10 26.80[]| 
+[]\T1/cmss/m/n/10 27.80[]| 
  []
 
 
@@ -9823,7 +9926,7 @@ Underfull \hbox (badness 5504) in paragraph at lines 306--306
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 306--306
-[]\T1/cmss/m/n/10 28.20[]| 
+[]\T1/cmss/m/n/10 29.20[]| 
  []
 
 
@@ -9843,7 +9946,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 308--308
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 308--308
-[]\T1/cmss/m/n/10 34.18[]| 
+[]\T1/cmss/m/n/10 35.18[]| 
  []
 
 
@@ -9868,7 +9971,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 310--310
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 310--310
-[]\T1/cmss/m/n/10 24.22[]| 
+[]\T1/cmss/m/n/10 25.22[]| 
  []
 
 
@@ -9888,10 +9991,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 312--312
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 312--312
-[]\T1/cmss/m/n/10 7.10[]| 
+[]\T1/cmss/m/n/10 8.10[]| 
  []
 
-[119]
+[121]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 313--313
 []\T1/cmss/bx/n/10 Nivel| 
  []
@@ -9908,7 +10011,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 314--314
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 314--314
-[]\T1/cmss/m/n/10 19.27[]| 
+[]\T1/cmss/m/n/10 20.27[]| 
  []
 
 
@@ -9933,7 +10036,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 316--316
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 316--316
-[]\T1/cmss/m/n/10 24.23[]| 
+[]\T1/cmss/m/n/10 25.23[]| 
  []
 
 
@@ -9953,7 +10056,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 318--318
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 318--318
-[]\T1/cmss/m/n/10 34.19[]| 
+[]\T1/cmss/m/n/10 35.19[]| 
  []
 
 
@@ -9973,7 +10076,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 320--320
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 320--320
-[]\T1/cmss/m/n/10 23.8[]| 
+[]\T1/cmss/m/n/10 24.8[]| 
  []
 
 
@@ -10008,7 +10111,7 @@ Underfull \hbox (badness 4752) in paragraph at lines 322--322
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 322--322
-[]\T1/cmss/m/n/10 18.29[]| 
+[]\T1/cmss/m/n/10 19.29[]| 
  []
 
 
@@ -10038,7 +10141,7 @@ Underfull \hbox (badness 5504) in paragraph at lines 324--324
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 324--324
-[]\T1/cmss/m/n/10 28.21[]| 
+[]\T1/cmss/m/n/10 29.21[]| 
  []
 
 
@@ -10058,7 +10161,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 326--326
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 326--326
-[]\T1/cmss/m/n/10 26.82[]| 
+[]\T1/cmss/m/n/10 27.82[]| 
  []
 
 
@@ -10078,7 +10181,7 @@ Underfull \hbox (badness 2134) in paragraph at lines 328--328
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 328--328
-[]\T1/cmss/m/n/10 14.27[]| 
+[]\T1/cmss/m/n/10 15.27[]| 
  []
 
 
@@ -10093,7 +10196,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 330--330
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 330--330
-[]\T1/cmss/m/n/10 23.9[]| 
+[]\T1/cmss/m/n/10 24.9[]| 
  []
 
 
@@ -10113,7 +10216,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 332--332
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 332--332
-[]\T1/cmss/m/n/10 27.13[]| 
+[]\T1/cmss/m/n/10 28.13[]| 
  []
 
 
@@ -10133,7 +10236,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 334--334
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 334--334
-[]\T1/cmss/m/n/10 27.14[]| 
+[]\T1/cmss/m/n/10 28.14[]| 
  []
 
 
@@ -10153,7 +10256,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 336--336
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 336--336
-[]\T1/cmss/m/n/10 27.15[]| 
+[]\T1/cmss/m/n/10 28.15[]| 
  []
 
 
@@ -10178,7 +10281,7 @@ Underfull \hbox (badness 2134) in paragraph at lines 338--338
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 338--338
-[]\T1/cmss/m/n/10 14.28[]| 
+[]\T1/cmss/m/n/10 15.28[]| 
  []
 
 
@@ -10198,10 +10301,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 340--340
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 340--340
-[]\T1/cmss/m/n/10 30.18[]| 
+[]\T1/cmss/m/n/10 31.18[]| 
  []
 
-[120]
+[122]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 341--341
 []\T1/cmss/bx/n/10 Nivel| 
  []
@@ -10223,7 +10326,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 342--342
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 342--342
-[]\T1/cmss/m/n/10 34.21[]| 
+[]\T1/cmss/m/n/10 35.20[]| 
  []
 
 
@@ -10253,7 +10356,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 344--344
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 344--344
-[]\T1/cmss/m/n/10 25.28[]| 
+[]\T1/cmss/m/n/10 26.28[]| 
  []
 
 
@@ -10268,7 +10371,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 346--346
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 346--346
-[]\T1/cmss/m/n/10 12.21[]| 
+[]\T1/cmss/m/n/10 13.21[]| 
  []
 
 
@@ -10283,7 +10386,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 348--348
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 348--348
-[]\T1/cmss/m/n/10 23.11[]| 
+[]\T1/cmss/m/n/10 24.11[]| 
  []
 
 
@@ -10303,7 +10406,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 350--350
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 350--350
-[]\T1/cmss/m/n/10 34.22[]| 
+[]\T1/cmss/m/n/10 35.21[]| 
  []
 
 
@@ -10318,7 +10421,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 352--352
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 352--352
-[]\T1/cmss/m/n/10 13.28[]| 
+[]\T1/cmss/m/n/10 14.28[]| 
  []
 
 
@@ -10348,7 +10451,7 @@ Underfull \hbox (badness 5504) in paragraph at lines 354--354
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 354--354
-[]\T1/cmss/m/n/10 28.24[]| 
+[]\T1/cmss/m/n/10 29.24[]| 
  []
 
 
@@ -10388,7 +10491,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 358--358
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 358--358
-[]\T1/cmss/m/n/10 32.11[]| 
+[]\T1/cmss/m/n/10 33.11[]| 
  []
 
 
@@ -10403,7 +10506,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 360--360
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 360--360
-[]\T1/cmss/m/n/10 23.12[]| 
+[]\T1/cmss/m/n/10 24.12[]| 
  []
 
 
@@ -10423,7 +10526,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 362--362
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 362--362
-[]\T1/cmss/m/n/10 26.39[]| 
+[]\T1/cmss/m/n/10 27.39[]| 
  []
 
 
@@ -10443,7 +10546,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 364--364
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 364--364
-[]\T1/cmss/m/n/10 26.87[]| 
+[]\T1/cmss/m/n/10 27.87[]| 
  []
 
 
@@ -10463,7 +10566,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 366--366
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 366--366
-[]\T1/cmss/m/n/10 26.88[]| 
+[]\T1/cmss/m/n/10 27.88[]| 
  []
 
 
@@ -10488,7 +10591,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 377--377
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 377--377
-[]\T1/cmss/m/n/10 26.89[]| 
+[]\T1/cmss/m/n/10 27.89[]| 
  []
 
 
@@ -10503,10 +10606,10 @@ Underfull \hbox (badness 2134) in paragraph at lines 379--379
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 379--379
-[]\T1/cmss/m/n/10 14.33[]| 
+[]\T1/cmss/m/n/10 15.33[]| 
  []
 
-[121]
+[123]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 380--380
 []\T1/cmss/bx/n/10 Nivel| 
  []
@@ -10518,12 +10621,12 @@ Overfull \hbox (11.67816pt too wide) in paragraph at lines 381--381
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 381--381
-[]\T1/cmss/m/n/10 15.20[]| 
+[]\T1/cmss/m/n/10 16.20[]| 
  []
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 383--383
-[]\T1/cmss/m/n/10 29.15[]| 
+[]\T1/cmss/m/n/10 30.15[]| 
  []
 
 
@@ -10533,12 +10636,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 385--385
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 387--387
-[]\T1/cmss/m/n/10 23.13[]| 
+[]\T1/cmss/m/n/10 24.13[]| 
  []
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 389--389
-[]\T1/cmss/m/n/10 13.32[]| 
+[]\T1/cmss/m/n/10 14.32[]| 
  []
 
 
@@ -10548,7 +10651,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 391--391
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 391--391
-[]\T1/cmss/m/n/10 26.90[]| 
+[]\T1/cmss/m/n/10 27.90[]| 
  []
 
 
@@ -10573,7 +10676,7 @@ Underfull \hbox (badness 4752) in paragraph at lines 393--393
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 393--393
-[]\T1/cmss/m/n/10 18.34[]| 
+[]\T1/cmss/m/n/10 19.33[]| 
  []
 
 
@@ -10588,7 +10691,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 395--395
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 395--395
-[]\T1/cmss/m/n/10 16.8[]| 
+[]\T1/cmss/m/n/10 17.8[]| 
  []
 
 
@@ -10603,7 +10706,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 397--397
 
 
 Overfull \hbox (2.77344pt too wide) in paragraph at lines 397--397
-[]\T1/cmss/m/n/10 16.9[]| 
+[]\T1/cmss/m/n/10 17.9[]| 
  []
 
 
@@ -10638,7 +10741,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 399--399
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 399--399
-[]\T1/cmss/m/n/10 16.10[]| 
+[]\T1/cmss/m/n/10 17.10[]| 
  []
 
 
@@ -10668,7 +10771,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 401--401
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 401--401
-[]\T1/cmss/m/n/10 34.23[]| 
+[]\T1/cmss/m/n/10 35.22[]| 
  []
 
 
@@ -10688,7 +10791,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 403--403
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 403--403
-[]\T1/cmss/m/n/10 26.44[]| 
+[]\T1/cmss/m/n/10 27.44[]| 
  []
 
 
@@ -10728,7 +10831,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 407--407
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 407--407
-[]\T1/cmss/m/n/10 34.24[]| 
+[]\T1/cmss/m/n/10 35.23[]| 
  []
 
 
@@ -10743,7 +10846,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 409--409
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 409--409
-[]\T1/cmss/m/n/10 23.15[]| 
+[]\T1/cmss/m/n/10 24.15[]| 
  []
 
 
@@ -10768,7 +10871,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 411--411
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 411--411
-[]\T1/cmss/m/n/10 26.45[]| 
+[]\T1/cmss/m/n/10 27.45[]| 
  []
 
 
@@ -10776,7 +10879,7 @@ Underfull \hbox (badness 1742) in paragraph at lines 411--411
 []\T1/cmss/m/n/10 Gloria Cons-tan-za Hol-guín
  []
 
-[122]
+[124]
 Overfull \hbox (3.16101pt too wide) in paragraph at lines 412--412
 []\T1/cmss/bx/n/10 Nivel| 
  []
@@ -10808,7 +10911,7 @@ Underfull \hbox (badness 4752) in paragraph at lines 413--413
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 413--413
-[]\T1/cmss/m/n/10 18.37[]| 
+[]\T1/cmss/m/n/10 19.36[]| 
  []
 
 
@@ -10838,7 +10941,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 415--415
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 415--415
-[]\T1/cmss/m/n/10 25.36[]| 
+[]\T1/cmss/m/n/10 26.36[]| 
  []
 
 
@@ -10863,7 +10966,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 417--417
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 417--417
-[]\T1/cmss/m/n/10 16.13[]| 
+[]\T1/cmss/m/n/10 17.13[]| 
  []
 
 
@@ -10878,7 +10981,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 419--419
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 419--419
-[]\T1/cmss/m/n/10 23.17[]| 
+[]\T1/cmss/m/n/10 24.17[]| 
  []
 
 
@@ -10918,7 +11021,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 423--423
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 423--423
-[]\T1/cmss/m/n/10 34.27[]| 
+[]\T1/cmss/m/n/10 35.26[]| 
  []
 
 
@@ -10938,7 +11041,7 @@ Underfull \hbox (badness 2134) in paragraph at lines 425--425
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 425--425
-[]\T1/cmss/m/n/10 14.38[]| 
+[]\T1/cmss/m/n/10 15.38[]| 
  []
 
 
@@ -10958,7 +11061,7 @@ Overfull \hbox (11.67816pt too wide) in paragraph at lines 427--427
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 427--427
-[]\T1/cmss/m/n/10 15.25[]| 
+[]\T1/cmss/m/n/10 16.25[]| 
  []
 
 
@@ -10993,7 +11096,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 429--429
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 429--429
-[]\T1/cmss/m/n/10 25.39[]| 
+[]\T1/cmss/m/n/10 26.39[]| 
  []
 
 
@@ -11018,24 +11121,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 431--431
 
 
 Overfull \hbox (7.77222pt too wide) in paragraph at lines 431--431
-[]\T1/cmss/m/n/10 32.18[]| 
+[]\T1/cmss/m/n/10 33.18[]| 
  []
 
-) (./otros/anuncios.tex [123]
-File: otros/anuncio_UAEH.eps Graphic file (type eps)
- <otros/anuncio_UAEH.eps>
+) (./otros/anuncios.tex [125]
+File: anuncios/anuncio_UAEH.eps Graphic file (type eps)
+ <anuncios/anuncio_UAEH.eps>
 File: otros/POSTER-UANL.eps Graphic file (type eps)
- <otros/POSTER-UANL.eps>
-File: otros/uv.eps Graphic file (type eps)
 
-<otros/uv.eps>) [124]
+<otros/POSTER-UANL.eps>
+File: anuncios/anuncio_uv.eps Graphic file (type eps)
+ <anuncios/anuncio_uv.eps>
+File: anuncios/anuncio_memorias.eps Graphic file (type eps)
+
+<anuncios/anuncio_memorias.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [126])
+[127]
 Cap\'{\i }tulo 5.
 (./areas/resumenes/Plenarios.tex
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 5.
 
 (/usr/local/share/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-) [125
+) [128
 
 ]
 
@@ -11043,24 +11153,27 @@ Package amsmath Warning: Foreign command \over;
 (amsmath)                \frac or \genfrac should be used instead
 (amsmath)                 on input line 20.
 
-[126]) [127] (./sesiones/resumenes/DinHam.tex [128
+[129]) [130] (./sesiones/resumenes/DinHam.tex [131
 
 ])
-(./sesiones/resumenes/InnMat.tex [129] [130]) (./sesiones/resumenes/SMMBach.tex
+(./sesiones/resumenes/EncEsc.tex) (./sesiones/resumenes/InnMat.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [132]
+[133] [134]) (./sesiones/resumenes/SMMBach.tex
 Overfull \hbox (3.93494pt too wide) in paragraph at lines 7--14
 \T1/cmss/bx/n/10 Ricardo Gó-mez\T1/cmss/m/n/10 , \T1/cmtt/m/n/10 rgomez@matem.u
 nam.com \T1/cmss/m/sl/10 (Ins-ti-tu-to de Ma-te-má-ti-cas, Uni-ver-si-dad Na-ci
 o-nal Au-tó-no-ma de Mé-xi-co (UNAM)) 
  []
 
-[131] [132]) (./sesiones/resumenes/MatLic.tex [133] [134] [135] [136])
+[135] [136]) (./sesiones/resumenes/MatLic.tex [137] [138] [139])
 (./sesiones/resumenes/MatInd.tex
 Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
-
+[140]
 Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
  []
@@ -11070,7 +11183,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
  []
 
-[137]
+
 Underfull \hbox (badness 10000) in paragraph at lines 72--73
 
  []
@@ -11080,12 +11193,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 78--1
 
  []
 
-[138]
+[141]
 Underfull \hbox (badness 10000) in paragraph at lines 75--81
 
  []
 
-
+[142]
 Underfull \hbox (badness 10000) in paragraph at lines 91--100
 
  []
@@ -11095,25 +11208,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 101--108
 
  []
 
-[139]) (./sesiones/resumenes/ProInv.tex [140] [141])
-(./sesiones/resumenes/SoftLib.tex [142]) (./sesiones/resumenes/DifPos.tex
+) (./sesiones/resumenes/ProInv.tex
+Underfull \vbox (badness 2689) has occurred while \output is active []
+
+ [143]
+[144] [145]) (./sesiones/resumenes/SoftLib.tex [146])
+(./sesiones/resumenes/DifPos.tex
 Overfull \hbox (4.91414pt too wide) in paragraph at lines 58--1
 \T1/cmss/bx/n/10 Felipe Hum-ber-to Con-tre-ras Al-ca-lá\T1/cmss/m/n/10 , \T1/cm
 tt/m/n/10 hobber.mallow@gmail.com \T1/cmss/m/sl/10 (Uni-ver-si-dad Au-tó-no-ma 
 de la Ciu-dad de Mé-xi-co (UACM)) 
  []
 
-[143]) (./sesiones/resumenes/PreLib.tex [144] [145] [146] [147] [148]
+[147]) (./sesiones/resumenes/PreLib.tex [148] [149] [150] [151] [152]
 Underfull \hbox (badness 10000) in paragraph at lines 403--404
 
  []
 
-) (./sesiones/resumenes/JovenAJoven.tex [149] [150] [151]
+) (./sesiones/resumenes/JovenAJoven.tex [153] [154] [155]
 Underfull \hbox (badness 10000) in paragraph at lines 283--288
 
  []
 
-[152]
+[156]
 Underfull \hbox (badness 10000) in paragraph at lines 350--357
 
  []
@@ -11123,7 +11240,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 386--390
 
  []
 
-[153]
+[157]
 Underfull \hbox (badness 10000) in paragraph at lines 451--454
 
  []
@@ -11143,21 +11260,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 487--498
 
  []
 
-[154]
+
 Underfull \hbox (badness 10000) in paragraph at lines 509--511
 
  []
 
-) [155] (./areas/resumenes/Alge.tex [156
+[158]) [159] (./areas/resumenes/Alge.tex [160
 
-] [157] [158] [159] [160]
+] [161] [162] [163] [164]
 Overfull \hbox (8.46883pt too wide) in paragraph at lines 130--133
 \T1/cmss/bx/n/10 Mauricio Ga-briel Me-di-na Bár-ce-nas\T1/cmss/m/n/10 , \T1/cmt
 t/m/n/10 mauricio_g_mb@yahoo.com.mx \T1/cmss/m/it/10 (Uni-ver-si-dad Na-cio-nal
  Au-tó-no-ma de Mé-xi-co (UNAM)) 
  []
 
-[161]
+[165]
 
 Package amsfonts Warning: Obsolete command \frak; \mathfrak should be used inst
 ead on input line 135.
@@ -11169,35 +11286,35 @@ n/10 rlopez@correo.azc.uam.mx \T1/cmss/m/it/10 (Uni-ver-si-dad Au-tó-no-ma Metr
 opolitana-Azcapotzalco (UAM)
  []
 
-[162]) (./areas/resumenes/Ana.tex [163] [164] [165] [166]
+[166]) (./areas/resumenes/Ana.tex [167] [168] [169] [170]
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 80.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 80.
- [167]
+ [171]
 LaTeX Font Info:    Try loading font information for U+dsrom on input line 96.
 
 (/usr/local/share/texmf-dist/tex/latex/doublestroke/Udsrom.fd
 File: Udsrom.fd 1995/08/01 v0.1 Double stroke roman font definitions
-) [168] [169])
-(./areas/resumenes/AnaNum.tex [170] [171] [172] [173] [174] [175] [176]
-[177] [178] [179] [180]
+) [172] [173])
+(./areas/resumenes/AnaNum.tex [174] [175] [176] [177] [178] [179] [180]
+[181] [182] [183] [184]
 Underfull \vbox (badness 1946) has occurred while \output is active []
 
- [181])
-(./areas/resumenes/Bio.tex [182] [183] [184] [185] [186] [187] [188])
-(./areas/resumenes/CieComp.tex [189] [190] [191]) (./areas/resumenes/Curs.tex
-[192] [193] [194] [195]) (./areas/resumenes/EcDifAp.tex [196]
+ [185])
+(./areas/resumenes/Bio.tex [186] [187] [188] [189] [190] [191] [192])
+(./areas/resumenes/CieComp.tex [193] [194] [195]) (./areas/resumenes/Curs.tex
+[196] [197] [198] [199]) (./areas/resumenes/EcDifAp.tex [200]
 Overfull \hbox (2.35521pt too wide) in paragraph at lines 11--12
 \T1/cmss/m/n/10 Referencias: [1] H. Cam-pos, V. V. Krav-chen-ko and S. Tor-ba, 
 J. Math. Anal. Appl. \T1/cmss/bx/n/10 389 \T1/cmss/m/n/10 (2012), 1222-1238. [2
 ] V. V.Kravchenko
  []
 
-[197] [198] [199] [200]
+[201] [202] [203] [204]
 Missing character: There is no ' in font rsfs10!
 Missing character: There is no 1 in font rsfs7!
- [201] [202] [203] [204] [205] [206] [207]
+ [205] [206] [207] [208] [209] [210] [211]
 Underfull \hbox (badness 10000) in paragraph at lines 237--239
 
  []
@@ -11212,42 +11329,43 @@ Underfull \hbox (badness 10000) in paragraph at lines 240--240
 
  []
 
-[208] [209]
+[212] [213]
 Overfull \hbox (5.65562pt too wide) in paragraph at lines 273--276
 \T1/cmss/bx/n/10 Cutberto Ro-me-ro Me-lén-dez\T1/cmss/m/n/10 , \T1/cmtt/m/n/10 
 cutberto@correo.azc.uam.mx \T1/cmss/m/it/10 (Uni-ver-si-dad Au-tó-no-ma Metropo
 litana-Azcapotzalco (UAM-
  []
 
-[210]) (./areas/resumenes/Estad.tex [211] [212] [213] [214] [215]
-Underfull \vbox (badness 1062) has occurred while \output is active []
+) (./areas/resumenes/Estad.tex [214] [215] [216] [217] [218] [219] [220]
+Underfull \vbox (badness 2310) has occurred while \output is active []
 
- [216]
-Underfull \vbox (badness 5954) has occurred while \output is active []
+ [221])
+(./areas/resumenes/Expe.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [217]
-[218]) (./areas/resumenes/Expe.tex [219] [220]
+ [222]
+[223] [224]
 Overfull \hbox (9.23808pt too wide) in paragraph at lines 42--46
 \T1/cmss/bx/n/10 Jonathan En-ri-que Mar-tí-nez Me-di-na\T1/cmss/m/n/10 , \T1/cm
 tt/m/n/10 jona_martinez7@hotmail.com \T1/cmss/m/it/10 (Uni-ver-si-dad Au-tó-no-
 ma de San Luis Po-to-sí (UASLP)) 
  []
 
-[221] [222] [223] [224]) (./areas/resumenes/FMat.tex [225]
+[225] [226] [227] [228]) (./areas/resumenes/FMat.tex [229]
 Overfull \hbox (1.64272pt too wide) in paragraph at lines 21--24
 \T1/cmss/bx/n/10 Jaime Cruz Sam-pe-dro\T1/cmss/m/n/10 , \T1/cmtt/m/n/10 cruzsam
 pedro@gmail.com \T1/cmss/m/it/10 (Área de Aná-li-sis Ma-te-má-ti-co de la Uni-v
 er-si-dad Au-tó-no-ma Metropolita-
  []
 
-[226] [227] [228]) (./areas/resumenes/GeoAlg.tex [229] [230]
+[230] [231] [232]) (./areas/resumenes/GeoAlg.tex [233] [234]
 
 LaTeX Font Warning: Font shape `T1/cmss/m/sc' in size <10> not available
 (Font)              Font shape `T1/cmr/m/sc' tried instead on input line 22.
 
-[231] [232]) (./areas/resumenes/HistFil.tex [233] [234] [235] [236] [237])
-(./areas/resumenes/LogFun.tex [238] [239] [240] [241] [242])
-(./areas/resumenes/MatDisc.tex [243] [244] [245] [246]
+[235] [236]) (./areas/resumenes/HistFil.tex [237] [238] [239] [240] [241])
+(./areas/resumenes/LogFun.tex [242] [243] [244] [245] [246])
+(./areas/resumenes/MatDisc.tex [247] [248] [249] [250]
 Overfull \hbox (4.31706pt too wide) in paragraph at lines 82--86
 \T1/cmss/bx/n/10 Pedro Ri-car-do Ló-pez Bau-tis-ta\T1/cmss/m/n/10 , \T1/cmtt/m/
 n/10 rlopez@correo.azc.uam.mx \T1/cmss/m/it/10 (Uni-ver-si-dad Au-tó-no-ma Metr
@@ -11257,91 +11375,91 @@ opolitana-Azcapotzalco (UAM)
 
 Underfull \vbox (badness 1152) has occurred while \output is active []
 
- [247]
+ [251]
 Overfull \hbox (0.13864pt too wide) in paragraph at lines 96--99
 \T1/cmss/bx/n/10 Ricardo Strausz\T1/cmss/m/n/10 , \T1/cmtt/m/n/10 dino@math.una
 m.mx \T1/cmss/m/it/10 (Ins-ti-tu-to de Ma-te-má-ti-cas, Uni-ver-si-dad Na-cio-n
 al Au-tó-no-ma de Mé-xi-co (IM-UNAM)) 
  []
 
-[248]
+[252]
 Underfull \vbox (badness 1655) has occurred while \output is active []
 
- [249]
-[250] [251]) (./areas/resumenes/MatEdu.tex [252] [253] [254]
+ [253]
+[254] [255]) (./areas/resumenes/MatEdu.tex [256] [257] [258]
 Overfull \hbox (3.09404pt too wide) in paragraph at lines 47--51
 \T1/cmss/bx/n/10 María Vic-to-ria Ra-mos Abun-dio\T1/cmss/m/n/10 , \T1/cmtt/m/n
 /10 vicky_vero17@hotmail.com \T1/cmss/m/it/10 (Uni-dad Aca-dé-mi-ca de Ma-te-má
 -ti-cas (UAM) Ext.-Acapulco) 
  []
 
-[255]
+[259]
 Underfull \vbox (badness 3690) has occurred while \output is active []
 
- [256]
-[257] [258]
+ [260]
+[261] [262]
 Underfull \vbox (badness 3690) has occurred while \output is active []
 
- [259]
-[260] [261] [262] [263] [264] [265] [266] [267] [268] [269] [270] [271]
-[272]
+ [263]
+[264] [265] [266] [267] [268] [269] [270] [271] [272] [273] [274] [275]
+[276]
 Underfull \vbox (badness 1052) has occurred while \output is active []
 
- [273]
-[274] [275]
+ [277]
+[278] [279]
 Overfull \hbox (8.41884pt too wide) in paragraph at lines 429--432
 \T1/cmss/bx/n/10 Claudia Mar-ga-ri-ta Acu-ña So-to\T1/cmss/m/n/10 , \T1/cmtt/m/
 n/10 claudiamargarita_as@hotmail.com \T1/cmss/m/it/10 (De-par-ta-men-to de Ma-t
 e-má-ti-ca Edu-ca-ti-va Cinvestav-
  []
 
-[276] [277]
+[280] [281]
 Overfull \hbox (3.36452pt too wide) in paragraph at lines 467--471
 \T1/cmss/bx/n/10 Lizzeth Tru-ji-llo San-ta-ma-ría\T1/cmss/m/n/10 , \T1/cmtt/m/n
 /10 200828931@alumnos.fcfm.buap.mx \T1/cmss/m/it/10 (Be-ne-mé-ri-ta Uni-ver-si-
 dad Au-tó-no-ma de Pue-bla (BUAP)) 
  []
 
-[278] [279] [280] [281] [282] [283] [284] [285]) (./areas/resumenes/MatIng.tex
-[286]
+[282] [283] [284] [285] [286] [287] [288] [289]) (./areas/resumenes/MatIng.tex
+[290]
 Overfull \hbox (3.09404pt too wide) in paragraph at lines 23--27
 \T1/cmss/bx/n/10 María Vic-to-ria Ra-mos Abun-dio\T1/cmss/m/n/10 , \T1/cmtt/m/n
 /10 vicky_vero17@hotmail.com \T1/cmss/m/it/10 (Uni-dad Aca-dé-mi-ca de Ma-te-má
 -ti-cas (UAM) Ext.-Acapulco) 
  []
 
-[287]
+[291]
 Overfull \hbox (0.6885pt too wide) in paragraph at lines 36--40
 \T1/cmss/bx/n/10 J. Juan Ro-sa-les Gar-cía\T1/cmss/m/n/10 , \T1/cmtt/m/n/10 ros
 ales@ugto.mx \T1/cmss/m/it/10 (De-par-ta-men-to de In-ge-nie-ría Eléc-tri-ca, D
 i-vi-sión de In-ge-nie-rías Cam-pus Irapuato-
  []
 
-[288] [289] [290] [291] [292]
+[292] [293] [294] [295] [296]
 Underfull \vbox (badness 7238) has occurred while \output is active []
 
- [293])
+ [297])
 (./areas/resumenes/MatFin.tex
 Underfull \vbox (badness 2334) has occurred while \output is active []
 
- [294]
-[295] [296] [297] [298] [299] [300]
-Underfull \vbox (badness 2310) has occurred while \output is active []
+ [298]
+[299] [300] [301] [302] [303] [304]
+Underfull \vbox (badness 1205) has occurred while \output is active []
 
- [301])
-(./areas/resumenes/Prob.tex [302] [303]
+ [305])
+(./areas/resumenes/Prob.tex [306] [307]
 Overfull \hbox (6.08607pt too wide) in paragraph at lines 31--34
 \T1/cmss/bx/n/10 Juan Ruíz de Chá-vez So-mo-za\T1/cmss/m/n/10 , \T1/cmtt/m/n/10
  jrch@xanum.uam.mx \T1/cmss/m/it/10 (De-par-ta-men-to de Ma-te-má-ti-cas Uni-ve
 r-si-dad Au-tó-no-ma Metropolitana-
  []
 
-[304] [305] [306] [307]) (./areas/resumenes/SisDin.tex [308] [309]
+[308] [309] [310] [311]) (./areas/resumenes/SisDin.tex [312] [313]
 
 Package amsfonts Warning: Obsolete command \Bbb; \mathbb should be used instead
  on input line 44.
 
-[310] [311] [312]) (./areas/resumenes/Talle.tex [313] [314] [315])
+[314] [315] [316]) (./areas/resumenes/Talle.tex [317] [318] [319])
 (./areas/resumenes/TeoNum.tex
 Overfull \hbox (4.31706pt too wide) in paragraph at lines 5--9
 \T1/cmss/bx/n/10 Pedro Ri-car-do Ló-pez Bau-tis-ta\T1/cmss/m/n/10 , \T1/cmtt/m/
@@ -11349,25 +11467,20 @@ n/10 rlopez@correo.azc.uam.mx \T1/cmss/m/it/10 (Uni-ver-si-dad Au-tó-no-ma Metr
 opolitana-Azcapotzalco (UAM)
  []
 
-[316] [317] [318] [319]
+[320] [321] [322] [323]
 
 LaTeX Font Warning: Command \normalsize invalid in math mode on input line 73.
 
-[320]) (./areas/resumenes/TopAlg.tex [321] [322] [323] [324])
-(./areas/resumenes/TopGen.tex [325] [326] [327] [328]
-Underfull \hbox (badness 10000) in paragraph at lines 86--89
-
- []
-
-[329] [330]
+[324]) (./areas/resumenes/TopAlg.tex [325] [326] [327] [328])
+(./areas/resumenes/TopGen.tex [329] [330] [331] [332] [333] [334]
 Overfull \hbox (1.30391pt too wide) in paragraph at lines 129--133
 \T1/cmss/bx/n/10 Luis Al-ber-to Gue-rre-ro Mén-dez\T1/cmss/m/n/10 , \T1/cmtt/m/
 n/10 luisalberto_gm4@hotmail.com \T1/cmss/m/it/10 (Be-ne-mé-ri-ta Uni-ver-si-da
 d Au-tó-no-ma de Pue-bla (BUAP),
  []
 
-[331] [332]) (./areas/resumenes/Carteles.tex [333] [334] [335] [336] [337]
-[338] [339] [340] [341] [342]
+[335] [336]) (./areas/resumenes/Carteles.tex [337] [338] [339] [340] [341]
+[342] [343] [344] [345] [346]
 LaTeX Font Info:    Try loading font information for OMS+cmss on input line 159
 .
 LaTeX Font Info:    No file OMScmss.fd. on input line 159.
@@ -11377,83 +11490,84 @@ LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
 (Font)              for symbol `textbullet' on input line 159.
 
-[343] [344]
+[347] [348]
 Overfull \hbox (1.85933pt too wide) in paragraph at lines 194--198
 \T1/cmss/bx/n/10 María Ele-na Var-gas Mar-tí-nez\T1/cmss/m/n/10 , \T1/cmtt/m/n/
 10 m.elena_vargas.m@hotmail.com \T1/cmss/m/it/10 (Be-ne-mé-ri-ta Uni-ver-si-dad
  Au-tó-no-ma de Pue-bla (BUAP)) 
  []
 
-[345] [346] [347] [348]
+[349] [350]
+Underfull \vbox (badness 2042) has occurred while \output is active []
+
+ [351]
 Underfull \hbox (badness 10000) in paragraph at lines 276--277
 
  []
 
-
+[352]
 Underfull \hbox (badness 10000) in paragraph at lines 277--277
 
  []
 
-[349] [350] [351]
+[353] [354] [355]
 Overfull \hbox (5.65562pt too wide) in paragraph at lines 351--354
 \T1/cmss/bx/n/10 Cutberto Ro-me-ro Me-lén-dez\T1/cmss/m/n/10 , \T1/cmtt/m/n/10 
 cutberto@correo.azc.uam.mx \T1/cmss/m/it/10 (Uni-ver-si-dad Au-tó-no-ma Metropo
 litana-Azcapotzalco (UAM-
  []
 
-
-Underfull \vbox (badness 1292) has occurred while \output is active []
-
- [352]
-[353]
+[356] [357]
 Overfull \hbox (7.41908pt too wide) in paragraph at lines 378--381
 \T1/cmss/bx/n/10 Aurelia Gon-zá-lez Mi-guel\T1/cmss/m/n/10 , \T1/cmtt/m/n/10 au
 reliagonzalezmiguel@hotmail.com \T1/cmss/m/it/10 (Be-ne-mé-ri-ta Uni-ver-si-dad
  Au-tó-no-ma de Pue-bla (BUAP)) 
  []
 
-[354] [355]
+[358] [359]
 Overfull \hbox (8.19112pt too wide) in paragraph at lines 431--435
 \T1/cmss/bx/n/10 Lucero Gua-da-lu-pe Con-tre-ras Her-nán-dez\T1/cmss/m/n/10 , \
 T1/cmtt/m/n/10 lucero1602@gmail.com \T1/cmss/m/it/10 (Be-ne-mé-ri-ta Uni-ver-si
 -dad Au-tó-no-ma de Pue-bla (BUAP).
  []
 
-[356]) (./programaSMM2012.ind [357] [358
+[360]) (./programaSMM2012.ind [361] [362
 
-] [359] [360] [361] [362] [363]
-[364] [365] [366] [367] [368] [369] [370] [371] [372] [373] [374])
+] [363] [364] [365] [366] [367]
+[368] [369] [370] [371] [372] [373] [374] [375] [376] [377] [378] [379
+
+])
 Cap\'{\i }tulo 6.
 File: otros/LogoCasio.eps Graphic file (type eps)
-<otros/LogoCasio.eps> [375
+<otros/LogoCasio.eps> [380
 
 
 ]
 File: otros/LogoCasio.eps Graphic file (type eps)
- <otros/LogoCasio.eps> [376]
+ <otros/LogoCasio.eps> [381]
 File: otros/LogoCasio.eps Graphic file (type eps)
  <otros/LogoCasio.eps>
-[377]
+[382]
 File: otros/LogoCasio.eps Graphic file (type eps)
- <otros/LogoCasio.eps> [378]
+ <otros/LogoCasio.eps> [383]
 File: otros/LogoCasio.eps Graphic file (type eps)
- <otros/LogoCasio.eps> [379]
+ <otros/LogoCasio.eps> [384] [385
+
+]
 File: smm_relleno_claro.eps Graphic file (type eps)
 
-<smm_relleno_claro.eps> [380
-
-] (./programaSMM2012.aux)
+<smm_relleno_claro.eps> [386] (./programaSMM2012.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 5636 strings out of 493634
- 69630 string characters out of 3146334
- 172350 words of memory out of 3000000
- 8507 multiletter control sequences out of 15000+200000
+ 5661 strings out of 493634
+ 70030 string characters out of 3146334
+ 172532 words of memory out of 3000000
+ 8522 multiletter control sequences out of 15000+200000
  62122 words of font info for 144 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 36i,15n,43p,10357b,2444s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,15n,43p,10357b,2514s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on programaSMM2012.dvi (386 pages, 2616288 bytes).
+Output written on programaSMM2012.dvi (392 pages, 2642676 bytes).
